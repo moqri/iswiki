@@ -1,0 +1,865 @@
+AF
+Vance, Anthony; Lowry, Paul Benjamin; Eggett, Denis
+Willison, Robert; Warkentin, Merrill
+Venkatesh, Viswanath; Brown, Susan A.; Bala, Hillol
+Adomavicius, Gediminas; Curley, Shawn P.; Gupta, Alok; Sanyal, Pallab
+Tan, Chee-Wee; Benbasat, Izak; Cenfetelli, Ronald T.
+Liu, De; Li, Xun; Santhanam, Radhika
+Chen, Rui; Sharman, Raj; Rao, H. Raghav; Upadhyaya, Shambhu J.
+Wang, Eric T. G.; Tai, Jeffrey C. F.; Grover, Varun
+Su, Ning
+Barrett, Michael; Heracleous, Loizos; Walsham, Geoff
+Polites, Greta L.; Karahanna, Elena
+Zhang, Ping
+Hong, Weiyin; Thong, James Y. L.
+Wang, Yinglei; Meister, Darren B.; Gray, Peter H.
+Han, Kunsoo; Mithas, Sunil
+Hildebrand, Christian; Haeubl, Gerald; Herrmann, Andreas; Landwehr, Jan R.
+Wu, Lynn
+Miller, Amalia R.; Tucker, Catherine
+Zeng, Xiaohua; Wei, Liyuan
+Goh, Khim-Yong; Heng, Cheng-Suang; Lin, Zhijie
+Rishika, Rishika; Kumar, Ashish; Janakiraman, Ramkumar; Bezawada, Ram
+Fang, Xiao; Hu, Paul Jen-Hwa; Li, Zhepeng (Lionel); Tsai, Weiyu
+Luo, Xueming; Zhang, Jie; Duan, Wenjing
+Dou, Yifan; Niculescu, Marius F.; Wu, D. J.
+Claussen, Jorg; Kretschmer, Tobias; Mayrhofer, Philip
+Magni, Masimo; Angst, Corey M.; Agarwal, Ritu
+Garfield, Monica J.; Denis, Alan R.
+Arazy, Ofer; Gellatly, Ian R.
+Hui, Kai-Lung; Hui, Wendy; Yue, Wei T.
+Chen, Yan; Ramamurthy, K. (Ram); Wen, Kuang-Wei
+Zhao, Xia; Xue, Ling
+Yang, Yinping; Singhal, Sharad; Xu, Yunjie (Calvin)
+Ke, Weiling; Tan, Chuan-Ho; Sia, Choon-Ling; Wei, Kwok-Kee
+Deng, Xuefei (Nancy); Chi, Lei
+Kim, Gimun; Shin, Bongsik; Kwon, Ohbyung
+Compeau, Deborah; Marcolin, Barbara; Kelley, Helen; Higgins, Chris
+Lim, Eric T. K.; Tan, Chee-Wee; Cyr, Dianne; Pan, Shan L.; Xiao, Bo
+Venkatesh, Viswanath; Bala, Hillol
+Li, Xinxin; Chen, Yuxin
+Ferratt, Thomas W.; Prasad, Jayesh; Enns, Harvey G.
+Sun, Yongqiang; Fang, Yulin; Lim, Kai H.; Straub, Detmar
+Langer, Nishtha; Forman, Chris; Kekre, Sunder; Sun, Baohong
+Kim, Hee-Woong; Chan, Hock Chuan; Kankanhalli, Atreyi
+Liu, Ben Q.; Goodhue, Dale L.
+Ketter, Wolfgang; Collins, John; Gini, Maria; Gupta, Alok; Schrater, Paul
+Xu, Lizhen; Chen, Jianqing; Whinston, Andrew
+Kraemer, Jan; Wiewiorra, Lukas
+Niculescu, Marius F.; Shin, Hyoduk; Whang, Seungjin
+Xu, Heng; Teo, Hock-Hai; Tan, Bernard C. Y.; Agarwal, Ritu
+Pang, Min-Seok; Etzion, Hila
+Goes, Paulo B.; Karuga, Gilbert G.; Tripathi, Arvind K.
+Chang, Young Bong; Gurbaxani, Vijay
+Hsieh, J. J. Po-An; Rai, Arun; Petter, Stacie; Zhang, Ting
+Carlo, Jessica Luo; Lyytinen, Kalle; Boland, Richard J., Jr.
+Gupta, Alok; Zhdanov, Dmitry
+Luo, Jifeng; Ba, Sulin; Zhang, Han
+Kohli, Rajiv; Devaraj, Sarv; Ow, Terence T.
+Chen, Hsinchun; Chiang, Roger H. L.; Storey, Veda C.
+Chau, Michael; Xu, Jennifer
+Park, Sung-Hyuk; Huh, Soon-Young; Oh, Wonseok; Han, Sang Pil
+Lau, Raymond Y. K.; Liao, Stephen S. Y.; Wong, K. F.; Chiu, Dickson K. W.
+Hu, Daning; Zhao, J. Leon; Hua, Zhimin; Wong, Michael C. S.
+Abbasi, Ahmed; Albrecht, Conan; Vance, Anthony; Hansen, James
+Sahoo, Nachiketa; Singh, Param Vir; Mukhopadhyay, Tridas
+Zhang, Xiaoquan (Michael); Wang, Chong (Alex)
+Tang, Qian; Gu, Bin; Whinston, Andrew B.
+Dey, Debabrata; Lahiri, Atanu; Zhang, Guoying
+Mantena, Ravi; Saha, Rajib L.
+Chen, Li; Marsden, James R.; Zhang, Zhongju
+Fang, Xiao; Hu, Paul Jen-Hwa; Chau, Michael; Hu, Han-fen; Yang, Zhuo; Sheng, Olivia R. Liu
+Rai, Arun; Keil, Mark; Hornyak, Rob; Wuellenweber, Kim
+Angst, Corey M.; Devaraj, Sarv; D'Arcy, John
+Baird, Aaron; Furukawa, Michael F.; Raghu, T. S.
+Wang, Nianxin; Liang, Huigang; Zhong, Weijun; Xue, Yajiong; Xiao, Jinghua
+Tambe, Prasanna; Hitt, Lorin M.
+Mani, Deepa; Barua, Anitesh; Whinston, Andrew B.
+Jiang, Zhengrui; Sarkar, Sumit; Jacob, Varghese S.
+Sasidharan, Sharath; Santhanam, Radhika; Brass, Daniel J.; Sambamurthy, Vallabh
+Wattal, Sunil; Telang, Rahul; Mukhopadhyay, Tridas; Boatwright, Peter
+Zheng, Zhiqiang (Eric); Fader, Peter; Padmanabhan, Balaji
+Kumar, Anuj; Telang, Rahul
+Mishra, Abhay Nath; Anderson, Catherine; Angst, Corey M.; Agarwal, Ritu
+Yang, Lili; Su, Guofeng; Yuan, Hongyong
+Subramanyam, Ramanath; Ramasubbu, Narayan; Krishnan, M. S.
+Asdemir, Kursad; Kumar, Nanda; Jacob, Varghese S.
+Guo, Zhiling; Koehler, Gary J.; Whinston, Andrew B.
+Aral, Sinan; Brynjolfsson, Erik; Van Alstyne, Marshall
+Chang, Young Bong; Gurbaxani, Vijay
+Kim, Youngsoo; Krishnan, Ramayya; Argote, Linda
+Liu, Dengpan; Kumar, Subodha; Mookerjee, Vijay S.
+Hsu, Carol; Lee, Jae-Nam; Straub, Detmar W.
+Gefen, David; Pavlou, Paul A.
+Johar, Monica; Kumar, Nanda; Mookeijee, Vijay
+Aggarwal, Rohit; Gopal, Ram; Gupta, Alok; Singh, Harpreet
+Butler, Brian S.; Wang, Xiaoqing
+Yang, Sung-Byung; Lim, Jee-Hae; Oh, Wonseok; Animesh, Artimesh; Pinsonneault, Alain
+Feng, Juan; Xie, Jinhong
+Yao, Yuliang; Zhu, Kevin Xiaoguo
+Dewan, Sanjeev; Ramaprasad, Jui
+Caliendo, Marco; Clement, Michel; Papies, Dominik; Scheel-Kopeinig, Sabine
+Dimoka, Angelika; Banker, Rajiv D.; Benbasat, Izak; Davis, Fred D.; Dennis, Alan R.; Gefen, David; Gupta, Alok; Lschebeck, Anja; Kenning, Peter H.; Pavlou, Paul A.; Mueller-Putz, Gernot; Riedl, Rene; vom Brocke, Jan; Weber, Bernd
+Goodhue, Dale L.; Lewis, William; Thompson, Ron
+Tsang, Eric W. K.; Williams, John N.
+Lee, Allen S.; Baskerville, Richard L.
+Davison, Robert M.; Martinsons, Maris G.; Ou, Carol X. J.
+Wynn, Donald, Jr.; Williams, Clay K.
+Dimoka, Angelika
+Ren, Yuqing; Harper, F. Maxwell; Drenner, Sara; Terveen, Loren; Kiesler, Sara; Riedl, John; Kraut, Robert E.
+Carlo, Jessica Luo; Lyytinen, Kalle; Rose, Gregory M.
+Rivard, Suzanne; Lapointe, Liette
+Liu, Charles Zhechao; Kemerer, Chris F.; Slaughter, Sandra A.; Smith, Michael D.
+Allen, Gove N.; March, Salvatore T.
+Shanks, Graeme; Weber, Ron
+Goodhue, Dale L.; Lewis, William; Thompson, Ron
+Chin, Wynne W.; Thatcher, Jason Bennett; Wright, Ryan T.
+Tiwana, Amrit
+Lee, Jong Seok; Keil, Mark; Kasi, Vijay
+Maruping, Likoebe M.; Magni, Massimo
+Srivastava, Shirish C.; Teo, Thompson S. H.
+Otim, Samual; Dow, Kevin E.; Grover, Varun; Wong, Jeffrey A.
+Lin, Mei; Ke, Xuqing; Whinston, Andrew B.
+Benlian, Alexander; Titah, Ryad; Hess, Thomas
+Zhou, Zhongyun (Phil); Fang, Yulin; Vogel, Douglas R.; Jin, Xiao-Ling; Zhang, Xi
+Wan, Zeying; Compeau, Deborah; Haggerty, Nicole
+Cui, Geng; Wong, Man Leung; Wan, Xiang
+Dos Santos, Brian L.; Zheng, Zhiqiang (Eric); Mookerjee, Vijay S.; Chen, Hongyu
+Aggarwal, Rohit; Gopal, Ram; Sankaranarayanan, Ramesh; Singh, Param Vir
+Ramesh, Balasubramaniam; Mohan, Kannan; Cao, Lan
+Cheng, Zhuo (June); Nault, Barrie R.
+Hosanagar, Kartik; Tan, Yong
+Berente, Nicholas; Yoo, Youngjin
+Adomavicius, Gediminas; Bockstedt, Jesse; Gupta, Alok
+Zablah, Alex R.; Bellenger, Danny N.; Straub, Detmar W.; Johnston, Wesley J.
+Rice, Sarah C.
+Bai, Xue; Nunez, Manuel; Kalagnanam, Jayant R.
+Brown, Susan A.; Venkatesh, Viswanath; Goyal, Sandeep
+Cheng, Hsing Kenneth; Liu, Yipeng
+Datta, Anindya; Dutta, Kaushik; Liang, Qianhui; VanderMeer, Debra
+Zhu, Kevin Xiaoguo; Zhou, Zach Zhizhong
+Dennis, Alan R.; Robert, Lionel P., Jr.; Curtis, Aaron M.; Kowalczyk, Stacy T.; Hasty, Bryan K.
+Melville, Nigel; McQuaid, Michael
+Ba, Sulin; Stallaert, Jan; Zhang, Zhongju
+Hardaway, Donald E.; Scamell, Richard W.
+Mathiassen, Lars; Chiasson, Mike; Germonprez, Matt
+Lee, Younghwa; Chen, Andrew N. K.; Ilie, Virginia
+Dimoka, Angelika; Hong, Yili; Pavlou, Paul A.
+Joseph, Damien; Boh, Wai Fong; Ang, Soon; Slaughter, Sandra A.
+Sun, Heshan
+VanderMeer, Debra; Dutta, Kaushik; Datta, Anindya
+Xue, Ling; Ray, Gautam; Sambamurthy, Vallabh
+Guillemette, Manon G.; Pare, Guy
+Gopal, Anandasivam; Koka, Balaji R.
+Chua, Cecil Eng Huang; Lim, Wee-Kiat; Soh, Christina; Sia, Siew Kien
+Ply, Janet K.; Moore, Jo Ellen; Williams, Clay K.; Thatcher, Jason Bennett
+Roberts, Nicholas; Galluch, Pamela S.; Dinger, Michael; Grover, Varun
+von Krogh, Georg; Haefliger, Stefan; Spaeth, Sebastian; Wallin, Martin W.
+Vlas, Radu E.; Robinson, William N.
+Brodsky, Alexander; Egge, Nathan E.; Wang, X. Sean
+Nevo, Dorit; Benbasat, Izak; Wand, Yair
+Dang, Yan; Zhang, Yulei; Chen, Hsinchun; Brown, Susan A.; Hu, Paul Jen-Hwa; Nunamaker, Jay F., Jr.
+Kolfschoten, Gwendolyn L.; Niederman, Fred; Briggs, Robert O.; De Vreede, Gert-Jan
+Markus, M. Lynne; Bui, Quang Neo
+Adomavicius, Gediminas; Gupta, Alok; Sanyal, Pallab
+Roberts, Nicholas; Grover, Varun
+Edberg, Dana; Ivanova, Polina; Kuechler, William
+Temizkan, Orcun; Kumar, Ram L.; Park, SungJune; Subramaniam, Chandrasekar
+Williams, Robin; Pollock, Neil
+Susarla, Anjana; Oh, Jeong-Ha; Tan, Yong
+Kleis, Landon; Chwelos, Paul; Ramirez, Ronald V.; Cockburn, Iain
+Mehra, Amit; Bala, Ram; Sankaranarayanan, Ramesh
+Kannan, Karthik N.
+Fuentelsaz, Lucio; Pablo Maicas, Juan; Polo, Yolanda
+Currim, Faiz; Ram, Sudha
+Fitoussi, David; Gurbaxani, Vijay
+Setia, Pankaj; Rajagopalan, Balaji; Sambamurthy, Vallabh; Calantone, Roger
+Granados, Nelson; Gupta, Alok; Kauffman, Robert J.
+Gu, Bin; Park, Jaehong; Konana, Prabhudev
+Ray, Soumya; Kim, Sung S.; Morris, James G.
+Kang, Sora; Lim, Kai H.; Kim, Min Soo; Yang, Hee-Dong
+Sahoo, Nachiketa; Krishnan, Ramayya; Duncan, George; Callan, Jamie
+Xia, Mu; Huang, Yun; Duan, Wenjing; Whinston, Andrew B.
+Niculescu, Marius F.; Whang, Seungjin
+Constantinides, Panos; Chiasson, Mike W.; Introna, Lucas D.
+Polites, Greta L.; Karahanna, Elena
+Ransbotham, Sam; Mitra, Sabyaschi; Ramsey, Jon
+Oestreicher-Singer, Gal; Sundararajan, Arun
+Appan, Radha; Browne, Glenn J.
+Mehra, Amit; Mookerjee, Vijay
+Aguirre-Urreta, Miguel I.; Marakas, George M.
+Petter, Stacie; Rai, Arun; Straub, Detmar
+Venkatesh, Viswanath; Thong, James Y. L.; Xu, Xin
+Li, Chan; Peters, Gary F.; Richardson, Vernon J.; Watson, Marcia Weidenmier
+Mithas, Sunil; Tafti, Ali; Bardhan, Indranil; Goh, Jie Mein
+Grover, Varun; Kohli, Rajiv
+Rai, Arun; Pavlou, Paul A.; Im, Ghiyoung; Du, Steve
+Ceccagnoli, Marco; Forman, Chris; Huang, Peng; Wu, D. J.
+Han, Kunsoo; Oh, Wonseok; Im, Kun Shin; Chang, Ray M.; Oh, Hyelim; Pinsonneault, Alain
+Sarker, Suprateek; Sarker, Saonee; Sahaym, Arvin; Bjorn-Andersen, Niels
+Tallon, Paul P.
+Lim, Jee-Hae; Stratopoulos, Theophanis C.; Wirjanto, Tony S.
+Benlian, Alexander; Koufaris, Marios; Hess, Thomas
+Dong, Su; Johar, Monica S.; Kumar, Ram L.
+Wong, Christina W. Y.; Lai, Kee-Hung; Cheng, T. C. E.
+Elie-Dit-Cosaque, Christophe; Pallud, Jesie; Kalika, Michel
+Bockstedt, Jese; Goh, Kim Huat
+Lee, Younghwa; Chen, Andrew N. K.
+Chai, Sangmi; Das, Sanjukta; Rao, H. Raghav
+Wang, Jingguo; Yang, Zhiyong; Bhattacharjee, Sudip
+Dimoka, Angelika; Pavlou, Paul A.; Davis, Fred D.
+Tanriverdi, Hueseyin; Uysal, Vahap Buelent
+Huang, Ke-Wei; Sundararajan, Arun
+Hosanagar, Kartik
+Das, Sanjukta; Du, Anna Ye; Gopal, Ram; Ramesh, R.
+Li, Xiao-Bai; Sarkar, Sumit
+Singh, Param Vir; Tan, Yong; Youn, Nara
+Cenfetelli, Ronald T.; Schwarz, Andrew
+Han, Kunsoo; Kauffman, Robert J.; Nault, Barrie R.
+Bateman, Patrick J.; Gray, Peter H.; Butler, Brian S.
+Durcikova, Alexandra; Fadel, Kelly J.; Butler, Brian S.; Galletta, Dennis F.
+Lee, Young Eun; Benbasat, Izak
+Singh, Param Vir; Tan, Yong; Mookerjee, Vijay
+Ayyagari, Ramakrishna; Grover, Varun; Purvis, Russell
+Zhang, Tongxiao (Catherine); Agarwal, Ritu; Lucas, Henry C., Jr.
+Bera, Palash; Burton-Jones, Andrew; Wand, Yair
+McLaren, Tim S.; Head, Milena M.; Yuan, Yufei; Chan, Yolande E.
+Lu, Ying; Ramamurthy, K. (Ram)
+Murray, Kyle B.; Haeubl, Gerald
+Pavlou, Paul A.
+Smith, H. Jeff; Dinev, Tamara; Xu, Heng
+Belanger, France; Crossler, Robert E.
+Turel, Ofir; Serenko, Alexander; Giles, Paul
+Kane, Gerald C.; Borgatti, Stephen P.
+Saunders, Carol; Rutkowski, Anne F.; van Genuchten, Michiel; Vogel, Doug; Orrego, Julio Molina
+Garg, Rajiv; Smith, Michael D.; Telang, Rahul
+Granados, Nelson F.; Kauffman, Robert J.; Lai, Hsiangchu; Lin, Huang-Chi
+Steinfield, Charles; Markus, M. Lynne; Wigand, Rolf T.
+Banker, Rajiv D.; Wattal, Sunil; Plehn-Dujowich, Jose M.
+Yoo, Byungjoon; Choudhary, Vidyanand; Mukhopadhyay, Tridas
+Lin, Mei; Li, Shaojin; Whinston, Andrew B.
+Guo, Ken H.; Yuan, Yufei; Archer, Norman P.; Connelly, Catherine E.
+Chen, Jianqing; Xu, Hong; Whinston, Andrew B.
+Nicolaou, Andreas I.; McKnight, D. Harrison
+Zhao, Kexin; Xia, Mu; Shaw, Michael J.
+Aron, Ravi; Dutta, Shantanu; Janakiraman, Ramkumar; Pathak, Praveen A.
+Chen, Yi-Da; Brown, Susan A.; Hu, Paul Jen-Hwa; King, Chwan-Chuen; Chen, Hsinchun
+Anderson, Catherine L.; Agarwal, Ritu
+Ozdemir, Zafer; Barron, Jack; Bandyopadhyay, Subhajyoti
+Kane, Gerald C.; Labianca, Giuseppe (Joe)
+Venkatesh, Viswanath; Zhang, Xiaojun; Sykes, Tracy A.
+Oborn, Eivor; Barrett, Michael; Davidson, Elizabeth
+Goh, Jie Mein; Gao, Guodong (Gordon); Agarwal, Ritu
+Mukhopadhyay, Tridas; Singh, ParamVir; Kim, Seung Hyun
+Mookerjee, Vijay; Mookerjee, Radha; Bensoussan, Alain; Yue, Wei T.
+Kim, Seung Hyun; Mukhopadhyay, Tridas
+Smith, Stephen P.; Johnston, Robert B.; Howard, Steve
+Ho, Shuk Ying; Bodoff, David; Tam, Kar Yan
+Allen, Gove N.; Ball, Nicholas L.; Smith, H. Jeff
+Shmueli, Galit; Koppius, Otto R.
+Furneaux, Brent; Wade, Michael
+Banker, Rajiv; Mitra, Sabyasachi; Sambamurthy, V.
+Ransbotham, Sam; Kane, Gerald C.
+Gray, Peter H.; Parise, Salvatore; Iyer, Bala
+Roquilly, Christophe
+Chaturvedi, Alok R.; Dolk, Daniel R.; Drnevich, Paul L.
+Berente, Nicholas; Hansen, Sean; Pike, Jacqueline C.; Bateman, Patrick J.
+Suh, Kil-Soo; Kim, Hongki; Suh, Eung Kyo
+Nah, Fiona Fui-Hoon; Eschenbrenner, Brenda; DeWester, David
+Goel, Lakshmi; Johnson, Norman A.; Junglas, Iris; Ives, Blake
+Kohler, Thomas; Fueller, Johann; Matzler, Kurt; Stieger, Daniel
+Animesh, Animesh; Pinsonneault, Alain; Yang, Sung-Byung; Oh, Wonseok
+Nunamaker, Jay E., Jr.; Derrick, Douglas C.; Elkins, Aaron C.; Burgoon, Judee K.; Patton, Mark W.
+Pick, James B.; Azari, Rasool
+Knoll, Stefan Werner; Horton, Graham
+Han, Kuns; Chang, Young Bong; Hahn, Jungpil
+Zahedi, Fatemeh Mariam; Bansal, Gaurav
+Jensen, Matthew L.; Lowry, Paul Benjamin; Jenkins, Jeffrey L.
+Hong, Weiyin; Thong, James Y. L.; Chasalow, Lewis C.; Dhillon, Gurpreet
+Sarker, Saonee; Ahuja, Manju; Sarker, Suprateek; Kirkeby, Sarah
+Chiravuri, Ananth; Nazareth, Derek; Ramamurthy, K. (Ram)
+Suh, Ayoung; Shin, Kyung-Shik; Ahuja, Manju; Kim, Min Soo
+Bagozzi, Richard P.
+MacKenzie, Scott B.; Podsakoff, Philip M.; Podsakoff, Nathan P.
+Diamantopoulos, Adamantios
+Bollen, Kenneth A.
+Wells, John D.; Valacich, Joseph S.; Hess, Traci J.
+Chen, Pei-yu; Kataria, Gaurav; Krishnan, Ramayya
+Lee, Dong-Joo; Ahn, Jae-Hyeon; Bang, Youngsok
+Aggarwal, Nitin; Dai, Qizhi; Walden, Eric A.
+Tallon, Paul P.; Pinsonneault, Alain
+Banker, Rajiv D.; Hu, Nan; Pavlou, Paul A.; Luftman, Jerry
+Nan, Ning
+Gupta, Alok; Jukic, Boris; Stahl, Dale O.; Whinston, Andrew B.
+Hsieh, J. J. Po-An; Rai, Arun; Keil, Mark
+Tsai, Janice Y.; Egelman, Serge; Cranor, Lorrie; Acquisti, Alessandro
+Ghose, Anindya; Yao, Yuliang
+Jayanth, Rajiv; Jacob, Varghese S.; Radhakrishnan, Suresh
+Susarla, Anjana; Barua, Anitesh
+Johar, Monica; Menon, Syam; Mookerjee, Vijay
+Scheffel, Tobias; Pikovsky, Alexander; Bichler, Martin; Guler, Kemal
+Dewan, Sanjeev; Ren, Fei
+Xue, Ling; Ray, Gautam; Gu, Bin
+Xue, Yajiong; Liang, Huigang; Wu, Liansheng
+Li, Xinxin; Hitt, Lorin M.; Zhang, Z. John
+Hinz, Oliver; Eckert, Jochen; Skiera, Bernd
+Arazy, Ofer; Nov, Oded; Patterson, Raymond; Yeo, Lisa
+Qu, Wen Guang; Pinsonneault, Alain; Oh, Wonseok
+Altinkemer, Kemal; Ozcelik, Yasin; Ozdemir, Zafer D.
+Lowry, Paul Benjamin; Cao, Jinwei; Everard, Andrea
+Cheng, Hsing Kenneth; Liu, Yipeng; Tang, Qian (Candy)
+Koehler, Clemens F.; Breugelmans, Els; Dellaert, Benedict G. C.
+Jain, Radhika P.; Simon, Judith C.; Poston, Robin S.
+Wang, Yinglei; Haggerty, Nicole
+Dogan, Kutsal; Ji, Yonghua; Mookerjee, Vijay S.; Radhakrishnan, Suresh
+Mehra, Amit; Dewan, Rajiv; Freimer, Marshall
+Ravishankar, M. N.; Pan, Shan L.; Leidner, Dorothy E.
+Cheng, Hsing Kenneth; Bandyopadhyay, Subhajyoti; Guo, Hong
+Chellappa, Ramnath K.; Sin, Raymond G.; Siddarth, S.
+Adomavicius, Gediminas; Tuzhilin, Alexander; Zheng, Rong
+Bapna, Ravi; Goes, Paulo; Wei, Kwok Kee; Zhang, Zhongju
+Ko, Dong-Gil; Dennis, Alan R.
+Animesh, Animesh; Viswanathan, Siva; Agarwal, Ritu
+Wei, Kwok-Kee; Teo, Hock-Hai; Chan, Hock Chuan; Tan, Bernard C. Y.
+Liu, Charles Zhechao; Gal-Or, Esther; Kemerer, Chris F.; Smith, Michael D.
+Dean, Douglas L.; Lowry, Paul Benjamin; Humpherys, Sean
+Myers, Michael D.; Klein, Heinz K.
+Sein, Maung K.; Henfridsson, Ola; Purao, Sandeep; Rossi, Matti; Lindgren, Rikard
+Recker, Jan; Rosemann, Michael; Green, Peter; Indulska, Marta
+Hinz, Oliver; Hann, Ii-Horn; Spann, Martin
+Koch, Hope; Schultze, Ulrike
+Leonardi, Paul M.
+Xiao, Bo; Benbasat, Izak
+Elliot, Steve
+Mithas, Sunil; Ramasubbu, Narayan; Sambamurthy, V.
+Adipat, Boonlit; Zhang, Dongsong; Zhou, Lina
+Dhar, Vasant; Ghose, Anindya
+Bapna, Ravi; Barua, Anitesh; Mani, Deepa; Mehra, Amit
+Schultze, Ulrike; Orlikowski, Wanda J.
+El Sawy, Omar A.; Malhotra, Arvind; Park, YoungKi; Pavlou, Paul A.
+Zhu, Lei; Benbasat, Izak; Jiang, Zhenhui
+Liu, De; Ray, Gautam; Whinston, Andrew B.
+Whitaker, Jonathan; Mithas, Sunil; Krishnan, M. S.
+Lahiri, Atanu; Dewan, Rajiv M.; Freimer, Marshall
+Xu, Lizhen; Chen, Jianqing; Whinston, Andrew
+Dawson, Gregory S.; Watson, Richard T.; Boudreau, Marie-Claude
+Singh, Param Vir; Tan, Yong
+Xu, Yunjie (Calvin); Kim, Hee-Woong; Kankanhalli, Atreyi
+Easley, Robert F.; Wood, Charles A.; Barkataki, Sharad
+Cheng, Hsing Kenneth; Feng, Juan; Koehler, Gary J.; Marston, Sean
+Tiwana, Amrit; Konsynski, Benn; Bush, Ashley A.
+Bichler, Martin; Gupta, Alok; Ketter, Wolfgang
+Overby, Eric; Slaughter, Sandra A.; Konsynski, Benn
+Vodanovich, Shahper; Sundaram, David; Myers, Michael
+Yoo, Youngjin; Henfridsson, Ola; Lyytinen, Kalle
+Brynjolfsson, Erik; Hu, Yu (Jeffrey); Smith, Michael D.
+Tilson, David; Lyytinen, Kalle; Sorensen, Carsten
+Jarvenpaa, Sirkka L.; Majchrzak, Ann
+Agarwal, Ritu; Gao, Guodong (Gordon); DesRoches, Catherine; Jha, Ashish K.
+Tanriverdi, Hueseyin; Rai, Arun; Venkatraman, N.
+Chellappa, Ramnath K.; Saraf, Nilesh
+Goes, Paulo B.; Karuga, Gilbert G.; Tripathi, Arvind K.
+Dewan, Sanjeev; Ganley, Dale; Kraemer, Kenneth L.
+Kwan, Samuel S. K.; So, Mike K. P.; Tam, Kar Yan
+Gopal, Anandasivam; Gosain, Sanjay
+Raghuram, Sumita; Tuertscher, Philipp; Garud, Raghu
+Clemons, Eric K.; Madhani, Nehal
+Tarafdar, Monideepa; Tu, Qiang; Ragu-Nathan, T. S.
+Taylor, Hazel; Dillon, Stuart; Van Wingen, Melinda
+Wattal, Sunil; Schuff, David; Mandviwalla, Munir; Williams, Christine B.
+Beaudry, Anne; Pinsonneault, Alain
+Deng, Liqiong; Poole, Marshall Scott
+Strong, Diane M.; Volkoff, Olga
+Puhakainen, Petri; Siponen, Mikko
+Sarker, Saonee; Valacich, Joseph S.
+Li, Xinxin; Hitt, Lorin M.
+Mingers, John; Walsham, Geoff
+Choi, Sue Young; Lee, Heeseok; Yoo, Youngjin
+Majchrzak, Ann; Jarvenpaa, Sirkka L.
+Tiwana, Amrit
+Mai, Bin; Menon, Nirup M.; Sarkar, Sumit
+Ozdemir, Zafer D.; Altinkemer, Kemal; De, Prabuddha; Ozcelik, Yasin
+Vitharana, Padmal; King, Julie; Chapman, Helena Shih
+Ba, Sulin; Stallaert, Jan; Zhang, Zhongju
+Pavlou, Paul A.; El Sawy, Omar A.
+Joshi, K. D.; Chi, Lei; Datta, Avimanyu; Han, Shu
+Vannoy, Sandra A.; Salam, A. F.
+Rai, Arun; Tang, Xinlin
+Chi, Lei; Ravichandran, T.; Andrevski, Goce
+Chang, Ray M.; Oh, Wonseok; Pinsonneault, Alain; Kwon, Dowan
+Gnyawali, Devi R.; Fan, Weiguo; Penner, James
+Chellappa, Ramnath K.; Sambamurthy, V.; Saraf, Nilesh
+Li, Shanling; Shang, Jennifer; Slaughter, Sandra A.
+Brown, Susan A.; Dennis, Alan R.; Venkatesh, Viswanath
+Dellarocas, Chrysanthos; Gao, Guodong (Gordon); Narayan, Ritu
+Pathak, Bhavik; Garfinkel, Robert; Gopal, Ram D.; Venkatesan, Rajkumar; Yin, Fang
+Guo, Hong; Bandyopadhyay, Subhajyoti; Cheng, Hsing Kenneth; Yang, Yu-Chen
+Cavusoglu, Hasan; Hu, Nan; Li, Yingjiu; Ma, Dan
+Abbasi, Ahmed; Zhang, Zhu; Zimbra, David; Chen, Hsinchun; Nunamaker, Jay F., Jr.
+Smith, Stephen; Winchester, Donald; Bunker, Deborah; Jamieson, Rodger
+Siponen, Mikko; Vance, Anthony
+Spears, Janine L.; Barki, Henri
+Bulgurcu, Burcu; Cavusoglu, Hasan; Benbasat, Izak
+Johnston, Allen C.; Warkentin, Merrill
+Gordon, Lawrence A.; Loeb, Martin P.; Sohail, Tashfeen
+Galbreth, Michael R.; Shor, Mikhael
+Anderson, Catherine L.; Agarwal, Ritu
+Granados, Nelson; Gupta, Alok; Kauffman, Robert J.
+Liu, Dengpan; Sarkar, Sumit; Sriskandarajah, Chelliah
+Mishra, Abhay Nath; Agarwal, Ritu
+Hosanagar, Kartik; Han, Peng; Tan, Yong
+Tiwana, Amrit; Konsynski, Benn
+Tan, Chuan-Hoo; Teo, Hock-Hai; Benbasat, Izak
+Zhu, Bin; Watts, Stephanie A.
+Pant, Gautam; Srinivasan, Padmini
+Zheng, Zhiqiang (Eric); Pavlou, Paul A.
+Chwelos, Paul; Ramirez, Ronald; Kraemer, Kenneth L.; Melville, Nigel P.
+Carmel, Erran; Espinosa, J. Alberto; Dubinsky, Yael
+Zhang, Jie (Jennifer); Seidmann, Abraham
+Clemons, Eric K.
+Poltrock, Steven; Handel, Mark
+Briggs, Robert O.; Reinig, Bruce A.
+Wattal, Sunil; Racherla, Pradeep; Mandviwalla, Munir
+Jensen, Matthew L.; Lowry, Paul Benjamin; Burgoon, Judee K.; Nunamaker, Jay F., Jr.
+Alnuaimi, Omar A.; Robert, Lionel P., Jr.; Maruping, Likoebe M.
+Chen, Daniel Q.; Preston, David S.; Xia, Weidong
+Wright, Ryan T.; Marett, Kent
+Yoo, Youngjin
+Chen, Daniel Q.; Mocker, Martin; Preston, David S.; Teubner, Alexander
+Dou, Wenyu; Lim, Kai H.; Su, Chenting; Zhou, Nan; Cui, Nan
+Venkatesh, Viswanath; Goyal, Sandeep
+Seddon, Peter B.; Calvert, Cheryl; Yang, Song
+McKinney, Earl H., Jr.; Yoos, Charles J., II
+Kim, Gimun; Shin, Bongsik; Grover, Varun
+Benbasat, Izak; Gefen, David; Pavlou, Paul A.
+Dimoka, Angelika
+Riedl, Rene; Hubert, Marco; Kenning, Peter
+Choudhury, Vivek; Lopes, Alexandre B.; Arthur, Doug
+Greenwald, Amy; Kannan, Karthik; Krishnan, Ramayya
+Susarla, Anjana; Subramanyam, Ramanath; Karhade, Prasanna
+Allen, Gove; Parsons, Jeffrey
+Choudhary, Vidyanand
+Dey, Debabrata; Fan, Ming; Zhang, Conglei
+Arora, Ashish; Krishnan, Ramayya; Telang, Rahul; Yang, Yubao
+Liu, De; Chen, Jianqing; Whinston, Andrew B.
+Sankaranarayanan, Ramesh; Sundararajan, Arun
+Boylu, Fidan; Aytug, Haldun; Koehler, Gary J.
+Animesh, Animesh; Ramachandran, Vandana; Viswanathan, Siva
+Bardhan, Indranil R.; Demirkan, Haluk; Kannan, P. K.; Kauffman, Robert J.; Sougstad, Ryan
+Montoya, Mitzi M.; Massey, Anne P.; Khatri, Vijay
+Susarla, Anjana; Barua, Anitesh; Whinston, Andrew B.
+Demirkan, Haluk; Cheng, Hsing Kenneth; Bandyopadhyay, Subhajyoti
+Mueller, Benjamin; Viering, Goetz; Legner, Christine; Riempp, Gerold
+Ramachandran, Vandana; Gopal, Anandasivam
+Tallon, Paul P.
+Choi, Jae; Nazareth, Derek L.; Jain, Hemant K.
+Sen, Sagnika; Raghu, T. S.; Vinze, Ajay
+Benaroch, Michel; Dai, Qizhi; Kauffman, Robert J.
+Melville, Nigel P.
+Watson, Richard T.; Boudreau, Marie-Claude; Chen, Adela J.
+Mani, Deepa; Barua, Anitesh; Whinston, Andrew
+Wang, Ping
+Lee, Gwanhoo; Xia, Weidong
+Thomas, Dominic M.; Bostrom, Robert P.
+Morris, Michael G.; Venkatesh, Viswanath
+Nevo, Saggi; Wade, Michael R.
+Mudambi, Susan M.; Schuff, David
+Leonardi, Paul M.
+Yeow, Adrian; Goh, Kim Huat
+Ramasubbu, Narayan; Bharadwaj, Anandhi; Tayi, Giri Kumar
+Sabherwal, Rajiv; Jeyaraj, Anand
+Boss, Scott R.; Galletta, Dennis F.; Lowry, Paul Benjamin; Moody, Gregory D.; Polak, Peter
+Rai, Arun; Arikan, Ilgaz; Pye, Jessica; Tiwana, Amrit
+Singh, Harpreet; Aggarwal, Rohit; Cojuharenco, Irina
+Han, Wencui; Ada, Serkan; Sharman, Raj; Rao, H. Raghav
+Carter, Michelle; Grover, Varun
+Su, Ning
+Dinev, Tamara; McConnell, Allen R.; Smith, H. Jeff
+Tiwana, Amrit; Kim, Stephen K.
+Choi, Ben C. F.; Jiang, Zhenhui (Jack); Xiao, Bo; Kim, Sung S.
+Agarwal, Ashish; Hosanagar, Kartik; Smith, Michael D.
+Jiang, Yabing; Guo, Hong
+Shivendu, Shivendu; Zhang, Zhe (James)
+Chen, Min; Jacob, Varghese S.; Radhakrishnan, Suresh; Ryu, Young U.
+Phang, Chee Wei; Kankanhalli, Atreyi; Tan, Bernard C. Y.
+Xiao, Bo; Benbasat, Izak
+Greenwood, Brad N.; Gopal, Anand
+Du, Kui
+Choudhary, Vidyanand; Zhang, Zhe (James)
+Hinz, Oliver; Spann, Martin; Hann, Il-Horn
+Templeton, Gary F.; Lewis, Bruce R.
+Baskerville, Richard L.; Kaul, Mala; Storey, Veda C.
+Gao, Guodong (Gordon); Greenwood, Brad N.; Agarwal, Ritu; McCullough, Jeffrey S.
+Miranda, Shaila M.; Kim, Inchan; Summers, Jama D.
+Iyengar, Kishen; Sweeney, Jeffrey R.; Montealegre, Ramiro
+Singh, Rajendra; Mathiassen, Lars; Mishra, Abhay
+Kankanhalli, Atreyi; Ye, Hua (Jonathan); Hock Hai Teo
+Shen, Wenqi; Hu, Yu Jeffrey; Ulmer, Jackie Rees
+Lin, Cecilia I. C.; Kuo, Feng-Yang; Myers, Michael D.
+Armstrong, Deborah J.; Brooks, Nita G.; Riemenschneider, Cynthia K.
+Liu, De; Brass, Daniel J.; Lu, Yong; Chen, Dongyu
+Yan, Lu (Lucy); Peng, Jianping; Tan, Yong
+Chen, Hailiang; De, Prabuddha; Hu, Yu Jeffrey
+Ghoshal, Abhijeet; Menon, Syam; Sarkar, Sumit
+Fang, Zheng; Gu, Bin; Luo, Xueming; Xu, Yunjie
+Mitra, Sabyasachi; Ransbotham, Sam
+Krasnova, Hanna; Widjaja, Thomas; Buxmann, Peter; Wenninger, Helena; Benbasat, Izak
+Hui, Kai-Lung; Png, I. P. L.
+Wang, Jingguo; Xiao, Nan; Rao, H. Raghav
+Grover, Varun; Lyytinen, Kalle
+Dijkstra, Theo K.; Henseler, Jorg
+Park, Insu; Sharman, Raj; Rao, H. Raghav
+Vance, Anthony; Lowry, Paul Benjamin; Eggett, Dennis
+Stein, Mari-Klara; Newell, Sue; Wagner, Erica L.; Galliers, Robert D.
+Faraj, Samer; Kudaravalli, Srinivas; Wasko, Molly
+Karhade, Prasanna; Shaw, Michael J.; Subramanyam, Ramanath
+Hoehle, Hartmut; Venkatesh, Viswanath
+Sykes, Tracy Ann
+Wu, Shelly Ping-Ju; Straub, Detmar W.; Liang, Ting-Peng
+Provost, Foster; Martens, David; Murray, Alan
+Tiwana, Amrit
+Hsu, Jack Shih-Chieh; Shih, Sheng-Pao; Hung, Yu Wen; Lowry, Paul Benjamin
+Sabnis, Gaurav; Grewal, Rajdeep
+Kourandi, Frago; Kraemer, Jan; Valletti, Tommaso
+Ding, Amy Wenxuan; Li, Shibo; Chatterjee, Patrali
+Ma, Dan; Seidmann, Abraham
+Ravindran, Kiron; Susarla, Anjana; Mani, Deepa; Gurbaxani, Vijay
+Lee, One-Ki (Daniel); Sambamurthy, Vallabh; Lim, Kai H.; Wei, Kwok Kee
+Tong, Yu; Tan, Sharon Swee-Lin; Teo, Hock-Hai
+Tan, Barney; Yi, Cheng; Chan, Hock C.
+Gu, Zheyin (Jane); Tayi, Giri K.
+Hu, Qing; West, Robert; Smarandescu, Laura
+Chatterjee, Sutirtha; Sarker, Suprateek; Valacich, Joseph S.
+Brandt, Tobias; Neumann, Dirk
+Abbasi, Ahmed; Zahedi, Fatemeh Mariam; Zeng, Daniel; Chen, Yan; Chen, Hsinchun; Nunamaker, Jay F., Jr.
+Fadel, Kelly J.; Meservy, Thomas O.; Jensen, Matthew L.
+Adomavicius, Gediminas; Bockstedt, Jesse; Curley, Shawn P.
+Yi, Cheng; Jiang, Zhenhui (Jack); Benbasat, Izak
+Ghoshal, Abhijeet; Kumar, Subodha; Mookerjee, Vijay
+Matook, Sabine; Cummings, Jeff; Bala, Hillol
+Johnson, Norman A.; Cooper, Randolph B.
+Yaraghi, Niam; Du, Anna Ye; Sharman, Raj; Gopal, Ram D.; Ramesh, Ram
+Bardhan, Indranil; Oh, Jeong-ha (Cath); Zheng, Zhiqiang (Eric); Kirksey, Kirk
+Constantinides, Panos; Barrett, Michael
+Wayne Gregory, Robert; Keil, Mark; Muntermann, Jan; Mahring, Magnus
+Liu, Ying; Aron, Ravi
+Ruckman, Karen; Saraf, Nilesh; Sambamurthy, Vallabh
+Aggarwal, Rohit; Kryscynski, David; Midha, Vishal; Singh, Harpreet
+Joseph, Damien; Ang, Soon; Slaughter, Sandra A.
+Johnson, Steven L.; Safadi, Hani; Faraj, Samer
+Pant, Gautam; Sheng, Olivia R. L.
+Oh, Onook; Eom, Chanyoung; Rao, H. R.
+Spaeth, Sebastian; von Krogh, Georg; He, Fang
+Maruping, Likoebe M.; Magni, Massimo
+Zhang, Xiaoquan (Michael); Zhang, Lihong
+Tian, Feng; Xu, Sean Xin
+Salge, Torsten Oliver; Kohli, Rajiv; Barrett, Michael
+Wang, Jingguo; Gupta, Manish; Rao, H. Raghav
+Johnston, Allen C.; Warkentin, Merrill; Siponen, Mikko
+Lusch, Robert F.; Nambisan, Satish
+Scherer, Anne; Wuenderlich, Nancy V.; von Wangenheim, Florian
+Orlikowski, Wanda J.; Scott, Susan V.
+Eaton, Ben; Elaluf-Calderwood, Silvia; Sorensen, Carsten
+Srivastava, Shirish C.; Shainesh, G.
+Nunamaker, Jay F., Jr.; Briggs, Robert O.; Derrick, Douglas C.; Schwabe, Gerhard
+Lim, Shi Ying; Jarvenpaa, Sirkka L.; Lanham, Holly J.
+Peters, Christoph; Blohm, Ivo; Leimeister, Jan Marco
+Berger, Benedikt; Matt, Christian; Steininger, Dennis M.; Hess, Thomas
+Boughzala, Imed; De Vreede, Gert-Jan
+Chatterjee, Sutirtha; Moody, Gregory; Lowry, Paul Benjamin; Chakraborty, Suranjan; Hardin, Andrew
+Hutter, Katja; Fueller, Johann; Hautz, Julia; Bilgram, Volker; Matzler, Kurt
+Prat, Nicolas; Comyn-Wattiau, Isabelle; Akoka, Jacky
+Sacks, Michael
+Dissanayake, Indika; Zhang, Jie; Gu, Bin
+Clemons, Eric K.; Wilson, Joshua S.
+Ren, Fei; Dewan, Sanjeev
+Li, Xitong; Madnick, Stuart E.
+Ozer, Muammer; Vogel, Doug
+Khansa, Lara; Ma, Xiao; Liginlal, Divakaran; Kim, Sung S.
+Xie, Karen; Lee, Young-Jin
+Yu, Jongtae; Hu, Paul Jen-Hwa; Cheng, Tsang-Hsiang
+Li, Xin; Sun, Sherry X.; Chen, Kun; Fung, Terrance; Wang, Huaiqing
+Sen, Ravi; Borle, Sharad
+Mani, Deepa; Barua, Anitesh
+Karimi, Jahangir; Walter, Zhiping
+Mehta, Nikhil; Bharadwaj, Anandhi
+Temizkan, Orcun; Kumar, Ram L.
+Espinosa, J. Alberto; Nan, Ning; Carmel, Erran
+Moody, Gregory D.; Galletta, Dennis F.
+Benlian, Alexander
+Zhao, Kexin; Zhao, Xia; Deng, Jing
+Ma, Dan
+Liang, Huigang; Peng, Zeyu; Xue, Yajiong; Guo, Xitong; Wang, Nengmin
+Peng, Gang; Dey, Debabrata; Lahiri, Atanu
+Weber, Thomas A.
+Barua, Anitesh; Mani, Deepa
+Twyman, Nathan W.; Lowry, Paul Benjamin; Burgoon, Judee K.; Nunamaker, Jay F., Jr.
+Hoffmann, Christian Pieter; Lutz, Christoph; Meckel, Miriam
+Phang, Chee Wei; Kankanhalli, Atreyi; Huang, Lihua
+Chen, Aihui; Lu, Yaobin; Chau, Patrick Y. K.; Gupta, Sumeet
+Chiang, I. Robert; Jhang-Li, Jhih-Hua
+Sojer, Manuel; Alexy, Oliver; Kleinknecht, Sven; Henkel, Joachim
+Liu, Charles Zhechao; Au, Yoris A.; Choi, Hoon Seok
+Chan, Jason; Ghose, Anindya
+Koh, Tat Koon; Fichman, Mark
+Chou, Chen-Huei; Zahedi, Fatemeh Mariam; Zhao, Huimin
+Hao, Lin; Fan, Ming
+Ye, Shun; Gao, Guodong (Gordon); Viswanathan, Siva
+Kumar, Anuj; Smith, Michael D.; Telang, Rahul
+Pang, Min-Seok; Tafti, Ali; Krishnan, M. S.
+de Matos, Miguel Godinho; Ferreira, Pedro; Krackhardt, David
+Nan, Ning; Lu, Yong
+Gerow, Jennifer E.; Grover, Varun; Thatcher, Jason; Roth, Philip L.
+Aakhus, Mark; Agerfalk, Par J.; Lyytinen, Kalle; Te'eni, Dov
+Ludwig, Stephan; de Ruyter, Ko; Mahr, Dominik; Wetzels, Martin; Bruggen, Elisabeth
+O'Leary, Michael Boyer; Wilson, Jeanne M.; Metiu, Anca
+Beck, Roman; Pahlke, Immanuel; Seebach, Christoph
+Lukyanenko, Roman; Parsons, Jeffrey; Wiersma, Yolanda F.
+Yan, Lu; Tan, Yong
+Xu, Xin; Thong, James Y. L.; Venkatesh, Viswanath
+Du, Anna Ye; Das, Sanjukta; Gopal, Ram D.; Ramesh, Ram
+Balaji, S.; Brown, Carol V.
+Aguirre-Urreta, Miguel I.; Marakas, George M.
+Rigdon, Edward E.; Becker, Jan-Michael; Rai, Arun; Ringle, Christian M.; Diamantopoulos, Adamantios; Karahanna, Elena; Straub, Detmar W.; Dijkstra, Theo K.
+Aguirre-Urreta, Miguel I.; Marakas, George M.
+Forman, Chris; King, John Leslie; Lyytinen, Kalle
+Leonardi, Paul M.
+Kallinikos, Jannis; Tempini, Niccolo
+Aanestad, Margunn; Jolliffe, Bob; Mukherjee, Arunima; Sahay, Sundeep
+Mani, Deepa; Srikanth, Kannan; Bharadwaj, Anandhi
+Moreno, Antonio; Terwiesch, Christian
+Overby, Eric; Mitra, Sabyasachi
+Parker, Chris; Weber, Bruce W.
+Reiner, Jochen; Natter, Martin; Skiera, Bernd
+Bockstedt, Jese C.; Goh, Kim Huat
+Lee, Gunwoong; Raghu, T. S.
+Goode, Sigi; Shailer, Greg; Wilson, Mark; Jankowski, Jaroslaw
+Hashim, Matthew J.; Kannan, Karthik N.; Maximiano, Sandra; Ulmer, Jackie Rees
+Dong, Yan; Huang, Xiaowen; Sinha, Kingshuk K.; Xu, Kefeng
+D'Arcy, John; Herath, Tejaswini; Shoss, Mindy K.
+Li, Xiaotong
+Jabr, Wael; Zheng, Zhiqiang (Eric)
+Kim, Seung Hyun; Kim, Byung Cho
+Li, Xiao-Bai; Sarkar, Sumit
+Butler, Brian S.; Bateman, Patrick J.; Gray, Peter H.; Diamant, E. Ilana
+Brown, Susan A.; Venkatesh, Viswanath; Goyal, Sandeep
+Mehra, Amit; Langer, Nishtha; Bapna, Ravi; Gopal, Ram
+Burtch, Gordon; Ghose, Anindya; Wattal, Sunil
+Johnson, Steven L.; Faraj, Samer; Kudaravalli, Srinivas
+Mazmanian, Melissa; Cohn, Marisa; Dourish, Paul
+Gaskin, James; Berente, Nicholas; Lyytinen, Kalle; Yoo, Youngjin
+Scott, Susan V.; Orlikowski, Wanda J.
+Jones, Matthew
+Venters, Will; Oborn, Eivor; Barrett, Michael
+Kundisch, Dennis O.; Mittal, Neeraj; Nault, Barrie R.
+Levina, Natalia; Arriaga, Manuel
+August, Terrence; Niculescu, Marius Florin; Shin, Hyoduk
+Ma, Xiao; Kim, Seung Hyun; Kim, Sung S.
+Ray, Soumya; Kim, Sung S.; Morris, James G.
+Zheng, Zhiqiang (Eric); Pavlou, Paul A.; Gu, Bin
+Prawesh, Shankar; Padmanabhan, Balaji
+Ma, Liye; Montgomery, Alan L.; Singh, Param Vir; Smith, Michael D.
+Gu, Bin; Konana, Prabhudev; Raghunathan, Rajagopal; Chen, Hsuanwei Michelle
+Kim, Keongtae; Mithas, Sunil; Whitaker, Jonathan; Roy, Prasanto K.
+Gregory, Robert Wayne; Muntermann, Jan
+Zhang, Juheng; Aytug, Haldun; Koehler, Gary J.
+Dube, Line
+Mastrogiacomo, Stefano; Misonier, Stephanie; Bonazzi, Riccardo
+Jiang, James J.; Chang, Jamie Y. T.; Chen, Houn-Gee; Wang, Eric T. G.; Klein, Gary
+Bittner, Eva Alice Christiane; Leimeister, Jan Marco
+Qiu, Liangfei; Rui, Huaxia; Whinston, Andrew B.
+Twyman, Nathan W.; Elkins, Aaron C.; Burgoon, Jude K.; Nunamaker, Jay F., Jr.
+Fichman, Robert G.; Melville, Nigel P.
+Wagner, Heinz-Theo; Beimborn, Daniel; Weitzel, Tim
+Fueller, Johan; Hutter, Katja; Hautz, Julia; Matzler, Kurt
+Althuizen, Niek; Wierenga, Berend
+Fichman, Robert G.; Dos Santos, Brian L.; Zheng, Zhiqiang (Eric)
+Steelman, Zachary R.; Hammer, Bryan I.; Limayem, Moez
+Xu, Jingjun (David); Benbasat, Izak; Cenfetelli, Ronald T.
+Fang, Yulin; Qureshi, Israr; Sun, Heshan; McCole, Patrick; Ramsey, Elaine; Lim, Kai H.
+Chen, Jianqing; Stallaert, Jan
+Kwon, Juhee; Johnson, M. Eric
+Pollock, Neil; Hyysalo, Sampsa
+Ho, Shuk Ying; Bodoff, David
+Bartelt, Valerie L.; Dennis, Alan R.
+Yin, Dezhi; Bond, Samuel D.; Zhang, Han
+Cecez-Kecmanovic, Dubravka; Kautz, Karlheinz; Abrahall, Rebecca
+Dey, Debabrata; Lahiri, Atanu; Zhang, Guoying
+Kotlarsky, Julia; Scarbrough, Harry; Oshri, Ilan
+Schwartz, David G.
+Goes, Paulo B.; Lin, Mingfeng; Yeung, Ching-man Au
+Meyer, Georg; Adomavicius, Gediminas; Johnson, Paul E.; Elidrisi, Mohamed; Rush, William A.; Sperl-Hillen, JoAnn M.; O'Connor, Patrick J.
+Dhar, Vasant; Geva, Tomer; Oestreicher-Singer, Gal; Sundararajan, Arun
+Johar, Monica; Mookerjee, Vijay; Sarkar, Sumit
+Tan, Chuan-Hoo; Sutanto, Juliana; Phang, Chee Wei; Gasimov, Anar
+Hong, Yili (Kevin); Pavlou, Paul A.
+Li, Ting; Kauffman, Robert J.; van Heck, Eric; Vervest, Peter; Dellaert, Benedict G. C.
+Langer, Nishtha; Slaughter, Sandra A.; Mukhopadhyay, Tridas
+Wright, Ryan T.; Jensen, Matthew L.; Thatcher, Jason Bennett; Dinger, Michael; Marett, Kent
+Bera, Palash; Burton-Jones, Andrew; Wand, Yair
+Xu, Jingjun (David); Benbasat, Izak; Cenfetelli, Ronald T.
+Hess, Traci J.; McNab, Anna L.; Basoglu, K. Asli
+Howison, James; Crowston, Kevin
+Sykes, Tracy Ann; Venkatesh, Viswanath; Johnson, Jonathan L.
+Martens, David; Provost, Foster
+Dewan, Sanjeev; Ramaprasad, Jui
+Shi, Zhan; Rui, Huaxia; Whinston, Andrew B.
+Tsai, Hsien-Tung; Bagozzi, Richard P.
+Nielsen, Jeppe Agger; Mathiassen, Lars; Newell, Sue
+Jabr, Wael; Mookerjee, Radha; Tan, Yong; Mookerjee, Vijay S.
+Ou, Carol Xiaojuan; Pavlou, Paul A.; Davison, Robert M.
+Etzion, Hila; Pang, Min-Seok
+Mangalaraj, George; Nerur, Sridhar; Mahapatra, RadhaKanta; Price, Kenneth H.
+Kane, Gerald C.; Alavi, Maryam; Labianca, Giuseppe (Joe); Borgatti, Stephen P.
+Chae, Ho-Chang; Koh, Chang E.; Prybutok, Victor R.
+Gregor, Shirley; Lin, Aleck C. H.; Gedeon, Tom; Riaz, Amir; Zhu, Dingyun
+Minas, Randall K.; Potter, Robert F.; Denis, Alan R.; Bartelt, Valerie; Bae, Soyoung
+Riedl, Rene; Mohr, Peter N. C.; Kening, Peter H.; Davis, Fred D.; Hekeren, Hauke R.
+Li, Mengxiang; Jiang, Qiqi; Tan, Chuan-Ho; Wei, Kwok-Kee
+Kuan, Kevin K. Y.; Zhong, Yingqin; Chau, Patrick Y. K.
+de Guinea, Ana Ortiz; Titah, Ryad; Leger, Pierre-Majorique
+vom Brocke, Jan; Liang, Ting-Peng
+Qiu, Liangfei; Rui, Huaxia; Whinston, Andrew B.
+Zhao, Kexin; Xia, Mu
+Lu, Xianghua; Zhao, Xia
+Rai, Arun; Tang, Xinlin
+Meservy, Thomas O.; Jensen, Matthew L.; Fadel, Kelly J.
+Singh, Param Vir; Sahoo, Nachiketa; Mukhopadhyay, Tridas
+Tambe, Prasanna; Hitt, Lorin M.
+Im, Ghiyoung; Rai, Arun
+Kwark, Young; Chen, Jianqing; Raghunathan, Srinivasan
+Hong, Weiyin; Chan, Frank K. Y.; Thong, James Y. L.; Chasalow, Lewis C.; Dhillon, Gurpreet
+Bhattacharya, Shantanu; Gupta, Alok; Hasija, Sameer
+Anderson, Edward G., Jr.; Parker, Geoffrey G.; Tan, Burcu
+Niculescu, Marius F.; Wu, D. J.
+Winkler, Till J.; Brown, Carol V.
+Di Tullio, Dany; Staples, D. Sandy
+Huber, Thomas L.; Fischer, Thomas A.; Dibbern, Jens; Hirschheim, Rudy
+Cao, Lan; Mohan, Kanan; Ramesh, Balasubramaniam; Sarkar, Sumantra
+Tallon, Paul P.; Ramirez, Ronald V.; Short, James E.
+Velu, Chander K.; Madnick, Stuart E.; Van Alstyne, Marshall W.
+Lee, Young-Jin; Tan, Yong
+Astor, Philip J.; Adam, Marc T. P.; Jercic, Petar; Schaaff, Kristina; Weinhardt, Christof
+Ma, Xiao (Sean); Khansa, Lara; Deng, Yun; Kim, Sung S.
+Huang, Liqiang; Tan, Chuan-Hoo; Ke, Weiling; Wei, Kwok-Kee
+Lowry, Paul Benjamin; Moody, Gregory D.; Gaskin, James; Galletta, Dennis F.; Humpherys, Sean L.; Barlow, Jordan B.; Wilson, David W.
+Sun, Heshan
+Xu, Sean Xin; Zhang, Xiaoquan (Michael)
+Vaast, Emmanuelle; Davidson, Elizabeth J.; Mattson, Thomas
+Aggarwal, Rohit; Singh, Harpreet
+Bala, Hillol; Venkatesh, Viswanath
+Sutanto, Juliana; Palme, Elia; Tan, Chuan-Hoo; Phang, Chee Wei
+de Guinea, Ana Ortiz; Webster, Jane
+Posey, Clay; Roberts, Tom L.; Lowry, Paul Benjamin; Bennett, Rebecca J.; Courtney, James F.
+Wayne Gregory, Robert; Beck, Roman; Keil, Mark
+George, Joey F.; Carlson, John R.; Valacich, Joseph S.
+Garg, Rajiv; Telang, Rahul
+Seidel, Stefan; Recker, Jan; vom Brocke, Jan
+Marett, Kent; Otondo, Robert F.; Taylor, G. Stephen
+Loock, Claire-Michelle; Staake, Thorsten; Thiesse, Frederic
+Lin, Mingfeng; Lucas, Henry C., Jr.; Shmueli, Galit
+Menon, Nirup M.; Kohli, Rajiv
+Nandhakumar, Joe; Panourgias, Nikiforos S.; Scarbrough, Harry
+Adomavicius, Gediminas; Bockstedt, Jesse C.; Curley, Shawn P.; Zhang, Jingjing
+Chakravarty, Anindita; Grewal, Rajdeep; Sambamurthy, V.
+De, Prabuddha; Hu, Yu (Jeffrey); Rahman, Mohammad S.
+Ghosh, Suvankar; Li, Xiaolin
+Mani, Deepa; Barua, Anitesh; Whinston, Andrew B.
+Park, JaeHong; Konana, Prabhudev; Gu, Bin; Kumar, Alok; Raghunathan, Rajagopal
+August, Terrence; Shin, Hyoduk; Tunca, Tunay I.
+Peng, Gang; Dey, Debabrata
+Oezpolat, Koray; Gao, Guodong (Gordon); Jank, Wolfgang; Viswanathan, Siva
+Zhang, Chen; Hahn, Jungpil; De, Prabuddha
+Wen, Wen; Forman, Chris; Graham, Stuart J. H.
+Bardhan, Indranil; Krishnan, Viswanathan; Lin, Shu
+Becker, Jan-Michael; Rai, Arun; Ringle, Christian M.; Voelckner, Franziska
+Zhang, Xiaojun; Venkatesh, Viswanath
+da Cunha, Joao Vieira
+Leonardi, Paul M.
+Xu, Jingjun (David); Benbasat, Izak; Cenfetelli, Ronald T.
+Faulkner, Philip; Runde, Jochen
+Volkoff, Olga; Strong, Diane M.
+Allen, David K.; Brown, Andrew; Karanasios, Stan; Norman, Alistair
+Zachariadis, Markos; Scott, Susan; Barrett, Michael
+Njihia, James Muranga; Merali, Yasmin
+Henfridsson, Ola; Bygstad, Bendik
+Williams, Clay K.; Karahanna, Elena
+Dobson, Philip; Jackson, Paul; Gengatharen, Denise
+Goh, Kim Huat; Kauffman, Robert J.
+Kwon, Juhee; Johnson, M. Eric
+Choudhary, Vidyanand; Vithayathil, Joseph
+Bang, Youngsok; Lee, Dong-Joo; Han, Kunsoo; Hwang, Minha; Ahn, Jae-Hyeon
+Rajan, Balaraman; Seidman, Abraham; Dorsey, Earl R.
+Geng, Xianjun; Lee, Young-Jin
+Shi, Zhan; Whinston, Andrew B.
+Luo, Xueming; Zhang, Jie
+Dey, Debabrata; Lahiri, Atanu; Liu, Dengpan
+Markopoulos, Panos M.; Clemons, Eric K.
+Burtch, Gordon; Ghose, Anindya; Wattal, Sunil
+Hann, Il-Horn; Roberts, Jeffrey A.; Slaughter, Sandra A.
+Singh, Param Vir; Phelps, Corey
+Chang, Young Bong; Gurbaxani, Vijay
+Jiang, Zhenhui (Jack); Heng, Cheng Suang; Choi, Ben C. F.
+Lu, Xianghua; Ba, Sulin; Huang, Lihua; Feng, Yue
+Ghose, Anindya; Goldfarb, Avi; Han, Sang Pil
+Burton-Jones, Andrew; Grange, Camille
+Li, Xixi; Hsieh, J. J. Po-An; Rai, Arun
+Thirumalai, Sriram; Sinha, Kingshuk K.
+Racherla, Pradeep; Mandviwalla, Munir
+Bai, Xue; Krishnan, Ramayya; Padman, Rema; Wang, Harry Jiannan
+Chen, Pei-Yu; Wu, Shin-Yi
+Petrakis, Ioannis; Ziegler, Georg; Bichler, Martin
+Wu, D. J.; Ding, Min; Hitt, Lorin M.
+Pant, Gautam; Srinivasan, Padmini
+Sen, Sagnika; Raghu, T. S.
+Kettinger, William J.; Zhang, Chen; Chang, Kuo-Chung
+Wang, Weiquan; Benbasat, Izak
+Gregor, Shirley; Hevner, Alan R.
+Kallinikos, Jannis; Aaltonen, Aleksi; Marton, Attila
+Lucas, Henry C., Jr.; Agarwal, Ritu; Clemons, Eric K.; El Sawy, Omar A.; Weber, Bruce
+Hong, Weiyin; Hess, Traci J.; Hardin, Andrew
+Oh, Onook; Agrawal, Manish; Rao, H. Raghav
+Reinecke, Katharina; Bernstein, Abraham
+Majchrzak, Ann; Wagner, Christian; Yates, Dave
+Bharadwaj, Anandhi; El Sawy, Omar A.; Pavlou, Paul A.; Venkatraman, N.
+Drnevich, Paul L.; Croson, David C.
+Mithas, Sunil; Tafti, Ali; Mitchell, Will
+Woodard, C. Jason; Ramasubbu, Narayan; Tschang, F. Ted; Sambamurthy, V.
+Setia, Pankaj; Venkatesh, Viswanath; Joglekar, Supreet
+Oestreicher-Singer, Gal; Zalmanson, Lior
+Pagani, Margherita
+Granados, Nelson; Gupta, Alok
+Grover, Varun; Kohli, Rajiv
+Karahanna, Elena; Preston, David S.
+Lim, Jee-Hae; Stratopoulos, Theophanis C.; Wirjanto, Tony S.
+Dedrick, Jason; Kraemer, Keneth L.; Shih, Eric
+Zhao, Xia; Xue, Ling; Whinston, Andrew B.
+Lowry, Paul Benjamin; Moody, Gregory D.; Galletta, Denis F.; Vance, Anthony
+Narayanaswamy, Ravi; Grover, Varun; Henry, Raymond M.
+Keith, Mark; Demirkan, Haluk; Goul, Michael
+Porter, Constance Elise; Devaraj, Sarv; Sun, Daewon
+Jensen, Matthew L.; Averbeck, Joshua M.; Zhang, Zhu; Wright, Kevin B.
+Xue, Ling; Zhang, Cheng; Ling, Hong; Zhao, Xia
+Wang, Tawei; Kannan, Karthik N.; Ulmer, Jackie Rees
+Campbell, Damon E.; Wells, John D.; Valacich, Joseph S.
+Venkatesh, Viswanath; Sykes, Tracy Ann
+Chatterjee, Dipanjan; Ravichandran, T.
+Liang, Huigang; Xue, Yajiong; Wu, Liansheng
+Lee, Chul Ho; Geng, Xianjun; Raghunathan, Srinivasan
+Daniel, Sherae; Agarwal, Ritu; Stewart, Katherine J.
+Goh, Kim Huat; Bockstedt, Jesse C.
+Cameron, Ann-Frances; Webster, Jane
+Aloysius, John; Deck, Cary; Farmer, Amy
+Bichler, Martin; Shabalin, Pasha; Ziegler, Georg
+Lahiri, Atanu; Dewan, Rajiv M.; Freimer, Marshall
+Tunca, Tunay I.; Wu, Qiong
+Gupta, Saurabh; Bostrom, Robert
+Im, Kun Shin; Grover, Varun; Teng, James T. C.
+Petter, Stacie; deLone, William; McLean, Ephraim R.
+Benlian, Alexander
+Dulipovici, Alina; Robey, Daniel
+Han, Shu; Kuruzovi, Jason; Chandran, T. Ravi
+Briggs, Robert O.; Kolfschoten, Gwendolyn L.; De Vrede, Gert-Jan; Lukosch, Stephan; Albrecht, Conan C.
+Denis, Alan R.; Minas, Randall K.; Bhagwatwar, Akshay P.
+Stieglitz, Stefan; Dang-Xuan, Linh
+Elkins, Aaron C.; Dunbar, Norah E.; Adame, Bradley; Nunamaker, Jay F., Jr.
