@@ -1,0 +1,10 @@
+articles:100001	1000001	1	articles:100001	a1	s1	y1	k1	ab1	t1	m1	0
+articles:100002	1000002	1	articles:100002	a2	s2	y2	k2	ab2	t2	m2	1
+articles:100003	1000003	1	articles:100003	a3	s3	y3	k3	ab3	t3	m3	2
+articles:100004	1000004	1	articles:100004	a4	s4	y4	k4	ab4	t4	m4	3
+articles:100005	1000005	1	articles:100005	a5	s5	y5	k5	ab5	t5	m5	4
+articles:100006	1000006	1	articles:100006	a6	s6	y6	k6	ab6	t6	m6	5
+articles:100007	1000007	1	articles:100007	a7	s7	y7	k7	ab7	t7	m7	6
+articles:100008	1000008	1	articles:100008	a8	s8	y8	k8	ab8	t8	m8	7
+articles:100009	1000009	1	articles:100009	a9	s9	y9	k9	ab9	t9	m9	8
+articles:100010	1000010	1	articles:100010	a10	s10	y10	k10	ab10	t10	m10	9
