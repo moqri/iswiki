@@ -1,0 +1,13 @@
+xxxx
+
+'''author 3'''
+
+{{author
+| title= [[academic title::]]
+| affiliation=[[university ::]]
+| contact=[mailto:]
+| webpage=
+| research= [[research domain::]]
+| from=[[university ::]]
+| year=[[graduation year::]]}}
+yyyy
