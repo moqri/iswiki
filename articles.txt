@@ -20,3 +20,102 @@ template:article
 
 ---end---
 
+ 
+---start---
+''' BRIDGING THE QUALITATIVE-QUANTITATIVE DIVIDE: GUIDELINES FOR CONDUCTING MIXED METHODS RESEARCH IN INFORMATION SYSTEMS '''
+{{
+template:article
+|author1 = Viswanath Venkatesh | author2 = Susan A. Brown | author3 = Hillol Bala | 
+|source= MIS QUARTERLY
+}}
+
+---end---
+
+ 
+---start---
+''' IMPACT OF INFORMATION FEEDBACK IN CONTINUOUS COMBINATORIAL AUCTIONS: AN EXPERIMENTAL STUDY OF ECONOMIC PERFORMANCE '''
+{{
+template:article
+|author1 = Gediminas Adomavicius | author2 = Shawn P. Curley | author3 = Alok Gupta | author4 = Pallab Sanyal | 
+|source= MIS QUARTERLY
+}}
+
+---end---
+
+ 
+---start---
+''' IT-MEDIATED CUSTOMER SERVICE CONTENT AND DELIVERY IN ELECTRONIC GOVERNMENTS: AN EMPIRICAL INVESTIGATION OF THE ANTECEDENTS OF SERVICE QUALITY '''
+{{
+template:article
+|author1 = Chee-Wee Tan | author2 = Izak Benbasat | author3 = Ronald T. Cenfetelli | 
+|source= MIS QUARTERLY
+}}
+
+---end---
+
+ 
+---start---
+''' DIGITAL GAMES AND BEYOND: WHAT HAPPENS WHEN PLAYERS COMPETE? '''
+{{
+template:article
+|author1 = De Liu | author2 = Xun Li | author3 = Radhika Santhanam | 
+|source= MIS QUARTERLY
+}}
+
+---end---
+
+ 
+---start---
+''' DATA MODEL DEVELOPMENT FOR FIRE RELATED EXTREME EVENTS: AN ACTIVITY THEORY APPROACH '''
+{{
+template:article
+|author1 = Rui Chen | author2 = Raj Sharman | author3 = H. Raghav Rao | author4 = Shambhu J. Upadhyaya | 
+|source= MIS QUARTERLY
+}}
+
+---end---
+
+ 
+---start---
+''' EXAMINING THE RELATIONAL BENEFITS OF IMPROVED INTERFIRM INFORMATION PROCESSING CAPABILITY IN BUYER-SUPPLIER DYADS '''
+{{
+template:article
+|author1 = Eric T. G. Wang | author2 = Jeffrey C. F. Tai | author3 = Varun Grover | 
+|source= MIS QUARTERLY
+}}
+
+---end---
+
+ 
+---start---
+''' INTERNATIONALIZATION STRATEGIES OF CHINESE IT SERVICE SUPPLIERS '''
+{{
+template:article
+|author1 = Ning Su | 
+|source= MIS QUARTERLY
+}}
+
+---end---
+
+ 
+---start---
+''' A RHETORICAL APPROACH TO IT DIFFUSION: RECONCEPTUALIZING THE IDEOLOGY-FRAMING RELATIONSHIP IN COMPUTERIZATION MOVEMENTS '''
+{{
+template:article
+|author1 = Michael Barrett | author2 = Loizos Heracleous | author3 = Geoff Walsham | 
+|source= MIS QUARTERLY
+}}
+
+---end---
+
+ 
+---start---
+''' THE EMBEDDEDNESS OF INFORMATION SYSTEMS HABITS IN ORGANIZATIONAL AND INDIVIDUAL LEVEL ROUTINES: DEVELOPMENT AND DISRUPTION '''
+{{
+template:article
+|author1 = Greta L. Polites | author2 = Elena Karahanna | 
+|source= MIS QUARTERLY
+}}
+
+---end---
+
