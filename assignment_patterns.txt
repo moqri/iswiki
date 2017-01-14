@@ -1,11 +1,3 @@
-articles:100000	article
-articles:100001	article
-articles:100002	article
-articles:100003	article
-articles:100004	article
-articles:100005	article
-articles:100006	article
-articles:100007	article
-articles:100008	article
-articles:100009	article
-articles:100010	article
+insert into data_article values ('articles:100003',100003,0,'articles:100003','a1','s',0,0,0,0,0,0)
+insert into multi_article values (2,'article:100003',100003,0,1,'a1')
+

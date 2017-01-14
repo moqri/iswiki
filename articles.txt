@@ -1,0 +1,24 @@
+ 
+---start---
+
+{{
+template:article
+|title= Using Accountability to Reduce Access Policy Violations in Information Systems
+|author1 = Anthony Vance | author2 = Paul Benjamin Lowry | author3 = Denis Eggett | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+}}
+
+---end---
+
+ 
+---start---
+
+{{
+template:article
+|title= BEYOND DETERRENCE: AN EXPANDED VIEW OF EMPLOYEE COMPUTER ABUSE
+|author1 = Robert Willison | author2 = Merrill Warkentin | 
+|source= MIS QUARTERLY
+}}
+
+---end---
+
