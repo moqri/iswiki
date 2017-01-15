@@ -1,13 +1,2808 @@
-xxxx
+ 
+''' Anthony Vance '''
 
-'''author 3'''
+---start---
 
-{{author
-| title= [[academic title::]]
-| affiliation=[[university ::]]
-| contact=[mailto:]
-| webpage=
-| research= [[research domain::]]
-| from=[[university ::]]
-| year=[[graduation year::]]}}
-yyyy
+{{author papers}}
+
+---end---
+
+ 
+''' Paul Benjamin Lowry '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Denis Eggett '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Robert Willison '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Merrill Warkentin '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Viswanath Venkatesh '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Susan A. Brown '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Hillol Bala '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Gediminas Adomavicius '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Shawn P. Curley '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Alok Gupta '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Pallab Sanyal '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Chee-Wee Tan '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Izak Benbasat '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ronald T. Cenfetelli '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' De Liu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Xun Li '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Radhika Santhanam '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Rui Chen '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Raj Sharman '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' H. Raghav Rao '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Shambhu J. Upadhyaya '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Eric T. G. Wang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jeffrey C. F. Tai '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Varun Grover '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ning Su '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Michael Barrett '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Loizos Heracleous '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Geoff Walsham '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Greta L. Polites '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Elena Karahanna '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ping Zhang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Weiyin Hong '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' James Y. L. Thong '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Yinglei Wang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Darren B. Meister '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Peter H. Gray '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Kunsoo Han '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sunil Mithas '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Christian Hildebrand '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Gerald Haeubl '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Andreas Herrmann '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jan R. Landwehr '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Lynn Wu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Amalia R. Miller '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Catherine Tucker '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Xiaohua Zeng '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Liyuan Wei '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Khim-Yong Goh '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Cheng-Suang Heng '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Zhijie Lin '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Rishika Rishika '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ashish Kumar '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ramkumar Janakiraman '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ram Bezawada '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Xiao Fang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Paul Jen-Hwa Hu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Zhepeng (Lionel) Li '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Weiyu Tsai '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Xueming Luo '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jie Zhang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Wenjing Duan '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Yifan Dou '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Marius F. Niculescu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' D. J. Wu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jorg Claussen '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Tobias Kretschmer '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Philip Mayrhofer '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Masimo Magni '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Corey M. Angst '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ritu Agarwal '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Monica J. Garfield '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Alan R. Denis '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ofer Arazy '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ian R. Gellatly '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Kai-Lung Hui '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Wendy Hui '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Wei T. Yue '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Yan Chen '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' K. (Ram) Ramamurthy '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Kuang-Wei Wen '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Xia Zhao '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ling Xue '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Yinping Yang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sharad Singhal '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Yunjie (Calvin) Xu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Weiling Ke '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Chuan-Ho Tan '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Choon-Ling Sia '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Kwok-Kee Wei '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Xuefei (Nancy) Deng '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Lei Chi '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Gimun Kim '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Bongsik Shin '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ohbyung Kwon '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Deborah Compeau '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Barbara Marcolin '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Helen Kelley '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Chris Higgins '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Eric T. K. Lim '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Chee-Wee Tan '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Dianne Cyr '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Shan L. Pan '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Bo Xiao '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Viswanath Venkatesh '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Hillol Bala '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Xinxin Li '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Yuxin Chen '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Thomas W. Ferratt '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jayesh Prasad '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Harvey G. Enns '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Yongqiang Sun '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Yulin Fang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Kai H. Lim '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Detmar Straub '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Nishtha Langer '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Chris Forman '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sunder Kekre '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Baohong Sun '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Hee-Woong Kim '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Hock Chuan Chan '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Atreyi Kankanhalli '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ben Q. Liu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Dale L. Goodhue '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Wolfgang Ketter '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' John Collins '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Maria Gini '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Alok Gupta '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Paul Schrater '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Lizhen Xu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jianqing Chen '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Andrew Whinston '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jan Kraemer '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Lukas Wiewiorra '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Marius F. Niculescu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Hyoduk Shin '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Seungjin Whang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Heng Xu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Hock-Hai Teo '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Bernard C. Y. Tan '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ritu Agarwal '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Min-Seok Pang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Hila Etzion '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Paulo B. Goes '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Gilbert G. Karuga '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Arvind K. Tripathi '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Young Bong Chang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Vijay Gurbaxani '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' J. J. Po-An Hsieh '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Arun Rai '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Stacie Petter '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ting Zhang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jessica Luo Carlo '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Kalle Lyytinen '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jr. Richard J. Boland '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Alok Gupta '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Dmitry Zhdanov '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jifeng Luo '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sulin Ba '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Han Zhang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Rajiv Kohli '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sarv Devaraj '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Terence T. Ow '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Hsinchun Chen '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Roger H. L. Chiang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Veda C. Storey '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Michael Chau '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jennifer Xu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sung-Hyuk Park '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Soon-Young Huh '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Wonseok Oh '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sang Pil Han '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Raymond Y. K. Lau '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Stephen S. Y. Liao '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' K. F. Wong '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Dickson K. W. Chiu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Daning Hu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' J. Leon Zhao '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Zhimin Hua '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Michael C. S. Wong '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ahmed Abbasi '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Conan Albrecht '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Anthony Vance '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' James Hansen '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Nachiketa Sahoo '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Param Vir Singh '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Tridas Mukhopadhyay '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Xiaoquan (Michael) Zhang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Chong (Alex) Wang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Qian Tang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Bin Gu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Andrew B. Whinston '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Debabrata Dey '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Atanu Lahiri '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Guoying Zhang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ravi Mantena '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Rajib L. Saha '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Li Chen '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' James R. Marsden '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Zhongju Zhang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Xiao Fang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Paul Jen-Hwa Hu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Michael Chau '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Han-fen Hu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Zhuo Yang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Olivia R. Liu Sheng '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Arun Rai '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Mark Keil '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Rob Hornyak '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Kim Wuellenweber '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Corey M. Angst '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sarv Devaraj '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' John D'Arcy '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Aaron Baird '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Michael F. Furukawa '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' T. S. Raghu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Nianxin Wang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Huigang Liang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Weijun Zhong '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Yajiong Xue '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jinghua Xiao '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Prasanna Tambe '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Lorin M. Hitt '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Deepa Mani '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Anitesh Barua '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Andrew B. Whinston '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Zhengrui Jiang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sumit Sarkar '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Varghese S. Jacob '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sharath Sasidharan '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Radhika Santhanam '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Daniel J. Brass '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Vallabh Sambamurthy '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sunil Wattal '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Rahul Telang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Tridas Mukhopadhyay '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Peter Boatwright '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Zhiqiang (Eric) Zheng '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Peter Fader '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Balaji Padmanabhan '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Anuj Kumar '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Rahul Telang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Abhay Nath Mishra '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Catherine Anderson '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Corey M. Angst '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ritu Agarwal '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Lili Yang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Guofeng Su '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Hongyong Yuan '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ramanath Subramanyam '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Narayan Ramasubbu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' M. S. Krishnan '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Kursad Asdemir '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Nanda Kumar '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Varghese S. Jacob '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Zhiling Guo '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Gary J. Koehler '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Andrew B. Whinston '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sinan Aral '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Erik Brynjolfsson '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Marshall Van Alstyne '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Young Bong Chang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Vijay Gurbaxani '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Youngsoo Kim '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ramayya Krishnan '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Linda Argote '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Dengpan Liu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Subodha Kumar '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Vijay S. Mookerjee '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Carol Hsu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jae-Nam Lee '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Detmar W. Straub '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' David Gefen '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Paul A. Pavlou '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Monica Johar '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Nanda Kumar '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Vijay Mookeijee '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Rohit Aggarwal '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Ram Gopal '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Alok Gupta '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Harpreet Singh '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Brian S. Butler '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Xiaoqing Wang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sung-Byung Yang '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jee-Hae Lim '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Wonseok Oh '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Artimesh Animesh '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Alain Pinsonneault '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Juan Feng '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jinhong Xie '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Yuliang Yao '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Kevin Xiaoguo Zhu '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sanjeev Dewan '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jui Ramaprasad '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Marco Caliendo '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Michel Clement '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Dominik Papies '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Sabine Scheel-Kopeinig '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Angelika Dimoka '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Rajiv D. Banker '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Izak Benbasat '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Fred D. Davis '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Alan R. Dennis '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' David Gefen '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Alok Gupta '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Anja Lschebeck '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Peter H. Kenning '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Paul A. Pavlou '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Gernot Mueller-Putz '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Rene Riedl '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Jan vom Brocke '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
+ 
+''' Bernd Weber '''
+
+---start---
+
+{{author papers}}
+
+---end---
+
