@@ -1,0 +1,4 @@
+{{#ask: [[source::{{PAGENAME}}	]] 
+|?author
+|?year
+}}

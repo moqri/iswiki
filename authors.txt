@@ -5,6 +5,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -13,6 +15,8 @@
 ''' Paul Benjamin Lowry '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -23,6 +27,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -31,6 +37,8 @@
 ''' Robert Willison '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -41,6 +49,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -49,6 +59,8 @@
 ''' Viswanath Venkatesh '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -59,6 +71,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -67,6 +81,8 @@
 ''' Hillol Bala '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -77,6 +93,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -86,6 +104,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -94,6 +114,8 @@
 ''' Alok Gupta '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -104,6 +126,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -113,6 +137,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -121,6 +147,8 @@
 ''' Izak Benbasat '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -131,6 +159,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -139,6 +169,8 @@
 ''' De Liu '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -149,6 +181,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -157,6 +191,8 @@
 ''' Radhika Santhanam '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -167,6 +203,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -175,6 +213,8 @@
 ''' Raj Sharman '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -185,6 +225,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -193,6 +235,8 @@
 ''' Shambhu J. Upadhyaya '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -203,6 +247,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -211,6 +257,8 @@
 ''' Jeffrey C. F. Tai '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -221,6 +269,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -229,6 +279,8 @@
 ''' Ning Su '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -239,6 +291,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -247,6 +301,8 @@
 ''' Loizos Heracleous '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -257,6 +313,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -265,6 +323,8 @@
 ''' Greta L. Polites '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -275,6 +335,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -283,6 +345,8 @@
 ''' Ping Zhang '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -293,6 +357,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -301,6 +367,8 @@
 ''' James Y. L. Thong '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -311,6 +379,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -319,6 +389,8 @@
 ''' Darren B. Meister '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -329,6 +401,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -337,6 +411,8 @@
 ''' Kunsoo Han '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -347,6 +423,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -355,6 +433,8 @@
 ''' Christian Hildebrand '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -365,6 +445,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -373,6 +455,8 @@
 ''' Andreas Herrmann '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -383,6 +467,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -391,6 +477,8 @@
 ''' Lynn Wu '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -401,6 +489,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -409,6 +499,8 @@
 ''' Catherine Tucker '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -419,6 +511,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -427,6 +521,8 @@
 ''' Liyuan Wei '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -437,6 +533,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -445,6 +543,8 @@
 ''' Cheng-Suang Heng '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -455,6 +555,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -463,6 +565,8 @@
 ''' Rishika Rishika '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -473,6 +577,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -481,6 +587,8 @@
 ''' Ramkumar Janakiraman '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -491,6 +599,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -500,6 +610,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -508,6 +620,8 @@
 ''' Paul Jen-Hwa Hu '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -518,6 +632,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -526,6 +642,8 @@
 ''' Weiyu Tsai '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -536,6 +654,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -544,6 +664,8 @@
 ''' Jie Zhang '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -554,6 +676,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -563,6 +687,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -571,6 +697,8 @@
 ''' Marius F. Niculescu '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -581,6 +709,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -589,6 +719,8 @@
 ''' Jorg Claussen '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -599,6 +731,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -607,6 +741,8 @@
 ''' Philip Mayrhofer '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -617,6 +753,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -626,6 +764,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -634,6 +774,8 @@
 ''' Ritu Agarwal '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -644,6 +786,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -652,6 +796,8 @@
 ''' Alan R. Denis '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -662,6 +808,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -670,6 +818,8 @@
 ''' Ian R. Gellatly '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -680,6 +830,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -688,6 +840,8 @@
 ''' Wendy Hui '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -698,6 +852,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -706,6 +862,8 @@
 ''' Yan Chen '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -716,6 +874,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -724,6 +884,8 @@
 ''' Kuang-Wei Wen '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -734,6 +896,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -742,6 +906,8 @@
 ''' Ling Xue '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -752,6 +918,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -760,6 +928,8 @@
 ''' Sharad Singhal '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -770,6 +940,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -778,6 +950,8 @@
 ''' Weiling Ke '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -788,6 +962,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -796,6 +972,8 @@
 ''' Choon-Ling Sia '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -806,6 +984,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -814,6 +994,8 @@
 ''' Xuefei (Nancy) Deng '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -824,6 +1006,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -832,6 +1016,8 @@
 ''' Gimun Kim '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -842,6 +1028,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -850,6 +1038,8 @@
 ''' Ohbyung Kwon '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -860,6 +1050,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -868,6 +1060,8 @@
 ''' Barbara Marcolin '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -878,6 +1072,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -886,6 +1082,8 @@
 ''' Chris Higgins '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -896,6 +1094,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -904,6 +1104,8 @@
 ''' Chee-Wee Tan '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -914,6 +1116,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -922,6 +1126,8 @@
 ''' Shan L. Pan '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -932,6 +1138,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -940,6 +1148,8 @@
 ''' Viswanath Venkatesh '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -950,6 +1160,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -958,6 +1170,8 @@
 ''' Xinxin Li '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -968,6 +1182,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -976,6 +1192,8 @@
 ''' Thomas W. Ferratt '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -986,6 +1204,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -994,6 +1214,8 @@
 ''' Harvey G. Enns '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1004,6 +1226,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1012,6 +1236,8 @@
 ''' Yulin Fang '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1022,6 +1248,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1030,6 +1258,8 @@
 ''' Detmar Straub '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1040,6 +1270,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1048,6 +1280,8 @@
 ''' Chris Forman '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1058,6 +1292,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1066,6 +1302,8 @@
 ''' Baohong Sun '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1076,6 +1314,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1084,6 +1324,8 @@
 ''' Hock Chuan Chan '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1094,6 +1336,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1102,6 +1346,8 @@
 ''' Ben Q. Liu '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1112,6 +1358,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1120,6 +1368,8 @@
 ''' Wolfgang Ketter '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1130,6 +1380,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1139,6 +1391,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1147,6 +1401,8 @@
 ''' Alok Gupta '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1157,6 +1413,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1165,6 +1423,8 @@
 ''' Lizhen Xu '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1175,6 +1435,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1183,6 +1445,8 @@
 ''' Andrew Whinston '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1193,6 +1457,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1201,6 +1467,8 @@
 ''' Lukas Wiewiorra '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1211,6 +1479,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1219,6 +1489,8 @@
 ''' Hyoduk Shin '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1229,6 +1501,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1237,6 +1511,8 @@
 ''' Heng Xu '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1247,6 +1523,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1256,6 +1534,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1264,6 +1544,8 @@
 ''' Ritu Agarwal '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1274,6 +1556,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1282,6 +1566,8 @@
 ''' Hila Etzion '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1292,6 +1578,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1300,6 +1588,8 @@
 ''' Gilbert G. Karuga '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1310,6 +1600,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1319,6 +1611,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1327,6 +1621,8 @@
 ''' Vijay Gurbaxani '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1337,6 +1633,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1345,6 +1643,8 @@
 ''' Arun Rai '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1355,6 +1655,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1363,6 +1665,8 @@
 ''' Ting Zhang '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1373,6 +1677,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1381,6 +1687,8 @@
 ''' Kalle Lyytinen '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1391,6 +1699,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1399,6 +1709,8 @@
 ''' Alok Gupta '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1409,6 +1721,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1417,6 +1731,8 @@
 ''' Jifeng Luo '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1427,6 +1743,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1435,6 +1753,8 @@
 ''' Han Zhang '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1445,6 +1765,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1453,6 +1775,8 @@
 ''' Sarv Devaraj '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1463,6 +1787,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1471,6 +1797,8 @@
 ''' Hsinchun Chen '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1481,6 +1809,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1490,6 +1820,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1498,6 +1830,8 @@
 ''' Michael Chau '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1508,6 +1842,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1516,6 +1852,8 @@
 ''' Sung-Hyuk Park '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1526,6 +1864,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1534,6 +1874,8 @@
 ''' Wonseok Oh '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1544,6 +1886,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1552,6 +1896,8 @@
 ''' Raymond Y. K. Lau '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1562,6 +1908,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1570,6 +1918,8 @@
 ''' K. F. Wong '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1580,6 +1930,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1588,6 +1940,8 @@
 ''' Daning Hu '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1598,6 +1952,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1606,6 +1962,8 @@
 ''' Zhimin Hua '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1616,6 +1974,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1624,6 +1984,8 @@
 ''' Ahmed Abbasi '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1634,6 +1996,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1642,6 +2006,8 @@
 ''' Anthony Vance '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1652,6 +2018,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1660,6 +2028,8 @@
 ''' Nachiketa Sahoo '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1670,6 +2040,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1678,6 +2050,8 @@
 ''' Tridas Mukhopadhyay '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1688,6 +2062,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1696,6 +2072,8 @@
 ''' Chong (Alex) Wang '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1706,6 +2084,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1715,6 +2095,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1723,6 +2105,8 @@
 ''' Andrew B. Whinston '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1733,6 +2117,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1741,6 +2127,8 @@
 ''' Atanu Lahiri '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1751,6 +2139,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1759,6 +2149,8 @@
 ''' Ravi Mantena '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1769,6 +2161,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1777,6 +2171,8 @@
 ''' Li Chen '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1787,6 +2183,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1795,6 +2193,8 @@
 ''' Zhongju Zhang '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1805,6 +2205,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1813,6 +2215,8 @@
 ''' Paul Jen-Hwa Hu '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1823,6 +2227,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1831,6 +2237,8 @@
 ''' Han-fen Hu '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1841,6 +2249,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1849,6 +2259,8 @@
 ''' Olivia R. Liu Sheng '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1859,6 +2271,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1867,6 +2281,8 @@
 ''' Mark Keil '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1877,6 +2293,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1886,6 +2304,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1894,6 +2314,8 @@
 ''' Corey M. Angst '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1904,6 +2326,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1912,6 +2336,8 @@
 ''' John D'Arcy '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1922,6 +2348,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1930,6 +2358,8 @@
 ''' Michael F. Furukawa '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1940,6 +2370,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1948,6 +2380,8 @@
 ''' Nianxin Wang '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1958,6 +2392,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1966,6 +2402,8 @@
 ''' Weijun Zhong '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1976,6 +2414,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -1984,6 +2424,8 @@
 ''' Jinghua Xiao '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -1994,6 +2436,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2002,6 +2446,8 @@
 ''' Lorin M. Hitt '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2012,6 +2458,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2021,6 +2469,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2029,6 +2479,8 @@
 ''' Andrew B. Whinston '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2039,6 +2491,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2048,6 +2502,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2056,6 +2512,8 @@
 ''' Varghese S. Jacob '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2066,6 +2524,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2074,6 +2534,8 @@
 ''' Radhika Santhanam '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2084,6 +2546,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2092,6 +2556,8 @@
 ''' Vallabh Sambamurthy '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2102,6 +2568,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2110,6 +2578,8 @@
 ''' Rahul Telang '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2120,6 +2590,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2128,6 +2600,8 @@
 ''' Peter Boatwright '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2138,6 +2612,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2146,6 +2622,8 @@
 ''' Peter Fader '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2156,6 +2634,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2164,6 +2644,8 @@
 ''' Anuj Kumar '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2174,6 +2656,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2182,6 +2666,8 @@
 ''' Abhay Nath Mishra '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2192,6 +2678,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2200,6 +2688,8 @@
 ''' Corey M. Angst '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2210,6 +2700,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2218,6 +2710,8 @@
 ''' Lili Yang '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2228,6 +2722,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2236,6 +2732,8 @@
 ''' Hongyong Yuan '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2246,6 +2744,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2254,6 +2754,8 @@
 ''' Narayan Ramasubbu '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2264,6 +2766,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2273,6 +2777,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2281,6 +2787,8 @@
 ''' Nanda Kumar '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2291,6 +2799,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2299,6 +2809,8 @@
 ''' Zhiling Guo '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2309,6 +2821,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2317,6 +2831,8 @@
 ''' Andrew B. Whinston '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2327,6 +2843,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2335,6 +2853,8 @@
 ''' Erik Brynjolfsson '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2345,6 +2865,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2353,6 +2875,8 @@
 ''' Young Bong Chang '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2363,6 +2887,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2371,6 +2897,8 @@
 ''' Youngsoo Kim '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2381,6 +2909,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2389,6 +2919,8 @@
 ''' Linda Argote '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2399,6 +2931,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2407,6 +2941,8 @@
 ''' Subodha Kumar '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2417,6 +2953,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2425,6 +2963,8 @@
 ''' Carol Hsu '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2435,6 +2975,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2443,6 +2985,8 @@
 ''' Detmar W. Straub '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2453,6 +2997,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2461,6 +3007,8 @@
 ''' Paul A. Pavlou '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2471,6 +3019,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2479,6 +3029,8 @@
 ''' Nanda Kumar '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2489,6 +3041,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2497,6 +3051,8 @@
 ''' Rohit Aggarwal '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2507,6 +3063,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2515,6 +3073,8 @@
 ''' Alok Gupta '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2525,6 +3085,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2533,6 +3095,8 @@
 ''' Brian S. Butler '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2543,6 +3107,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2551,6 +3117,8 @@
 ''' Sung-Byung Yang '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2561,6 +3129,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2569,6 +3139,8 @@
 ''' Wonseok Oh '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2579,6 +3151,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2587,6 +3161,8 @@
 ''' Alain Pinsonneault '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2597,6 +3173,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2605,6 +3183,8 @@
 ''' Jinhong Xie '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2615,6 +3195,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2623,6 +3205,8 @@
 ''' Kevin Xiaoguo Zhu '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2633,6 +3217,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2641,6 +3227,8 @@
 ''' Jui Ramaprasad '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2651,6 +3239,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2659,6 +3249,8 @@
 ''' Michel Clement '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2669,6 +3261,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2677,6 +3271,8 @@
 ''' Sabine Scheel-Kopeinig '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2687,6 +3283,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2695,6 +3293,8 @@
 ''' Rajiv D. Banker '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2705,6 +3305,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2713,6 +3315,8 @@
 ''' Fred D. Davis '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2723,6 +3327,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2731,6 +3337,8 @@
 ''' David Gefen '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2741,6 +3349,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2749,6 +3359,8 @@
 ''' Anja Lschebeck '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2759,6 +3371,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2767,6 +3381,8 @@
 ''' Paul A. Pavlou '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2777,6 +3393,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2785,6 +3403,8 @@
 ''' Rene Riedl '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
@@ -2795,6 +3415,8 @@
 
 {{author papers}}
 
+[[Category::author]]
+
 ---end---
 
 
@@ -2803,6 +3425,8 @@
 ''' Bernd Weber '''
 
 {{author papers}}
+
+[[Category::author]]
 
 ---end---
 
