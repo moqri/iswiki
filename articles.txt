@@ -9,7 +9,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -24,7 +24,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -39,7 +39,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -54,7 +54,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -69,7 +69,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -84,7 +84,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -99,7 +99,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -114,7 +114,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -129,7 +129,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -144,7 +144,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -159,7 +159,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -174,7 +174,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -189,7 +189,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -204,7 +204,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -219,7 +219,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -234,7 +234,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -249,7 +249,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -264,7 +264,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -279,7 +279,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -294,7 +294,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -309,7 +309,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -324,7 +324,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -339,7 +339,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -354,7 +354,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -369,7 +369,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -384,7 +384,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -399,7 +399,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -414,7 +414,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -429,7 +429,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -444,7 +444,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -459,7 +459,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -474,7 +474,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -489,7 +489,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -504,7 +504,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -519,7 +519,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -534,7 +534,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -549,7 +549,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -564,7 +564,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -579,7 +579,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -594,7 +594,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -609,7 +609,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -624,7 +624,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -639,7 +639,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -654,7 +654,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -669,7 +669,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -684,7 +684,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -699,7 +699,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -714,7 +714,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -729,7 +729,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -744,7 +744,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -759,7 +759,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -774,7 +774,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -789,7 +789,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -804,7 +804,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -819,7 +819,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -834,7 +834,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -849,7 +849,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -864,7 +864,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -879,7 +879,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -894,7 +894,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -909,7 +909,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -924,7 +924,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -939,7 +939,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -954,7 +954,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -969,7 +969,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -984,7 +984,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -999,7 +999,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1014,7 +1014,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1029,7 +1029,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1044,7 +1044,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1059,7 +1059,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1074,7 +1074,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1089,7 +1089,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1104,7 +1104,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1119,7 +1119,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1134,7 +1134,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1149,7 +1149,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1164,7 +1164,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1179,7 +1179,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1194,7 +1194,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1209,7 +1209,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1224,7 +1224,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1239,7 +1239,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1254,7 +1254,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1269,7 +1269,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1284,7 +1284,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1299,7 +1299,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1314,7 +1314,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1329,7 +1329,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1344,7 +1344,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1359,7 +1359,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1374,7 +1374,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1389,7 +1389,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1404,7 +1404,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1419,7 +1419,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1434,7 +1434,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1449,7 +1449,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1464,7 +1464,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1479,7 +1479,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1494,7 +1494,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
@@ -1509,7 +1509,7 @@ template:article
 
 }}
 
-[[Category::article]]
+[[Category:article]]
 
 ---end---
 
