@@ -1513,3 +1513,1503 @@ template:article
 
 ---end---
 
+ 
+---start---
+''' COMPARING PLS TO REGRESSION AND LISREL: A RESPONSE TO MARCOULIDES, CHIN, AND SAUNDERS '''
+{{
+template:article
+|author1 = Dale L. Goodhue | author2 = William Lewis | author3 = Ron Thompson | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' GENERALIZATION AND INDUCTION: MISCONCEPTIONS, CLARIFICATIONS, AND A CLASSIFICATION OF INDUCTION '''
+{{
+template:article
+|author1 = Eric W. K. Tsang | author2 = John N. Williams | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' CONCEPTUALIZING GENERALIZABILITY: NEW CONTRIBUTIONS AND A REPLY '''
+{{
+template:article
+|author1 = Allen S. Lee | author2 = Richard L. Baskerville | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' THE ROLES OF THEORY IN CANONICAL ACTION RESEARCH '''
+{{
+template:article
+|author1 = Robert M. Davison | author2 = Maris G. Martinsons | author3 = Carol X. J. Ou | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' PRINCIPLES FOR CONDUCTING CRITICAL REALIST CASE STUDY RESEARCH IN INFORMATION SYSTEMS '''
+{{
+template:article
+|author1 = Jr. Donald Wynn | author2 = Clay K. Williams | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' HOW TO CONDUCT A FUNCTIONAL MAGNETIC RESONANCE (FMRI) STUDY IN SOCIAL SCIENCE RESEARCH '''
+{{
+template:article
+|author1 = Angelika Dimoka | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' BUILDING MEMBER ATTACHMENT IN ONLINE COMMUNITIES: APPLYING THEORIES OF GROUP IDENTITY AND INTERPERSONAL BONDS '''
+{{
+template:article
+|author1 = Yuqing Ren | author2 = F. Maxwell Harper | author3 = Sara Drenner | author4 = Loren Terveen | author5 = Sara Kiesler | author6 = John Riedl | author7 = Robert E. Kraut | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' A KNOWLEDGE-BASED MODEL OF RADICAL INNOVATION IN SMALL SOFTWARE FIRMS '''
+{{
+template:article
+|author1 = Jessica Luo Carlo | author2 = Kalle Lyytinen | author3 = Gregory M. Rose | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' INFORMATION TECHNOLOGY IMPLEMENTERS' RESPONSES TO USER RESISTANCE: NATURE AND EFFECTS '''
+{{
+template:article
+|author1 = Suzanne Rivard | author2 = Liette Lapointe | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' STANDARDS COMPETITION IN THE PRESENCE OF DIGITAL CONVERSION TECHNOLOGY: AN EMPIRICAL ANALYSIS OF THE FLASH MEMORY CARD MARKET '''
+{{
+template:article
+|author1 = Charles Zhechao Liu | author2 = Chris F. Kemerer | author3 = Sandra A. Slaughter | author4 = Michael D. Smith | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' A RESEARCH NOTE ON REPRESENTING PART-WHOLE RELATIONS IN CONCEPTUAL MODELING '''
+{{
+template:article
+|author1 = Gove N. Allen | author2 = Salvatore T. March | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' THE HOLE IN THE WHOLE: A RESPONSE TO ALLEN AND MARCH '''
+{{
+template:article
+|author1 = Graeme Shanks | author2 = Ron Weber | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' DOES PLS HAVE ADVANTAGES FOR SMALL SAMPLE SIZE OR NON-NORMAL DATA? '''
+{{
+template:article
+|author1 = Dale L. Goodhue | author2 = William Lewis | author3 = Ron Thompson | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' ASSESSING COMMON METHOD BIAS: PROBLEMS WITH THE ULMC TECHNIQUE '''
+{{
+template:article
+|author1 = Wynne W. Chin | author2 = Jason Bennett Thatcher | author3 = Ryan T. Wright | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Novelty-Knowledge Alignment: A Theory of Design Convergence in Systems Development '''
+{{
+template:article
+|author1 = Amrit Tiwana | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' The Effect of an Initial Budget and Schedule Goal on Software Project Escalation '''
+{{
+template:article
+|author1 = Jong Seok Lee | author2 = Mark Keil | author3 = Vijay Kasi | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' What's the Weather Like? The Effect of Team Learning Climate, Empowerment Climate, and Gender on Individuals' Technology Exploration and Use '''
+{{
+template:article
+|author1 = Likoebe M. Maruping | author2 = Massimo Magni | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Contract Performance in Offshore Systems Development: Role of Control Mechanisms '''
+{{
+template:article
+|author1 = Shirish C. Srivastava | author2 = Thompson S. H. Teo | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' The Impact of Information Technology Investments on Downside Risk of the Firm: Alternative Measurement of the Business Value of IT '''
+{{
+template:article
+|author1 = Samual Otim | author2 = Kevin E. Dow | author3 = Varun Grover | author4 = Jeffrey A. Wong | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Vertical Differentiation and a Comparison of Online Advertising Models '''
+{{
+template:article
+|author1 = Mei Lin | author2 = Xuqing Ke | author3 = Andrew B. Whinston | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Differential Effects of Provider Recommendations and Consumer Reviews in E-Commerce Transactions: An Experimental Study '''
+{{
+template:article
+|author1 = Alexander Benlian | author2 = Ryad Titah | author3 = Thomas Hess | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Attracted to or Locked In? Predicting Continuance Intention in Social Virtual World Services '''
+{{
+template:article
+|author1 = Zhongyun (Phil) Zhou | author2 = Yulin Fang | author3 = Douglas R. Vogel | author4 = Xiao-Ling Jin | author5 = Xi Zhang | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' The Effects of Self-Regulated Learning Processes on E-Learning Outcomes in Organizational Settings '''
+{{
+template:article
+|author1 = Zeying Wan | author2 = Deborah Compeau | author3 = Nicole Haggerty | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Cost-Sensitive Learning via Priority Sampling to Improve the Return on Marketing and CRM Investment '''
+{{
+template:article
+|author1 = Geng Cui | author2 = Man Leung Wong | author3 = Xiang Wan | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Are New IT-Enabled Investment Opportunities Diminishing for Firms? '''
+{{
+template:article
+|author1 = Brian L. Dos Santos | author2 = Zhiqiang (Eric) Zheng | author3 = Vijay S. Mookerjee | author4 = Hongyu Chen | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Blog, Blogger, and the Firm: Can Negative Employee Posts Lead to Positive Outcomes? '''
+{{
+template:article
+|author1 = Rohit Aggarwal | author2 = Ram Gopal | author3 = Ramesh Sankaranarayanan | author4 = Param Vir Singh | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Ambidexterity in Agile Distributed Development: An Empirical Investigation '''
+{{
+template:article
+|author1 = Balasubramaniam Ramesh | author2 = Kannan Mohan | author3 = Lan Cao | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Relative Industry Concentration and Customer-Driven IT Spillovers '''
+{{
+template:article
+|author1 = Zhuo (June) Cheng | author2 = Barrie R. Nault | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Cooperative Cashing? An Economic Analysis of Document Duplication in Cooperative Web Caching '''
+{{
+template:article
+|author1 = Kartik Hosanagar | author2 = Yong Tan | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Institutional Contradictions and Loose Coupling: Postimplementation of NASA's Enterprise Information System '''
+{{
+template:article
+|author1 = Nicholas Berente | author2 = Youngjin Yoo | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Modeling Supply-Side Dynamics of IT Components, Products, and Infrastructure: An Empirical Analysis Using Vector Autoregression '''
+{{
+template:article
+|author1 = Gediminas Adomavicius | author2 = Jesse Bockstedt | author3 = Alok Gupta | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Performance Implications of CRM Technology Use: A Multilevel Field Study of Business Customers and Their Providers in the Telecommunications Industry '''
+{{
+template:article
+|author1 = Alex R. Zablah | author2 = Danny N. Bellenger | author3 = Detmar W. Straub | author4 = Wesley J. Johnston | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Reputation and Uncertainty in Online Markets: An Experimental Study '''
+{{
+template:article
+|author1 = Sarah C. Rice | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Managing Data Quality Risk in Accounting Information Systems '''
+{{
+template:article
+|author1 = Xue Bai | author2 = Manuel Nunez | author3 = Jayant R. Kalagnanam | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Expectation Confirmation in Technology Use '''
+{{
+template:article
+|author1 = Susan A. Brown | author2 = Viswanath Venkatesh | author3 = Sandeep Goyal | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Optimal Software Free Trial Strategy: The Impact of Network Externalities and Consumer Uncertainty '''
+{{
+template:article
+|author1 = Hsing Kenneth Cheng | author2 = Yipeng Liu | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' SOA Performance Enhancement Through XML Fragment Caching '''
+{{
+template:article
+|author1 = Anindya Datta | author2 = Kaushik Dutta | author3 = Qianhui Liang | author4 = Debra VanderMeer | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Lock-In Strategy in Software Competition: Open-Source Software vs. Proprietary Software '''
+{{
+template:article
+|author1 = Kevin Xiaoguo Zhu | author2 = Zach Zhizhong Zhou | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Trust Is in the Eye of the Beholder: A Vignette Study of Postevent Behavioral Controls' Effects on Individual Trust in Virtual Teams '''
+{{
+template:article
+|author1 = Alan R. Dennis | author2 = Jr. Lionel P. Robert | author3 = Aaron M. Curtis | author4 = Stacy T. Kowalczyk | author5 = Bryan K. Hasty | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Generating Shareable Statistical Databases for Business Value: Multiple Imputation with Multimodal Perturbation '''
+{{
+template:article
+|author1 = Nigel Melville | author2 = Michael McQuaid | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Online Price Dispersion: A Game-Theoretic Perspective and Empirical Evidence '''
+{{
+template:article
+|author1 = Sulin Ba | author2 = Jan Stallaert | author3 = Zhongju Zhang | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' OPEN KNOWLEDGE CREATION: BRINGING TRANSPARENCY AND INCLUSIVENESS TO THE PEER REVIEW PROCESS '''
+{{
+template:article
+|author1 = Donald E. Hardaway | author2 = Richard W. Scamell | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' STYLE COMPOSITION IN ACTION RESEARCH PUBLICATION '''
+{{
+template:article
+|author1 = Lars Mathiassen | author2 = Mike Chiasson | author3 = Matt Germonprez | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' CAN ONLINE WAIT BE MANAGED? THE EFFECTS OF FILLER INTERFACES AND PRESENTATION MODES ON PERCEIVED WAITING TIME ONLINE '''
+{{
+template:article
+|author1 = Younghwa Lee | author2 = Andrew N. K. Chen | author3 = Virginia Ilie | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' ON PRODUCT UNCERTAINTY IN ONLINE MARKETS: THEORY AND EVIDENCE '''
+{{
+template:article
+|author1 = Angelika Dimoka | author2 = Yili Hong | author3 = Paul A. Pavlou | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' THE CAREER PATHS LESS (OR MORE) TRAVELED: A SEQUENCE ANALYSIS OF IT CAREER HISTORIES, MOBILITY PATTERNS, AND CAREER SUCCESS '''
+{{
+template:article
+|author1 = Damien Joseph | author2 = Wai Fong Boh | author3 = Soon Ang | author4 = Sandra A. Slaughter | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' UNDERSTANDING USER REVISIONS WHEN USING INFORMATION SYSTEM FEATURES: ADAPTIVE SYSTEM USE AND TRIGGERS '''
+{{
+template:article
+|author1 = Heshan Sun | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' A COST-BASED DATABASE REQUEST DISTRIBUTION TECHNIQUE FOR ONLINE E-COMMERCE APPLICATIONS '''
+{{
+template:article
+|author1 = Debra VanderMeer | author2 = Kaushik Dutta | author3 = Anindya Datta | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' EFFICIENCY OR INNOVATION: HOW DO INDUSTRY ENVIRONMENTS MODERATE THE EFFECTS OF FIRMS' IT ASSET PORTFOLIOS? '''
+{{
+template:article
+|author1 = Ling Xue | author2 = Gautam Ray | author3 = Vallabh Sambamurthy | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' TOWARD A NEW THEORY OF THE CONTRIBUTION OF THE IT FUNCTION IN ORGANIZATIONS '''
+{{
+template:article
+|author1 = Manon G. Guillemette | author2 = Guy Pare | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' THE ASYMMETRIC BENEFITS OF RELATIONAL FLEXIBILITY: EVIDENCE FROM SOFTWARE DEVELOPMENT OUTSOURCING '''
+{{
+template:article
+|author1 = Anandasivam Gopal | author2 = Balaji R. Koka | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' ENACTING CLAN CONTROL IN COMPLEX IT PROJECTS: A SOCIAL CAPITAL PERSPECTIVE '''
+{{
+template:article
+|author1 = Cecil Eng Huang Chua | author2 = Wee-Kiat Lim | author3 = Christina Soh | author4 = Siew Kien Sia | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' IS EMPLOYEE ATTITUDES AND PERCEPTIONS AT VARYING LEVELS OF SOFTWARE PROCESS MATURITY '''
+{{
+template:article
+|author1 = Janet K. Ply | author2 = Jo Ellen Moore | author3 = Clay K. Williams | author4 = Jason Bennett Thatcher | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' ABSORPTIVE CAPACITY AND INFORMATION SYSTEMS RESEARCH: REVIEW, SYNTHESIS, AND DIRECTIONS FOR FUTURE RESEARCH '''
+{{
+template:article
+|author1 = Nicholas Roberts | author2 = Pamela S. Galluch | author3 = Michael Dinger | author4 = Varun Grover | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' CARROTS AND RAINBOWS: MOTIVATION AND SOCIAL PRACTICE IN OPEN SOURCE SOFTWARE DEVELOPMENT '''
+{{
+template:article
+|author1 = Georg von Krogh | author2 = Stefan Haefliger | author3 = Sebastian Spaeth | author4 = Martin W. Wallin | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Two Rule-Based Natural Language Strategies for Requirements Discovery and Classification in Open Source Software Development Projects '''
+{{
+template:article
+|author1 = Radu E. Vlas | author2 = William N. Robinson | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Supporting Agile Organizations with a Decision Guidance Query Language '''
+{{
+template:article
+|author1 = Alexander Brodsky | author2 = Nathan E. Egge | author3 = X. Sean Wang | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Understanding Technology Support for Organizational Transactive Memory: Requirements, Application, and Customization '''
+{{
+template:article
+|author1 = Dorit Nevo | author2 = Izak Benbasat | author3 = Yair Wand | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Theory-Informed Design and Evaluation of an Advanced Search and Knowledge Mapping System in Nanotechnology '''
+{{
+template:article
+|author1 = Yan Dang | author2 = Yulei Zhang | author3 = Hsinchun Chen | author4 = Susan A. Brown | author5 = Paul Jen-Hwa Hu | author6 = Jr. Jay F. Nunamaker | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Facilitation Roles and Responsibilities for Sustained Collaboration Support in Organizations '''
+{{
+template:article
+|author1 = Gwendolyn L. Kolfschoten | author2 = Fred Niederman | author3 = Robert O. Briggs | author4 = Gert-Jan De Vreede | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Going Concerns: The Governance of Interorganizational Coordination Hubs '''
+{{
+template:article
+|author1 = M. Lynne Markus | author2 = Quang Neo Bui | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Effect of Information Feedback on the Outcomes and Dynamics of Multisourcing Multiattribute Procurement Auctions '''
+{{
+template:article
+|author1 = Gediminas Adomavicius | author2 = Alok Gupta | author3 = Pallab Sanyal | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Leveraging Information Technology Infrastructure to Facilitate a Firm's Customer Agility and Competitive Activity: An Empirical Investigation '''
+{{
+template:article
+|author1 = Nicholas Roberts | author2 = Varun Grover | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Methodology Mashups: An Exploration of Processes Used to Maintain Software '''
+{{
+template:article
+|author1 = Dana Edberg | author2 = Polina Ivanova | author3 = William Kuechler | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Patch Release Behaviors of Software Vendors in Response to Vulnerabilities: An Empirical Analysis '''
+{{
+template:article
+|author1 = Orcun Temizkan | author2 = Ram L. Kumar | author3 = SungJune Park | author4 = Chandrasekar Subramaniam | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Moving Beyond the Single Site Implementation Study: How (and Why) We Should Study the Biography of Packaged Enterprise Solutions '''
+{{
+template:article
+|author1 = Robin Williams | author2 = Neil Pollock | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Social Networks and the Diffusion of User-Generated Content: Evidence from YouTube '''
+{{
+template:article
+|author1 = Anjana Susarla | author2 = Jeong-Ha Oh | author3 = Yong Tan | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Information Technology and Intangible Output: The Impact of IT Investment on Innovation Productivity '''
+{{
+template:article
+|author1 = Landon Kleis | author2 = Paul Chwelos | author3 = Ronald V. Ramirez | author4 = Iain Cockburn | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Competitive Behavior-Based Price Discrimination for Software Upgrades '''
+{{
+template:article
+|author1 = Amit Mehra | author2 = Ram Bala | author3 = Ramesh Sankaranarayanan | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Effects of Information Revelation Policies Under Cost Uncertainty '''
+{{
+template:article
+|author1 = Karthik N. Kannan | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Switching Costs, Network Effects, and Competition in the European Mobile Telecommunications Industry '''
+{{
+template:article
+|author1 = Lucio Fuentelsaz | author2 = Juan Pablo Maicas | author3 = Yolanda Polo | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Modeling Spatial and Temporal Set-Based Constraints During Conceptual Database Design '''
+{{
+template:article
+|author1 = Faiz Currim | author2 = Sudha Ram | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' IT Outsourcing Contracts and Performance Measurement '''
+{{
+template:article
+|author1 = David Fitoussi | author2 = Vijay Gurbaxani | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' How Peripheral Developers Contribute to Open-Source Software Development '''
+{{
+template:article
+|author1 = Pankaj Setia | author2 = Balaji Rajagopalan | author3 = Vallabh Sambamurthy | author4 = Roger Calantone | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Online and Offline Demand and Price Elasticities: Evidence from the Air Travel Industry '''
+{{
+template:article
+|author1 = Nelson Granados | author2 = Alok Gupta | author3 = Robert J. Kauffman | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' The Impact of External Word-of-Mouth Sources on Retailer Sales of High-Involvement Products '''
+{{
+template:article
+|author1 = Bin Gu | author2 = Jaehong Park | author3 = Prabhudev Konana | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Online Users' Switching Costs: Their Nature and Formation '''
+{{
+template:article
+|author1 = Soumya Ray | author2 = Sung S. Kim | author3 = James G. Morris | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' A Multilevel Analysis of the Effect of Group Appropriation on Collaborative Technologies Use and Performance '''
+{{
+template:article
+|author1 = Sora Kang | author2 = Kai H. Lim | author3 = Min Soo Kim | author4 = Hee-Dong Yang | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' The Halo Effect in Multicomponent Ratings and Its Implications for Recommender Systems: The Case of Yahoo! Movies '''
+{{
+template:article
+|author1 = Nachiketa Sahoo | author2 = Ramayya Krishnan | author3 = George Duncan | author4 = Jamie Callan | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' To Continue Sharing or Not to Continue Sharing? An Empirical Analysis of User Decision in Peer-to-Peer Sharing Networks '''
+{{
+template:article
+|author1 = Mu Xia | author2 = Yun Huang | author3 = Wenjing Duan | author4 = Andrew B. Whinston | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Codiffusion of Wireless Voice and Data Services: An Empirical Analysis of the Japanese Mobile Telecommunications Market '''
+{{
+template:article
+|author1 = Marius F. Niculescu | author2 = Seungjin Whang | 
+|source= INFORMATION SYSTEMS RESEARCH
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' THE ENDS OF INFORMATION SYSTEMS RESEARCH: A PRAGMATIC FRAMEWORK '''
+{{
+template:article
+|author1 = Panos Constantinides | author2 = Mike W. Chiasson | author3 = Lucas D. Introna | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' SHACKLED TO THE STATUS QUO: THE INHIBITING EFFECTS OF INCUMBENT SYSTEM HABIT, SWITCHING COSTS, AND INERTIA ON NEW SYSTEM ACCEPTANCE '''
+{{
+template:article
+|author1 = Greta L. Polites | author2 = Elena Karahanna | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' ARE MARKETS FOR VULNERABILITIES EFFECTIVE? '''
+{{
+template:article
+|author1 = Sam Ransbotham | author2 = Sabyaschi Mitra | author3 = Jon Ramsey | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' RECOMMENDATION NETWORKS AND THE LONG TAIL OF ELECTRONIC COMMERCE '''
+{{
+template:article
+|author1 = Gal Oestreicher-Singer | author2 = Arun Sundararajan | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' THE IMPACT OF ANALYST-INDUCED MISINFORMATION ON THE REQUIREMENTS ELICITATION PROCESS '''
+{{
+template:article
+|author1 = Radha Appan | author2 = Glenn J. Browne | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' HUMAN CAPITAL DEVELOPMENT FOR PROGRAMMERS USING OPEN SOURCE SOFTWARE '''
+{{
+template:article
+|author1 = Amit Mehra | author2 = Vijay Mookerjee | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' REVISITING BIAS DUE TO CONSTRUCT MISSPECIFICATION: DIFFERENT RESULTS FROM CONSIDERING COEFFICIENTS IN STANDARDIZED FORM '''
+{{
+template:article
+|author1 = Miguel I. Aguirre-Urreta | author2 = George M. Marakas | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' THE CRITICAL IMPORTANCE OF CONSTRUCT MEASUREMENT SPECIFICATION: A RESPONSE TO AGUIRRE-URRETA AND MARAKAS '''
+{{
+template:article
+|author1 = Stacie Petter | author2 = Arun Rai | author3 = Detmar Straub | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' CONSUMER ACCEPTANCE AND USE OF INFORMATION TECHNOLOGY: EXTENDING THE UNIFIED THEORY OF ACCEPTANCE AND USE OF TECHNOLOGY '''
+{{
+template:article
+|author1 = Viswanath Venkatesh | author2 = James Y. L. Thong | author3 = Xin Xu | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' THE CONSEQUENCES OF INFORMATION TECHNOLOGY CONTROL WEAKNESSES ON MANAGEMENT INFORMATION SYSTEMS: THE CASE OF SARBANES-OXLEY INTERNAL CONTROL REPORTS '''
+{{
+template:article
+|author1 = Chan Li | author2 = Gary F. Peters | author3 = Vernon J. Richardson | author4 = Marcia Weidenmier Watson | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' INFORMATION TECHNOLOGY AND FIRM PROFITABILITY: MECHANISMS AND EMPIRICAL EVIDENCE '''
+{{
+template:article
+|author1 = Sunil Mithas | author2 = Ali Tafti | author3 = Indranil Bardhan | author4 = Jie Mein Goh | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' COCREATING IT VALUE: NEW CAPABILITIES AND METRICS FOR MULTIFIRM ENVIRONMENTS '''
+{{
+template:article
+|author1 = Varun Grover | author2 = Rajiv Kohli | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' INTERFIRM IT CAPABILITY PROFILES AND COMMUNICATIONS FOR COCREATING RELATIONAL VALUE: EVIDENCE FROM THE LOGISTICS INDUSTRY '''
+{{
+template:article
+|author1 = Arun Rai | author2 = Paul A. Pavlou | author3 = Ghiyoung Im | author4 = Steve Du | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' COCREATION OF VALUE IN A PLATFORM ECOSYSTEM: THE CASE OF ENTERPRISE SOFTWARE '''
+{{
+template:article
+|author1 = Marco Ceccagnoli | author2 = Chris Forman | author3 = Peng Huang | author4 = D. J. Wu | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' VALUE COCREATION AND WEALTH SPILLOVER IN OPEN INNOVATION ALLIANCES '''
+{{
+template:article
+|author1 = Kunsoo Han | author2 = Wonseok Oh | author3 = Kun Shin Im | author4 = Ray M. Chang | author5 = Hyelim Oh | author6 = Alain Pinsonneault | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' EXPLORING VALUE COCREATION IN RELATIONSHIPS BETWEEN AN ERP VENDOR AND ITS PARTNERS: A REVELATORY CASE STUDY '''
+{{
+template:article
+|author1 = Suprateek Sarker | author2 = Saonee Sarker | author3 = Arvin Sahaym | author4 = Niels Bjorn-Andersen | 
+|source= MIS QUARTERLY
+|year= 2012
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Value Chain Linkages and the Spillover Effects of Strategic Information Technology Alignment: A Process-Level View '''
+{{
+template:article
+|author1 = Paul P. Tallon | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2011
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Path Dependence of Dynamic Information Technology Capability: An Empirical Investigation '''
+{{
+template:article
+|author1 = Jee-Hae Lim | author2 = Theophanis C. Stratopoulos | author3 = Tony S. Wirjanto | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2011
+
+}}
+
+[[Category:article]]
+
+---end---
+
+ 
+---start---
+''' Service Quality in Software-as-a-Service: Developing the SaaS-Qual Measure and Examining Its Role in Usage Continuance '''
+{{
+template:article
+|author1 = Alexander Benlian | author2 = Marios Koufaris | author3 = Thomas Hess | 
+|source= JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+|year= 2011
+
+}}
+
+[[Category:article]]
+
+---end---
+
