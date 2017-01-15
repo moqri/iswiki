@@ -1,0 +1,9 @@
+'''{{{title}}}'''
+
+author(s): 
+{{#if: {{{author1|}}} | [[author::{{{author1}}} ]] }}
+{{#if: {{{author2|}}} | , [[author::{{{author2}}} ]] }}{{#if: {{{author3|}}} | , [[author::{{{author3}}} ]] }}{{#if: {{{author4|}}} | , [[author::{{{author4}}} ]] }}{{#if: {{{author5|}}} | , [[author::{{{author5}}} ]] }}{{#if: {{{author6|}}} | , [[author::{{{author6}}} ]] }}{{#if: {{{author7|}}} | , [[author::{{{author7}}} ]] }}{{#if: {{{author8|}}} | , [[author::{{{author8}}} ]] }}{{#if: {{{author9|}}} | , [[author::{{{author9}}} ]] }}{{#if: {{{author10|}}} | , [[author::{{{author10}}} ]] }}
+
+[[source::{{{source}}} ]]
+[[year::{{{year}}} ]]
+

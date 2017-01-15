@@ -1,0 +1,32 @@
+{| class="wikitable"
+!colspan="2"|Author's Information
+|-
+|Title
+|{{{title}}}
+|-
+|Affiliation
+|{{{affiliation}}}
+|-
+|Contact
+|[mailto:{{{email}}}]
+|-
+|Webpage
+|[{{{webpage}}} {{{webpage}}}]
+|}
+
+{| class="wikitable"
+!colspan="2"|Additional Information
+|-
+|Areas of research
+|{{{research}}}
+|-
+|Graduated from
+|[[university ::{{{from}}}]]
+|-
+|Year of graduation
+|[[graduation year::{{{year}}}]]
+|}
+'''List of articles'''
+
+'''List of co-authors'''
+
