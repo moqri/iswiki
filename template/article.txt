@@ -1,9 +1,15 @@
-'''{{{title}}}'''
 
-author(s): 
+'''Author(s): '''
 {{#if: {{{author1|}}} | [[author::{{{author1}}} ]] }}
-{{#if: {{{author2|}}} | , [[author::{{{author2}}} ]] }}{{#if: {{{author3|}}} | , [[author::{{{author3}}} ]] }}{{#if: {{{author4|}}} | , [[author::{{{author4}}} ]] }}{{#if: {{{author5|}}} | , [[author::{{{author5}}} ]] }}{{#if: {{{author6|}}} | , [[author::{{{author6}}} ]] }}{{#if: {{{author7|}}} | , [[author::{{{author7}}} ]] }}{{#if: {{{author8|}}} | , [[author::{{{author8}}} ]] }}{{#if: {{{author9|}}} | , [[author::{{{author9}}} ]] }}{{#if: {{{author10|}}} | , [[author::{{{author10}}} ]] }}
+{{#if: {{{author2|}}} | , [[author::{{{author2}}} ]] }}{{#if: {{{author3|}}} | , [[author::{{{author3}}} ]] }}{{#if: {{{author4|}}} | , [[author::{{{author4}}} ]] }}{{#if: {{{author5|}}} | , [[author::{{{author5}}} ]] }}{{#if: {{{author6|}}} | , [[author::{{{author6}}} ]] }}{{#if: {{{author7|}}} | , [[author::{{{author7}}} ]] }}{{#if: {{{author8|}}} | , [[author::{{{author8}}} ]] }}{{#if: {{{author9|}}} | , [[author::{{{author9}}} ]] }} {{#if: {{{author10|}}} | , [[author::{{{author10}}} ]] }} {{#if: {{{author11|}}} | , [[author::{{{author11}}} ]] }} {{#if: {{{author12|}}} | , [[author::{{{author12}}} ]] }} {{#if: {{{author13|}}} | , [[author::{{{author13}}} ]] }} {{#if: {{{author14|}}} | , [[author::{{{author14}}} ]] }} {{#if: {{{author15|}}} | , [[author::{{{author15}}} ]] }}
 
-[[source::{{{source}}} ]]
-[[year::{{{year}}} ]]
+'''Source:''' [[source::{{{source}}} ]]
+
+'''Year:''' [[year::{{{year}}} ]]
+
+'''Abstract:''' [[abstract::{{{abstract}}} ]]
+
+'''Keyword(s): '''
+{{#if: {{{keyword1|}}} | [[keyword::{{{keyword1}}} ]] }}
+{{#if: {{{keyword2|}}} | , [[keyword::{{{keyword2}}} ]] }}{{#if: {{{keyword3|}}} | , [[keyword::{{{keyword3}}} ]] }}{{#if: {{{keyword4|}}} | , [[keyword::{{{keyword4}}} ]] }}{{#if: {{{keyword5|}}} | , [[keyword::{{{keyword5}}} ]] }} {{#if: {{{keyword6|}}} | , [[keyword::{{{keyword6}}} ]] }}{{#if: {{{keyword7|}}} | , [[keyword::{{{keyword7}}} ]] }}{{#if: {{{keyword8|}}} | , [[keyword::{{{keyword8}}} ]] }}{{#if: {{{keyword9|}}} | , [[keyword::{{{keyword9}}} ]] }} {{#if: {{{keyword10|}}} | , [[keyword::{{{keyword10}}} ]] }}
 
