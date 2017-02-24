@@ -29986,8 +29986,6 @@
 
 
     
-<<<<<<< HEAD
-=======
 ---start---
 '''Trust'''
 
@@ -29998,7 +29996,6 @@
 ---end---
 
 
->>>>>>> 3ef86b16216e507c994a836bc8e32ca02c4fd8c4
     
 ---start---
 '''distrust'''
@@ -60664,13 +60661,12 @@
 
 [[Category:keyword]]
 
-<<<<<<< HEAD
 ---end---
 
 
     
 ---start---
-''' interpretive research '''
+'''IS alignment'''
 
 {{keyword papers}}
 
@@ -60681,7 +60677,7 @@
 
     
 ---start---
-''' IS alignment '''
+'''IS implementation'''
 
 {{keyword papers}}
 
@@ -60692,7 +60688,7 @@
 
     
 ---start---
-''' IS implementation '''
+'''knowledge management system'''
 
 {{keyword papers}}
 
@@ -60703,7 +60699,7 @@
 
     
 ---start---
-''' knowledge management system '''
+'''social representation'''
 
 {{keyword papers}}
 
@@ -60714,7 +60710,7 @@
 
     
 ---start---
-''' social representation '''
+'''IT services'''
 
 {{keyword papers}}
 
@@ -60725,7 +60721,7 @@
 
     
 ---start---
-''' IT services '''
+'''IT stack'''
 
 {{keyword papers}}
 
@@ -60736,7 +60732,7 @@
 
     
 ---start---
-''' IT stack '''
+'''IT vendors'''
 
 {{keyword papers}}
 
@@ -60747,7 +60743,7 @@
 
     
 ---start---
-''' IT vendors '''
+'''service diversification'''
 
 {{keyword papers}}
 
@@ -60758,7 +60754,7 @@
 
     
 ---start---
-''' service diversification '''
+'''software product portfolio'''
 
 {{keyword papers}}
 
@@ -60769,7 +60765,7 @@
 
     
 ---start---
-''' software product portfolio '''
+'''collaboration'''
 
 {{keyword papers}}
 
@@ -60780,7 +60776,7 @@
 
     
 ---start---
-''' collaboration '''
+'''collaboration engineering'''
 
 {{keyword papers}}
 
@@ -60791,7 +60787,7 @@
 
     
 ---start---
-''' collaboration engineering '''
+'''collaboration support system'''
 
 {{keyword papers}}
 
@@ -60802,11 +60798,198 @@
 
     
 ---start---
-''' collaboration support system '''
+'''collaboration technology'''
 
 {{keyword papers}}
 
-[[Category:k
-=======
----end
->>>>>>> 3ef86b16216e507c994a836bc8e32ca02c4fd8c4
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''computer-assisted collaboration engineering'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''process support application'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''collaboration'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''creativity'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''electronic brainstorming'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''idea generation'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''individual cognition'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''priming'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''virtual groups'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''information diffusion'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''sentiment'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''social media'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''Twitter'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''credibility assessment systems'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''deception detection'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''expert systems'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
+
+    
+---start---
+'''user anxiety'''
+
+{{keyword papers}}
+
+[[Category:keyword]]
+
+---end---
+
