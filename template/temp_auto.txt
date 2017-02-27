@@ -1,0 +1,124 @@
+---start---
+'''Template:Article'''
+{| border="0" cellpadding="4" cellspacing="4" style="margin-bottom: 5px;"
+! Author(s)
+|{{#arraymap:{{{author|}}}|,|x|[[author::x]]}}
+|-
+! Source
+|[[source::{{{source}}} ]]
+|-
+!Year
+| [[year::{{{year}}} ]]
+|-
+!Abstract
+| [[abstract::{{{abstract}}} ]]
+|-
+!Keyword(s)
+|{{#arraymap:{{{keyword|}}}|,|x|[[keyword::x]]}}
+|}
+---end---
+---start---
+'''Template:Author papers'''
+{{#ask: [[author::{{PAGENAME}}	]] 
+| ?source
+|?author
+|?year
+|?keyword
+}}
+Count of articles: [[Author papers::{{#ask: [[author::{{PAGENAME}}	]] 
+|format=count
+}}]]
+---end---
+---start---
+'''Template:Keyword papers'''
+{{#ask: [[keyword::{{PAGENAME}}	]] 
+| ?source
+|?author
+|?year
+|?keyword
+}}
+Count of articles: [[Keyword papers::{{#ask: [[keyword::{{PAGENAME}}	]] 
+|format=count
+}}]]
+---end---
+---start---
+'''Template:Source papers'''
+{{#ask: [[source::{{PAGENAME}}	]] 
+|?author
+|?year
+|?keyword
+}}
+Count of articles: [[source papers::{{#ask: [[source::{{PAGENAME}}	]] 
+|format=count
+}}]]
+---end---
+---start---
+'''Template:Theory'''
+<noinclude>
+This is the "Theory" template.
+It should be called in the following format:
+<pre>
+{{Theory|theory=}}
+</pre>
+Edit the page to see the template text.
+</noinclude>
+<includeonly>*[[theory::{{{theory}}}]]</includeonly>
+---end---
+---start---
+'''Template:Method'''
+<noinclude>
+This is the "Method" template.
+It should be called in the following format:
+<pre>
+{{Method|method=}}
+</pre>
+Edit the page to see the template text.
+</noinclude>
+<includeonly>*[[method::{{{method}}}]]</includeonly>
+---end---
+---start---
+'''Template:Topic'''
+<noinclude>
+This is the "Topic" template.
+It should be called in the following format:
+<pre>
+{{Topic|topic=}}
+</pre>
+Edit the page to see the template text.
+</noinclude>
+<includeonly>*[[topic::{{{topic}}}]]</includeonly>
+---end---
+---start---
+'''Form:Tags'''
+<noinclude>
+{{#forminput:form=Tags}}
+</noinclude>
+<includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|header}}}{{{end template}}}
+{{{for template|article}}}{{{end template}}}
+{{{for template|topics}}}{{{end template}}}
+{{{for template|topic|label=Topics|multiple}}}
+Topic: {{{field|topic|property=topic|values from topic=topic,mandatory}}}
+{{{end template}}}
+{{{for template|theories}}}{{{end template}}}
+{{{for template|theory|label=Theories|multiple}}}
+Theory: {{{field|theory|property=theory|values from property=theory,mandatory}}}
+{{{end template}}}
+{{{for template|methods}}}{{{end template}}}
+{{{for template|method|label=Method|multiple}}}
+Method: {{{field|method|property=method|values from property=method,mandatory}}}
+{{{end template}}}
+{{{for template|footer}}}{{{end template}}}
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>
+---end---
+---start---
+'''Template:footer'''
+{{Clickable button | [[Special:FormEdit/Tags/{{PAGENAME}}|Edit Topic, Theories, or Methods]]}}
+---end---
+---start---
+'''Template:Clickable button'''
+<span class="mw-ui-button {{#switch: {{{color|white}}} | red = mw-ui-destructive | green = mw-ui-constructive | white = | blue = mw-ui-progressive}}" role="button" aria-disabled="false">{{{1|Button text}}}</span><noinclude>
+---end---
+
