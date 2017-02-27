@@ -99,15 +99,15 @@ Edit the page to see the template text.
 {{{for template|article}}}{{{end template}}}
 {{{for template|topics}}}{{{end template}}}
 {{{for template|topic|label=Topics|multiple}}}
-Topic: {{{field|topic|property=topic|values from topic=topic,mandatory}}}
+Topic: {{{field|topic|property=topic|values from topic=topic|mandatory}}}
 {{{end template}}}
 {{{for template|theories}}}{{{end template}}}
 {{{for template|theory|label=Theories|multiple}}}
-Theory: {{{field|theory|property=theory|values from property=theory,mandatory}}}
+Theory: {{{field|theory|property=theory|values from property=theory|mandatory}}}
 {{{end template}}}
 {{{for template|methods}}}{{{end template}}}
 {{{for template|method|label=Method|multiple}}}
-Method: {{{field|method|property=method|values from property=method,mandatory}}}
+Method: {{{field|method|property=method|values from property=method|mandatory}}}
 {{{end template}}}
 {{{for template|footer}}}{{{end template}}}
 {{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
