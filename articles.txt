@@ -10,20 +10,8 @@
 |keyword = access policy violations,accountability,accountability theory,awareness,evaluation,factorial survey method,identifiability,information security,monitoring,social presence,
 }}
 {{topics}}
-{{topic
-|topic=top1
-}}
 {{theories}}
-{{theory
-|theory=t
-}}
 {{methods}}
-{{method
-|method=m2
-}}
-{{method
-|method=m4
-}}
 {{footer}}
 [[Category:article]]
 ---end---
@@ -40,20 +28,8 @@
 |keyword = Computer abuse,employee computer crime,information systems security,deterrence,neutralization,motivation,disgruntlement,organizational justice,instrumental crimes,expressive crimes,insider,
 }}
 {{topics}}
-{{topic
-|topic=top1
-}}
 {{theories}}
-{{theory
-|theory=t
-}}
 {{methods}}
-{{method
-|method=m2
-}}
-{{method
-|method=m4
-}}
 {{footer}}
 [[Category:article]]
 ---end---
