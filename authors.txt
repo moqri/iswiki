@@ -10084,13 +10084,7 @@
 {{author papers}}
 [[Category:author]]
 ---end---
-    
----start---
-'''[Anonymous]'''
-{{author papers}}
-[[Category:author]]
----end---
-    
+       
 ---start---
 '''Paul Brown'''
 {{author papers}}
