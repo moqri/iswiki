@@ -1,3 +1,0 @@
-insert into data_article values ('articles:100003',100003,0,'articles:100003','a1','s',0,0,0,0,0,0)
-insert into multi_article values (2,'article:100003',100003,0,1,'a1')
-

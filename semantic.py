@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-articles_csv='articles_2010.csv'
+articles_csv='../data/articles.csv'
 articles_file='articles.txt'
 authors_file='authors.txt'
 keywords_file='keywords.txt'
