@@ -23,11 +23,14 @@ df.DE.fillna('',inplace=True)
 articles_file=open(articles_file,'a')
 authors_file=open(authors_file,'a')
 keywords_file=open(keywords_file,'a')
+all_authors=[]
+all_keywords=[]
 
 def addAuthor(author_name):
-        
-    text='''
-    
+    if author_name in all_authors:
+		return
+    all_authors.append(author_name)    	
+    text='''    
 ---start---
 \'\'\'this_title\'\'\'
 {{author papers}}
@@ -39,6 +42,9 @@ def addAuthor(author_name):
     
 
 def addKeyword(keyword):
+    if keyword in all_keywords:
+		return
+    all_keywords.append(keyword)    	
     text='''
 ---start---
 \'\'\'this_title\'\'\'
