@@ -25,7 +25,12 @@
 |?year
 |?keyword
 }}
-Count of articles: [[Author papers::{{#ask: [[author::{{PAGENAME}}	]] 
+
+Count of articles: [[Author papers::{{#ask: [[author::{{PAGENAME}}]] 
+|format=count
+}}]]
+
+Count of recent articles: [[Author recent papers::{{#ask: [[author::{{PAGENAME}}]] [[year::>=2010]] 
 |format=count
 }}]]
 ---end---
@@ -38,6 +43,10 @@ Count of articles: [[Author papers::{{#ask: [[author::{{PAGENAME}}	]]
 |?keyword
 }}
 Count of articles: [[Keyword papers::{{#ask: [[keyword::{{PAGENAME}}	]] 
+|format=count
+}}]]
+
+Count of recent articles: [[Keyword recent papers::{{#ask: [[keyword::{{PAGENAME}}]] [[year::>=2010]]
 |format=count
 }}]]
 ---end---
