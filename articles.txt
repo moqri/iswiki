@@ -3,14 +3,14 @@
 '''1985 Opinion Survey of MIS Managers:  Key Issues'''
 {{header}}
 {{article
-|author= Martin Herbert Curt Hartog,
+|author= Curt Hartog,Martin Herbert,
 |source= MIS Quarterly
 |year= 1986
 |volume=10
 |issue=4
 |page=351-351
 |abstract = This article identifies the issues which MIS management rates as most important and most difficult to solve over the next two years.  The results were obtained from a 1985 opinion survey of MIS managers in over 100 St. Louis area companies.  The most important issues fall into three categories:  aligning MIS with corporate goals, software development, and end-user computing; the least important issues were narrowly focused or more technical.  Comparison with prior research reveals that the alignment and end-user computing issues have increased in importance.  The results indicate that MIS managers are more oriented to corporate than to technical issues.
-|keyword = MIS managers, opinion survey, aligning MIS, end-user computing,
+|keyword = MIS managers,opinion survey,aligning MIS,end-user computing,
 }}
 {{topics}}
 {{theories}}

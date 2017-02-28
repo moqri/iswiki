@@ -1,6 +1,24 @@
 
 ---start---
-'''MIS managers, opinion survey, aligning MIS, end-user computing'''
+'''MIS managers'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''opinion survey'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''aligning MIS'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''end-user computing'''
 {{keyword papers}}
 [[Category:keyword]]
 ---end---

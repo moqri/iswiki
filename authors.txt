@@ -1,6 +1,12 @@
     
 ---start---
-'''Martin Herbert Curt Hartog'''
+'''Curt Hartog'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Martin Herbert'''
 {{author papers}}
 [[Category:author]]
 ---end---
