@@ -10,3 +10,117 @@
 {{author papers}}
 [[Category:author]]
 ---end---
+    
+---start---
+'''William M. Taggart'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Valdur Silbey'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mary Lippitt Nichols'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John R. Weitzel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kenneth R. Andrews'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mel A. Colter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Severin V. Grabski'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''J. Hal Reneau'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stephen G. West'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jon (Sean) Jasperson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Pamela E. Carter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert W. Zmud'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ulrike Schultze'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Srinivas Kudaravalli'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Samer Faraj'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Steven L. Johnson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William Doll'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Xia'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Torkzadeah'''
+{{author papers}}
+[[Category:author]]
+---end---
