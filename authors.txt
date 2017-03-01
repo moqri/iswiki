@@ -124,3 +124,10425 @@
 {{author papers}}
 [[Category:author]]
 ---end---
+    
+---start---
+'''Robert I. Mann'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hugh J. Watson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James C. Wetherbe'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carlton J. Whitehead'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Debra VanderMeer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kaushik Dutta'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anindya Datta'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mark Keil'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bernard C. Y. Tan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kwok-Kee Wei'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Timo Saarinen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Virpi Tuuainen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Arjen Wassenaar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sezgin Ayabakan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Indranil R. Bardhan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Zhiiang (Eric) Zheng'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gary Klein'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Philip O. Beck'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''M. Lynne Markus'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ann Majchrzak'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Les Gasser'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''João Vieira da Cunha'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wynne W. Chin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Norman Johnson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Andrew Schwarz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David L. Paul'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Reuben R. McDaniel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jr.'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David H. Benson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''G. Lawrence Sanders'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James F. Courtney'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Niv Ahituv'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Seev Neumann'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard D. Hackathorn'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jahangir Karimi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeffrey H. Moore'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Raymond McLeod'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jack William Jones'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ralph H. Sprague'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nachiketa Sahoo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Param Vir Singh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tridas Mukhopadhyay'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jessica Luo Carlo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kalle Lyytinen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gregory M. Rose'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Viswanath Venkatesh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Susan A. Brown'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Heshan Sun'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James A. Senn'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Matthew Jones'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jiming Wu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Albert Lederer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Clive D. Wrigley'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Albert S. Dexter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kailash Joshi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter B. Seddon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Cheryl Calvert'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Song Yang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wolfgang Ketter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Markus Peters'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John Collins'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alok Gupta'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tim S. McLaren'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Milena M. Head'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yufei Yuan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yolande E. Chan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Liette Lapointe'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Suzanne Rivard'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Julie Newman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kenneth A. Kozar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John S. Chandler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Larry Railing'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tom Housel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Prabuddha De'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Arun Sen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''J. B. O’Keefe'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''P. F. Wade'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gary L. Richardson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brad M. Jackson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gray W. Dickson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James K. Kraushaar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Larry E. Shirland'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John Tillquist'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John Leslie King'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carson Woo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gove N. Allen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Salvatore T. March'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anandhi S. Bharadwaj'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael Barrett'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Loizos Heracleous'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Geoff Walsham'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Allen S. Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Geoffrey S. Hubona'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Justus D. Naumann'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shailendra Palvia'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lihui Lin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Xianjun Geng'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Andrew B. Whinston'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Heinz K. Klein'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael D. Myers'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sung-Hyuk Park'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Soon-Young Huh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wonseok Oh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sang Pil Han'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael Newman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Daniel Robey'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gerald V. Post'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''J. David Diltz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''J. Yannis Bakos'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ilze Zigurs'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''M. Scott Poole'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gerardine L. DeSanctis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeffrey E. Kottemann'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William E. Remus'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charles H. Kriebel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Diane M. Strong'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Terry Anthony Byrd'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kathy L. Cossick'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sucheta Nadkarni'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Reetika Gupta'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William B. Locander'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''H. Albert Napier'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard W. Scamell'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Saggi Nevo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dorit Nevo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alain Pinsonneault'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bonnie K. Buckland'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Antonio Kappas'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kai R. Larsen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chih How Bong'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Inbal Yahav'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Galit Shmueli'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Deepa Mani'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Will Venters'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eivor Oborn'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tim Weitzel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Daniel Beimborn'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wolfgang Konig'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John M. Mahlum'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alexander M. Maish'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nicholas Roberts'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Pamela S. Galluch'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael Dinger'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Varun Grover'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Arvind Malhotra'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sanjay Gosain'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Omar A. El Sawy'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dan L. Burk'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gordon B. Davis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mark L. Gillenson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Joel D. Stutz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Maung K. Sein'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ola Henfridsson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sandeep Purao'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Matti Rossi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rikard Lindgren'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Barrie R. Nault'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Juliana Sutanto'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Elia Palme'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chuan-Hoo Tan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chee Wei Phang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Corey M. Angst'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ritu Agarwal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jianqing Chen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ming Fan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mingzhe Li'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Liqiong Deng'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marshall Scott Poole'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Blake Ives'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael R. Vitale'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Israel Borovits'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Duncan G. Copeland'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James L. McKenney'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sandra K. Slaughter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Linda Levine'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Balasubramaniam Ramesh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jan Pries-Heje'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard Baskerville'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert Roepke'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thomas W. Ferratt'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carol V. Brown'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sharon L. Magill'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gad J. Selig'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William R.King'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ananth Srinivasan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ronald Schwartz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Joan Fortune'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Julian Horwich'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul M. Leonardi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Saonee Sarker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Joseph S. Valacich'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lin Hao'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charles K. Davis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marc H. Meyer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kathleen Foley Curley'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ashok Shenolikar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Maryam Alavi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brian S. Butler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Patrick J. Bateman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter H. Gray'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''E. Ilana Diamant'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jan Stallaert'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anitesh Barua'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yuanyuan Chen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anandhi Bharadwaj'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Khim-Yong Goh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Andrew Whinston'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Balaji Padmanabhan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Zhiqiang Zheng'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Steven O. Kimbrough'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''D.H. Drury'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jason Bennett Thatcher'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Pamela L. Perrewe'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brenda Massetti'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mary C. Lacity'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Leslie P. Willcocks'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Prabhudev Konana'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Fang Yin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Barbara H. Wixom'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Louis A. Le Blanc'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Allen C. Johnston'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Merrill Warkentin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mikko Siponen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Beverly K. Kahn'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''K. Kyu Kim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeffrey E. Michelman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''4'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David K. Goldstein'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Izak Benbasat'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Roger G. Schroeder'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peeter J. Kirs'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert P. Cerveny'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brent Furneaux'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael Wade'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chee-Wee Tan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ronald T. Cenfetelli'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard O. Mason'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Henri Barki'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jean Talbot'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ana Ortiz de Guinea'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jane Webster'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Patricia J. Carlson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Albert Dexter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Animesh Animesh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sung-Byung Yang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gail Salaway'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dong-Gil Ko'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Laurie J. Kirsch'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William R. King'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dezhi Yin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Samuel D. Bond'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Han Zhang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sirkka L. Jarvenpaa'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Larry E. Short'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sam Ransbotham'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sabyaschi Mitra'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jon Ramsey'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shaila M. Miranda'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Amber Young'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Emre Yetgin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''René Riedl'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marco Hubert'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter Kenning'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''VenuGopal Balijepally'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''RadhaKanta Mahapatra'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sridhar Nerur'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kenneth H. Price'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nicholas Berente'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sean Hansen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jacqueline C. Pike'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''V. Sambamurthy'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Israr Qureshi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Deborah Compeau'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ryan T. Wright'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shirley Taylor'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter Todd'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kent Marett'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert F. Otondo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''G. Stephen Taylor'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter Weill'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael Vitale'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David Jobber'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John Saunders'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brian Gilding'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Graham Hooley'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jon Hatton-Smooker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lloyd W. Belcher'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Andrew N. K. Chen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Theresa M. Edgington'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Louis E. Raho'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James A. Beholav'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kirk D. Fiedler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Huigang Liang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nilesh Saraf'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Qing Hu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yajiong Xue'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hugh F. Juergens'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ira R. Weiss'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William J. Doll'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gee-Woo Bock'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Young-Gul Kim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jae-Nam Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alan R. Dennis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bryan A. Reinicke'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael Boyer O'Leary'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeanne M. Wilson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anca Metiu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert Willison'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ellen Christiaanse'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''N. Venkatraman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paulo B. Goes'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gilbert G. Karuga'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Arvind K. Tripathi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wenyu Dou'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kai H. Lim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chenting Su'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nan Zhou'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nan Cui'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hillol Bala'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shirish C. Srivastava'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''G. Shainesh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Suzanne D. Pawlowski'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William B. Miller'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charles E. Clark'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nancy C. Cavanaugh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yuqing Ren'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''F. Maxwell Harper'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sara Drenner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Loren Terveen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sara Kiesler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John Riedl'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert E. Kraut'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Genevieve Bassellier'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David Gefen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Simon Wyss'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yossi Lichtenstein'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael Chau'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jennifer Xu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William J. Kettinger'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James T. C. Teng'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Subashish Guha'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''J. Raymond Caron'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Donna B. Stoddard'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sunder Kekre'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Suresh Kalathur'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sunil Mithas'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Joni L. Jones'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Will Mitchell'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wencui Han'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Serkan Ada'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Raj Sharman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''H. Raghav Rao'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Barbara D. Klein'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dale L. Goodhue'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Younghwa Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Virginia Ilie'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Pei-yu Chen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chris Forman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ning Nan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kurt W. Schmitz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kimberly J. Webb'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Magid Igbaria'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeffrey H. Greenhaus'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Saroj Parasuraman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Georg von Krogh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stefan Haefliger'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sebastian Spaeth'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Martin W. Wallin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eric D. Carlson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Barbara F. Grace'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jimmy A. Sutton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wanda J. Orlikowski'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Clay K. Williams'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Elena Karahanna'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gerald C. Kane'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stephen P. Borgatti'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert I. Benjamin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charles Dickinson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John F. Rockart'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Glen L. Boyer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gary Carlson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Margrethe H. Olson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Noam Tractinsky'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Joachim Meyer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ping Wang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mary J. Culnan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Harvey G. Enns'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sid L. Huff'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christopher A. Higgins'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rajiv D. Banker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nan Hu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul A. Pavlou'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jerry Luftman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stephen Smith'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Donald Winchester'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Deborah Bunker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rodger Jaimeson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James Backhouse'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carol W. Hsu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Leiser Silva'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Simha R. Magal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Houston J. Carr'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thomas Kohler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Johann Fueller'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kurt Matzler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Daniel Stieger'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul W. L. Vlaar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul C. van Fenema'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Vinay Tiwari'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marco Ceccagnoli'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peng Huang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''D. J. Wu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Terri L. Griffith'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gregory B. Northcraft'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kishore Sengupta'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dov Te’eni'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Glenn J. Browne'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mitzi G. Pitts'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''C. W. Getz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James Howison'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kevin Crowston'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Arun Rai'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tracy Ann Sykes'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ruba Aljafari'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bonnie Kaplan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dennis Duchon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mary Beth Watson-Manheim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''France Belanger'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ojelanki K. Ngwenyama'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Onook Oh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Manish Agrawal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Neil C. Ramiller'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William Lewis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ron Thompson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Atreyi Kankanhalli'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hua (Jonathan) Ye'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hock Hai Teo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wenqi Shen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yu Jeffrey Hu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jackie Rees Ulmer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul P. Tallon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tawfik Jelassi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Olivier Figon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael D. Smith'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rahul Telang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Srinivasan Raghunathan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sumit Sarkar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Cynthia Mathis Beath'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hila Etzion'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Min-Seok Pang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dominic Breuker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Martin Matzner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Patrick Delfmann'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jörg Becker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Benn R. Konsynski'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lynne C. Bracker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul S. Goodman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eric D. Darr'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James R. Doyle'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jack D. Becker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Joey F. George'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''R. Brent Gallupe'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gerardine DeSanctis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gary W. Dickson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mariam Alavi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Deborah R. Compeau'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''V. Srinivasan Rao'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''George P. Huber'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christopher M. Hess'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chris F. Kemerer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James N. Danziger'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Youngjin Yoo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lorne Olfman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Munir Mandviwalla'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard L. Baskerville'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Theo K. Dijkstra'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jorg Henseler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Scott B. MacKenzie'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Philip M. Podsakoff'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nathan P. Podsakoff'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James Y. L. Thong'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Xin Xu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gal Oestreicher-Singer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lior Zalmanson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Zhan Shi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Huaxia Rui'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michel Benaroch'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lior Fink'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hsien-Tung Tsai'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard P. Bagozzi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Fernando Olivera'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sharon Swee-Lin Tan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James V. Hansen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ned C. Hill'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert Wayne Gregory'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Roman Beck'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Martin Wiener'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Magnus Mähring'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ulrich Remus'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carol Saunders'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christophe Roquilly'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jan Stage'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Albert L. Lederer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Aubrey L. Mendelow'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Julia Kotlarsky'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Harry Scarbrough'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ilan Oshri'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mari-Klara Stein'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sue Newell'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Erica L. Wagner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert D. Galliers'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Detmar W. Straub'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard J. Welke'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''A.B. Crawford'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gene Kusekoski'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gaurav Kataria'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ramayya Krishnan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Barry L. Bateman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ian Montgomery'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard Watson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''H. Russell Johnston'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gayle J. Yaverbaum'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Olga Volkoff'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Denis M. S. Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eileen M. Trauth'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Douglas Farwell'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael E. Shank'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Andrew C. Boynton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''E.W. Martin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Erik Brynjolfsson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tomer Geva'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shachar Reichman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thomas J. Murray'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gordon Burtch'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anindya Ghose'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sunil Wattal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ning Su'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ahmed Abbasi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hsinchun Chen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Zachary R. Steelman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bryan I. Hammer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Moez Limayem'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert W. Mantha'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rui Chen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shambhu J. Upadhyaya'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alan G. Merten'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dennis G. Severance'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brian L. Cooper'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ramiro Montealegre'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Il Im'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jongkun Jun'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Seok-Oh Jeong'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ned Kock'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert Davidson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''C. Lawrence Meador'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Martin J. Guyote'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William L. Rosenfeld'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert K. Vierck'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mark S. Silver'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John A. Aloysius'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hartmut Hoehle'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Scot Burton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John C. Henderson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David A. Schilling'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''C. Jason Woodard'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Narayan Ramasubbu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''F. Ted Tschang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alok R. Chaturvedi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Daniel R. Dolk'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul L. Drnevich'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alan R. Hevner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jinsoo Park'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sudha Ram'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Zhu Zhang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David Zimbra'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jay F. Nunamaker Jr.'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rajiv Sabherwal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William H. DeLone'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mark N. Frolick'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Malcolm C. Munro'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Herbert N. McCauley'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Barbara Braden'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jerome Kanter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David Kopsco'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shelley R. Carrico'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jorn Braa'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ole Hanseth'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Arthur Heywood'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Woinshet Mohammed'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Vincent Shaw'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Steven Alter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''George M. Perry'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mesbah U. Ahmed'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard J. Boland'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Par Martensson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Feng-Yang Kuo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Benn Konsynski'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Seung Hyun Kim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Byung Cho Kim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rohit Aggarwal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Harpreet Singh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lisen Selander'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Margherita Pagani'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''De Liu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Xun Li'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Radhika Santhanam'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert G. Fichman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brian L. Dos Santos'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Zhiqiang (Eric) Zheng'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Xiao-Bai Li'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Insu Park'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William D. Nance'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Byungtae Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jan-Michael Becker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christian M. Ringle'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Franziska Völckner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James C. McElroy'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anthony R. Hendrickson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anthony M. Townsend'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Samuel M. DeMarie'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''George Mangalaraj'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Murray Turoff'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Starr Roxanne Hiltz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ahmed N. F. Bahgat'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ajaz R. Rana'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ben Eaton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Silvia Elaluf-Calderwood'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carsten Sorensen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yougnjin Yoo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jan Recker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael Rosemann'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter Green'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marta Indulska'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''E. Burton Swanson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kartik K. Ganju'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rajiv Kohli'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sarv Devaraj'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Terence T. Ow'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dawn G. Gregg'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Steven Walczak'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Melissa Mazmanian'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marisa Cohn'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul Dourish'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bo Xiao'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''T. Grandon Gill'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''R. Ryan Nelson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''J. Daniel Couger'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William L. Fuerst'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Merle P. Martin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robin S. Poston'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Cheri Speier'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James E. Hunton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jesse D. Beeler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Madeline Weiss'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ling Xue'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gautam Ray'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Vallabh Sambamurthy'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lakshmi Mohan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William K. Holstein'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert B. Adams'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charalambos L. Iacovou'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christina Soh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kim Huat Goh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Fredrik Svahn'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lars Mathiassen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paige S. Rutner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bill C. Hardgrave'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''D. Harrison McKnight'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Henry C. Lucas'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Harvey R. Shrednick'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard J. Shutt'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Cecil Eng Huang Chua'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wee-Kiat Lim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Siew Kien Sia'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''E. R. McLean'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Fiona Fui-Hoon Nah'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brenda Eschenbrenner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David DeWester'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ofer Arazy'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jaspreet S. Ahuja'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Susan V. Scott'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jonathan L. Johnson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Barbara C. McNurlin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''W. Frank Cobbin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stephen J. Michaele'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Amit Mehra'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nishtha Langer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ravi Bapna'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ram Gopal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rajeev Sharma'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Philip Yetton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeff Crawford'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Trevor T. Moores'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jerry Cha-Jan Chang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Effy Oz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''H. Jeff Smith'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John Hasnas'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kenneth A. Bollen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Scott Hamilton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Norman L. Chervany'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul Benjamin Lowry'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gregory D. Moody'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James Gaskin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dennis F. Galletta'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sean L. Humpherys'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jordan B. Barlow'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David W. Wilson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jaime I. Rodriguez'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul C. Nutt'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sulin Ba'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Arnold M. Kneitel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Steven C. Vicinanza'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael J. Prietula'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eric T. G. Wang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeffrey C. F. Tai'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Debabroto Chatterjee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Vernon J. Richardson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''R. Kelly Ranier'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chang E. Koh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charlotte S. Stephens'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William N. Ledbetter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Amitava Mitra'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''F. Nelson Ford'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Deborah J. Armstrong'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nita G. Brooks'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Cynthia K. Riemenschneider'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sandeep Goyal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael J. Earl'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kathleen Mykytyn'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter P. Mykytyn'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Craig W. Slinkman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Philip Dobson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul Jackson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Denise Gengatharen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David Martens'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Foster Provost'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Xiaojun Zhang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jens Dibbern'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jessica Winkler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Armin Heinzl'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shirley Gregor'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yixin Lu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eric van Heck'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dianne Cyr'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Milena Head'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hector Larios'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bing Pan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael Lawrence'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Graham Low'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Joo-Eng Lee Partridge'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lora H. Robinson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Youngohc Yoon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tor Guimaraes'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Quinton O'Neal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Suprateek Sarker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Arvin Sahaym'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bjørn-Andersen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Cecilia I. C. Lin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''N. Au'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''E. W. T. Ngai'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''T. C. E. Cheng'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Konstantinos Trantopoulos'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Martin Woerter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ali Rexa Montazemi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ronald H. Rasch'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Henry L. Tosi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Patrick Y. K. Chau'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kar Yan Tam'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Seeve Neumann'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Moshe Zviran'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Francois Bergeron'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Blaize Horner Reich'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gary F. Templeton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bruce R. Lewis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rudy Hirshheim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ravi Patnayakuni'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nainika Seth'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sidney E. Harris'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Joseph L. Katz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ilgaz Arikan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jessica Pye'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Amrit Tiwana'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hazel Taylor'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stuart Dillon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Melinda van Wingen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mark A. Vonderembse'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hyelim Oh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kyle B. Murray'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gerald Haubl'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Daniel J. Brass'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yong Lu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dongyu Chen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lakshmi Goel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Norman A. Johnson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Iris Junglas'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Natalia Levina'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeanne W. Ross'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Leslie Ball'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christine V. Bullen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gregory E. Truman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jack J. Baroudi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eric W. K. Tsang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John N. Williams'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mala Kual'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Veda C. Storey'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Matthew R. Jones'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Helena Karsten'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sundeep Sahay'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Terri C. Albert'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stanley F. Biggs'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jimmy Huang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Martin J. Liu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dmitry Zhdanov'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Palash Bera'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Andrew Burton-Jones'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yair Wand'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thomas Berrisford'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ali Tafti'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Feng Tian'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sean Xin Xu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mani Subramani'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Xiaoquan (Michael) Zhang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lihong Zhang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Cynthia Clark Williams'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sabine Gabriele Hirt'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christy M. K. Cheung'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shelly Ping-Ju Wu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ting-Peng Liang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Roland T. Rust'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Martin Hibbeln'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeffrey L. Jenkins'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christoph Schneider'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Markus Weinmann'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kelly Burke'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Laku Chidambaram'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David K. Allen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Andrew Brown'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stan Karanasios'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alistair Norman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Angelika Dimoka'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gerald L. Matlin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Vijay Mookerjee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William Taggart'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Elisa Oreglia'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Janaki Srinivasan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chantal Buteau'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Louis Raymond'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kathy McGrath'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Beth Jones'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gediminas Adomavicius'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shawn P. Curley'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Pallab Sanyal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''J. J. Po-An Hsieh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stacie Petter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ting Zhang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eric K. Clemons'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bruce Weber'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ron Grohowski'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chris McGroff'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Doug Vogel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ben Mautz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jay Nunamaker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eric J. Walton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael J. Ginzberg'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''J. L. Boockholdt'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kalle J. Lyytinen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Petri Puhakainen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Traci A. Carte'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Craig J. Russell'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marilyn M. Mantei'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Toby J. Teorey'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Phil Semprevivo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Adamantios Diamantopoulos'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mark E. Nissen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anthony Vance'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dennis Eggett'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Debra L. Nelson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yan Chen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Fatemeh Mariam Zahedi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David P. Biros'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert W.Zmud'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charles W. Steinfield'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rolf T.Wigand'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gabe Minton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rajiv Garg'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anol Bhattacherjee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Clive Sanford'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard T. Watson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''E. W. Martin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Earl H. McKinney Jr.'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charles J. Yoos II'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Antonio Diaz Andrade'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bill Doolin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brandt R. Allen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Houston H. Carr'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anuj Kumar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Levent Orman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sandra J. Milberg'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sandra J. Burke'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tamara Dinev'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Heng Xu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Burcu Bulgurcu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hasan Cavusoglu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Vivek Choudhury'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeffrey L. Sampler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rajesh Mirani'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Boon Siong Neo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carol Pollard'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jayesh Prasad'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''K. Ramamurthy'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marie-Claude Boudreau'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Adela J. Chen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Satish Nambisan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John R. Lanahan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sirrka L. Jarvenpaa'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kathy Brittain White'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard Leifer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nick Rackoff'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charles Wiseman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Walter A. Ullrich'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thomas J. Housel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul F. Donovan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nigel P. Melville'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chris Edwards'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Fred Niederman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James C. Brancheau'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nicholas L. Ball'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul H. Cheney'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Norman R. Lyons'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Daniel Q. Chen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Martin Mocker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David S. Preston'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alexander Teubner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Margaret A. Rathwell'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alan Burns'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''M. S. Krishnan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David C. Croson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael E. Treacy'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Indranil Bardhan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jie Mein Goh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Francisco J. Mata'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jay B. Barney'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Waleed A. Muhanna'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chiara Francalanci'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hossam Galal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ho-Chang Chae'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Victor R. Prybutok'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Randolph B. Cooper'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sarma R. Nidumolu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Seymour E. Goodman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Douglas R. Vogel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ann K. Danowitz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William R. Boulton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anand Jeyaraj'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kunsoo Han'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Young Bong Chang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Vijay Gurbaxani'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Huseyin Tanriverdi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Len M. Jessup'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jay F. Nunamaker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kishen Iyengar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeffrey R. Sweeney'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wenjing Duan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bin Gu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Emmanuelle Vaast'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Salvatore Parise'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bala Iyer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jill Smith Slater'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Donald J. McCubbrey'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard A. Scudder'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jingguo Wang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Manish Gupta'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Clay Posey'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tom L. Roberts'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rebecca J. Bennett'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Meir Zelek'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carl R. Adams'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jae Hyon Song'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Efraim Turban'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul R. Watkins'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David P. Hale'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William D. Haseman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Frank Groom'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Satish K. Puri'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jingjun (David) Xu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ofir Turel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alexander Serenko'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul Giles'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''L. C. Barbosa'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''R. G. Hirko'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eric A. Walden'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Donna M. Lamberti'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William A. Wallace'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stephanie Barrett'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Weiquan Wang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ghiyoung Im'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Steve Du'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard Klein'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Weiyin Hong'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jason Chan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jai-Yeol Son'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sung S. Kim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jon Hartwick'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Geneviève Bassellier'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lyne De Serre'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gimun Kim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bongsik Shin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hee-Woong Kim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Torsten Oliver Salge'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dorothy G. Dologite'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David L. Feinstein'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John T. Gorgone'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''A. Milton Jenkins'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''George M. Kasper'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Joyce Currie Little'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Herbert E. Longenecker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brian E. Mennecke'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Martin D. Crossland'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brenda L. Killingsworth'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Janet K. Ply'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jo Ellen Moore'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Raymond R. Panko'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eyal Carmi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Uriel Stettner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Arun Sundararajan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Erran Carmel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Byungwan Koh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hisham El Sherif'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Catherine M. Beise'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peggy M. Beranek'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Edward Hartono'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Benjamin Dansker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Janeen Smith Hansen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ralph D. Loftin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marlene A. Veldwisch'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kerry M. Young'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Manju K. Ahuja'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Katherine M. Chudoba'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charles J. Kacmar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Inchan Kim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jama D. Summers'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael G. Morris'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Pamela Hammers Specht'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert J. Kauffman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mark C. Maletz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rosann Webb Collins'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert L. Leitheiser'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mal Nechis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sharon L. Caudle'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wilpen L. Gorr'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kathryn E. Newcomer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brian D. Janz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James Brancheau'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wael Jabr'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Katharina Reinecke'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Abraham Bernstein'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chungsuk Ryu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yong Jin Kim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Abhijit Chaudhury'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nicholas F. Vitalari'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert C. Goldstein'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Immanuel Pahlke'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christoph Seebach'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Victoria L. Mitchell'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anne P. Massey'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mitzi M. Montoya-Weiss'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tony M. O'Driscoll'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Harris Kyriakou'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeffrey V. Nickerson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gaurav Sabnis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kunpeng Zhang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Siddhartha Bhattacharyya'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Molly Wasko'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David G. Wastell'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Terence J. V. Saldanha'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Pankaj Setia'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Supreet Joglekar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Radna Mookerjee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yong Tan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Vijay S. Mookerjee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hamid Tavakolian'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Philip J. Pyburn'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert P. Minch'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jennifer E. Gerow'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jason Thatcher'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Philip L. Roth'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marjorie A. Lyles'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gedaminas Adomavicius'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jesse C. Bockstedt'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lawrence W. Foster'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David M. Flynn'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John W. Schmitt'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jack T. Hogue'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Franz Edelman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Cynthia M. Beath'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ricardo A. Lim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dong-Joo Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jae-Hyeon Ahn'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Youngsok Bang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kathryn M. Bartol'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David C. Martin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Karma Sherif'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jakob H. Iversen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter Axel Nielsen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gholamreza Torkzadeh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Weidong Xia'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Judith A. Quillard'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lee L. Gremillion'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hoon S. Cha'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David E. Pingry'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Matt E. Thatcher'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thomas J. Main'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James E. Short'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William P. McKinnon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ernest A. Kallman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lawrence A. Gordon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Martin P. Loeb'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tashfeen Sohail'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Frantz Rowe'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michelle Carter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John P. Singleton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ephraim R. McLean'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Edward N. Altman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Leyland F. Pitt'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''C. Bruce Kavan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thomas P. Van Dyke'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Leon A. Kappelman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James J. Jiang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christopher L. Carr'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''J. Miller'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''B. A. Doyle'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John R. Carlson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert M. Fuller'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard L. Daft'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert H. Lengel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Linda Klebe Trevino'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Conan Albrecht'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James Hansen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Julie E. Kendall'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kenneth E. Kendall'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Markos Zachariadis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Susan Scott'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Joseph J. Martocchio'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kevin Zhu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kenneth L. Kraemer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jessica Clark'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Enric Junqué de Fortuny'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard J. Schonberger'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert P. Bostrom'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''J. Stephen Heinen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John T. Glennon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Debasish Banerjee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Timothy Paul Cronan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thomas W. Jones'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Likoebe M. Maruping'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Massimo Magni'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Claire-Michelle Loock'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thorsten Staake'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Frédéric Thiesse'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert A. Zawacki'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Edward B. Oppermann'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tat Koon Koh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mark Fichman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Diane E. Bailey'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eduardo H. Diniz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dan Sholler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bonnie Nardi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yannis Vassiliou'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Matthias Jarke'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Edward A. Stohr'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jon A. Turner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Norman H. White'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Valerie Bartelt'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alan Dennis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Daning Hu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''J. Leon Zhao'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Zhimin Hua'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael C. S. Wong'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eric Monteiro'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lynda M. Applegate'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Joyce J. Elam'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ryad Titah'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael P. Bieber'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kweku Ewusi-Mensah'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Zbigniew H. Przasnyski'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yili Hong'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Fred D. Davis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anja Ischebeck'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter H. Kenning'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gernot Muller-Putz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rene Riedl'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jan vom Brocke'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bernd Weber'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter A. Todd'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Harvey S. Koch'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chen-Huei Chou'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Huimin Zhao'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alfred Taudes'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Markus Ferustein'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Andreas Mild'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mark J. Cotteleer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Elliot Bendoly'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''R.D. Loftin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''J.M. Moosbruker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Phillip Ein-Dor'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eli Segev'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wayne M. Wormley'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mohan Tanniru'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rajendra Singh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Abhay Mishra'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter G. W. Keen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Par J. Agerfalk'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brian Fitzgerald'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Seokjoo Andrew Chang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paulo Goes'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Zhongju Zhang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Prasanna Karhade'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael J. Shaw'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ramanath Subramanyam'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Miguel Godinho de Matos'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Pedro Ferreira'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David Krackhardt'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ellen M. Hufnagel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jacob G. Birnberg'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gary I. Green'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dennis A. Adams'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul N. Finlay'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Andrew C. Mitchell'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nancy Zinatelli'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul Cragg'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Angele L. M. Cavaye'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ronald L. Thompson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jane M. Howell'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Vasudevan Ramanujam'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kate M. Kaiser'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Piotr Ćwiakowski'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marek Giergiczny'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michał Krawczyk'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wayne A. Hall'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert E. McCauley'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Basil R. Wheeler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John M. West'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hsihui Chang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shu Lin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Geoffrey Parker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marshall Van Alstyne'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Xiaoyue Jiang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Maha El-Shinnawy'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ajay S. Vinze'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chrisanthi Avgerou'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John A. Ricketts'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Catherine L. Anderson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Choong C. Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''H. H. Teo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''K. K. Wei'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''I. Benbasat'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Otto R. Koppius'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dan R. Pieptea'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Evan Anderson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Oliver Hinz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Il-Horn Hann'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Martin Spann'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Xinxin Li'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lorin M. Hitt'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Donald Wynn'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Syam Menon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert E. Crossler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Juhee Kwon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''M. Eric Johnson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul John Steinbart'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ravinder Nath'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jintae Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''George M. Wyner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brian T. Pentland'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Soon Ang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yong-Mi Kim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Douglas L. Dean'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sean Humpherys'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Iris Vessey'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert G. Felix'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William L. Harrison'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marius A. Janson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''L. Douglas Smith'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Debabrata Dey'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Atanu Lahiri'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Guoying Zhang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''T. Ravichandran'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert Carman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Vern Lott'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James C. Johnson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David A. Ruch'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Karl Robinson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rudy Hirschheim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Roberta Lamb'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rob Kling'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Donald P. Ballou'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Giri Kumar Tayi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bryon C. Lewis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Albert E. Crews'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gene Bowles'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James R. Taylor'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charles C. Tucker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thomas H. Davenport'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Edoardo Jacucci'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Miria Grisot'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Margunn Aanestad'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dubravka Cecez-Kecmanovic'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Karlheinz Kautz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rebecca Abrahall'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Traci J. Hess'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anna L. McNab'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''K. Asli Basoglu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Fatemeh Zahedi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Graeme Shanks'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Elizabeth Tansley'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jasmina Nuredini'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Daniel Tobin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ron Weber'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John L. Batiste'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John T. Jung'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mark A. Fuller'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Edwin B. Shore'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul Cheney'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ann-Marie K. Baronas'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Meryl Reis Louis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Uday Apte'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chetan S. Sankar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Meru Thakur'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Joel E. Turner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dorothy E. Leidner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Timothy Kayworth'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nigel Melville'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kenneth Kraemer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gabriele Piccoli'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carol S. Saunders'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Henry J. P. Croes'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Weijun Zheng'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John Hulland'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Miguel I. Aguirre-Urreta'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''George M. Marakas'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Erich A. Joachimsthaler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Petra Saskia Bayerl'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kristina Lauche'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carolyn Axtell'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sumit Sircar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sridhar P. Nerur'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Radhakanta Mahapatra'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Line Dube'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Guy Pare'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Andrew H. Van de Ven'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Betty Vandenbosch'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michelle Lynn Kaarst-Brown'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard A. Mezger'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William Remus'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeffery E. Kotteman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Adi Masli'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marcia Weidenmier Watson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stefan Seidel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert F. Lusch'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Leland F. Pitt'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter G.W. Keen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Greta L. Polites'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rajdeep Grewal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brad N. Greenwood'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Pradipkumar Ramanlal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christopher T. Street'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Darren B. Meister'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul B. Cragg'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Malcolm King'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard Harris'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William L. Kuechler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Vijay Vaishnavi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sid Huff'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yinglei Wang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sanjeev Dewan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jui Ramaprasad'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bernadette Szajna'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chai Kim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stu Weston'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James A. Highsmith'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wilpen Gorr'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Detmar Straub'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''D. H. McNeil'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charles Zhechao Liu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sandra A. Slaughter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shun Ye'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Guodong (Gordon) Gao'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Siva Viswanathan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael D. Wybo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Albert H. Segars'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard K. Davis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Irina Cojuharenco'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jim Highsmith'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jay E. Aronson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William G. Heninger'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Edward D. Walker II'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hope Koch'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mike Chiasson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Matt Germonprez'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hemant Jain'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hwa-Suk Ryu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Masoud Yasai-Ardekani'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James D. McKeen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kuldeep Kumar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Han G. van Dissel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael C. Row'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Warren L. Harkness'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carol Xiaojuan Ou'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert M. Davison'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mo A. Mahmood'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dennis Halloran'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Susan Manchester'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John Moriarty'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert Riley'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James Rohrman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thomas Skramstad'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Enrique Dans'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charles R. Necco'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carl L. Gordon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nancy W. Tsai'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Judith A. Ahrens'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stephan Ludwig'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ko de Ruyter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dominik Mahr'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Martin Wetzels'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Elisabeth Brüggen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tom de Ruyck'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mike W. Chiasson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Elizabeth Davidson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Elizabeth J. Davidson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thomas Mattson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Philip Faulkner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jochen Runde'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ronald E. Rice'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nelson King'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stephen R. Barley'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alfonso F. Cardenas'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul J. Dixon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Darwin A. John'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ramakrishna Ayyagari'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Russell Purvis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Darryl Lindsey'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gianluca Miscione'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul Larson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Monica J. Garfield'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ping Zhang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jannis Kallinikos'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Aleksi Aaltonen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Attila Marton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jack Shomenta'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gary Kamp'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bob Hanson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brandon Simpson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Craig K. Tyran'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''J. F. Nunamaker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kent Swanson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dave McComb'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jill Smith'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Don McCubbrey'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anandasivam Gopal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Balaji R. Koka'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James Muranga Njihia'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yasmine Merali'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Neil Pollock'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sampsa Hyysalo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Damien Joseph'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wai Fong Boh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Melissa Mead'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christina Serrano'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Chan Li'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gary F. Peters'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kay M. Nelson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jay G. Cooprider'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael T. Vanecek'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ira Solomon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael V. Mannino'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Berend Wierenga'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gerrit H. van Bruggen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Vicky Arnold'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nicole Clark'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Philip A. Collier'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stewart A. Leech'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Steve G. Sutton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Xuefei (Nancy) Deng'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''K. D. Joshi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thomas D. Clark'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mary C. Jones'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Curtis P. Armstrong'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Muchael zur Muehlen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tarek K. Abdel-Hamid'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Susan J. Harrington'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nanda Kumar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter Tait'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jifeng Luo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jong Min Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James MacLachlan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Leonard M. Jessup'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Terry Connolly'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jolene Galegher'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gary W. Knotts'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rajiv Banker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sherrie Y. X. Komiak'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Zhenhui (Jack) Jiang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Boonlit Adipat'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dongsong Zhang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lina Zhou'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Elie C. Harel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kil-Soo Suh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Young Eun Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shuk Ying Ho'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David Bodoff'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carmen Mei Ling Leong'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shan-Ling Pan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lili Cui'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Panos Constantinides'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lucas D. Introna'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Srivardhini K. Jha'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Laurette Dubé'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter A. Tood'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eugene D. Hahn'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jonathan P. Doh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kraiwinee Bunyaratavej'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''F. Parker Fowler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ronald L. Olson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael R. Wade'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''William L. Cats-Baril'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bendik Bygstad'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lawrence F. Young'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jaana Porra'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael S. Parks'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Prasert Kanawattanachai'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Radha Appan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Zeeva Millman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Abdulla H. Abdul-Gader'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Laurie J. Krisch'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''L. Richard Ye'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paul E. Johnson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Clint Swett'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Katherine J. Stewart'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Daniel J. Power'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sue Young Choi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Heeseok Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jack Baroudi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael R. Galbreth'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mikhael Shor'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christian Wagner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dave Yates'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael Firth'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Vijay Sethi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James F. Cox'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marianne Broadbent'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Don St.Clair'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Collin J. Watson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Russell W. Driver'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gerry C. Jacobs'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sasa M. Dekleva'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Clinton E. White'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David P. Christy'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Donald H. Bender'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''WIlliam G. Chismar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Larry E. Rittenberg'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charles R. Purdy'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ronald N. Taylor'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert Seamans'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Douglas W. Farwell'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Denis Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Zhen Sun'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Milind Dawande'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ganesh Janakiraman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''George Houdeshel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kenneth R. Wrightman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Paola Bielli'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nitin Aggarwal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Qizhi Dai'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Cheryl Burke Jarvis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Elliot Cole'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anne Beaudry'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Naveen Farag Awad'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Juhani Iivari'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Prashant C. Palvia'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James A. Perkins'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Steven M. Zeltmann'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Arthur Money'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David Tromp'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Trever Wegner'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Magda Huisman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James Wetherbe'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Felix B. Tan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''M. Gordon Hunter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Teresa M. Shaft'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mark Srite'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard E. Potter'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Pierre Balthazard'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jonathan Wareham'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jahyun Goo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rajiv Kishore'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''H. R. Rao'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kichan Nam'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Maris G. Martinsons'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carol X. J. Ou'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jonathon N. Cummings'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lee A. Freeman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bradley C. Wheeler'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jack Ewers'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ali R. Montazemi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David W. Conrath'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''C. James Bacon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Debora E. Dunkle'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John L. King'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tongxiao (Catherine) Zhang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kai-Lung Hui'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sang-Yong Tom Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anne Scherer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nancy V. Wunderlich'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Florian von Wangenheim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John G. Sifonis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Bruce Dehning'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeppe Agger Nielsen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Karen D. Loch'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Merrill E. Warkentin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christopher J. Davis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''W. R. Synnott'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Zhan (Michael Shi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gene Moo Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''J. Ellis Blanton'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Janette Moody'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Richard L. Nolan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael J. Gallivan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Vilma Todri-Adamopoulos'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Manon G Guillemette'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gwanhoo Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John Mingers'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeffrey Kotteman'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sid A. Davis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Steve Elliot'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter B. B. Turney'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John Cross'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mark Gillenson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Sarah Rice'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yulin Fang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Patrick McCole'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Elaine Ramsey'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kok-Yee Ng'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christine Koh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Shawndra Hill'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ju-Young Kim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Helena Holmstrom Olsson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eoin O Conchuir'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Lexis F. Higgins'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Scott C. McIntyre'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anna Sidorova'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Nicholas Evangelopoulos'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thiagarajan Ramakrishnan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''G. Premkumar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eineen M. Trauth'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert J. Vandenberg'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Abhijit Gopal'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Pushkala Prasad'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''James H. Gerlach'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John M. Gallaugher'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yu-Ming Wang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mendel Fygenson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''V. K. Narayanan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Mehdi Ghods'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David F. Feeny'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Brian R. Edwards'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Keppel M. Simpson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christine T. Kydd'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ying Lu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''K. (Ram) Ramamurthy'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anjana Susarla'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Donald R. Lasher'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hans van der Heijden'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hock Chuan Chan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kwok Kee Wei'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Keng Leng Siau'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''R. A. Hirschheim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yiwei Jin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert M. Alloway'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Janine L. Spears'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Charles R. Franz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Robert R. Koeblitz'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kathleen S. Hartzel'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Arnold Kamis'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Marios Koufaris'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tziporah Stern'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Alok R. Saboo'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''V. Kumar'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeffrey Parsons'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Niv Efron'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Yair Shimshoni'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Gaby Odekerken-Schroder'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Claudia van Oppen'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kun Shin Im'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Ray M. Chang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Adam Saunders'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Raghu Garud'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Arun Kumaraswamy'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Anne F. Rutkowski'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michiel van Genuchten'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Julio Molina Orrego'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John E. Sawyer'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Margaret A. Neale'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dominic M. Thomas'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jeffrey S. McCullough'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''David Schuff'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Christine B. Williams'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Raymond Y. K. Lau'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Stephen S. Y. Liao'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''K. F. Wong'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Dickson K. W. Chiu'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''V. Ramesh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Rami Ahmad'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Choon Ling Sia'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Kwok Leung'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Matthew K. O. Lee'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Wayne Wei Huang'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Tony Moynihan'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Scott R. Boss'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Peter Polak'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thomas F. Gattiker'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Hongki Kim'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Eung Kyo Suh'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Susan M. Mudambi'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Giuseppe (Joe) Labianca'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''John D. Wells'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Randall D. Johnson'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Andrew Hardin'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''George A. Marcoulides'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Grandon Gill'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Molly McLure Wasko'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Joan Mann'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thomas W. West'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Carolyn J. Mullins'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael K. Badawy'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Adrian Yeow'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Thompson S. H. Teo'''
+{{author papers}}
+[[Category:author]]
+---end---
