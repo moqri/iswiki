@@ -25,7 +25,12 @@
 |?year
 |?keyword
 }}
-Count of articles: [[Author papers::{{#ask: [[author::{{PAGENAME}}	]] 
+
+Count of articles: [[Author papers::{{#ask: [[author::{{PAGENAME}}]] 
+|format=count
+}}]]
+
+Count of recent articles: [[Author recent papers::{{#ask: [[author::{{PAGENAME}}]] [[year::>=2010]] 
 |format=count
 }}]]
 ---end---
@@ -38,6 +43,10 @@ Count of articles: [[Author papers::{{#ask: [[author::{{PAGENAME}}	]]
 |?keyword
 }}
 Count of articles: [[Keyword papers::{{#ask: [[keyword::{{PAGENAME}}	]] 
+|format=count
+}}]]
+
+Count of recent articles: [[Keyword recent papers::{{#ask: [[keyword::{{PAGENAME}}]] [[year::>=2010]]
 |format=count
 }}]]
 ---end---
@@ -120,5 +129,35 @@ Method: {{{field|method|property=method|values from property=method|mandatory}}}
 ---start---
 '''Template:Clickable button'''
 <span class="mw-ui-button {{#switch: {{{color|white}}} | red = mw-ui-destructive | green = mw-ui-constructive | white = | blue = mw-ui-progressive}}" role="button" aria-disabled="false">{{{1|Button text}}}</span><noinclude>
+---end---
+---start---
+'''Main Page'''
+{{header}}
+==Top Journals==
+{{#ask: [[category:journal]]
+|mainlabel=Journal
+|?source papers=Number of Articles
+}}
+
+==Top Keywords==
+{{#ask: [[category:keyword]] 
+|mainlabel=Keyword
+|?keyword papers=Number of Articles
+|?keyword recent papers=(2010-Present)
+|sort=keyword recent papers
+|order=desc
+|limit=20
+}}
+
+
+==Top Authors==
+{{#ask: [[category:author]] 
+|mainlabel=Author
+|?author papers=Number of Articles
+|?author recent papers=(2010-Present)
+|sort=author recent papers
+|order=desc
+|limit=20
+}}
 ---end---
 

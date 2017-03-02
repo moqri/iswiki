@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-articles_csv='../data/articles.csv'
+articles_csv='data/misq_1977_2017_march.csv'
 articles_file='articles.txt'
 authors_file='authors.txt'
 keywords_file='keywords.txt'
@@ -18,7 +18,7 @@ try:
 except OSError:
     pass
 
-df=pd.read_csv(articles_csv)
+df=pd.read_csv(articles_csv,dtype='str')
 df.DE.fillna('',inplace=True)
 articles_file=open(articles_file,'a')
 authors_file=open(authors_file,'a')
@@ -82,6 +82,9 @@ def addArticle(paper):
 |author= this_author
 |source= this_source
 |year= this_year
+|volume=this_volume
+|issue=this_issue
+|page=this_page
 |abstract = this_abstract
 |keyword = this_keyword
 }}
@@ -95,7 +98,10 @@ def addArticle(paper):
     text= text.replace('this_title',paper['title'])
     text= text.replace('this_author',authors_text)
     text= text.replace('this_source',paper['source'])
-    text= text.replace('this_year',str(paper['year']))
+    text= text.replace('this_year',paper['year'])
+    text= text.replace('this_volume',paper['volume'])
+    text= text.replace('this_issue',paper['issue'])
+    text= text.replace('this_page',paper['page'])
     text= text.replace('this_abstract',paper['abstract'])
     text= text.replace('this_keyword',keywords_text)
     articles_file.write(text)
@@ -109,10 +115,9 @@ for i,row in df.iterrows():
     'keywords':row['DE'],
     'abstract':row['AB'],
     'year':row['PY'],
-    'volum':row['VL'],
+    'volume':row['VL'],
     'issue':row['IS'],
-    'bpage':row['BP'],
-    'epage':row['EP']
+    'page':row['BP-EP'],
         }
     print paper['title']
 
