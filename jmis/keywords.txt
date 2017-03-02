@@ -1,0 +1,114 @@
+
+---start---
+'''expert systems'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''knowledge acquisition'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''structured interviewing'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''e-commerce metrics'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''electronic commerce'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''online trust'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''scale development'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''trust'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''competitive advantage'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''environmental uncertainty'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''interorganizational information systems'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''structural equation modeling'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''supply chain management'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''business value of information technology'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''capability building'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''competitive strategy'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''core competencies'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''environmental dynamism'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
+
+---start---
+'''resource structuring'''
+{{keyword papers}}
+[[Category:keyword]]
+---end---
