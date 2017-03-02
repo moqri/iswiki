@@ -1,0 +1,30 @@
+    
+---start---
+'''Michael Barrett'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Geoff Walsham'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Michael D. Gordon'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Scott A. Moore'''
+{{author papers}}
+[[Category:author]]
+---end---
+    
+---start---
+'''Jaana Porra'''
+{{author papers}}
+[[Category:author]]
+---end---

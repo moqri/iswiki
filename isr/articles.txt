@@ -1,0 +1,60 @@
+ 
+---start---
+'''Electronic Trading and Work Transformation in the London Insurance Market'''
+{{header}}
+{{article
+|author= Michael Barrett,Geoff Walsham,
+|source= Information Systems Research
+|year= 1999
+|volume=10
+|issue=1
+|page=1-22
+|abstract = The integration of information and communications technologies (IT) is playing a key role in transforming the nature of work. The link between IT and transformation is poorly understood, and further theoretical developments are needed to advance our current knowledge of this relationship. In this paper, we develop a conceptual scheme by drawing on and extending Giddens' social theory of transformation that relates changes in modern institutions to shifts in self-identity. We illustrate the value of these ideas in making sense of the introduction of an electronic trading system, LIMNET EPS, across the London Insurance Market. Furthermore, our case analyses suggest some practical implications on electronic trading and work transformation.
+|keyword = Electronic trading,Giddens' social theory,Modernity and self-identity,Work transformation,London insurance market,Globalization,
+}}
+{{topics}}
+{{theories}}
+{{methods}}
+{{footer}}
+[[Category:article]]
+---end---
+ 
+---start---
+'''Depicting the Use and Purpose of Documents to Improve Information Retrieval'''
+{{header}}
+{{article
+|author= Michael D. Gordon,Scott A. Moore,
+|source= Information Systems Research
+|year= 1999
+|volume=10
+|issue=1
+|page=23-37
+|abstract = In this paper we discuss a new kind of information system that helps people be ready for information work and locate documents. This system differs from a traditional information retrieval system by relying extensively on descriptions of both how a document is used and the purposes it is used for. These descriptions are gathered as the document is electronically used and manipulated (e.g., by a word processor or e-mail system). A formal language represents this information.
+|keyword = Information retrieval,Work flow,Information acts,Speech act theory,
+}}
+{{topics}}
+{{theories}}
+{{methods}}
+{{footer}}
+[[Category:article]]
+---end---
+ 
+---start---
+'''Colonial Systems'''
+{{header}}
+{{article
+|author= Jaana Porra,
+|source= Information Systems Research
+|year= 1999
+|volume=10
+|issue=1
+|page=38-69
+|abstract = Colonial systems are presented as an alternative to the mechanistic and organic systems paradigms. They are based upon the inclusion of an evolutionary social history (Ernst Mayr), species-level evolution (Eldredge and Gould), and local context (Martin Heidegger) as central premises in the definition of human systems. The colonial viewpoint of systems is differentiated from the mechanistic and organic models by ten different axioms that define how systems operate during both homeostasis (stability) and radical change. From the axiomatic descriptions of colonial systems, the method of punctuated prototyping is derived to clarify how local colonies survive and prosper by creating and adopting isolated prototypes. This change mechanism (1) requires the self-awareness to recognize the necessity for change, and (2) describes the empowerment necessary for the colonists to build and adopt successful prototypes. The colonial systems model can be applied to explanations about how information systems, organizations, and social institutions change. Further, colonies can be used as a metaphor to design new human systems that capture a greater degree of humanness than do the models of machines and organisms.
+|keyword = Social systems,Social change,Organizational change,Change management,Information system change,Colonial systems,Information system theory,Design,Humanness,Evolution,Change,Species level evolution,Punctuated equilibrium,Prototyping,Punctuated prototyping,
+}}
+{{topics}}
+{{theories}}
+{{methods}}
+{{footer}}
+[[Category:article]]
+---end---
