@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/124">    Volume 31 Number 3 2014
+</a> pp. 287-325</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Understanding the Drivers of Unethical Programming Behavior: The Inappropriate Reuse of Internet-Accessible Code</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1741">Sojer, Manuel,</a>    <a href="/contributors/1742">Alexy, Oliver,</a>    <a href="/contributors/1743">Kleinknecht, Sven,</a> and     <a href="/contributors/1744">Henkel, Joachim</a>    </div>
+
+<p>ABSTRACT: 
+<p>Programming is riddled with ethical issues. Although extant literature explains why individuals in IT would act unethically in many situations, we know surprisingly little about what causes them to do so during the creative act of programming. To address this issue, we look at the reuse of Internet-accessible code: software source code legally available for gratis download from the Internet. Specifically, we scrutinize the reasons why individuals would unethically reuse such code by not checking or purposefully violating its accompanying license obligations, thus risking harm for their employer. By integrating teleological and deontological ethical judgments into a theory of planned behavior model—using elements of expected utility, deterrence, and ethical work climate theory—we construct an original theoretical framework to capture individuals’ decision-making process leading to the unethical reuse of Internet-accessible code. We test this framework with a unique survey of 869 professional software developers. Our findings advance the theoretical and practical understanding of ethical behavior in information systems. We show that programmers use consequentialist ethical judgments when carrying out creative tasks and that ethical work climates influence programmers indirectly through their peers’ judgment of what is appropriate behavior. For practice, where code reuse promises substantial efficiency and quality gains, our results highlight that firms can prevent unethical code reuse by informing developers of its negative consequences, building a work climate that fosters compliance with laws and professional codes, and making sure that excessive time pressure is avoided.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3392">code reuse</a>,    <a href="/keywords/3393">ethical behavior</a>,    <a href="/keywords/3394">information systems ethics</a>,    <a href="/keywords/3395">Internet-accessible code</a>,    <a href="/keywords/2259">open source software</a>,    <a href="/keywords/3396">partial least squares</a>,    <a href="/keywords/3397">programming ethics</a>,    <a href="/keywords/1675">theory of planned behavior</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/49">    Volume 18 Number 4 2002
+</a> pp. 37-58</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Performance-Centered Design of Knowledge-Intensive Processes</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1114">Massey, Anne P,</a>    <a href="/contributors/1116">Montoya-Weiss, Mitzi M,</a> and     <a href="/contributors/1117">O&#039;Driscoll, Tony M</a>    </div>
+
+<p>ABSTRACT: We develop and illustrate a performance-centered design (PCD) methodology for structuring knowledge-intensive, ill-defined processes. PCD provides a holistic view of a performance environment by considering the complex interdependencies between the organizational context, business processes, and individual performers. The context for our theoretical exposition is the fuzzy front-end of the new product development (NPD) process. Despite the fact that front-end concept definition and selection is central to a firm's innovation capability, these activities are ill-structured and typically the most poorly managed in the entire innovation process. Through a case study, we illustrate the proposed PCD methodology as applied to the fuzzy front-end and additionally illustrate how electronic performance support technology can be utilized to support the fuzzy front-end process. Although specifically applied within the context of one firm, we contend that the PCD methodology is applicable to other knowledge-intensive and relatively unstructured processes.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1518">electronic performance support</a>,    <a href="/keywords/1519">fuzzy front-end</a>,    <a href="/keywords/1360">new product development</a>,    <a href="/keywords/1520">performance-centered design</a>,    <a href="/keywords/1521">problem-solving theory</a>,    <a href="/keywords/1522">problem structure</a>,    <a href="/keywords/1523">systems theory</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

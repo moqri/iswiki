@@ -1,0 +1,56 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/124">    Volume 31 Number 3 2014
+</a> pp. 1-3</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>
+<p>Over recent decades, information technology (it) has enabled, empowered, or prompted profound societal transformations. These processes are still very much in train and we are still merely at the beginning of understanding them and their impact on our lives. It behooves our field to contribute significantly to this understanding. The Special Section, “IT-Enabled Social and Economic Transitions,” comprises two papers that investigate two economy segments that deeply affect our lives. The first of them, healthcare, is well established, if not necessarily well run—and the proper adoption of IT, we hope, will pave the road to major improvements. The second, sharing economy, emerged recently as a result of the adoption of person-to-person e-commerce in the ever-new contexts and on the platforms created by entrepreneurial companies. The guest editors of the Special Section, Eric K. Clemons, Robert J. Kauffman, and Thomas A. Weber, will introduce the papers to you.</p>
+<p>Business process outsourcing (BPO) has become a common avenue to firms shedding the functions in which they cannot deploy their resources and capabilities to the greatest advantage. Considering that the firms often become strategically dependent on the continuing success of these information-rich relationships, their governance is of the moment. Anitesh Barua and Deepa Mani develop and validate an encompassing model of governance choice that goes beyond the transaction-cost approach to combine it with the information-processing view of the firm. This approach enables the authors to recommend an appropriate mode of BPO governance in conjunction with the information requirements for ongoing coordination and collaboration in the outsourcing relationship.</p>
+<p>Autonomous scientifically controlled screening systems (ASCSSs) are a new category of information systems proposed in the next paper. The objective of an ASCSS is to detect the information an individual attempts to hide, such as knowledge of concealed weapons or an intent to defraud. Nathan W. Twyman, Paul Benjamin Lowry, Judee K. Burgoon, and Jay F. Nunamaker Jr. outline the application domain and the requirements for this class of systems and build and exercise a prototype. The paper constitutes a proof of concept couched within design science for a novel type of system that extends our knowledge about deception detection. With the growing complexity of our global society, and with the ever-new threats, reapportioning of tasks between people and machines is continually moving toward machines, and this is another step in this direction. Clearly, further work will be needed to delimit the effective and ethical use of such systems, along with developing their functionality.</p>
+<p>Christian Pieter Hoffmann, Christoph Lutz, and Miriam Meckel study empirically the effects of user characteristics on the user’s trust in online transactions. They characterize three user groups according to the level of their “nativity” online and deploy cognitive social theory to surface the distinctive cognitive schemata these groups rely on to assess the cues from the websites they access. Such cues include, for example, brand reputation, third-party endorsements, and offline presence, among others. Beyond the contribution to the online trust theory, the work provides guidance to the site designers who need to signal the targeted user groups.</p>
+<p>Deliberative policy development has been a great promise of Web use in the public domain. It has largely remained a promise. If we consider the enthusiastic take-up of co-creation in a great variety of individual pursuits where “cognitive surplus” is effectively deployed, this is rather surprising. Here, Chee Wei Phang, Atreyi Kankanhalli, and Lihua Huang investigate the drivers (resources and motivators) of quantity and quality of participation in the government-sponsored online policy deliberation forums (OPDFs). The model is comprehensive and will help in connecting the various levels of government with the citizenry. Yet, OPDFs are, notably, a form of sponsored, rather than autonomous, co-creation [1]. In furthering this line of research, it will be interesting in the future to see what tool sets may effectively assist the public in developing their own deliberation forums.</p>
+<p>Another aspect of online behavior is the use of social networking sites (SNSs), where no dearth of participation exists. However, the levels of activity and contribution are of great interest here as well: in their absence, sites wither. Aihui Chen, Yaobin Lu, Patrick Y.K. Chau, and Sumeet Gupta develop and validate a theory-grounded and comprehensive model of active behaviors in SNS environments. Aside from the value of the classification itself, the results should be helpful to SNS operators in stimulating higher activity levels of participants.</p>
+<p>The availability of the classes and methods of provision of fast Internet services renders some of the heated controversy about Net neutrality moot. The fast lanes, such as content delivery network services, are here and being used for video streaming, for example. This complicates, of course, the contracting for services and their pricing. In the next paper, I. Robert Chiang and Jhih-Hua Jhang-Li offer a formal game-theoretic model that allows them to analyze these issues in the presence of various classes and providers of content delivery services and offer recommendations to these providers.</p>
+<p>The code accessible over the Internet tempts programmers to dispense with the niceties of ethics in favor of expediency and systems-development speed. Code reuse is, of course, a well-known programming virtue—so long as there exists a right to do so. The inappropriate reuse of Internet-accessible code is an ethics violation (and, in many circumstances, illegal) whose drivers are studied here by Manuel Sojer, Oliver Alexy, Sven Kleinknecht, and Joachim Henkel. The authors construct a model of a programmer’s decision-making process, grounded in both teleological and deontological approaches to ethics, which they combine with the theory of planned behavior. Having validated their model, the authors are able to offer recommendations to the firms that wish to motivate programmers to avoid unethical code reuse—as well as to the programmers themselves.</p>
+<p>The freemium revenue model has established itself firmly in Internet entrepreneurship and is a common component of the business model of mobile app developers. How well does it work as compared to the alternatives? Charles Zhechao Liu, Yoris A. Au, and Hoon Seok Choi investigate empirically the effectiveness of the freemium approach in the context of the Google Play app publishing portal. The authors tease out the positive influence of offering a free high-quality app version on the app’s success. They also contribute to the more general theory of sampling effects.</p>
+<p>Vladimir Zwass</p>
+<p>Editor-in-Chief</p>
+</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

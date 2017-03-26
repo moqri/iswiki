@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/126">    Volume 32 Number 1 2015
+</a> pp. 291-321</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Push or Pull? A Website’s Strategic Choice of Content Delivery Mechanism</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/306">Ma, Dan</a>    </div>
+
+<p>ABSTRACT: 
+<p>Really simple syndication (RSS) technology enables an alternative delivery mechanism for online content. Instead of waiting passively for users to pull online content out, websites can push it to potential users through RSS. This is expected to significantly affect user behavior, website profitability, and market equilibrium. This research uses an economic model to study the impact of RSS adoption and examine whether it increases a website’s profit and competitive advantage. The findings are intriguing: they demonstrate that RSS can either increase or decrease website profit. In a competitive context, RSS adoption can actually be a disadvantage; in some cases, it hurts the adopter but benefits the competitor. Moreover, under certain conditions, the first mover will be worse off when the competitor mimics its adoption decision, which discourages the earlier adoption and thus creates an obstacle to using RSS. Derivation of the adoption equilibria in sequential and simultaneous games shows that multiple market outcomes may result. Finally, regardless of whether or not a website operator adopts RSS, it will still benefit by increasing user awareness of RSS technology, but only up to a certain level. Once this critical awareness level has been reached, websites will not gain by continuing to promote RSS to users. As a whole, these results show how technology adoption will have an impact on firm performance and market outcome, and illustrate the complexity of technology adoption strategy in a competitive setting.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2768">competition</a>,    <a href="/keywords/1347">e-commerce</a>,    <a href="/keywords/874">game theory</a>,    <a href="/keywords/640">information economics</a>,    <a href="/keywords/3499">online content delivery</a>,    <a href="/keywords/3500">RSS</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,64 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/60">    Volume 19 Number 2 2002
+</a> pp. 5-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ INFORMATION-TECHNOLOGY (IT) INVESTMENTS are the subject of the first three papers in this issue.  Debabroto Chatterjee, Carl Pacini, and V. Sambamurthy examine the effects of corporate announcements of  investments in IT infrastructure on the valuation of the announcing companies by financial markets. The  authors find strong evidence of a positive response by equities markets to such investment, much more so  than to the announcements regarding investments in IT applications. The work offers significant evidence of  the IT infrastructure being perceived by economic actors as a revenue generator. Indeed, investments in the  IT infrastructure have been, for quite some time, analyzed as the bearers of options for future corporate  growth. This perspective is taken up by Michel Benaroch, who moves this line of research forward by using  this method to purposely embed the options that promise the highest reward-to-risk ratio in an IT investment.  The approach allows to embed multiple options for future revenue streams. An entirely different, and  complementary, aspect of IT investment decision-making is investigated by Sherry D. Ryan, David A.  Harrison, and Lawrence L. Schkade. These researchers study empirically what role the consideration of the  social subsystem plays in the corporate IT investment decisions. The authors conclude that corporations do  tend to pay greater attention to the effects on social subsystems when major, potentially disruptive initiatives  are undertaken. However, they also find significant myopic lacunae&#8212;and the insights gained there are of  value.
+</p>
+<p>
+ Taken together, the three papers offer an excellent and multifaceted sample of the contemporary thinking on  IT investments. The set of papers is made even more compelling by its methodological richness, spanning the  empirics based on event analysis, formal options&#8211;theoretic analysis, and empirical work based on the social  systems theory. Theory and empirics combine to offer guidance for practice.
+</p>
+<p>
+ The next paper in the issue is an introspective study that echoes this diversity. Iris Vessey, V. Ramesh, and  Robert L. Glass define the notion of research diversity in the information systems (IS) discipline and study its  leading journals from that perspective. The authors define and evolve the attributes they deploy to  investigate IS research, which will help in the future work in the area. According to the present study, the  Journal of Management Information Systems is, along with Information Systems Research, the most  representative of the journals, as well as publishing papers displaying the greatest diversity. Indeed, since its  foundation, JMIS has adopted a broad view of the field of IS and, consequently, of its publication domain. In  this view, the discipline of management information systems (MIS) includes both the development and the use  of the organizational and interorganizational information technologies. Multiple levels of analysis, varied  research methods, systems deployed for the electronic hierarchies as well as for markets, are all implicit in  this definition. It is not surprising under this definition of the field of MIS, that the authors of the present study  find that the field of MIS has itself become a reference discipline.
+</p>
+<p>
+ One of the burgeoning research areas where information systems play a fundamental role is organizational  learning, which has been recognized as essential to performance in a knowledge economy. Much discussed  and dissected, the construct is difficult to assess. Here, Gary F. Templeton, Bruce R. Lewis, and Charles A.  Snyder present and validate an instrument for such assessment. As appropriate at this stage, the work is  exploratory. It is expected to lead to more extensive validation and expansion, further relating the construct to  organizational performance.
+</p>
+<p>
+ Component reuse is an essential raison d&#8217;&#234;tre of object-oriented software development. Clearly, the benefits  of reuse could be expected to be greater, should it be targeted at the earlier stages of development. Better  solutions and more efficient processes can be expected therefore at the analysis stage. Gretchen Irwin is  investigating here these very claims&#8212;to arrive at disappointments. In the novice development environment  she investigated, there were no quality benefits. Pursuing further the nature of similarity between the existing  software artifact and the software under development, the author is able to discriminate among the attributes  of the reuse process that could perhaps be enhanced by reuse with experience. This study has clear  implications for practice and should lead to further work, particularly among experienced developers.
+</p>
+<p>
+ Two studies center on the IS personnel. James J. Jiang and Gary Klein deploy discrepancy theory to the  turnover of IS personnel, which continues to be expensive for the employers of experienced IT workers, even  during the periods of relatively high unemployment. The model developed by the authors is, to put it simply,  based on the gap between what the workers expect from an employer and what they actually get. The model  works well and is important in shaping career plans in the IS domain. Mark E. McMurtrey, Varun Grover, James  T.C. Teng, and Nancy J. Lightner study a closely related issue, that of job satisfaction, in the specific&#8212;yet  broad&#8212;environment of CASE tool deployment. A combination of task restructuring to appropriately rely on the  computer-aided development tool with the selection of the more technologically oriented personnel is the  recommendation resulting from this work.
+</p>
+<p>
+ Group support systems (GSS) have multiple and interrelated effects on the outcomes and the processes of  electronically supported meetings. Process gains and losses result, contingent on the nature of collaboration  technologies and the way they are deployed, under task and social structure invariance. Most studies deal with  individual meetings. In a longitudinal study presented here, Bruce A. Reinig and Bongsik Shin concentrate on  process losses and surface the factors that can limit them over time. Several approaches to limiting the  losses or their effects on the meeting outcomes result.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

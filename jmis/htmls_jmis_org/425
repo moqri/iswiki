@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/95">    Volume 14 Number 2 1997
+</a> pp. 81-101</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Technology and Internal Firm Organization: An Exploratory Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/397">Hitt, Lorin M</a> and     <a href="/contributors/99">Brynjolfsson, Erik</a>    </div>
+
+<p>ABSTRACT: This paper examines the relationship between information technology (IT) and the organizational architecture of firms. Firms that are extensive users of information technology tend to adopt a complementary set of organizational practices that include: decentralization of decision authority, emphasis on subjective incentives, and a greater reliance on skills and human capital. We explore these relationships using detailed data on work systems and information technology spending for 273 large firms. Overall, we find that increased investment in IT is linked to a system of decentralized authority and related practices. Our findings may help resolve some of the questions about the relationships of information technology to internal organization and provide insight into the optimal organization of knowledge work.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/130">information</a>,    <a href="/keywords/1060">overload</a>,    <a href="/keywords/1061">information technology incentives</a>,    <a href="/keywords/1062">organizational architecture</a>,    <a href="/keywords/1063">technology usage</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

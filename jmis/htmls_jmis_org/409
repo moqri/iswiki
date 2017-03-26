@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/104">    Volume 14 Number 4 1998
+</a> pp. 87-111</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Emerging Electronic Partnerships: Antecedents and Dimensions of EDI Use from the Supplier&#039;s Perspective</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/740">Hart, Paul J</a> and     <a href="/contributors/741">Saunders, Carol S</a>    </div>
+
+<p>ABSTRACT: The diffusion of network technologies and the developing interest in emerging organizational forms suggest that researchers ought to pay more attention to the development of "electronic partnerships." This preliminary investigation tests a theoretical framework relating two pivotal themes, power and trust, to the use of electronic data interchange (EDI). Separate models were tested incorporating two dimensions of EDI use: volume of transactions and diversity of EDI transaction sets. The relationships among supplier dependence, customer power, and EDI use were different for volume and diversity, suggesting unique conditions that predict each dimension. Interestingly, power was negatively related to the volume of EDI transactions indicating that, while electronic networks may facilitate easier exchanges, they may not necessarily lead to increases in the frequency of exchanges. The relationships among commitment, trust, and EDI use were also different for volume and diversity. Trust was related to diversity but not volume. Moreover, trust was related to increases in diversity of EDI use, in contrast to power, which was negatively related to diversity. This latter finding may offer an important prescription for managers who seek to expand the effective use of EDI and for IT researchers who need to focus on the role of trust in supporting information exchange between electronic partners.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1111">diffusion of information technology</a>,    <a href="/keywords/1012">electronic data interchange</a>,    <a href="/keywords/1112">electronic partnerships</a>,    <a href="/keywords/1113">information partnerships</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

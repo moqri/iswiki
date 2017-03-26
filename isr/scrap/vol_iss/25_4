@@ -1,0 +1,3511 @@
+
+
+
+
+
+
+
+        
+        
+    
+
+
+        <!DOCTYPE html>
+<html lang="en" class="pb-page"  data-request-id="7f0622ca-a372-4582-83bd-29c3735b5ca7"  
+><head data-pb-dropzone="head"><meta name="pbContext" content=";journal:journal:isre;page:string:Table of Contents;wgroup:string:Publication Websites;pageGroup:string:Publication Pages;issue:issue:10.1287/isre.2014.25.issue-4;website:website:informs-site"/><meta data-pb-head="head-widgets-start"/>
+
+
+
+
+
+
+
+<meta charset="UTF-8">
+
+
+
+
+
+
+
+    <meta name="robots" content="noodp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<title>Information Systems Research: INFORMS</title>
+
+
+
+
+<meta data-pb-head="head-widgets-end"/>
+<link rel="stylesheet" type="text/css" href="/wro/product.css"><link rel="stylesheet" type="text/css" href="/pb/css/t1487108162000-v1487108162000/head_4_87_90_91_92_99_265_266.css" id="pb-css" data-pb-css-id="t1487108162000-v1487108162000/head_4_87_90_91_92_99_265_266.css"/>
+
+
+<script type="text/javascript">
+    if (window.location.hash && window.location.hash == '#_=_') {
+        window.location.hash = '';
+    }
+</script>
+<script type="text/javascript" src="/wro/product.js"></script>
+
+
+
+
+
+
+
+
+
+    
+        
+            <script type="text/javascript">
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-3721440-17']);
+                _gaq.push(['_trackPageview']);
+
+                (function() {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                })();
+            </script>
+        
+    
+
+
+
+
+
+
+
+
+    
+</head>
+<body class="pb-ui">
+
+
+
+
+
+
+    
+
+    <div id="pb-page-content" data-ng-non-bindable>
+        <div data-pb-dropzone="main" data-pb-dropzone-name="Main">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget page-main-content none  widget-none  widget-compact-all" id="pageMainContent"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><main role="main" data-pb-dropzone="contents">
+    
+
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget pageHeader none  widget-none  widget-compact-all" id="pageHeader"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><header class="page-header">
+    <div data-pb-dropzone="main">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-two-columns  headerBackground widget-none  widget-compact-all" id="b911464f-26aa-4e5c-82f5-462d4a645a3d"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid ">
+    <div class="width_1_3 twoColumnLeft ">
+        <div data-pb-dropzone="left" >
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-image none  widget-none  widget-compact-all" id="0f05f5b4-47f9-44a9-b23a-9d5f57990942"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><a href="https://pubsonline.informs.org"
+>
+<img src="/pb/assets/raw/title.png"
+/>
+</a></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+    <div class="width_2_3 twoColumnRight ">
+        <div data-pb-dropzone="right" >
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-two-columns   widget-none  widget-compact-all" id="7588319f-642a-4e12-963a-d6af0738ea1f"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid ">
+    <div class="width_3_8 twoColumnLeft ">
+        <div data-pb-dropzone="left" >
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumInstitutionBanner alignRight  widget-none  widget-secondaryAlternate" id="24b3e32a-5b81-48b9-ba6d-4a741ae4e5fe"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-secondaryAlternate"><div class="welcome">
+    
+        
+                <img id="accessLogo" src="/userimages/3435/banner?trick=1488355657256" alt="University of Florida-Gainesville"  />
+            
+    
+    
+        <span>
+            
+                    Access provided by University of Florida-Gainesville
+                
+        </span>
+    
+    
+</div></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+    <div class="width_5_8 twoColumnRight ">
+        <div data-pb-dropzone="right" >
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-inline-content alignRight  widget-none" id="415e6343-b66c-40cc-8a74-1a55616d2a14"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none "><div class="inline-dropzone" data-pb-dropzone="content">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumNavigationLoginBar alignRight  widget-none  widget-compact-all" id="b524af5e-7fb9-4c3f-aa68-12718742a938"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="loginBar">
+
+    
+
+    
+            
+            
+
+
+
+
+
+
+    
+
+
+
+<a href="https://pubsonline.informs.org/action/showLogin?uri=%2Ftoc%2Fisre%2F25%2F4">
+    Sign in
+</a>
+
+
+            &nbsp;|&nbsp;
+            
+
+
+
+
+
+    
+
+
+
+        <a href="https://online.informs.org/informsssa/censsacustmast.insert_page?p_return_page=Login_Page&amp;p_varname=p_val_arr[0]&amp;p_colname=p_last_nm&amp;p_varname=p_val_arr[1]&amp;p_colname=p_cust_id&amp;p_varname=p_val_arr[2]&amp;p_colname=p_alias&amp;p_varname=p_val_arr[3]&amp;p_colname=p_login_id&amp;p_varname=p_val_arr[4]&amp;p_colname=p_passwd&amp;p_context=SIMPLE&amp;p_success_url=http://pubsonline.informs.org/toc/isre/25/4" class="register-link">
+            Register
+        </a>
+    
+        
+
+    
+
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="44ee4828-a486-4ed0-ae48-fd372ee6858c"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><style>html body {background-color:white;}</style>
+|&nbsp;&nbsp;<a href="/action/mobileDevicePairingRequest">Mobile</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/page/help">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;</div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumCartLink alignLeft  widget-none  widget-compact-all" id="2c81b958-fede-4981-be51-17b5b229fdc6"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><a href="https://pubsonline.informs.org/action/showCart">
+        
+        <div class="cartLabel " style="">
+                Cart
+        </div>
+    </a></div>
+        </div>
+    </div>
+    
+</div></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+                
+                
+                
+            
+        
+    
+    
+    
+
+    
+    <div class="widget menuXml none  widget-none  widget-compact-all widget-separator" id="09599c09-5ed7-430c-a551-15b133a4886e"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all body-separator"><nav>
+   <ul class="shadow primaryNav">
+      <li class=""><a href="https://www.informs.org">INFORMS</a></li>
+      <li><a class="expander" href="#">Journals</a><ul>
+            <li class=""><a href="/journal/deca">Decision Analysis</a></li>
+            <li class=""><a href="/journal/inte">Interfaces</a></li>
+            <li class=""><a href="/journal/isre">Information Systems Research</a></li>
+            <li class=""><a href="/journal/ijoc">INFORMS Journal on Computing</a></li>
+            <li class=""><a href="/journal/ited">INFORMS Transactions on Education</a></li>
+            <li class=""><a href="/journal/mnsc">Management Science</a></li>
+            <li class=""><a href="/journal/msom">Manufacturing &amp; Service Operations Management</a></li>
+            <li class=""><a href="/journal/mksc">Marketing Science</a></li>
+            <li class=""><a href="/journal/moor">Mathematics of Operations Research</a></li>
+            <li class=""><a href="/journal/opre">Operations Research</a></li>
+            <li class=""><a href="/journal/orsc">Organization Science</a></li>
+            <li class=""><a href="/journal/serv">Service Science</a></li>
+            <li class=""><a href="/journal/stsc">Strategy Science</a></li>
+            <li class=""><a href="/journal/trsc">Transportation Science</a></li>
+         </ul>
+      </li>
+      <li><a class="expander" href="#">INFORMS Publications </a><ul>
+            <li class=""><a href="https://www.informs.org/Find-Research-Publications/Member-Magazines" target="yes">INFORMS Magazines</a></li>
+            <li class=""><a href="/series/educ">TutORials in OR Book Series</a></li>
+            <li class=""><a href="https://www.informs.org/Pubs/Topics-in-OR/">Topics in OR Book Series</a></li>
+         </ul>
+      </li>
+      <li><a class="expander" href="#">INFORMS Editor's Cut </a><ul>
+            <li class=""><a href="http://pubsonline.informs.org/editorscut/healthcareanalytics">Healthcare in the Age of Analytics</a></li>
+            <li class=""><a href="http://pubsonline.informs.org/editorscut/sports">Analytics in Sports</a></li>
+            <li class=""><a href="http://pubsonline.informs.org/editorscut/elections">Elections: Analytics and Beyond</a></li>
+            <li class=""><a href="http://pubsonline.informs.org/editorscut/publicsector">Confronting Public Problems with Operations Research</a></li>
+            <li class=""><a href="http://pubsonline.informs.org/editorscut/bigdata">Big Data Analytics</a></li>
+            <li class=""><a href="http://pubsonline.informs.org/editorscut/transportation">Transportation Science</a></li>
+         </ul>
+      </li>
+      <li class=""><a href="/page/subscribe" target="yes">Subscriber Services</a></li>
+      <li class=""><a href="/page/contact" target="yes">Contact INFORMS</a></li>
+   </ul>
+</nav></div>
+        </div>
+    </div>
+    
+    </div>
+</header></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget pageBody none pubPage widget-none  widget-compact-all" id="pageBody"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><!--begin pagefulltext-->
+<div class="page-body pagefulltext">
+    <div data-pb-dropzone="main">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-two-columns   widget-none  widget-compact-all" id="f04beead-ee69-4a90-af9f-02bee83edee8"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid gutterless">
+    <div class="width_2_3 twoColumnLeft ">
+        <div data-pb-dropzone="left" >
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-image none  widget-none  widget-compact-all" id="6d63a3d1-8652-49f3-8ef7-461158a96dd4"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><img src="/pb/assets/raw/home%2Fisre%2Fisr_nameplate.jpg"
+/></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+    <div class="width_1_3 twoColumnRight ">
+        <div data-pb-dropzone="right" >
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-image alignRight  widget-none  widget-compact-all" id="fcc2b21d-9cda-4469-8b39-66720d37e0f6"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><a href="https://www.informs.org"
+>
+<img src="/pb/assets/raw/home%2Fisre%2Fisr_corner.jpg"
+/>
+</a></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+            
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-two-columns   widget-box  widget-compact-all widget-secondaryAlternate" id="35a0de11-abc6-4bf8-bf72-4700ae924d9d"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-box  body-compact-all body-secondaryAlternate"><div class="pb-columns row-fluid ">
+    <div class="width_11_16 twoColumnLeft ">
+        <div data-pb-dropzone="left" >
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget menuXml none  widget-none  widget-alternate widget-compact-all" id="4bd94c4f-dec9-4154-81b5-d69869019a95"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-alternate body-compact-all"><nav>
+   <ul class="shadow primaryNav">
+      <li class=""><a href="/journal/isre">JOURNAL HOME</a></li>
+      <li><a class="expander" href="#">ABOUT</a><ul>
+            <li class=""><a href="/page/isre/editorial-statement">Editorial Statement</a></li>
+            <li class=""><a href="/page/isre/editorial-board">Editorial Board</a></li>
+         </ul>
+      </li>
+      <li><a class="expander" href="#">ISSUES</a><ul>
+            <li class=""><a href="/toc/isre/current">Current Issue</a></li>
+            <li class=""><a href="/loi/isre">All Issues</a></li>
+         </ul>
+      </li>
+      <li class=""><a href="/toc/isre/0/0">ARTICLES IN ADVANCE</a></li>
+      <li><a class="expander" href="#">FOR AUTHORS</a><ul>
+            <li class=""><a href="/page/isre/instructions-for-authors">Instructions for Authors</a></li>
+            <li class=""><a href="/page/isre/review-process-and-stats">Review Process and Stats</a></li>
+            <li class=""><a href="/page/isre/calls-for-papers">Calls for Papers</a></li>
+            <li class=""><a href="/page/isre/guidelines-for-ethical-behavior-in-publishing">Guidelines for Ethical Behavior in Publishing</a></li>
+         </ul>
+      </li>
+      <li><a class="expander" href="#">CONTACT</a><ul>
+            <li class=""><a href="/page/isre/contact-journal-staff">Journal Staff</a></li>
+         </ul>
+      </li>
+   </ul>
+</nav></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+    <div class="width_5_16 twoColumnRight ">
+        <div data-pb-dropzone="right" >
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget quickSearchWidget none  widget-none  widget-alternate widget-compact-all" id="dab68a8d-f328-4997-9388-bee59787966e"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-alternate body-compact-all"><div class="quickSearchFormContainer">
+    
+
+    
+
+
+    <form action="/action/doSearch" name="quickSearch" class="quickSearchForm " title="Quick Search" method="get"><span class="searchDropDownDivLeft">
+    
+            
+        
+    <label for="searchInSelector" class="visuallyhidden">Search in:</label>
+    
+    <select id="searchInSelector" name="SeriesKey" class="custom-dropdown js__searchInSelector">
+
+
+        
+
+        
+
+        
+        
+            <option value="" data-search-in="default">Anywhere</option>
+        
+
+        
+
+
+        
+
+        
+
+        
+
+        
+
+        
+            <option value="citation" data-search-in="citation">
+                Citation
+            </option>
+        
+
+    </select>
+
+
+</span>
+            
+        
+
+        
+        
+
+        
+                <span class="simpleSearchBoxContainer">
+                        <input name="AllField"
+               class="searchText magicsuggest main-search-field textIndent autocomplete"
+               value=""
+               type="search" id="searchText"
+               title="Type search term here"
+               placeholder="Enter Search Term" autocomplete="off"
+               data-history-items-conf="3"
+               data-publication-titles-conf="3"
+               data-topics-conf="3"
+               data-contributors-conf="3"
+               data-auto-complete-target="auto-complete"
+               data-auto-complete-max-words="7"
+               data-auto-complete-max-chars="32"/>
+                </span>
+                
+
+
+<span class="citationSearchBoxContainer hidden">
+    <input name="quickLinkJournal"
+           class="journalName mediumTextInput textIndent autocomplete"
+           value="Information Systems Research"
+           type="search"
+           title="Journal"
+           placeholder="Journal"
+           data-auto-complete-target="Title"
+           autoComplete="off"
+           autoPopulate="true"/>
+
+    <input type="hidden" name="quickLink" value="true" />
+    <input class="year smallTextInput" title="Year" type="search" name="quickLinkYear" value="" autocomplete="false" placeholder="Year" />
+    <input class="volume smallTextInput" title="Volume" type="search" name="quickLinkVolume" value="" autocomplete="false" placeholder="Volume" />
+    <input class="issue smallTextInput" title="Issue" type="search" name="quickLinkIssue" value="" autocomplete="false" placeholder="Issue" />
+    <input class="page smallTextInput" title="Page" type="search" name="quickLinkPage" value="" autocomplete="false" placeholder="Page" />
+</span>
+
+            
+
+        
+            
+        
+
+        
+            
+
+
+
+
+<input class="mainSearchButton searchButtons pointer" title="search" type="submit" value="Search" /></form>
+</div>
+
+
+
+
+<div class="advancedSearchLinkDropZone" data-pb-dropzone="advancedSearchLinkDropZone">
+    
+</div></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumBreadcrumbs none  widget-none  widget-compact-all" id="00a6c5bd-352b-46f3-a5eb-3a0d9017e5a6"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><!-- Service: showToc -->
+
+
+    
+    
+        
+        
+                
+            
+    
+
+
+
+        
+        
+        
+
+        
+
+        
+        
+    
+
+
+
+
+
+<nav>
+    <ul class="breadcrumbs">
+        <li class="label">YOU ARE HERE:</li>
+        
+            <li class="">
+
+                
+                    <a href="/">
+                    Home
+                    </a>
+                    
+                        <span class="divider">&gt;</span>
+                    
+                    
+            </li>
+        
+            <li class="">
+
+                
+                    <a href="/journal/isre">
+                    Information Systems Research
+                    </a>
+                    
+                        <span class="divider">&gt;</span>
+                    
+                    
+            </li>
+        
+            <li class="">
+
+                
+                    <a href="/loi/isre">
+                    All Issues
+                    </a>
+                    
+                        <span class="divider">&gt;</span>
+                    
+                    
+            </li>
+        
+            <li class="">
+
+                
+                        <c:if test="false"
+><span>Issue in Advance:</span></c:if>
+                        Volume 25, Issue 4
+            </li>
+        
+    </ul>
+</nav></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-three-columns   widget-none  widget-compact-all" id="854ae7cb-bbcf-45ad-bae8-5cc47d4a33ca"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid gutterless">
+    <div class="width_3_16  ">
+        <div data-pb-dropzone="left">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-quickLinks  widget-border-toggle" id="a72351cc-58da-495d-829f-13f06d14897d"  >
+        
+        
+
+        <div class="wrapped " >
+            <h1 class="widget-header header-quickLinks  header-border-toggle">Access Indicators</h1>
+            <div class="widget-body body body-quickLinks  body-border-toggle"><div class="resources">
+<img alt="Free Access" src="/pb/assets/raw/accessIcons%2Faccess_free.gif"/>= Free Access<br/><img alt="Open Access"src="/pb/assets/raw/accessIcons%2FopenAccess.gif"/> = Open Access
+</div></div>
+        </div>
+    </div>
+    
+
+
+        </div>
+    </div>
+    <div class="width_9_16 ">
+        <div data-pb-dropzone="center">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumBookIssueNavigation none  widget-none  widget-compact-all" id="b93a189f-a5d8-4ec0-90f4-4d5c56abc0ea"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pager issueBookNavPager">
+    <span class="journalNavLeftTd">
+        
+            <span class="prev placedLeft">
+                <a href="/toc/isre/25/3">
+                    << Previous
+                </a>
+            </span>
+        
+    </span>
+    
+        
+    
+    <span class="journalNavRightTd">
+        
+
+
+
+
+   <span class="next">
+       <a href="/toc/isre/26/1">
+           Next >>
+       </a>
+   </span>
+
+    </span>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget tocListWidget none  widget-none  widget-compact-all" id="462f0df5-1040-403c-a326-9d6afade6124"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><script type="text/javascript" async defer src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+
+
+<div class="tocListWidgetContainer activeWidget">
+    
+    <form name="frmAbs">
+        <fieldset class="tocTools">
+            
+                <legend class="tocListTitle"><h3>Table of Contents</h3></legend>
+            
+            <div class="tocListDropZone float-right" data-pb-dropzone="tocListDropZone">
+                
+            </div>
+            
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <h3 class="tocListHeader">
+        
+            
+                
+                    Volume 25,
+                
+                
+                    Issue 4,
+                
+            
+        
+        
+                December 2014
+            
+
+        
+    </h3>
+
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+                
+    <ul class="jsOnly tocListWidgetMenu">
+            <li>
+            <a href="javascript:submitArticles(document.frmAbs, '/personalize/addFavoritePublication');" style="white-space:nowrap">
+                    Add to Favorites
+            </a>
+        </li>
+    
+        <li>
+            <a href="javascript:submitArticles(document.frmAbs, '/action/addCitationAlert?referrer=%2Ftoc%2Fisre%2F25%2F4');" style="white-space:nowrap">
+                    Track Citation
+            </a>
+        </li>
+    
+        <li>
+            <a href="javascript:submitArticles(document.frmAbs, '/action/showMultipleAbstracts');" style="white-space:nowrap">
+                    View Abstracts
+            </a>
+        </li>
+    
+        <li>
+            <a href="javascript:submitArticles(document.frmAbs, '/action/showCitFormats');" style="white-space:nowrap">
+                    Download Citation
+            </a>
+        </li>
+    
+        <li>
+            <a href="javascript:submitArticles(document.frmAbs, '/action/showMailPage');" style="white-space:nowrap">
+                    Email
+            </a>
+        </li>
+    </ul>
+
+    <div class="jsOnly checkbox-holder TocCheckboxHolder">
+        <input onclick="onClickMarkAll(frmAbs,'')" id="markall" type="checkbox" name="markall" value="" />
+        <label for="markall">Select All</label>
+    </div>
+
+            
+    
+
+        </fieldset>
+
+        <div class="tocListtDropZone2" data-pb-dropzone="tocListtDropZone2">
+            
+        </div>
+        <div class="tocContent">
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<!--totalCount17--><!--modified:1488336543000--> <div class="subject heading-1">Editorial Notes</div> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0559" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0559">Editorial Notes</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Agarwal%2C+Ritu">Ritu Agarwal</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 667
+                –668</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>December 24, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0559">10.1287/isre.2014.0559</a></div><div class="tocDeliverFormatsLinks"><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0559">Citation</a> | <a class="ref nowrap full" href="/doi/full/10.1287/isre.2014.0559">Full Text</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0559">PDF (69 KB)</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D667%26pageCount%3D2%26author%3DRitu%2BAgarwal%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0559%26title%3DEditorial%2BNotes%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D668%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140559" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0559', 'Absisre20140559');"></div><p class="previewContent"></p></div></div></td></tr></table>  <div class="subject heading-1">Research Articles</div> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0537" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0537">The IQ of the Crowd: Understanding and Improving Information Quality in Structured User-Generated Content</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Lukyanenko%2C+Roman">Roman Lukyanenko</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Parsons%2C+Jeffrey">Jeffrey Parsons</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Wiersma%2C+Yolanda+F">Yolanda F. Wiersma</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 669
+                –689</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>October 13, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0537">10.1287/isre.2014.0537</a></div><div class="tocDeliverFormatsLinks"><span id="showAbsisre20140537" class="tocPreview"><a href="javascript:showHideTocPublicationAbs('10.1287/isre.2014.0537', 'Absisre20140537');" class="link showAbstract">Preview</a> | </span><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0537">Abstract</a> | <a class="ref nowrap references" href="/doi/ref/10.1287/isre.2014.0537">References</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0537">PDF (251 KB)</a> | <a class="ref nowrap" href="/doi/suppl/10.1287/isre.2014.0537">Supplemental</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D669%26pageCount%3D21%26author%3DRoman%2BLukyanenko%252C%2BJeffrey%2BParsons%252C%2BYolanda%2BF.%2BWiersma%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0537%26title%3DThe%2BIQ%2Bof%2Bthe%2BCrowd%253A%2BUnderstanding%2Band%2BImproving%2BInformation%2BQuality%2Bin%2BStructured%2BUser-Generated%2BContent%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D689%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140537" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0537', 'Absisre20140537');"></div><p class="previewContent"></p></div></div></td></tr></table> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0538" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0538">Feeling Blue? Go Online: An Empirical Study of Social Support Among Patients</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Yan%2C+Lu">Lu Yan</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Tan%2C+Yong">Yong Tan</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 690
+                –709</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>October 28, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0538">10.1287/isre.2014.0538</a></div><div class="tocDeliverFormatsLinks"><span id="showAbsisre20140538" class="tocPreview"><a href="javascript:showHideTocPublicationAbs('10.1287/isre.2014.0538', 'Absisre20140538');" class="link showAbstract">Preview</a> | </span><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0538">Abstract</a> | <a class="ref nowrap references" href="/doi/ref/10.1287/isre.2014.0538">References</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0538">PDF (374 KB)</a> | <a class="ref nowrap" href="/doi/suppl/10.1287/isre.2014.0538">Supplemental</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D690%26pageCount%3D20%26author%3DLu%2BYan%252C%2BYong%2BTan%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0538%26title%3DFeeling%2BBlue%253F%2BGo%2BOnline%253A%2BAn%2BEmpirical%2BStudy%2Bof%2BSocial%2BSupport%2BAmong%2BPatients%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D709%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140538" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0538', 'Absisre20140538');"></div><p class="previewContent"></p></div></div></td></tr></table> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0540" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0540">Effects of ICT Service Innovation and Complementary Strategies on Brand Equity and Customer Loyalty in a Consumer Technology Market</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Xu%2C+Xin">Xin Xu</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Thong%2C+James+Y+L">James Y. L. Thong</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Venkatesh%2C+Viswanath">Viswanath Venkatesh</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 710
+                –729</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>December 24, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0540">10.1287/isre.2014.0540</a></div><div class="tocDeliverFormatsLinks"><span id="showAbsisre20140540" class="tocPreview"><a href="javascript:showHideTocPublicationAbs('10.1287/isre.2014.0540', 'Absisre20140540');" class="link showAbstract">Preview</a> | </span><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0540">Abstract</a> | <a class="ref nowrap references" href="/doi/ref/10.1287/isre.2014.0540">References</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0540">PDF (373 KB)</a> | <a class="ref nowrap" href="/doi/suppl/10.1287/isre.2014.0540">Supplemental</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D710%26pageCount%3D20%26author%3DXin%2BXu%252C%2BJames%2BY.%2BL.%2BThong%252C%2BViswanath%2BVenkatesh%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0540%26title%3DEffects%2Bof%2BICT%2BService%2BInnovation%2Band%2BComplementary%2BStrategies%2Bon%2BBrand%2BEquity%2Band%2BCustomer%2BLoyalty%2Bin%2Ba%2BConsumer%2BTechnology%2BMarket%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D729%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140540" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0540', 'Absisre20140540');"></div><p class="previewContent"></p></div></div></td></tr></table> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0548" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0548">Optimal Management of Digital Content on Tiered Infrastructure Platforms</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Du%2C+Anna+Ye">Anna Ye Du</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Das%2C+Sanjukta">Sanjukta Das</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Gopal%2C+Ram+D">Ram D. Gopal</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Ramesh%2C+Ram">Ram Ramesh</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 730
+                –746</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>December 24, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0548">10.1287/isre.2014.0548</a></div><div class="tocDeliverFormatsLinks"><span id="showAbsisre20140548" class="tocPreview"><a href="javascript:showHideTocPublicationAbs('10.1287/isre.2014.0548', 'Absisre20140548');" class="link showAbstract">Preview</a> | </span><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0548">Abstract</a> | <a class="ref nowrap references" href="/doi/ref/10.1287/isre.2014.0548">References</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0548">PDF (341 KB)</a> | <a class="ref nowrap" href="/doi/suppl/10.1287/isre.2014.0548">Supplemental</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D730%26pageCount%3D17%26author%3DAnna%2BYe%2BDu%252C%2BSanjukta%2BDas%252C%2BRam%2BD.%2BGopal%252C%2Bet%2Bal%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0548%26title%3DOptimal%2BManagement%2Bof%2BDigital%2BContent%2Bon%2BTiered%2BInfrastructure%2BPlatforms%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D746%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140548" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0548', 'Absisre20140548');"></div><p class="previewContent"></p></div></div></td></tr></table> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0556" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0556">Lateral Coordination Mechanisms and the Moderating Role of Arrangement Characteristics in Information Systems Development Outsourcing</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Balaji%2C+S">S. Balaji</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Brown%2C+Carol+V">Carol V. Brown</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 747
+                –760</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>December 24, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0556">10.1287/isre.2014.0556</a></div><div class="tocDeliverFormatsLinks"><span id="showAbsisre20140556" class="tocPreview"><a href="javascript:showHideTocPublicationAbs('10.1287/isre.2014.0556', 'Absisre20140556');" class="link showAbstract">Preview</a> | </span><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0556">Abstract</a> | <a class="ref nowrap references" href="/doi/ref/10.1287/isre.2014.0556">References</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0556">PDF (202 KB)</a> | <a class="ref nowrap" href="/doi/suppl/10.1287/isre.2014.0556">Supplemental</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D747%26pageCount%3D14%26author%3DS.%2BBalaji%252C%2BCarol%2BV.%2BBrown%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0556%26title%3DLateral%2BCoordination%2BMechanisms%2Band%2Bthe%2BModerating%2BRole%2Bof%2BArrangement%2BCharacteristics%2Bin%2BInformation%2BSystems%2BDevelopment%2BOutsourcing%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D760%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140556" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0556', 'Absisre20140556');"></div><p class="previewContent"></p></div></div></td></tr></table> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2013.0493" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2013.0493">Research Note—Partial Least Squares and Models with Formatively Specified Endogenous Constructs: A Cautionary Note</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Aguirre-Urreta%2C+Miguel+I">Miguel I. Aguirre-Urreta</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Marakas%2C+George+M">George M. Marakas</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 761
+                –778</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>September 5, 2013</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2013.0493">10.1287/isre.2013.0493</a></div><div class="tocDeliverFormatsLinks"><span id="showAbsisre20130493" class="tocPreview"><a href="javascript:showHideTocPublicationAbs('10.1287/isre.2013.0493', 'Absisre20130493');" class="link showAbstract">Preview</a> | </span><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2013.0493">Abstract</a> | <a class="ref nowrap references" href="/doi/ref/10.1287/isre.2013.0493">References</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2013.0493">PDF (701 KB)</a> | <a class="ref nowrap" href="/doi/suppl/10.1287/isre.2013.0493">Supplemental</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D761%26pageCount%3D18%26author%3DMiguel%2BI.%2BAguirre-Urreta%252C%2BGeorge%2BM.%2BMarakas%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2013.0493%26title%3DResearch%2BNote%25E2%2580%2594Partial%2BLeast%2BSquares%2Band%2BModels%2Bwith%2BFormatively%2BSpecified%2BEndogenous%2BConstructs%253A%2BA%2BCautionary%2BNote%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D778%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20130493" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2013.0493', 'Absisre20130493');"></div><p class="previewContent"></p></div></div></td></tr></table>  <div class="subject heading-1">Editor's Preface</div> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0561" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0561">Editors' Preface</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Agarwal%2C+Ritu">Ritu Agarwal</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Mookerjee%2C+Vijay">Vijay Mookerjee</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 779</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>December 24, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0561">10.1287/isre.2014.0561</a></div><div class="tocDeliverFormatsLinks"><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0561">Citation</a> | <a class="ref nowrap full" href="/doi/full/10.1287/isre.2014.0561">Full Text</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0561">PDF (40 KB)</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D779%26pageCount%3D1%26author%3DRitu%2BAgarwal%252C%2BVijay%2BMookerjee%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0561%26title%3DEditors%2527%2BPreface%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D779%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140561" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0561', 'Absisre20140561');"></div><p class="previewContent"></p></div></div></td></tr></table> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0543" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0543">Conflating Antecedents and Formative Indicators: A Comment on Aguirre-Urreta and Marakas</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Rigdon%2C+Edward+E">Edward E. Rigdon</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Becker%2C+Jan-Michael">Jan-Michael Becker</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Rai%2C+Arun">Arun Rai</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Ringle%2C+Christian+M">Christian M. Ringle</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Diamantopoulos%2C+Adamantios">Adamantios Diamantopoulos</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Karahanna%2C+Elena">Elena Karahanna</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Straub%2C+Detmar+W">Detmar W. Straub</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Dijkstra%2C+Theo+K">Theo K. Dijkstra</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 780
+                –784</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>September 15, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0543">10.1287/isre.2014.0543</a></div><div class="tocDeliverFormatsLinks"><span id="showAbsisre20140543" class="tocPreview"><a href="javascript:showHideTocPublicationAbs('10.1287/isre.2014.0543', 'Absisre20140543');" class="link showAbstract">Preview</a> | </span><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0543">Abstract</a> | <a class="ref nowrap references" href="/doi/ref/10.1287/isre.2014.0543">References</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0543">PDF (162 KB)</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D780%26pageCount%3D5%26author%3DEdward%2BE.%2BRigdon%252C%2BJan-Michael%2BBecker%252C%2BArun%2BRai%252C%2Bet%2Bal%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0543%26title%3DConflating%2BAntecedents%2Band%2BFormative%2BIndicators%253A%2BA%2BComment%2Bon%2BAguirre-Urreta%2Band%2BMarakas%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D784%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140543" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0543', 'Absisre20140543');"></div><p class="previewContent"></p></div></div></td></tr></table> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0545" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0545">A Rejoinder to Rigdon et al. (2014)</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Aguirre-Urreta%2C+Miguel+I">Miguel I. Aguirre-Urreta</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Marakas%2C+George+M">George M. Marakas</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 785
+                –788</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>December 24, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0545">10.1287/isre.2014.0545</a></div><div class="tocDeliverFormatsLinks"><span id="showAbsisre20140545" class="tocPreview"><a href="javascript:showHideTocPublicationAbs('10.1287/isre.2014.0545', 'Absisre20140545');" class="link showAbstract">Preview</a> | </span><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0545">Abstract</a> | <a class="ref nowrap references" href="/doi/ref/10.1287/isre.2014.0545">References</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0545">PDF (87 KB)</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D785%26pageCount%3D4%26author%3DMiguel%2BI.%2BAguirre-Urreta%252C%2BGeorge%2BM.%2BMarakas%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0545%26title%3DA%2BRejoinder%2Bto%2BRigdon%2Bet%2Bal.%2B%25282014%2529%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D788%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140545" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0545', 'Absisre20140545');"></div><p class="previewContent"></p></div></div></td></tr></table>  <div class="subject heading-1">Special Section: Information, Technology, and the Changing Nature of Work</div> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0551" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0551">Special Section Introduction—Information, Technology, and the Changing Nature of Work</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Forman%2C+Chris">Chris Forman</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/King%2C+John+Leslie">John Leslie King</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Lyytinen%2C+Kalle">Kalle Lyytinen</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 789
+                –795</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>December 24, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0551">10.1287/isre.2014.0551</a></div><div class="tocDeliverFormatsLinks"><span id="showAbsisre20140551" class="tocPreview"><a href="javascript:showHideTocPublicationAbs('10.1287/isre.2014.0551', 'Absisre20140551');" class="link showAbstract">Preview</a> | </span><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0551">Abstract</a> | <a class="ref nowrap references" href="/doi/ref/10.1287/isre.2014.0551">References</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0551">PDF (107 KB)</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D789%26pageCount%3D7%26author%3DChris%2BForman%252C%2BJohn%2BLeslie%2BKing%252C%2BKalle%2BLyytinen%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0551%26title%3DSpecial%2BSection%2BIntroduction%25E2%2580%2594Information%252C%2BTechnology%252C%2Band%2Bthe%2BChanging%2BNature%2Bof%2BWork%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D795%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140551" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0551', 'Absisre20140551');"></div><p class="previewContent"></p></div></div></td></tr></table> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0536" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0536">Social Media, Knowledge Sharing, and Innovation: Toward a Theory of Communication Visibility</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Leonardi%2C+Paul+M">Paul M. Leonardi</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 796
+                –816</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>October 3, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0536">10.1287/isre.2014.0536</a></div><div class="tocDeliverFormatsLinks"><span id="showAbsisre20140536" class="tocPreview"><a href="javascript:showHideTocPublicationAbs('10.1287/isre.2014.0536', 'Absisre20140536');" class="link showAbstract">Preview</a> | </span><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0536">Abstract</a> | <a class="ref nowrap references" href="/doi/ref/10.1287/isre.2014.0536">References</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0536">PDF (193 KB)</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D796%26pageCount%3D21%26author%3DPaul%2BM.%2BLeonardi%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0536%26title%3DSocial%2BMedia%252C%2BKnowledge%2BSharing%252C%2Band%2BInnovation%253A%2BToward%2Ba%2BTheory%2Bof%2BCommunication%2BVisibility%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D816%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140536" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0536', 'Absisre20140536');"></div><p class="previewContent"></p></div></div></td></tr></table> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0544" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0544">Patient Data as Medical Facts: Social Media Practices as a Foundation for Medical Knowledge Creation</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Kallinikos%2C+Jannis">Jannis Kallinikos</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Tempini%2C+Niccol%C3%B2">Niccolò Tempini</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 817
+                –833</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>October 24, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0544">10.1287/isre.2014.0544</a></div><div class="tocDeliverFormatsLinks"><span id="showAbsisre20140544" class="tocPreview"><a href="javascript:showHideTocPublicationAbs('10.1287/isre.2014.0544', 'Absisre20140544');" class="link showAbstract">Preview</a> | </span><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0544">Abstract</a> | <a class="ref nowrap references" href="/doi/ref/10.1287/isre.2014.0544">References</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0544">PDF (258 KB)</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D817%26pageCount%3D17%26author%3DJannis%2BKallinikos%252C%2BNiccol%25C3%25B2%2BTempini%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0544%26title%3DPatient%2BData%2Bas%2BMedical%2BFacts%253A%2BSocial%2BMedia%2BPractices%2Bas%2Ba%2BFoundation%2Bfor%2BMedical%2BKnowledge%2BCreation%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D833%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140544" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0544', 'Absisre20140544');"></div><p class="previewContent"></p></div></div></td></tr></table> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0557" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0557">Infrastructuring Work: Building a State-Wide Hospital Information Infrastructure in India</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Aanestad%2C+Margunn">Margunn Aanestad</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Jolliffe%2C+Bob">Bob Jolliffe</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Mukherjee%2C+Arunima">Arunima Mukherjee</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Sahay%2C+Sundeep">Sundeep Sahay</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 834
+                –845</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>November 17, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0557">10.1287/isre.2014.0557</a></div><div class="tocDeliverFormatsLinks"><span id="showAbsisre20140557" class="tocPreview"><a href="javascript:showHideTocPublicationAbs('10.1287/isre.2014.0557', 'Absisre20140557');" class="link showAbstract">Preview</a> | </span><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0557">Abstract</a> | <a class="ref nowrap references" href="/doi/ref/10.1287/isre.2014.0557">References</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0557">PDF (131 KB)</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D834%26pageCount%3D12%26author%3DMargunn%2BAanestad%252C%2BBob%2BJolliffe%252C%2BArunima%2BMukherjee%252C%2Bet%2Bal%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0557%26title%3DInfrastructuring%2BWork%253A%2BBuilding%2Ba%2BState-Wide%2BHospital%2BInformation%2BInfrastructure%2Bin%2BIndia%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D845%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140557" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0557', 'Absisre20140557');"></div><p class="previewContent"></p></div></div></td></tr></table> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0552" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0552">Efficacy of R&amp;D Work in Offshore Captive Centers: An Empirical Study of Task Characteristics, Coordination Mechanisms, and Performance</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Mani%2C+Deepa">Deepa Mani</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Srikanth%2C+Kannan">Kannan Srikanth</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Bharadwaj%2C+Anandhi">Anandhi Bharadwaj</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 846
+                –864</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>November 5, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0552">10.1287/isre.2014.0552</a></div><div class="tocDeliverFormatsLinks"><span id="showAbsisre20140552" class="tocPreview"><a href="javascript:showHideTocPublicationAbs('10.1287/isre.2014.0552', 'Absisre20140552');" class="link showAbstract">Preview</a> | </span><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0552">Abstract</a> | <a class="ref nowrap references" href="/doi/ref/10.1287/isre.2014.0552">References</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0552">PDF (248 KB)</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D846%26pageCount%3D19%26author%3DDeepa%2BMani%252C%2BKannan%2BSrikanth%252C%2BAnandhi%2BBharadwaj%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0552%26title%3DEfficacy%2Bof%2BR%2526D%2BWork%2Bin%2BOffshore%2BCaptive%2BCenters%253A%2BAn%2BEmpirical%2BStudy%2Bof%2BTask%2BCharacteristics%252C%2BCoordination%2BMechanisms%252C%2Band%2BPerformance%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D864%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140552" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0552', 'Absisre20140552');"></div><p class="previewContent"></p></div></div></td></tr></table> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0549" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0549">Doing Business with Strangers: Reputation in Online Service Marketplaces</a></div><span><a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Moreno%2C+Antonio">Antonio Moreno</a>, <a class="entryAuthor linkable hlFld-ContribAuthor" href="/author/Terwiesch%2C+Christian">Christian Terwiesch</a></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 865
+                –886</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>October 29, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0549">10.1287/isre.2014.0549</a></div><div class="tocDeliverFormatsLinks"><span id="showAbsisre20140549" class="tocPreview"><a href="javascript:showHideTocPublicationAbs('10.1287/isre.2014.0549', 'Absisre20140549');" class="link showAbstract">Preview</a> | </span><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0549">Abstract</a> | <a class="ref nowrap references" href="/doi/ref/10.1287/isre.2014.0549">References</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0549">PDF (251 KB)</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D865%26pageCount%3D22%26author%3DAntonio%2BMoreno%252C%2BChristian%2BTerwiesch%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0549%26title%3DDoing%2BBusiness%2Bwith%2BStrangers%253A%2BReputation%2Bin%2BOnline%2BService%2BMarketplaces%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D886%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140549" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0549', 'Absisre20140549');"></div><p class="previewContent"></p></div></div></td></tr></table>  <div class="subject heading-1">About the Authors</div> <table border="0" width="100%" class="articleEntry"><tr><td class="accessIconContainer"><div></div></td><td align="right" valign="top" width="10"><input class="jsOnly tocToolCheckBox" type="checkbox" name="doi" value="10.1287/isre.2014.0560" /><br /></td><td valign="top"><div class="art_title linkable"><a class="ref nowrap" href="/doi/abs/10.1287/isre.2014.0560">About Our Authors</a></div><span></span><div class="art_meta citation"><span class="issueInfo">25(4)</span><span class="articlePageRange"><span class="issueInfoComma">, </span>pp. 887
+                –891</span></div><div class="tocEPubDate"><span class="maintextleft"><span class="ePubDateLabel">Published Online: </span>December 24, 2014</span></div><div class="tocArticleDoi"><a href="http://dx.doi.org/10.1287/isre.2014.0560">10.1287/isre.2014.0560</a></div><div class="tocDeliverFormatsLinks"><a class="ref nowrap abs" href="/doi/abs/10.1287/isre.2014.0560">Citation</a> | <a class="ref nowrap full" href="/doi/full/10.1287/isre.2014.0560">Full Text</a> | <a class="ref nowrap pdf" target="_blank" title="Opens new window" href="/doi/pdf/10.1287/isre.2014.0560">PDF (90 KB)</a> | <a href="/servlet/linkout?type=rightslink&url=startPage%3D887%26pageCount%3D5%26author%3D%26orderBeanReset%3Dtrue%26imprint%3DINFORMS%26volumeNum%3D25%26issueNum%3D4%26contentID%3D10.1287%252Fisre.2014.0560%26title%3DAbout%2BOur%2BAuthors%26issn%3D1047-7047%26publisherName%3Diorms%26publication%3Disre%26rpt%3Dn%26endPage%3D891%26publicationDate%3D12%252F01%252F2014" class="rightslink">Permissions</a> <div id="Absisre20140560" class="previewViewSection tocPreview"><div class="closeButton" onclick="showHideTocPublicationAbs('10.1287/isre.2014.0560', 'Absisre20140560');"></div><p class="previewContent"></p></div></div></td></tr></table> 
+
+
+
+
+
+            
+            
+            
+        </div>
+        
+              
+          
+        <input type="hidden" name="href" value="/toc/isre/25/4" />
+        <input type="hidden" name="title" value="Information Systems Research (2014)" />
+    </form>
+    
+</div></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+    <div class="width_1_4  ">
+        <div data-pb-dropzone="right">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-box  widget-alternate widget-compact-all" id="f85cb5e8-5b2c-4949-830d-729e0a27b003"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-box  body-alternate body-compact-all"><style class="text/css">
+p.navbox {
+ line-height: 100%;
+font-size:11px;
+}
+a.navbox:link {text-decoration:none;}
+</style>
+
+<div class="information">
+<table>
+<tr>
+<td width="70%">
+<p class="navbox">
+<img src="/pb/assets/raw/home%2Fimages%2Fnav_box%2Farrow.gif"> 
+<a class="navbox" href="/toc/isre/current">Current Issue</a>
+<br /><img src="/pb/assets/raw/home%2Fimages%2Fnav_box%2Fdiv.gif" class="sep"><br />
+<img src="/pb/assets/raw/home%2Fimages%2Fnav_box%2Farrow.gif"> 
+ <a class="navbox" href="/toc/isre/0/0">Articles in Advance</a>
+<br /><img src="/pb/assets/raw/home%2Fimages%2Fnav_box%2Fdiv.gif" class="sep"><br />
+<img src="/pb/assets/raw/home%2Fimages%2Fnav_box%2Farrow.gif"> 
+ <a  class="navbox"href="/loi/isre">Archive</a>
+<br /><img src="/pb/assets/raw/home%2Fimages%2Fnav_box%2Fdiv.gif" class="sep"><br />
+<img src="/pb/assets/raw/home%2Fimages%2Fnav_box%2Farrow.gif">
+ <a class="navbox" href="/page/isre/prices-and-ordering">Subscribe</a>
+<br /><img src="/pb/assets/raw/home%2Fimages%2Fnav_box%2Fdiv.gif" class="sep"><br />
+<img src="/pb/assets/raw/home%2Fimages%2Fnav_box%2Farrow.gif">
+ <a class="navbox" href="/journal/isre">About</a>
+<br /><img src="/pb/assets/raw/home%2Fimages%2Fnav_box%2Fdiv.gif" class="sep"><br />
+<img src="/pb/assets/raw/home%2Fimages%2Fnav_box%2Farrow.gif">
+ <a  class="navbox"href="/page/isre/instructions-for-authors">Submit a Manuscript<a/>
+</p>
+</td>
+<td width="30%">
+<a href="/toc/isre/current"><img  width="80" src="/pb/assets/raw/lookinside%2Fisre_thumb.jpg"></a>
+</td>
+</tr>
+</table>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+                
+                
+                
+            
+        
+    
+        
+            
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-quickLinks  widget-alternate widget-border-toggle widget-compact-all" id="3552427f-5c2b-410e-b3fc-38e365d0a825"  >
+        
+        
+
+        <div class="wrapped " >
+            <h1 class="widget-header header-quickLinks  header-alternate header-border-toggle header-compact-all">Quicklinks & Resources</h1>
+            <div class="widget-body body body-quickLinks  body-alternate body-border-toggle body-compact-all"><div class="resources">
+<ul>
+<li><a href="/page/isre/review-process-and-stats">Review Process & Stats</a></li>
+<li><a href="http://authors.pubs.informs.org">INFORMS Author Portal</a></li>
+<li><a href="http://pubsonline.informs.org/pb/assets/raw/ISRE-journal-flyer.pdf">Download Journal Flyer</a></li>
+</ul>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumSessionHistory none  widget-quickLinks" id="26b071ec-67b6-4991-96f2-a07f24b33c67"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-quickLinks "><div class="sessionHistory">
+
+    
+        <p class="italicText">No search history</p>
+    
+    
+        <p class="italicText">No recently viewed articles</p>
+    
+
+    
+
+    
+
+</div></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+    </div>
+</div><!--end pagefulltext--></div>
+        </div>
+    </div>
+    
+</main></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget pageFooter none  widget-none  widget-alternate widget-compact-all" id="pageFooter"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-alternate body-compact-all"><footer class="page-footer">
+    <div data-pb-dropzone="main">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none" id="84d3ec5d-b73a-4b91-ad13-af1f31069620"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none ">&nbsp;&nbsp;<img src="/pb/assets/raw/home/images/blue/follow-blue-footer.gif" alt="Follow Informs"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/page/ealerts"><img src="/pb/assets/raw/home/images/blue/email1.gif" alt="" class="roll" /></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/INFORMSpage"><img src="/pb/assets/raw/home/images/blue/facebook1.gif" alt="" class="roll" /></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/INFORMS"><img src="/pb/assets/raw/home/images/blue/twitter1.gif" alt="" class="roll" /> </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://plus.google.com/102268768584251974121"><img src="/pb/assets/raw/home/images/blue/google1.gif" alt="" class="roll" /> </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.informs.org/Apply-Operations-Research/Science-of-Better-Podcasts"><img src="/pb/assets/raw/home/images/blue/podcast1.gif" alt="" class="roll" /></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.youtube.com/user/INFORMSonline"><img src="/pb/assets/raw/home/images/blue/youtube1.gif" alt="" class="roll" /></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://pubsonline.informs.org/page/pubsonline-mobile"><img src="/pb/assets/raw/home/images/blue/tools1.gif" class="roll" /></a></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-one-column   widget-none  widget-compact-all" id="32d5acf4-dc6e-4689-8dc8-a11768591450"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid">
+    <div class="width_1_1">
+        <div data-pb-dropzone="center">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-rich-text none  widget-  widget-compact-all" id="5139882c-401f-41d6-a743-e46617388ce2"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-  body-compact-all"><div id="rich-text-5139882c-401f-41d6-a743-e46617388ce2" class="pb-rich-text" >
+        <div class="module footer">
+<p>INFORMS &nbsp;•&nbsp;5521 Research Park Drive, Suite 200, Catonsville, MD 21228 USA &nbsp;• &nbsp;+1-443-757-3500 &nbsp;•&nbsp; <a href="mailto:informs@informs.org"><span style="color: blue;">informs@informs.org</span></a></p>
+<ul>
+<li class="first"><a href="https://www.informs.org/About-Informs/Sitemap">Sitemap</a></li>
+<li><a href="/page/terms-and-conditions">Terms of Use</a></li>
+<li><a href="/page/contact">Contact INFORMS</a></li>
+<li class="last">INFORMS © 2015</li>
+</ul>
+</div>
+</div></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+    </div>
+</footer></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+</body>
+</html>
+
+    

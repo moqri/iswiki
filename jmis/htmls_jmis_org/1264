@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/128">    Volume 32 Number 3 2015
+</a> pp. 229-267</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Taxonomy of Evaluation Methods for Information Systems Artifacts</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1801">Prat, Nicolas,</a>    <a href="/contributors/1802">Comyn-Wattiau, Isabelle,</a> and     <a href="/contributors/1803">Akoka, Jacky</a>    </div>
+
+<p>ABSTRACT: 
+<p>Artifacts, such as software systems, pervade organizations and society. In the field of information systems (IS) they form the core of research. The evaluation of IS artifacts thus represents a major issue. Although IS research paradigms are increasingly intertwined, building and evaluating artifacts has traditionally been the purview of design science research (DSR). DSR in IS has not reached maturity yet. This is particularly true of artifact evaluation. This paper investigates the “what” and the “how” of IS artifact evaluation: what are the objects and criteria of evaluation, the methods for evaluating the criteria, and the relationships between the “what” and the “how” of evaluation? To answer these questions, we develop a taxonomy of evaluation methods for IS artifacts. With this taxonomy, we analyze IS artifact evaluation practice, as reflected by ten years of DSR publications in the basket of journals of the Association for Information Systems (AIS). This research brings to light important relationships between the dimensions of IS artifact evaluation, and identifies seven typical evaluation patterns: demonstration; simulation- and metric-based benchmarking of artifacts; practice-based evaluation of effectiveness; simulation- and metric-based absolute evaluation of artifacts; practice-based evaluation of usefulness or ease of use; laboratory, student-based evaluation of usefulness; and algorithmic complexity analysis. This study also reveals a focus of artifact evaluation practice on a few criteria. Beyond immediate usefulness, IS researchers are urged to investigate ways of evaluating the long-term organizational impact and the societal impact of artifacts.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3578">artifact evaluation</a>,    <a href="/keywords/729">content analysis</a>,    <a href="/keywords/3579">design evaluation</a>,    <a href="/keywords/2317">design science</a>,    <a href="/keywords/274">system design</a>,    <a href="/keywords/924">taxonomy</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

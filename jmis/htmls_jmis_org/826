@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/44">    Volume 10 Number 1 1993
+</a> pp. 57-72</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Software Development Outsourcing Contract: Structure and Business Value</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1319">Richmond, William B</a> and     <a href="/contributors/83">Seidmann, Abraham</a>    </div>
+
+<p>ABSTRACT: We address the case where a user contracts for the delivery of a new information system from an independent vendor, both of whom are risk-neutral. The delivery task is partitioned into two consecutive stages: system design and software development. The parties can contract for each stage separately or specify an initial contract that covers both stages. We compare the impact of different contracting structures on prices, project value, project completion probability, and the value to the developer of obtaining the first stage of the contract. Specifically, we show that a two-stage contracting can lead to a higher business value than stage-by-stage contracting. When there is competition for the design stage, the vendors bear more of the software development risk, and the probability the system will be completed depends on the contract structure.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/649">contract development of software</a>,    <a href="/keywords/650">outsourcing</a>,    <a href="/keywords/651">software contracting</a>,    <a href="/keywords/652">software development risk</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

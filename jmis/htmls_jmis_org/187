@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/48">    Volume 26 Number 4 2010
+</a> pp. 253-286</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Implementing Service-Oriented Architecture in Organizations</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/372">Choi, Jae,</a>    <a href="/contributors/373">Nazareth, Derek L,</a> and     <a href="/contributors/374">Jain, Hemant K</a>    </div>
+
+<p>ABSTRACT: Service-oriented architecture (SOA) has been promoted as a technology that can enhance information systems agility, interoperability between applications, deployment flexibility, and reusability. As with any new information technology (IT), the decision to adopt SOA cannot be taken lightly, given the nontrivial investment in economic and personnel resources. The complexity associated with industry-wide diffusion, coupled with organization, industry, and environment factors, contributes to a lack of a clear strategy for assessing the business value that SOA provides an organization. This research attempts to shed light on this process of value creation for an organization, using a system dynamics approach. A detailed model of the industry diffusion coupled with organization adoption is presented. After suitable calibration and validation, a series of simulations using the model evaluate the efficacy of SOA under a variety of diverse conditions. The results of the simulations indicate clear benefits of SOA over monolithic ITs when employed under appropriate conditions. Situations where SOA fails to live up to expectations are also identified. The model and accompanying simulations can serve as a practical decision support tool for an organization to help make the strategic decisions of adopting and implementing SOA.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1972">adoption</a>,    <a href="/keywords/2317">design science</a>,    <a href="/keywords/2621">service-oriented architecture</a>,    <a href="/keywords/2290">services science</a>,    <a href="/keywords/2284">services</a>,    <a href="/keywords/2629">system dynamics</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

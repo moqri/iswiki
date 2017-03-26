@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/86">    Volume 22 Number 1 2005
+</a> pp. 13-43</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Expertise Integration and Creativity in Information Systems Development</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1498">Tiwana, Amrit</a> and     <a href="/contributors/482">McLean, Ephraim R</a>    </div>
+
+<p>ABSTRACT: This paper addresses the understudied issue of how individually held expertise in information systems development (ISD) teams results in creativity at the team level during the development process. We develop the idea that team creativity results primarily from integration of individually held expertise of team members at the team level. We further propose the quality of intrateam relationships and knowledge complementarities that align the work of individual team members at the project level influence creativity primarily through the process of expertise integration. We use data from a field study of 142 participants in 42 ISD projects to test the proposed model. The paper makes three new contributions to the IS literature. Its key contribution lies in developing an expertise integration view of team creativity. We demonstrate the centrality of integrating individually held tacit and explicit knowledge about the problem domain and the technology at the team level in achieving team creativity. The use of a process-focused conceptualization of team creativity is especially noteworthy here. The second contribution of the paper lies in conceptually developing and operationalizing the concept of expertise integration, a mechanism by which individually held knowledge is integratively applied at the project level. Although the importance of knowledge in the ISD process is widely recognized in prior research, this is the first study to develop the concept in a operationally meaningful way. The third key contribution lies in showing that the compositional and relational attributes of ISD project teams--diverse specialized knowledge in a team, the quality of intrateam working relationships, and members' cross-domain absorptive capacity--do not engender creativity by themselves; they do so primarily because they enhance integration of individual knowledge at the project level. We offer empirical evidence for such full mediation. These findings have important theoretical and practical implications, which are discussed in the paper.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1901">absorptive capacity</a>,    <a href="/keywords/198">creativity</a>,    <a href="/keywords/1902">expertise integration</a>,    <a href="/keywords/1190">information system development</a>,    <a href="/keywords/1903">information systems innovation</a>,    <a href="/keywords/1904">integration</a>,    <a href="/keywords/1443">knowledge integration</a>,    <a href="/keywords/202">knowledge management</a>,    <a href="/keywords/1905">knowledge transfer</a>,    <a href="/keywords/339">software development</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

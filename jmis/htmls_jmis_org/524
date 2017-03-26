@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/1">    Volume 25 Number 1 2008
+</a> pp. 17-48</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Risk Management of Contract Portfolios in IT Services: The Profit-at-Risk Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/79">Kauffman, Robert J</a> and     <a href="/contributors/131">Sougstad, Ryan</a>    </div>
+
+<p>ABSTRACT: Information technology (IT) services providers are exposed to exogenous risks faced by the industry as a whole, and endogenous risks from their current portfolio of IT contracts. This exposure may lead to cost overruns or legal responsibility for service-level breeches. Providers can leverage information about their risk positions implied by their IT services contract portfolios to gain strategic advantage over their competitors. We build theory in support of a new construct, profit-at-risk, for evaluating the trade-offs between contract profitability and service-level risk, stemming from financial economics theory and models. We simulate an IT services contract portfolio, and show how managers can reduce organizational risk by forgoing profit-maximizing contracts in lieu of more conservative service-level agreements, yet still achieve high returns. Our approach provides decision support for ex ante contract evaluation and negotiation, and a means to conduct ex post efficiency evaluation. It also aligns IT service management with best practices in financial management.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2389">efficient frontier</a>,    <a href="/keywords/2390">financial economics</a>,    <a href="/keywords/2391">IT contracts</a>,    <a href="/keywords/2288">IT services</a>,    <a href="/keywords/384">managerial decision making</a>,    <a href="/keywords/2392">mechanism design</a>,    <a href="/keywords/623">portfolio management</a>,    <a href="/keywords/2393">profit-at-risk</a>,    <a href="/keywords/2290">services science</a>,    <a href="/keywords/1805">value-at-risk</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

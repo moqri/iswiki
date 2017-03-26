@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/65">    Volume 28 Number 3 2011
+</a> pp. 269-308</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Usability Design and Psychological Ownership of a Virtual World</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1007">Lee, Younghwa</a> and     <a href="/contributors/337">Chen, Andrew N K</a>    </div>
+
+<p>ABSTRACT: Virtual worlds, immersive three-dimensional virtual spaces where users interact with projected identities of other users (avatars) and objects, are becoming increasingly popular and continue to grow as highly interactive, collaborative, and commercial cyberspaces. However, extant research in this context has not paid much attention to usability design of a virtual world and corresponding effects on users' psychological desire to own and control the space and objects within it and subsequent behavior intention. In this study, we apply concepts of Web site usability and psychological ownership to develop a model that illustrates the relationships between seven usability factors (legibility, firmness, coherence, variety, mystery, classic, and expressive visual aesthetics), four antecedents of psychological ownership (cognitive appraisals, perceived control, affective appraisals, and self-investment), psychological ownership, and use intention. A cross-sectional study with 239 Second Life users was conducted. The results demonstrate that designing a usable virtual world that induces strong psychological ownership is crucial to attract users to spend more time, participate in more activities, and revisit the virtual world. This is an important finding for forward-looking e-business managers looking to invest their limited resources in designing a usable virtual world. In addition, by using our model and corresponding survey items, designers can benchmark and evaluate the usability of their current virtual worlds, compare the results to the designs of competitors, and upgrade the offerings of virtual worlds, as needed, by allocating available resources to the most influential design factors to suit their specific needs.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2894">architectural quality model</a>,    <a href="/keywords/336">human-computer interaction</a>,    <a href="/keywords/2895">landscape preference model</a>,    <a href="/keywords/2896">psychological ownership</a>,    <a href="/keywords/2897">usability</a>,    <a href="/keywords/2504">virtual worlds</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

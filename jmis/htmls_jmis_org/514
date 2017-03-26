@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/108">    Volume 24 Number 1 2007
+</a> pp. 101-134</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Impact of ERP Implementation on Business Process Outcomes: A Factor-Based Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/900">Karimi, Jahangir,</a>    <a href="/contributors/902">Somers, Toni M,</a> and     <a href="/contributors/200">Bhattacherjee, Anol</a>    </div>
+
+<p>ABSTRACT: Failures in large-scale information technology implementation are abundantly documented in the practitioner literature. In this study, we examine why some firms benefit more from enterprise resource planning (ERP) implementation than others. We look at ERP implementation from a technological diffusion perspective, and investigate under what contextual conditions the extent of ERP implementation has the greatest effect on business process outcomes. Using empirical data, we find that the extent of ERP implementation influences business process outcomes, and both ERP radicalness and delivery system play moderating roles. For information systems (IS) practice, this study helps managers direct their attention to the most promising factors, provides insights into how to manage their complex interactions, and elaborates on their differential effects on business process outcomes. For IS research, it integrates innovation diffusion theory into our current knowledge of ERP implementation and provides theoretical explanations for ERP implementation failures.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2242">business process outcomes</a>,    <a href="/keywords/2243">enterprise systems</a>,    <a href="/keywords/2244">ERP effects</a>,    <a href="/keywords/1789">ERP implementation</a>,    <a href="/keywords/2245">ERP radicalness</a>,    <a href="/keywords/684">information technology innovation</a>,    <a href="/keywords/2246">innovation diffusion theory</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

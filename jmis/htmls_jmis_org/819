@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/73">    Volume 19 Number 4 2003
+</a> pp. 65-83</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Toward an Understanding of Satisfaction with the Process and Outcomes of Teamwork</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/249">Reinig, Bruce A</a>    </div>
+
+<p>ABSTRACT: Collaborative technologies such as group support systems (GSS) are often developed to improve the effectiveness and efficiency of teams; however, the satisfaction users have with the processes and outcomes of the teamwork itself often determines the ultimate adoption and sustained use of collaborative technologies. Much of the research on teamwork has focused on meetings in particular and, consequently, satisfaction with the process and outcomes of meetings, referred to collectively as meeting satisfaction. Research on meeting satisfaction in GSS-supported groups has been equivocal, indicating the need for advancement in our theoretical understanding of the construct. To that end, this paper presents a causal model of meeting satisfaction derived from goal setting theory. The model is tested with an empirical study consisting of 15 GSS groups and 11 face-to-face (FTF) groups engaged in the 'lost at sea' task. The results of analysis using structural equation modeling indicate support for the model's integrity across both GSS and FTF groups. Implications for researchers and practitioners are discussed, including how the model can be used to improve future research on the use of collaborative technology to support teamwork.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/495">collaborative technology</a>,    <a href="/keywords/1638">goal setting theory</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/1639">meeting satisfaction</a>,    <a href="/keywords/1033">teams</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

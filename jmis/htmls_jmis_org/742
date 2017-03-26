@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/109">    Volume 1 Number 2 1984
+</a> pp. 64-71</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Fighting Information Pollution with Decision Support Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1205">Orman, Levent V</a>    </div>
+
+<p>ABSTRACT: Information pollution is characterized as a major problem in modern organizations and in society at large. Decision support systems are proposed as the primary tool to combat information pollution. An ideal decision support system is characterized; its potential is demonstrated through examples; and a design architecture to achieve its maximum potential is proposed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/40">information pollution</a>,    <a href="/keywords/41">design architecture</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

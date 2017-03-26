@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/14">    Volume 8 Number 4 1992
+</a> pp. 27-44</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Framework for Linking the Structure of Information Systems with Organizational Requirements for Information Sharing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1003">Lee, Sunro</a> and     <a href="/contributors/1004">Leifer, Richard P</a>    </div>
+
+<p>ABSTRACT: This paper describes relations between organizational structures and IS structures based on requirements for information sharing. Information sharing is defined as a linking concept between organizational and IS structures. Task characteristics, technological interdependency, work teams, and networked structures of organizations determine information sharing requirements. Adopting the paradigm of the organizational fit school, this paper postulates that for IS structures to be effective they should possess capacities for matching information sharing requirements.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/528">information sharing</a>,    <a href="/keywords/529">information system structure</a>,    <a href="/keywords/530">information-technology fit</a>,    <a href="/keywords/531">organizational computer-mediated communication</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

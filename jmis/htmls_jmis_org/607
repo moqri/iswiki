@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/10">    Volume 9 Number 1 1992
+</a> pp. 69-91</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>MIS Skills for the 1990s: A Survey of MIS Managers&#039; Perceptions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1018">Leitheiser, Robert L</a>    </div>
+
+<p>ABSTRACT: The effective management of human resources is an important challenge for MIS executives. Part of the challenge is obtaining and retaining MIS personnel with the skills and knowledge required to support the organization effectively. The purpose of this paper is to provide managers and educators with information on the current and future demand for MIS professionals and with information about the relative importance of specific MIS skills. To address these issues a survey of MIS managers was undertaken in the summer of 1990. The results include projections of demand for ten MIS job types. Also reported are the perceptions of importance of fifty-four skills for systems developers and twenty-six technical specialist skills. A model is proposed for explaining perceptions of skill need. Implications of the results are discussed for businesses, educational institutions, and researchers.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/220">demand for MIS professionals</a>,    <a href="/keywords/550">human resources for MIS</a>,    <a href="/keywords/551">MIS skills</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

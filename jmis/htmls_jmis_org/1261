@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/128">    Volume 32 Number 3 2015
+</a> pp. 129-157</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Evaluating Team Collaboration Quality: The Development and Field Application of a Collaboration Maturity Model</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1796">Boughzala, Imed</a> and     <a href="/contributors/235">De Vreede, Gert-Jan</a>    </div>
+
+<p>ABSTRACT: 
+<p>The quality of collaboration directly affects the quality of an organization’s outcomes and performance. Trends like globalization and increased product and service complexity have pushed organizations to become more and more reliant on collaboration in distributed, cross-disciplinary, cross-cultural, virtual teams. The present research is based on an applied science/engineering (AS/E) research paradigm to address an important class of unsolved problems—measuring the quality of collaboration within and across organizational boundaries. This paper presents a collaboration maturity model (Col-MM) to assess an organization’s team collaboration maturity as a first step toward a generalizable solution to that class of problems. The Col-MM is intended to be sufficiently generic to be applied to different organizational and team settings and usable by practitioners for conducting self-assessments. The Col-MM was developed during a series of focus group meetings with professionals (business unit managers). The model was then piloted and subsequently applied in a field study in an automotive company. This paper reports on the development and field application of the Col-MM. It contributes to the collaboration science literature, theory, and practice through a detailed AS/E study that develops a maturity model and a system for administering it that provides proof of value and effective use in the field.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3559">collaboration maturity</a>,    <a href="/keywords/3560">collaboration maturity model</a>,    <a href="/keywords/3561">collaboration quality</a>,    <a href="/keywords/983">collaboration technology</a>,    <a href="/keywords/3562">online collaboration</a>,    <a href="/keywords/1036">organizational performance</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

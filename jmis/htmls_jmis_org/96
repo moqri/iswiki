@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/31">    Volume 20 Number 2 2003
+</a> pp. 113-136</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Contingency Pricing for Information Goods and Services Under Industrywide Performance Standard</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/191">Bhargava, Hemant K</a> and     <a href="/contributors/193">Sundaresan, Shankar</a>    </div>
+
+<p>ABSTRACT: This paper demonstrates that quality-contingent pricing is a useful mechanism for mitigating the negative effects of quality uncertainty in e-commerce and information technology services. Under contingency pricing of an information good or service, the firm preannounces a rebate for poor performance. Consumers determine performance probabilities using publicly available historical performance data, and the firm may have additional private information with respect to its future probability distribution. Examining the monopoly case, we explicate the critical role of private information and differences in belief between the firm and market in the choice of pricing scheme. Contingent pricing is useful when the market underestimates the firm's performance; then it is optimal for the firm to offer a full-price rebate for misperformance, with a correspondingly higher price for meeting the performance standard. We study the competitive value of contingency pricing in a duopoly setting where the firms differ in their probabilities of meeting the performance standard, but are identical in other respects. Contingency pricing is a dominant strategy for a firm when the market underestimates the firm's performance. Whereas both firms would earn equal profits if they were constrained to standard pricing, the superior firm earns greater profits under contingency pricing by setting lower expected prices. We show that contingency pricing is efficient as well, and consumer surplus increases because more consumers buy from the superior firm.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1701">contingency pricing</a>,    <a href="/keywords/1334">information goods</a>,    <a href="/keywords/543">information technology outsourcing</a>,    <a href="/keywords/1702">money-back guarantees</a>,    <a href="/keywords/1703">pricing of IT services</a>,    <a href="/keywords/1704">quality uncertainty</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/82">    Volume 17 Number 1 2000
+</a> pp. 87-113</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Software Editions: An Application of Segmentation Theory to the Packaged Software Market</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/308">Raghunathan, Srinivasan</a>    </div>
+
+<p>ABSTRACT: Introducing multiple editions of the same software is a relatively recent innovation in the software market. The editions serve to differentiate among different user segments. Introduction of similar low- and high-end products in other markets has been analyzed using segmentation theory. However, the software market is fundamentally different from other product markets in two respects: (1) Software is characterized by negligible marginal production cost, and (2) the option of offering upgrades also exists. The authors analyze the problem of software introduction using segmentation theory. Their analysis shows that if cannibalization is low, the vendor should introduce the full software as one edition. This result differs from that obtained in prior research, which showed that the seller should introduce two distinct products in such cases. When cannibalization is high, introducing multiple editions simultaneously is optimal under a variety of conditions. The strategy of introducing a high-end edition in the first period followed by the low-end edition in the second period is optimal only when the consumers are extremely impatient and the software is large. A significant result of the authors' analysis is that offering upgrades is clearly superior to other strategies only in a very restricted range of parameters. The analysis also suggests that the vendor's profit is higher when it announces the future strategy. Theoretical results are supported by evidence from the software market.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1334">information goods</a>,    <a href="/keywords/1335">software introduction</a>,    <a href="/keywords/996">economics of software</a>,    <a href="/keywords/999">software pricing</a>,    <a href="/keywords/1336">software marketing</a>,    <a href="/keywords/756">market segmentation</a>,    <a href="/keywords/1337">software editions</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

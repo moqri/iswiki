@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/10">    Volume 9 Number 1 1992
+</a> pp. 165-184</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Knowledge-Based Support for Combining Qualitative and Quantitative Judgments in Resource Allocation Decisions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/14">Agarwal, Ritu,</a>    <a href="/contributors/17">Tanniru, Mohan R,</a> and     <a href="/contributors/18">Dacruz, Marcos</a>    </div>
+
+<p>ABSTRACT: The allocation of scarce resources to competing information systems project opportunities is a key activity performed by the MIS planning group. Performing this task typically involves consideration of both quantitative as well as qualitative aspects of projects. Research in human information processing and cognitive psychology suggests that decision makers are often subject to biases that tend to assign greater salience to quantitative as opposed to qualitative and intangible factors. To help overcome such biases and to provide flexible decision support to the project selection committee, a knowledge-based system has been developed. Knowledge captured in the system was extracted from industry practitioners responsible for the project selection decision. The system architecture represents an integration of database, modeling, and expert system capabilities. It supports both intelligence and design phases of project selection and can assess the impact of a selected portfolio on an organization's cash flow. The operation of the system is illustrated through an extended example.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/31">knowledge-based systems</a>,    <a href="/keywords/562">information systems projects</a>,    <a href="/keywords/61">multicriteria decision-making</a>,    <a href="/keywords/563">project selection</a>,    <a href="/keywords/564">qualitative factors</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

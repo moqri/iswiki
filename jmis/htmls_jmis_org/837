@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/101">    Volume 12 Number 3 1995
+</a> pp. 81-96</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Incompletely Specified Probabilistic Networks</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1332">Roehrig, Stephen F</a>    </div>
+
+<p>ABSTRACT: Probabilistic networks, used as an adjunct or alternative to the logical models used in artificial intelligence (Al) and decision support systems (DSS), offer a way to compactly represent a distribution over a set of random variables. Nonetheless, the specification of a given network may require conditional probabilities that are simply unavailable. In this paper a means for analyzing incompletely specified networks is presented, and some general rules are derived from the application of the method to some simple networks. The use of the technique in MIS settings is illustrated.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/882">automated reasoning</a>,    <a href="/keywords/883">decision modeling</a>,    <a href="/keywords/884">probabilistic networks</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/41">    Volume 30 Number 2 2013
+</a> pp. 127-158</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Competitive Business Impact of Using Telemedicine for the Treatment of Patients with Chronic Conditions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1297">Rajan, Balaraman,</a>    <a href="/contributors/83">Seidmann, Abraham,</a> and     <a href="/contributors/1298">Dorsey, Earl R</a>    </div>
+
+<p>ABSTRACT: The use of telemedicine to improve patients' health has been evolving rapidly over the past few years. Initially, our clinical research focus was on the development of effective ways for treating chronically ill patients, mostly those suffering from neurological disorders. While we identified the medical benefits of this information technology, there remains a salient strategic question addressing its competitive impact. In this paper, we analyze the impact of introducing telemedicine on the market share of the specialty hospital deploying this technology and on the competing hospitals in the region. Our analytical results prove that, contrary to earlier expectations, the value of telemedicine relative to in-person visits is not always increasing with the distance of the patient from the hospital. This result explains why patients located far from the specialty hospital may not prefer telemedicine care. We prove that telemedicine, unlike numerous other e-commerce applications, does not lead to the "winner takes all" phenomenon. We found that the advent of telemedicine changes the competitive equilibrium between specialty hospitals and community hospitals. Both hospital types will significantly benefit from delivering complementary care to chronic patients, rather than continuing to compete with each other.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3151">chronic conditions</a>,    <a href="/keywords/3152">community hospitals</a>,    <a href="/keywords/3153">economics of telemedicine</a>,    <a href="/keywords/3154">health-care competition</a>,    <a href="/keywords/3155">health-care Information Technology</a>,    <a href="/keywords/1261">telemedicine</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/62">    Volume 21 Number 4 2005
+</a> pp. 199-235</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Antecedents of Information and System Quality: An Empirical Examination Within the Context of Data Warehousing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/30">Nelson, R Ryan,</a>    <a href="/contributors/1177">Todd, Peter A,</a> and     <a href="/contributors/500">Wixom, Barbara H</a>    </div>
+
+<p>ABSTRACT: Understanding the successful adoption of information technology is largely based upon understanding the linkages among quality, satisfaction, and usage. Although the satisfaction and usage constructs have been well studied in the information systems literature, there has been only limited attention to information and system quality over the past decade. To address this shortcoming, we developed a model consisting of nine fundamental determinants of quality in an information technology context, four under the rubric of information quality (the output of an information system) and five that describe system quality (the information processing system required to produce the output). We then empirically examined the aptness of our model using a sample of 465 data warehouse users from seven different organizations that employed report-based, query-based, and analytical business intelligence tools. The results suggest that our determinants are indeed predictive of overall information and system quality in data warehouse environments, and that our model strikes a balance between comprehensiveness and parsimony. We conclude with a discussion of the implications for both theory and the development and implementation of information technology applications in practice.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1897">business intelligence software</a>,    <a href="/keywords/1898">data warehousing</a>,    <a href="/keywords/1632">information quality</a>,    <a href="/keywords/392">information systems success</a>,    <a href="/keywords/1899">system quality</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/56">    Volume 14 Number 1 1997
+</a> pp. 235-255</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Layered Communication Architecture for the Support of Crisis Response</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/726">Hale, Joanne</a>    </div>
+
+<p>ABSTRACT: Crises, situations characterized by high consequence, low probability, and short decision time, create a unique and threatening decision-making environment that must be conscientiously supported. The aim of this study is to derive a prescriptive architecture for crisis response systems, in particular, the role of communication and the characteristics of communication systems that are needed to connect the decision-making elements of crisis response. The layered crisis communication architecture (CCA) detailed in this paper enumerates the communication functionality required of any crisis response system. To support the crisis-handling team adequately during crisis response, such systems must include the services of each of the described six layers: The base, or connectivity, layer interfaces with the ISO's OSI model to provide error-free end-to-end message transfer. The data-validation layer protects against incorrect data sources through gathering information to corroborate an incoming message. The filtering layer organizes and synthesizes messages to ensure that the crisis-handling team is presented with relevant data in a meaningful, usable form. The values layer interprets messages based on preestablished crisis priorities. The organizational memory layer provides decision makers with access to relevant data and knowledge bases. The group process layer supports the communication, coordination, and collaboration among the crisis-handling team members. To support crisis response adequately, these six layers of the CCA must be implemented as a single, cohesive whole. Through the CCA, the study offers pragmatically sound principles for organizing crisis response systems and captures a comprehensive perspective of the crisis response process; that is, this work offers a system architecture. As an architecture, the model enumerates all the functions necessary to support crisis response communication effectively.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/316">crisis management systems</a>,    <a href="/keywords/1044">crisis response</a>,    <a href="/keywords/1045">communication architecture</a>,    <a href="/keywords/456">information systems</a>,    <a href="/keywords/315">organizational crises</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

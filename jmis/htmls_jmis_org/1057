@@ -1,0 +1,44 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/98">    Volume 5 Number 2 1988
+</a> pp. 71-81</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Type and its Impact on Information Dissemination</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1635">Zaki, Ahmed S</a> and     <a href="/contributors/1636">Hoffman, Richard C</a>    </div>
+
+<p>ABSTRACT: A classification scheme for categorizing organizationally relevant information as either vital or supportive is validated empirically. The impact of the hierarchy on information dissemination was found to vary somewhat for both types of information. These results are based on a study of 118 managers at three hierarchical levels from 18 business firms.</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

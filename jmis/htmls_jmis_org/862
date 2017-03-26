@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/95">    Volume 14 Number 2 1997
+</a> pp. 57-79</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Next-Generation Securities Market Systems: An Experimental Investigation of Quote-Driven and Order-Driven Trading</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1366">Schwartz, Robert A</a> and     <a href="/contributors/393">Weber, Bruce W</a>    </div>
+
+<p>ABSTRACT: Several major securities markets including Nasdaq in the United States and the London Stock Exchange's SEAQ are organized as dealer markets that use computer screen displays of competitive dealer quotes to establish fair trade prices. To improve their markets and to reduce investors' trading costs, these exchanges are introducing new rules and systems for handling investors' orders. The redesign of a market structure raises important strategic issues for exchanges; more attractive trading mechanisms will increase order flow and improve liquidity, but margins and total profits earned by traditional exchange intermediaries may be reduced. To examine the consequences of market structure changes, we conducted experimental tests of the integration of an order-driven trading system into a dealer/quote-driven market. Using computer-based simulations of a stock market, experimental subjects traded using a traditional dealer quote screen to which a public limit order facility was added. Data captured on subjects' trading decisions revealed that the limit order system was used by the subjects, attracting some orders that would have otherwise gone to dealers, and lowered investor trading costs. The integration of limit orders reduced dealers' activities as a percentage of total market volume and lowered dealers' trading margins, except in a special "informed dealer" case.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1054">financial markets</a>,    <a href="/keywords/1055">market experiments</a>,    <a href="/keywords/1056">market microstructure</a>,    <a href="/keywords/1057">securities exchange technology</a>,    <a href="/keywords/1058">simulation</a>,    <a href="/keywords/1059">trading systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

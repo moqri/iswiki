@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/61">    Volume 23 Number 1 2006
+</a> pp. 239-261</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>On the Valuation of Multistage Information Technology Investments Embedding Nested Real Options</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/171">Benaroch, Michel,</a>    <a href="/contributors/174">Shah, Sandeep,</a> and     <a href="/contributors/173">Jeffery, Mark</a>    </div>
+
+<p>ABSTRACT: As real options analysis (ROA) is being applied to increasingly complex information technology (IT) investment problems, a concern arises over the use of heuristic ROA models that are simpler to apply but can produce overvaluations. A good example is the application of a heuristic nested variation of the Black-Scholes (BS) model to the evaluation of interrelated IT investments as nested options. This particular heuristic BS model could overvalue by more than 100 percent. Using a binomial model that is custom-tailored to a generic IT investment embedding nested options as the "baseline," we identify conditions under which the degree of overvaluation of this heuristic BS model is severe and unpredictable. Moreover, upon examining the structure of the custom-tailored binomial model, we identify the reason for overvaluation and derive a more accurate nested variation of the BS model. These findings should serve as a cautionary message about the use of untested heuristic ROA models.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2117">Black–Scholes model</a>,    <a href="/keywords/2118">interdependent investments</a>,    <a href="/keywords/1318">IT investment</a>,    <a href="/keywords/2119">nested real options</a>,    <a href="/keywords/942">real options</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

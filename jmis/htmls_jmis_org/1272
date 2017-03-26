@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/129">    Volume 32 Number 4 2015
+</a> pp. 179-214</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Impact of Organizational Commitment on Insiders’ Motivation to Protect Organizational Information Assets</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1809">Posey, Clay,</a>    <a href="/contributors/1325">Roberts, Tom L,</a> and     <a href="/contributors/532">Lowry, Paul Benjamin</a>    </div>
+
+<p>ABSTRACT: 
+<p>Insiders may act to sustain and improve organizational information security, yet our knowledge of what motivates them to do so remains limited. For example, most extant research relies on mere portions of protection motivation theory (PMT) and has focused on isolated behaviors, thus limiting the generalizability of findings to isolated issues, rather than addressing the global set of protective security behaviors. Here, we investigate the motivations surrounding this larger behavioral set by assessing maladaptive rewards, response costs, and fear alongside traditional PMT components. We extend PMT by showing that: (1) security education, training, and awareness (SETA) efforts help form appraisals; (2) PMT’s applicability to organizational rather than personal contexts depends on insiders’ organizational commitment levels; and (3) response costs provide the link between PMT’s appraisals. We show in detail how organizational commitment is the mechanism through which organizational security threats become personally relevant to insiders and how SETA efforts influence many PMT-based components.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3605">coping appraisal</a>,    <a href="/keywords/2271">information security</a>,    <a href="/keywords/3606">MIMIC model</a>,    <a href="/keywords/634">organizational commitment</a>,    <a href="/keywords/3607">protection-motivated behaviors</a>,    <a href="/keywords/3608">protection motivation theory</a>,    <a href="/keywords/3139">security</a>,    <a href="/keywords/969">structural equation modeling</a>,    <a href="/keywords/3609">threat appraisal</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

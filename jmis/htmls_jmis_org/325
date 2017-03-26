@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/11">    Volume 15 Number 2 1998
+</a> pp. 95-117</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Determinants of Information Center Success</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/584">Essex, Patricia A</a> and     <a href="/contributors/585">Magal, Simha R</a>    </div>
+
+<p>ABSTRACT: This paper examines determinants of information center (IC) success, defined as user satisfaction. The determinants are tested for their relationships to IC success and one another in order to evaluate which have a direct impact on success and which operate indirectly. Prior studies have not looked for relationships among factors, omitting potentially helpful information. Data were gathered from 151 users representing three organizations and were used to develop a model of IC success. The model is consistent with Anthony's levels of management activity in that the determinants correspond to specific levels of planning and control. The determinants and their corresponding management activity levels are as follows: IC role definition is associated with strategic planning, while management control encompasses a variety of services, staff infrastructure, and organizational commitment. Operational control, in the IC environment, is concerned with quality of user-developed applications, quality of individual staff, quality of services, facilitation of end-user computing, and user self-sufficiency. This model of IC success can guide researchers studying information centers and, especially, managers charged with establishing and operating information centers.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/365">end-user computing</a>,    <a href="/keywords/242">information center</a>,    <a href="/keywords/1162">information system success</a>,    <a href="/keywords/1163">management levels</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

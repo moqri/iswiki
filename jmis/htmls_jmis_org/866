@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/61">    Volume 23 Number 1 2006
+</a> pp. 211-238</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Buyers&#039; Choice of Online Search Strategy and Its Managerial Implications</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1369">Sen, Ravi,</a>    <a href="/contributors/928">King, Ruth C,</a> and     <a href="/contributors/1370">Shaw, Michael J</a>    </div>
+
+<p>ABSTRACT: The Internet offers several tools such as shopping bots and search engines that help potential buyers search for lower prices. This paper defines buyers' online search strategy as using one or more of these tools to search for lower prices, and empirically investigates the validity of economics of information search theory in explaining buyers' choice of a particular online search strategy. We find that buyers' attitudes toward the price offered by their preferred online seller, their perception of online price dispersion, and their awareness of shopping agents have a significant effect on their choice of online search strategy. An understanding of buyers' choice of online search strategies can help an online seller to estimate its expected probability of making an online sale, optimize its online pricing, and improve its online promotional and advertising activities.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1347">e-commerce</a>,    <a href="/keywords/486">electronic markets</a>,    <a href="/keywords/2113">multinomial logit</a>,    <a href="/keywords/1942">online pricing</a>,    <a href="/keywords/2114">online search</a>,    <a href="/keywords/2115">online search tools</a>,    <a href="/keywords/2116">price search</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

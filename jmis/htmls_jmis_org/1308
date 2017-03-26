@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/132">    Volume 33 Number 3 2016
+</a> pp. 843-873</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Effects of Social Interaction Dynamics on Platforms</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1867">Thies, Ferdinand,</a>    <a href="/contributors/1868">Wessel, Michael,</a> and     <a href="/contributors/182">Benlian, Alexander</a>    </div>
+
+<p>ABSTRACT: 
+<p>Despite the increasing relevance of online social interactions on platforms, there is still little research on the temporal interaction dynamics between electronic word-of-mouth (eWOM, a form of opinion-based social interaction), popularity information (a form of action-based social interaction), and consumer decision making. Drawing on a panel data set of more than 23,300 crowdfunding campaigns from Indiegogo, we investigate the dynamic effects of these social interactions on consumers’ funding decisions using the panel vector autoregressive methodology. Our analysis shows that both eWOM and popularity information are critical influencing mechanisms in crowdfunding. However, our overarching finding is that eWOM surrounding crowdfunding campaigns on Indiegogo or Facebook has a significant yet substantially weaker predictive power than popularity information. We also find that whereas popularity information has a more immediate effect on consumers’ funding behavior, its effectiveness decays rather quickly, while the impact of eWOM recedes more slowly. This study contributes to the extant literature by (1) providing a more nuanced understanding of the dynamic effects of opinion-based and action-based social interactions, (2) unraveling both within-platform and cross-platform dynamics, and (3) showing that social interactions are perceived as quality indicators on crowdfunding platforms that help consumers reduce risks associated with their investment decisions. These results can help platform providers and complementors to stimulate contribution behavior and increase the prosperity of a platform.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3692">crowdfunding</a>,    <a href="/keywords/3738">electronic word-of-mouth</a>,    <a href="/keywords/3124">eWOM</a>,    <a href="/keywords/1690">informational cascades</a>,    <a href="/keywords/3739">online platforms</a>,    <a href="/keywords/3740">panel vector autoregression</a>,    <a href="/keywords/3741">popularity information</a>,    <a href="/keywords/3742">platform success</a>,    <a href="/keywords/3743">reward-based crowdfunding</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

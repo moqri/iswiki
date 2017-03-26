@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/131">    Volume 33 Number 2 2016
+</a> pp. 332-360</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>More Than Meets the Eye: How Oculometric Behaviors Evolve Over the Course of Automated Deception Detection Interactions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1850">Proudfoot, Jeffrey G,</a>    <a href="/contributors/857">Jenkins, Jeffrey L,</a>    <a href="/contributors/268">Burgoon, Judee K,</a> and     <a href="/contributors/1729">Nunamaker, Jay F</a>    </div>
+
+<p>ABSTRACT: 
+<p>Eye-tracking technology has exhibited promise for identifying deception in automated screening systems. Prior deception research using eye trackers has focused on the detection and interpretation of brief oculometric variations in response to stimuli (e.g., specific images or interview questions). However, more research is needed to understand how variations in oculometric behaviors evolve over the course of an interaction with a deception detection system. Using latent growth curve modeling, we tested hypotheses explaining how two oculometric behaviors—pupil dilation and eye-gaze fixation patterns—evolve over the course of a system interaction for three groups of participants: deceivers who see relevant stimuli (i.e., stimuli pertinent to their deception), deceivers who do not see relevant stimuli, and truth-tellers. The results indicate that the oculometric indicators of deceivers evolve differently over the course of an interaction, and that these trends are indicative of deception regardless of whether relevant stimuli are shown.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3610">automated screening systems</a>,    <a href="/keywords/3689">concealed information test (CIT)</a>,    <a href="/keywords/1755">deception detection</a>,    <a href="/keywords/3423">eye tracking</a>,    <a href="/keywords/3690">latent growth curve modeling</a>,    <a href="/keywords/3691">pupil dilation, oculometrics</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

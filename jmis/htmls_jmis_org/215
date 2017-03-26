@@ -1,0 +1,169 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/33">    Volume 26 Number 2 2009
+</a> pp. 7-13</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Competitive Strategy, Economics, and Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K,</a>    <a href="/contributors/79">Kauffman, Robert J,</a> and     <a href="/contributors/398">Weber, Thomas A</a>    </div>
+
+<p>ABSTRACT: <p>
+ Eric K. Clemonsis Professor of Operations and Information Management at the Wharton School of the University of Pennsylvania. His education includes an S.B. in Physics from MIT, and an M.S. and Ph.D. in Operations Research from Cornell University. He has been a pioneer in the systematic study of the transformational effects of information on the strategy and practice of business. His research and teaching interests include strategic uses of information systems, the changes that IT enables in the competitive balance between new entrants and established industry participants, transformation of distribution channels, the structure and governance of the IT functional area, and the impact of IT on the risks and benefits of outsourcing and strategic alliances. Industries of focus include international securities markets and financial services firms, consumer packaged goods retailing, and travel. He specializes in assessing the competitive implications of IT, and in managing the risks of large-scale implementation efforts. Dr. Clemons is the founder and project director for the Wharton School&#8217;s Sponsored Research Project on Information: Strategy and Economics Within the Program for Global Strategy and Knowledge Intensive Organizations. He recently participated in the World Economic Forum in Davos, Switzerland (February 2009). He is currently a member of the editorial boards of the Journal of Management Information Systems and International Journal of Electronic Commerce. Dr. Clemons has 35 years&#8217; experience on the faculties of Wharton, Cornell, and Harvard, and consulting experience in the private and public sectors both domestically and abroad.
+</p>
+<p>
+ Robert J. Kauffmanis the W.P. Carey Chair in Information Systems at the W.P. Carey School of Business, Arizona State University, where he has joint appointments in IS, Finance, Supply Chain Management, and Informatics and Computer Science. He has a B.A. from the University of Colorado at Boulder, an M.A. from Cornell University, and an M.S. and Ph.D. from Carnegie Mellon. He has served on the faculties of New York University, the University of Minnesota, and the University of Rochester, and worked in international banking and finance in New York City. He is also a past chair of the Department of Information and Decision Sciences of the Carlson School of Management, and director of the MIS Research Center at the University of Minnesota. His research interests span the economics of IS, financial markets, technology adoption, competitive strategy and technology, IT value, strategic pricing and technology, supply chain management, and theory development and empirical methods for IS research. He has won numerous research awards, including the 2006 Outstanding Research Contribution award for modeling and strategic decision-making research on embedded standards in technology-based products from IEEE Transactions on Engineering Management and the 2007 Best Research award from the Journal of the Association of Information Systems for theory-building research in the area of product and market transparency made possible by IT. His recent paper on the diffusion of multiple generations of wireless mobile phones was nominated for a Best Research award at the 2008 International Conference on Information Systems. His publications have appeared in Information Systems Research, Journal of Management Information Systems, MIS Quarterly, Management Science, Organization Science, Telecommunications Policy, Information Technology and Management, Decision Sciences, and other leading journals.
+</p>
+<p>
+ Thomas A. Weberis an Assistant Professor in the Management Science and Engineering Department of Stanford University, where he is conducting research on optimal control of nonlinear systems, economics of information and uncertainty, analysis of complex systems, and corporate strategy and public policy. He holds undergraduate diplomas in Industrial and Electrical Engineering from Ecole Central Paris and the Technical University Aachen, as well as M.S. degrees in Technology Policy and Electrical Engineering and Computer Science from MIT. He also received an M.A. in Operations and Information Management and a Ph.D. in Management Science and Applied Economics from the Wharton School of the University of Pennsylvania. During 2008, he was a visiting faculty member at the University of Cambridge. He was previously a senior consultant at the Boston Consulting Group. He was also recently the recipient of the David Morganthaler II Faculty Scholarship at Stanford. His research interests involve the economics of information and uncertainty, and how social systems can be modeled, designed, and controlled in the presence of uncertainty. He has been developing new  theoretical models and methods that have the potential to change the way in which we approach social systems, and integrate different levels of analysis. His published papers have appeared in Information Systems Research, Decision Support Systems, Economics Letters, Economic Theory, Journal of Mathematical Economics, Journal of Economic Dynamics and Control, Journal of Optimization Theory and Applications, and Optimal Control Applications and Methods.
+</p>
+<p>
+ Information technology (IT) continues to play a key role in the creation and exploitation of opportunities for innovative competitive strategy. This Special Section of Journal of Management Information Systems presents research that explores new interactions between technology and competitive strategy, offering both new strategies and new analyses of strategies that have previously been proposed. Its coverage is quite broad, including, for example, the future of advertising and innovative online business models, and investments in medical imaging technologies for health-care organizations. It also includes research on personalization strategies in e&#8209;commerce and information security for Internet users. Other research explores how firms go about making IT investment decisions when there is significant uncertainty regarding the business value of emerging technologies. Two papers explore making outsourcing decisions.
+</p>
+<p>
+ Eric K. Clemons&#8217;s paper on "Business Models for Monetizing Internet Applications and Web Sites: Experience, Theory, and Predictions" opens this Special Section. During the past several years, the author has explored the diminishing role of advertising as a revenue generator for online enterprises and the need for alternative online business models. On April 6, 2009, in a New York Times "Idea of the Day" article titled "News Is Dying Because Advertising Is Dying," Tom Kuntz paraphrased Clemons&#8217;s&#160;[7] recognition of a dramatic change in the digital economy. He wrote: "Behind the demise of traditional media in the Internet age is the utter failure of the advertising on which they mistakenly relied.&#160;.&#160;.&#160;. The Web &#8216;shatters&#8217; traditional advertising because users don&#8217;t need it. They have better ways to find information about what to buy" [21]. In the present paper, Clemons expands his analysis to focus on potential online business models that are not based on advertising. He reports on two categories: (1)&#160;Web sites that sell virtual things, including some virtual product, experience, content, information gathered from online experiences, or online service, and earn revenues from the sale, and (2)&#160;Web sites that charge for access to consumers in the form of misdirection, social search, or contextual mobile advertising. His analysis supports predictions for future business successes, based on the competitive strategy literature as well as observations of current company strategies, that enable us to gain a clearer understanding of how monetizable different business models on the Internet will be in the future.
+</p>
+<p>
+ The study of the implementation of IT in health-care organizations is an important new application area for information systems (IS) research that involves the business value and effects of emerging technology investments [12, 19]. In the second paper of this Special Section, "An Empirical Investigation of the Value of Integrating Enterprise Information Systems: The Case of Medical Imaging Informatics," Moshe Ayal and Abraham Seidmann report on a longitudinal study they conducted at viaHealth/Rochester General Hospital in Rochester, New York. The hospital deployed new diagnostic imaging and archiving systems that integrated with the organization&#8217;s ongoing efforts to deploy electronic medical records to support the care of its patients. The new technologies included the implementation of a radiology information system (RIS) and a picture archiving and communication system (PACS). The authors use empirical analysis methods for estimating the business value of RIS/PACS in the health-care business process context based on the measurement of related financial revenues, clinical  operating process lead times, and subjective satisfaction levels by the clinical staff and referring physicians. The authors document a rapid learning rate for the systems, with the associated outcome of an immediate and significant clinical process lead time improvement immediately after the systems were deployed to achieve integration with Rochester General Hospital&#8217;s electronic medical record system. They also measure the satisfaction level of referring physicians who used the full spectrum of RIS/PACS functionalities at Rochester General Hospital or at their own clinics; the results show higher than the average level of satisfaction for the referring physicians.
+</p>
+<p>
+ A well-known issue in traditional and e&#8209;commerce retailing is the extent to which products should be personalized to the desires and needs of the firm&#8217;s potential consumers, who search for them in different ways [6, 10, 22, 27, 29]. The third paper of this Special Section is related to this general theme. Sunil Wattal, Rahul Telang, and Tridas Mukhopadhyay authored "Information Personalization in a Two-Dimensional Product Differentiation Model." The authors propose a quality-fit ratio to represent a consumer&#8217;s strength of preference for quality compared to his or her preference for product fit. They develop a game-theoretic duopoly model to analyze the competitive interaction of information personalization and product differentiation. They find that both firms have an incentive to personalize their products in equilibrium when the costs of providing quality and the costs of product misfits are low. Otherwise, as long as the effectiveness of product personalization reaches at least some threshold value, one firm personalizes while the other firm relies on standard product marketing. The resulting equilibrium is generally asymmetric in the sense that one firm&#8217;s personalization strategy does not necessarily guarantee a higher profit than the other firm, only a higher profit than the alternative of both firms not personalizing. The authors offer interesting practical examples for the different market scenarios.
+</p>
+<p>
+ An important related problem for consumers and firms that operate their businesses on the Internet is information security [16, 17, 23]. In "Information Security: Facilitating User Precautions Vis&#8209;&#224;&#8209;Vis Enforcement Against Attackers," Ivan&#160;P.L. Png and Qiu&#8209;hong Wang investigate information security policies that encourage Internet users to take appropriate precautions and that result in enforcement against hackers. The authors focus on large-scale mass attacks and more narrowly targeted attacks on the Internet. Their core perspective is to recognize how Internet users and data privacy attackers strategically interact. Their analysis results show that both facilitating end-user precautions and increasing the enforcement rate decreases the attackers&#8217; efforts, so a higher enforcement level can lead to reduced user precautions in equilibrium. Thus, when there are sufficient corporate or government deterrents in place, enforcing laws will only have a positive effect if Internet users continue to take a reasonable level of precaution with information privacy. The authors offer useful managerial and policy contributions through additional analyses of how Internet user precautions and deterrence policies are differentially attractive for fending off hackers when the costs of attacks and precautions vary, and when users place different valuations on data security.
+</p>
+<p>
+ Over the years, JMIS has showcased quite a few papers that have been instrumental in developing the current perspectives on IT investment decision making under uncertainty in the IS discipline [2, 4, 8, 9, 13, 20, 26]. The next paper in the Special Section, "Effects of Organizational Learning and Knowledge Transfer on Investment Decisions Under Uncertainty," treats similar issues, albeit from a fresh and new perspective. Xianjun Geng, Lihui Lin, and Andrew B. Whinston investigate the conditions under which uncertainties about emerging technologies get resolved over time. Their key premise is that organizational learning may not be evenly distributed. As a result, firms must deal with the fact that different individuals in the firm may not equally share in the benefits of such learning, with the result that their knowledge of the potential outcomes of investing in innovative IT may not be complete. The authors formulate the problem in game-theoretic terms and examine the conditions under which such knowledge may be ineffectively  transferred, resulting in inefficient IT investment decisions.
+</p>
+<p>
+ The next paper in this Special Section was contributed by Hoon&#160;S. Cha, David&#160;E. Pingry, and Matt&#160;E. Thatcher and is on another topic that has also been often studied by authors who have published in JMIS--IT outsourcing [3, 25, 28]. Their paper is titled "A Learning Model of Information Technology Outsourcing: Normative Implications." The authors note a significant concern on the part of the clients of vendors that provide business process outsourcing services: the extent to which they may lose the opportunity to learn about how technology can be used to improve their productivity and coordination capabilities within their businesses. Most firms would like to retain their proprietary knowledge about their business processes and the associated intellectual property [1]. To study these issues, the authors formulate a normative model for optimizing the rate of IT outsourcing that enables them to analyze the interaction among operational knowledge, production costs, and coordination costs, and their effects on firm outsourcing strategy. This information is then used to determine a firm&#8217;s optimal rate of IT outsourcing. A key finding of this research involves the optimality of two extreme strategies. The authors find that clients should either totally outsource or totally insource their business processes, based on how rapidly their knowledge of how to best coordinate their operations depreciates. They also show that partial outsourcing decisions are appropriate when the client is able to acquire operational process knowledge from the outsourcing services vendor. With papers such as this, we see the new insights that are beginning to emerge from the IS discipline&#8217;s efforts to help define the emerging area of services science [5, 18, 24].
+</p>
+<p>
+ The Special Section closes with a paper titled "The Unified Procurement Strategy for Enterprise Software: A Test of the &#8216;Move to the Middle&#8217; Hypothesis," by Robert&#160;J. Kauffman and Juliana&#160;Y. Tsai. The authors explore the predictions of the "move to the middle" hypothesis of Clemons et al. [11] in the context of the consolidation of the enterprise software industry. The authors describe unified procurement, the relatively new practice that occurs when a firm buys all compatible products and services for its enterprise software stack from a single vendor. The authors apply transaction cost economics, in particular its recognition of the importance of opportunism risk as a consideration that firms must effectively manage when they get involved in buyer-supplier IT outsourcing relationships. Managing this risk enables them to indemnify themselves against a host of possible forms of exploitation and undesirable losses of proprietary information. In this research, the authors focus on the extent to which risk can be transferred from the client to the vendor, especially the technology risks and the costs for integrating the complementary capabilities of the enterprise software stack [14]. The authors report that unified procurement practices are being driven by changes in IT and firm and industry structure in the presence of transferred risk, the influence of transaction cost economics, and increasing industry clockspeed. They represent the main results of their research through a series of theory-driven propositions for the enterprise software procurement context. They present this approach as an example of middle range theory development [15]. This refers to theory that has a limited scope of application and can lead to testable hypotheses in specific application contexts. This is becoming increasingly recognized as an effective means for developing theory on the basis of the study of a specific context rather than the entirety of a business phenomenon. The authors validate their results through a series of industry mini-cases from software vendors and their clients on their implementations of enterprise software stacks.
+</p>
+<p>
+ We thank the many individuals who made contributions to our efforts on the Competitive Strategy, Economics, and Information Systems Mini-Track at the 2009 Hawaii International Conference on System Sciences (HICSS), and to this Special Section. Our first thanks go to the anonymous reviewers of the manuscripts that we developed for HICSS 2009, and then again for this Special Section. Ting Li assisted by developing feedback for the authors based on their HICSS presentations to give them support for the first of their postconference revisions. Juliana Tsai also provided detailed editorial suggestions on many of the Special Section papers as we brought them to their final form for publication. We thank Vladimir Zwass for his encouragement and editorial input on the  development of this Special Section for the Journal of Management Information Systems.
+</p>
+<p>
+ References
+</p>
+<p>
+ 1. Aron, R.; Clemons, E.K.; and Reddi, S. Just right outsourcing: Understanding and managing risk. Journal of Management Information Systems, 22, 2 (Fall 2005), 37-56.
+</p>
+<p>
+ 2. Bardhan, I.; Bagchi, S.; and Sougstad, R. Prioritizing a portfolio of information technology investment projects. Journal of Management Information Systems, 21, 2 (Fall 2004), 33-60.
+</p>
+<p>
+ 3. Bardhan, I.; Whitaker, J.; and Mithas, S. Information technology, production process outsourcing, and manufacturing plant performance. Journal of Management Information Systems, 23, 2 (Fall 2006), 13-30.
+</p>
+<p>
+ 4. Benaroch, M.; Jeffery, M.; Kauffman, R.J.; and Shah, S. Option-based risk management: A field study of sequential information technology investment decisions. Journal of Management Information Systems, 24, 2 (Fall 2006), 103-140.
+</p>
+<p>
+ 5. Chaudhury, A.; Nam, K.; and Rao, H.R. Management of information systems outsourcing: A bidding perspective. Journal of Management Information Systems, 12, 2 (Fall 1995), 131-159.
+</p>
+<p>
+ 6. Clemons, E.K. How information changes consumer behavior and how consumer behavior determines corporate strategy. Journal of Management Information Systems, 25, 2 (Fall 2008), 13-40.
+</p>
+<p>
+ 7. Clemons, E.K. Why advertising is failing on the Internet. TechCrunch (March 22, 2009) (available at www.techcrunch.com/2009/03/22/why- advertising-is-failing-on-the-internet/).
+</p>
+<p>
+ 8. Clemons, E.K., and Gu, B. Justifying information technology investments: Balancing the need for speed of action with certainty before action. Journal of Management Information Systems, 20, 2 (Fall 2003), 11-48.
+</p>
+<p>
+ 9. Clemons, E.K., and Weber, B. Strategic information technology investments: Guidelines for decision making. Journal of Management Information Systems, 7, 2 (Fall 1990), 9-28.
+</p>
+<p>
+ 10. Clemons, E.K.; Gao, G.G.; and Hitt, L.M. When online reviews meet hyperdifferentiation: A study of the craft beer industry. Journal of Management Information Systems, 23, 2 (Fall 2006), 149-171.
+</p>
+<p>
+ 11. Clemons, E.K.; Reddi, S.; and Row, M. The impact of information technology on the organization of economic activity: The "move to the middle" hypothesis. Journal of Management Information Systems, 10, 2 (Fall 1993), 9-36.
+</p>
+<p>
+ 12. Devaraj, S., and Kohli, R. Information technology payoff in the health-care industry: A longitudinal study. Journal of Management Information Systems, 16, 4 (Spring 2000), 41-68.
+</p>
+<p>
+ 13. Dos Santos, B. Justifying investment in new information  technologies. Journal of Management Information Systems, 7, 4 (Spring 1991), 71-90.
+</p>
+<p>
+ 14. Gao, L.S., and Iyer, B. Analyzing complementarities using software stacks for software industry acquisitions. Journal of Management Information Systems, 23, 2 (Fall 2006), 119-147.
+</p>
+<p>
+ 15. Gregor, S. The nature of theory in information systems. MIS Quarterly, 30, 3 (September 2006), 611-642.
+</p>
+<p>
+ 16. Hann, I.H.; Hui, K.L.; Lee, S.Y.T.; and Png, I.P.L. Overcoming online information privacy concerns: An information-processing theory approach. Journal of Management Information Systems, 24, 2 (Fall 2007), 13-42.
+</p>
+<p>
+ 17. Johnson, M.E. Information risk of inadvertent disclosure: An analysis of file-sharing risk in the financial supply chain. Journal of Management Information Systems, 25, 2 (Fall 2008), 97-124.
+</p>
+<p>
+ 18. Kauffman, R.J., and Sougstad, R. Risk management of contract portfolios in IT services: The profit-at-risk approach. Journal of Management Information Systems, 25, 1 (Summer 2008), 17-48.
+</p>
+<p>
+ 19. Khoumbati, K.; Themistocleous, M.; and Irani, Z. Evaluating the adoption of enterprise application integration in health-care organizations. Journal of Management Information Systems, 22, 4 (Spring 2006), 69-108.
+</p>
+<p>
+ 20. Kumar, R.L. A framework for assessing the business value of information technology infrastructure. Journal of Management Information Systems, 21, 2 (Fall 2004), 11-32.
+</p>
+<p>
+ 21. Kuntz, T. News is dying because advertising is dying. New York Times (April 6, 2009) (available at http://ideas.blogs.nytimes.com/2009/04/06/why-advertising-is-failing-on-the-internet/).
+</p>
+<p>
+ 22. Mithas, S.; Ramasubbu, N.; Krishnan, M.S.; and Fornell, C. Designing Web sites for customer loyalty across business domains: A multi-level analysis. Journal of Management Information Systems, 23, 3 (Winter 2006-7), 97-127.
+</p>
+<p>
+ 23. Png, I.P.L.; Wang, C.Y.; and Wang, Q.H. The deterrent and displacement effects of information security enforcement: International evidence. Journal of Management Information Systems, 25, 2 (Fall 2008), 125-144.
+</p>
+<p>
+ 24. Richmond, W.B., and Seidmann, A. Software development outsourcing contracts: Structure and business value. Journal of Management Information Systems, 10, 1 (Summer 1993), 57-72.
+</p>
+<p>
+ 25. Saarinen, T., and Vepsalainen, A. Procurement strategies for information systems. Journal of Management Information Systems, 11, 2 (1994), 187-208.
+</p>
+<p>
+ 26. Taudes, A. Software growth options. Journal of Management Information Systems, 15, 1 (Summer 1998), 165-186.
+</p>
+<p>
+ 27. Telang, R.; Rajan, U.; and Mukhopadhyay, T. The market structure for Internet search engines. Journal of Management Information Systems, 21, 2 (Fall 2004), 137-160.
+</p>
+<p>
+ 28. Tiwana, A., and Bush, A.A. A comparison of transaction cost, agency and knowledge-based indicators of IT outsourcing decisions: A U.S.-Japan cross-cultural field study. Journal of Management Information Systems, 24, 1 (Summer 2007), 259-300.
+</p>
+<p>
+ 29. Weber, T.A. Delayed multi-attribute product differentiation. Decision Support Systems, 44, 2 (2008), 447-468.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

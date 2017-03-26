@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/31">    Volume 20 Number 2 2003
+</a> pp. 49-76</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>What Do You Know?: Rational Expectations in Information Technology Adoption and Investment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/78">Au, Yoris A</a> and     <a href="/contributors/79">Kauffman, Robert J</a>    </div>
+
+<p>ABSTRACT: This study examines the potential applications of the rational expectations hypothesis (REH) and adaptive learning theory in IT investment and adoption decision-making. Despite the fact that rationality is commonly assumed in economic analyses, the REH's assumptions make it a unique theory and allow us to offer new perspectives on IS/IT adoption and investment decision-making. Our application of these theoretical perspectives to the IT adoption context---the first time in the IS literature to our knowledge that REH has been used to examine the mechanism for business value expectations formation---will allow us to treat the investment and adoption issues using a perspective that is based on a longer time horizon. Such settings require managers, as economic agents, to form a set of expectations about the values of various variables related to the business value of IT. Rational expectations and adaptive learning assume that decision-makers are able to utilize all available decision-relevant information efficiently and can learn the true value of a prospective investment over time. We present a number of propositions that characterize this perspective, and discuss some illustrative examples that demonstrate the efficacy of the theoretical perspective that we present to characterize the business value expectations formation process in IT adoption.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1688">adaptive learning</a>,    <a href="/keywords/1309">business value</a>,    <a href="/keywords/1689">herd behavior</a>,    <a href="/keywords/1690">informational cascades</a>,    <a href="/keywords/654">information technology investment</a>,    <a href="/keywords/1691">rational expectations hypothesis</a>,    <a href="/keywords/1202">technology adoption</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

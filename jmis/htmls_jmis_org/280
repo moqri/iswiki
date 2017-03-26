@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/21">    Volume 8 Number 1 1991
+</a> pp. 5-36</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Supporting the Search for Competitive Advantage</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/239">Dennis, Alan R,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/495">Paranka, David</a>    </div>
+
+<p>ABSTRACT: Managers are beginning to realize that the search for opportunities to create competitive advantage should be included as one part of the overall strategic planning process. Since the search for competitive advantage is often undertaken by large groups of managers drawn from many departments and organizational levels within the firm, recent developments in information technology to support group work may be useful. In this paper, we examine the ability of this technology to support the search for competitive advantage. Building on prior research on competitive advantage and group processes, we propose a three-stage process to guide the search for competitive advantage, describe an information system to support this process, and examine the experiences of five groups from three firms that have used this system to support this process. In general, the experiences of these groups suggest that this technology can be useful in supporting the search for competitive advantage.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/38">information systems for competitive advantage</a>,    <a href="/keywords/415">electronic meeting systems</a>,    <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/467">strategic management</a>,    <a href="/keywords/35">strategic planning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

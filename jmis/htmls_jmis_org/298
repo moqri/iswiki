@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/102">    Volume 21 Number 1 2004
+</a> pp. 227-262</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Meaning and Measurement of User Satisfaction: A Multigroup Invariance Analysis of the End-User Computing Satisfaction Instrument</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/523">Doll, William J,</a>    <a href="/contributors/524">Xiaodong, Deng,</a>    <a href="/contributors/525">Raghunathan, T S,</a>    <a href="/contributors/526">Torkzadeh, Gholamreza,</a> and     <a href="/contributors/527">Weidong, Xia</a>    </div>
+
+<p>ABSTRACT: Although user satisfaction is widely used by researchers and practitioners to evaluate information system success, important issues related to its meaning and measurement across population subgroups have not been adequately resolved. To be most useful in decision-making, instruments like end-user computing satisfaction (EUCS), which are designed to evaluate system success, should be robust. That is, they should enable comparisons by providing equivalent measurement across diverse samples that represent the variety of conditions or population subgroups present in organizations. Using a sample of 1,166 responses, the EUCS instrument is tested for measurement invariance across four dimensions--respondent positions, types of application, hardware platforms, and modes of development. While the results suggest that the meaning of user satisfaction is context sensitive and differs across population subgroups, the 12 measurement items are invariant across all four dimensions. The 12-item summed scale enables researchers or practitioners to compare EUCS scores across the instrument's originally intended universe of applicability.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1786">confirmatory factor analysis</a>,    <a href="/keywords/1787">end-user computing satisfaction</a>,    <a href="/keywords/1788">factorial invariance</a>,    <a href="/keywords/893">instrument validation</a>,    <a href="/keywords/1596">research methods</a>,    <a href="/keywords/123">user satisfaction</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

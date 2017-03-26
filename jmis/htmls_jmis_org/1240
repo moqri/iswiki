@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/126">    Volume 32 Number 1 2015
+</a> pp. 261-290</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Online Price Dispersion Revisited: How Do Transaction Prices Differ from Listing Prices?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1640">Zhao, Kexin,</a>    <a href="/contributors/1621">Zhao, Xia,</a> and     <a href="/contributors/1770">Deng, Jing</a>    </div>
+
+<p>ABSTRACT: 
+<p>Price dispersion of a homogeneous product reflects market efficiency and has significant implications on sellers’ pricing strategies. Two different perspectives, the supply and demand perspectives, can be adopted to examine this phenomenon. The former focuses on listing prices posted by sellers, and the latter uses transaction prices that consumers pay to obtain the product. However, no prior research has systematically compared both perspectives, and it is unclear whether different perspectives will generate different insights. Using a unique data set collected from an online market, we find that the dispersion of listing prices is three times higher than the dispersion of transaction prices. More interestingly, the drivers of price dispersion differ significantly between listing and transaction data. The dispersion of listing prices reflects sellers’ perception of market environment and their pricing strategies, and it may not fully capture consumer behavior manifested through the variation of transaction prices. Our study indicates that the difference in perspectives taken on the online prices yields different results as to their dispersion.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3496">listing prices</a>,    <a href="/keywords/2446">online markets</a>,    <a href="/keywords/3497">online prices</a>,    <a href="/keywords/2693">price dispersion</a>,    <a href="/keywords/3498">transaction prices</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

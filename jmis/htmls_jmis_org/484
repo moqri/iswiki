@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/92">    Volume 17 Number 2 2000
+</a> pp. 153-179</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Use of Explanations in Knowledge-Based Systems: Cognitive Perspective and a Process-Tracing Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/868">Ji-Ye, Mao</a> and     <a href="/contributors/157">Benbasat, Izak</a>    </div>
+
+<p>ABSTRACT: This exploratory research investigates the nature of explanation use and factors that influence it during users' interaction with a knowledge-based system (KBS) for decision-making. It draws upon several cognitive perspectives to help understand when, why, and how explanations are used. A verbal protocol analysis was conducted based on a laboratory experiment involving a KBS for financial analysis. Major categories of explanation use were identified, and accounted for with relevant cognitive perspectives. Results show that explanations were requested to deal with comprehension difficulties caused by various types of perceived anomalies in KBS output. There were qualitative and quantitative differences in the nature and extent of explanation use between novices and experienced professionals. These results offer new insights to why explanations are useful and important, what factors influence explanation use, and what information should be included in explanations.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1365">explanations</a>,    <a href="/keywords/1366">explanations in expert systems</a>,    <a href="/keywords/31">knowledge-based systems</a>,    <a href="/keywords/1367">verbal protocol analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

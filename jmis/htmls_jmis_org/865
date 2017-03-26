@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/108">    Volume 24 Number 1 2007
+</a> pp. 233-257</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Strategic Analysis of Competition Between Open Source and Proprietary Software</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1369">Sen, Ravi</a>    </div>
+
+<p>ABSTRACT: This paper analyzes a software market consisting of a freely available open source software (OSS), the commercial version of this OSS (OSS-SS), and the competing commercial proprietary software (PS). We find that in software markets characterized by low direct network benefits, the PS vendor is better off in the presence of competition from OSS-SS. Furthermore, the OSS-SS vendor in these markets is better off by having lower usability than PS. Therefore, the PS vendor has little incentive to improve the usability of their software in these markets. On the other hand, in software markets characterized by high network benefits, a PS vendor is threatened by the presence of OSS-SS and can survive only if the PS is more usable than the competing OSS-SS.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2256">commercial open source</a>,    <a href="/keywords/2257">economics of open source</a>,    <a href="/keywords/2258">FLOSS</a>,    <a href="/keywords/2259">open source software</a>,    <a href="/keywords/2260">software competition</a>,    <a href="/keywords/2261">software market</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

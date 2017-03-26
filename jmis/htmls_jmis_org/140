@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/14">    Volume 8 Number 4 1992
+</a> pp. 97-116</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Implementation and Use of Expert Systems in Organizations: Perceptions of Knowledge Engineers. (English)</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/229">Byrd, Terry Anthony</a>    </div>
+
+<p>ABSTRACT: This paper reports on the results of a survey of knowledge engineers from private organizations, and empirically examines the state of expert systems (ES) in organizational contexts. The knowledge engineers were asked to rate issues related to successful implementation, the extent of use in key areas, the original motivations for implementation, the perceived benefits, and the effects on end users of the systems. Factor analysis (varimax rotation) was used to reduce the number of issues so that reasonable conclusions in these areas could be drawn. The study resulted in several findings. Among these are: (i) knowledge acquisition and knowledge engineering should be separated in the overall ES development process and assigned to different ES team members; (ii) knowledge acquisition is the "bottleneck" in ES development; (iii) expert systems benefit organizations by helping personnel make more consistent, timely, and accurate decisions in hopes of improving competitiveness; and (iv) expert systems have not had dysfunctional effects on end users, such as lower job satisfaction, as seen in other automated technologies studies. Associated research issues are discussed and implications for practice are given.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/156">expert systems</a>,    <a href="/keywords/271">knowledge acquisition</a>,    <a href="/keywords/541">knowledge engineering</a>,    <a href="/keywords/542">information systems implementation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

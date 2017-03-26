@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/104">    Volume 14 Number 4 1998
+</a> pp. 113-147</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Software Reuse: Survey and Research Directions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1625">Yongbeom, Kim</a> and     <a href="/contributors/207">Stohr, Edward A</a>    </div>
+
+<p>ABSTRACT: Software reuse is the use of software resources from all stages of the software development process in new applications. Given the high cost and difficulty of developing high-quality software, the idea of capitalizing on previous software investments is appealing. However, software reuse has not been as effective as expected and has not been very broadly or systematically used in industry. This paper surveys recent software-reuse research using a framework that helps identify and organize the many factors that must be considered to achieve the benefits of software reuse in practice. We argue that software reuse needs to be viewed in the context of a total systems approach that addresses a broad range of technical, economic, managerial, organizational, and legal issues and conclude with a summary of the major research issues in each of these areas.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1114">reuse metrics</a>,    <a href="/keywords/1115">reuse process</a>,    <a href="/keywords/1116">reuse technologies</a>,    <a href="/keywords/519">software reuse</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

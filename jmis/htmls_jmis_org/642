@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/51">    Volume 10 Number 4 1994
+</a> pp. 9-23</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Role of Information Technology in Organization Design</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1075">Lucas Jr, Henry C</a> and     <a href="/contributors/149">Baroudi, Jack J</a>    </div>
+
+<p>ABSTRACT: We introduce a set of information technology variables which can be used in designing organizations. We first discuss traditional design variables and then present a series of options enabled by modern information technology (IT). We use these IT design variables to describe four prototypical organizations that are beginning to appear in the workplace: virtual, negotiated, traditional, and vertically integrated. It is argued that an organization designer must also consider how structure and technology influence job tasks and people in order to be successful. We then discuss potential implementation difficulties, particularly in motivating traditional organizations to take advantage of IT design variables. We conclude that the design of information technology and the design of organizations are largely becoming the same task.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/665">interorganizational systems</a>,    <a href="/keywords/711">networked organization</a>,    <a href="/keywords/90">organization design</a>,    <a href="/keywords/178">strategic information systems</a>,    <a href="/keywords/712">virtual organization</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

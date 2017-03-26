@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/97">    Volume 12 Number 1 1995
+</a> pp. 225-249</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Assessing Expert Systems Impact on Users&#039; Jobs</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1627">Youngohc, Yoon</a> and     <a href="/contributors/816">Guimaraes, Tor</a>    </div>
+
+<p>ABSTRACT: A comprehensive list of ten major expert systems (ES) related factors likely to affect users' jobs has been defined, including problem importance, problem difficulty, developer skill, domain expert quality, user characteristics, user satisfaction, shell quality, user involvement, management support. and system usage. Impact on the job has been defined in terms of eleven items dealing with changes in job importance, amount of work, accuracy requirements, skills needed, job appeal, feed-back about performance, freedom in how to do the job, opportunity for advancement, job security, relation with peers, and job satisfaction. Data were collected on sixty-nine expert systems developed through IBM's Corporate Manufacturing Expert Systems Project Center in San Jose, California. The results show that the major variables having the most impact on users' jobs are problem importance, problem difficulty, domain expert quality, user satisfaction with the ES. shell quality, and user involvement in ES development. Based on the results, recommendations are made for corporate and ES development managers to increase the likelihood that ES will have a desirable impact on users' jobs.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/156">expert systems</a>,    <a href="/keywords/862">job impact of technology</a>,    <a href="/keywords/863">success factors</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

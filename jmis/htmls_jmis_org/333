@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/9">    Volume 7 Number 1 1990
+</a> pp. 27-46</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>In Search of Sustainability: Reaping Long-term Advantage from Investments in Information Technology</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/603">Feeny, David F</a> and     <a href="/contributors/604">Ives, Blake</a>    </div>
+
+<p>ABSTRACT: We have raised executive management's awareness, and expectations of the strategic role of information systems technology. Teams of managers are commonly involved in workshops or planning processes designed to identify such applications. Conceptual frameworks to assist in such "idea-generation" sessions are widely cited in the literature and used in practice. Less well understood is the process used to evaluate the sustainability of proposed applications. We present a framework for evaluating sustainability based on the competitor's anticipated response time, differences among competitors, and the potential of the application to preempt competitive responses. Such an analysis is proposed as an evaluation tool for intended strategic applications of information technology.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/38">information systems for competitive advantage</a>,    <a href="/keywords/409">sustaining competitive advantage</a>,    <a href="/keywords/410">strategic IT applications</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/101">    Volume 12 Number 3 1995
+</a> pp. 21-41</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Improved Decision Making through Better Integration of Human Resource and Business Process Factors in a Hospital Situation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/774">Holden, Tony</a> and     <a href="/contributors/775">Wilhelmij, Paul</a>    </div>
+
+<p>ABSTRACT: Business process models are designed in isolation but must be applied in real organizational and business situations. A key management concern is how to identify the nonprocess factors that allow a business process to achieve maximum performance. In this paper, we demonstrate the application of the KNOVA (KNOwledge Value-Added) technique to the problem of making visible the hitherto intangible people, culture, and knowledge factors that can easily influence the success or failure of a business process. We illustrate its application to the processes of a diagnostic team within a department of a large hospital. Two benefits ensue: (1) the articulation of a common understanding of the factors that affect team performance and, (2) the pinpointing of resource investment to maintain performance and reduce risk or cost.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/705">business process modeling</a>,    <a href="/keywords/716">business reengineering</a>,    <a href="/keywords/878">organizational knowledge</a>,    <a href="/keywords/879">team-oriented management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/124">    Volume 31 Number 3 2014
+</a> pp. 326-354</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Effects of Freemium Strategy in the Mobile App Market: An Empirical Study of Google Play</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1745">Liu, Charles Zhechao,</a>    <a href="/contributors/78">Au, Yoris A,</a> and     <a href="/contributors/1746">Choi, Hoon Seok</a>    </div>
+
+<p>ABSTRACT: 
+<p>This paper examines the effect of the freemium strategy on Google Play, an online marketplace for Android mobile applications. By analyzing a large panel data set consisting of 711 ranked mobile apps, we found that the freemium strategy is positively associated with increased sales of the paid mobile apps. Positive trial experience as represented by high review rating of the free version of a mobile app leads to higher sales of its paid version, whereas high visibility of the free version of a mobile app as represented by its product rank does not have a significant impact on the sales of its paid version. This finding suggests that although offering a free trial version is a viable way to improve the visibility of a mobile app, offering a quality free app is more important in boosting sales of the paid app. Moreover, we found that the impact of review rating is reduced when the free version is offered, or when the mobile app is a hedonic app, because consumers have the ability to experience the app themselves before purchase. These findings extend understanding of the freemium business model to include a market characterized by simultaneous intramarket competition for both the freemium and paid products and demonstrate how such dynamics may influence sales of the paid products.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3398">Android</a>,    <a href="/keywords/3399">freemium</a>,    <a href="/keywords/3400">Google Play</a>,    <a href="/keywords/3401">mobile apps</a>,    <a href="/keywords/3402">online product rank</a>,    <a href="/keywords/2148">online reviews</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

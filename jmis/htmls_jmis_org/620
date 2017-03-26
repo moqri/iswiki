@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/71">    Volume 26 Number 1 2009
+</a> pp. 129-153</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Managing Knowledge in Light of Its Evolution Process: An Empirical Study on Citation Network--Based Patent Classification</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1037">Li, Xin,</a>    <a href="/contributors/433">Chen, Hsinchun,</a>    <a href="/contributors/854">Zhang, Zhu,</a>    <a href="/contributors/1038">Li, Jiexun,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: Knowledge management is essential to modern organizations. Due to the information overload problem, managers are facing critical challenges in utilizing the data in organizations. Although several automated tools have been applied, previous applications often deem knowledge items independent and use solely contents, which may limit their analysis abilities. This study focuses on the process of knowledge evolution and proposes to incorporate this perspective into knowledge management tasks. Using a patent classification task as an example, we represent knowledge evolution processes with patent citations and introduce a labeled citation graph kernel to classify patents under a kernel-based machine learning framework. In the experimental study, our proposed approach shows more than 30 percent improvement in classification accuracy compared to traditional content-based methods. The approach can potentially affect the existing patent management procedures. Moreover, this research lends strong support to considering knowledge evolution processes in other knowledge management tasks.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/751">citation analysis</a>,    <a href="/keywords/1876">classification</a>,    <a href="/keywords/2511">kernel-based method</a>,    <a href="/keywords/202">knowledge management</a>,    <a href="/keywords/611">machine learning</a>,    <a href="/keywords/2512">patent management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

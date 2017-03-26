@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/66">    Volume 29 Number 1 2012
+</a> pp. 237-272</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Differential Effects of Provider Recommendations and Consumer Reviews in E-Commerce Transactions: An Experimental Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/182">Benlian, Alexander,</a>    <a href="/contributors/185">Titah, Ryad,</a> and     <a href="/contributors/184">Hess, Thomas</a>    </div>
+
+<p>ABSTRACT: Despite the importance of online product recommendations (OPRs) in e-commerce transactions, there is still little understanding about how different recommendation sources affect consumers' beliefs and behavior, and whether these effects are additive, complementary, or rivals for different types of products. This study investigates the differential effects of provider recommendations (PRs) and consumer reviews (CRs) on the instrumental, affective, and trusting dimensions of consumer beliefs and shows how these beliefs ultimately influence continued OPR usage and product purchase intentions. This study tests a conceptual model linking PRs and CRs to four consumer beliefs (perceived usefulness, perceived ease of use, perceived affective quality, and trust) in two different product settings (search products versus experience products). Results of an experimental study show that users of PRs express significantly higher perceived usefulness and perceived ease of use than users of CRs, while users of CRs express higher trusting beliefs and perceived affective quality than users of PRs, resulting in different effect mechanisms toward OPR reuse and purchase intentions in e-commerce transactions. Further, CRs were found to elicit higher perceived usefulness, trusting beliefs, and perceived affective quality for experience goods, while PRs were found to unfold higher effects on all of these variables for search goods.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2956">consumer reviews</a>,    <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/2957">online product recommendations</a>,    <a href="/keywords/2958">perceived affective quality</a>,    <a href="/keywords/818">perceived usefulness</a>,    <a href="/keywords/2959">provider recommendations</a>,    <a href="/keywords/2960">technology acceptance and usage</a>,    <a href="/keywords/2961">trusting beliefs</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

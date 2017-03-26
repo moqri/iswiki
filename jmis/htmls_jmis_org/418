@@ -1,0 +1,44 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/45">    Volume 25 Number 3 2008
+</a> pp. 337-375</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Investments in Information Security: A Real Options Perspective with Bayesian Postaudit</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/757">Herath, Hemantha S B</a> and     <a href="/contributors/758">Herath, Tejaswini C</a>    </div>
+
+<p>ABSTRACT: The application of real options techniques to information security is significantly different than in the case of general information technology investments due to characteristics unique to information security. Emerging research in the economics of information security has suggested real options analysis (ROA) as a potential technique for assessing the value of information security assets, but has focused primarily on the most effective level of investment and the configuration of intrusion prevention/detection systems. In this paper, we attempt to address significant gaps in the literature by developing an integrated real options model for information security investments using Bayesian statistics that incorporates learning and postauditing in the analysis. By using the proposed model with actual data on e-mail and spam, we demonstrate that ROA with Bayesian postauditing offers a systematic valuation and risk management framework for evaluating information security spending by firms. We also discuss the managerial implications.</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

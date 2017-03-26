@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/123">    Volume 31 Number 2 2014
+</a> pp. 47-76</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Launching Successful E Markets: A Broker-Level Order-Routing Analysis of Two Options Exchanges</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1705">Parker, Chris</a> and     <a href="/contributors/393">Weber, Bruce W</a>    </div>
+
+<p>ABSTRACT: New e-markets try in a number of ways to attract a critical mass of participation and usage. Two innovative, all-electronic options exchanges, the International Securities Exchange (ISE) and the Boston Options Exchange (BOX), opened for trading in 2000 and 2004. In contrast to rival floor markets, they offer immediate order execution, direct user access, and reduced costs. As a result, ISE and BOX grew trading volumes and won market share from four incumbent exchanges in the United States. We observe significant differences between broker order-routing practices across ISE and BOX, leading to the markets’ different growth patterns. We develop and test hypotheses about new market growth using a panel of six years of quarterly disclosures from 24 major brokerage firms. We find that membership affiliations are the dominant force in predicting brokers’ order-routing patterns. In contrast to prior research, network externalities, as measured by an exchange’s previous quarter market share, are not significant predictors after controlling for temporal heterogeneity. From our results, executives of new electronic exchanges should concentrate on developing broker exchange affiliation and incentive schemes in order to achieve sustainable order levels. Furthermore, keeping a keen eye on the competitive landscape and reacting to changes in current and prospective competitors’ affiliation structures may prove the most beneficial way to ensure continued success. Top management must identify the relative advantages of new entrants’ affiliation structures and respond accordingly. A new entrant that provides incentives through a novel affiliation structure can be routed significant orders if the incumbent exchange does not react swiftly and effectively. The results are not limited to analyzing electronic exchanges but, we expect, to many situations where competing information technology platforms also benefit from user affiliation and network effects.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1046">adverse selection</a>,    <a href="/keywords/3309">automotive sector</a>,    <a href="/keywords/486">electronic markets</a>,    <a href="/keywords/3310">market design</a>,    <a href="/keywords/2446">online markets</a>,    <a href="/keywords/3311">physical markets</a>,    <a href="/keywords/3312">quality sorting</a>,    <a href="/keywords/766">transaction costs</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

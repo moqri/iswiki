@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/95">    Volume 14 Number 2 1997
+</a> pp. 9-31</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Evaluating Alternative Information Regimes in the Private Health Insurance Industry: Managing the Social Cost of Private Information</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/315">Thatcher, Matt E</a>    </div>
+
+<p>ABSTRACT: This paper addresses the cost imposed on an insurance market when individual applicants possess an information advantage over the insurers; in short, we examine the social cost of private information. When consumers differ significantly in terms of their riskiness, and their insurance companies cannot, or are not permitted to assess these differences, insurance companies will attempt to charge all consumers the same premiums for equivalent coverage; unless mechanisms can be designed to allow consumers to signal accurately and credibly their private assessments of their own riskiness, low-risk consumers will consider that they are being overcharged and many will drop out of the market. These consumers, who wish to buy insurance--albeit at a lower price--but who are not now insured, represent a loss of social welfare. As information asymmetries increase, more consumers determine that they are being overcharged, increasing the loss of social welfare. This paper addresses minimizing the loss of social welfare, or maximizing the extent to which the population is insured, in the presence of extremely different consumer risk profiles by examining plausible pricing and policy designs, in order to assess which design minimizes decreases in consumer participation in the insurance market. While unable to make selections among information regimes, which entail a wide range of complex and subjective social choices, the paper does make clear comparisons of alternative designs within each information regime.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1046">adverse selection</a>,    <a href="/keywords/1047">information asymmetry</a>,    <a href="/keywords/640">information economics</a>,    <a href="/keywords/1048">insurance regulation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

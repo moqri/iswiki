@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/13">    Volume 19 Number 1 2002
+</a> pp. 243-266</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Profiling Web Usage in the Workplace: A Behavior-Based Artificial Intelligence Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/46">Anandarajan, Murugan</a>    </div>
+
+<p>ABSTRACT: Employees' nonwork-related Web surfing behavior results in millions of dollars of expenditure for organizations. This paper proposes the use of a behavior-based artificial intelligence system to profile employee Web usage behavior. Two artificial neural networks (ANN) incorporating genetic algorithm techniques were developed for this purpose. The system was validated with two different data sets. The classification performance of the neural network models was compared to that of a statistical method. The results indicate that one of the ANN models, namely the simple recurrent network, was a superior classifier for this behavior-based problem. In addition, the uncertainty inherent in such classification decisions was examined with a loss matrix, and the holdout samples were reclassified using a loss matrix. The output of this intelligent system can be highly beneficial to managers in designing effective Web management policies.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/616">artificial neural networks</a>,    <a href="/keywords/1579">classification models</a>,    <a href="/keywords/748">genetic algorithms</a>,    <a href="/keywords/1580">loss matrix</a>,    <a href="/keywords/1581">misclassification rate</a>,    <a href="/keywords/1582">profiling</a>,    <a href="/keywords/1583">Web usage</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

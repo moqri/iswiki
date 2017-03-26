@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/42">    Volume 8 Number 3 1991
+</a> pp. 69-85</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Design Process for a Computer-Supported Cooperative Work Research Laboratory: The Hohenheim CATeam Room</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1030">Lewe, Henrik</a> and     <a href="/contributors/1015">Krcmar, Helmut</a>    </div>
+
+<p>ABSTRACT: The design of an environment that supports computer-aided meetings of teams requires multidisciplinary cooperation between specialists in the field of computer-supported cooperative work (CSCW) and conference room and furniture designers in order to master all requirements of such an environment. With this in mind, this paper describes the design process and the experiences gained while designing the Hohenheim Computer Aided Team (CATeam) Room. This room offers a computer-supported meeting environment. In an iterative process of defining the CATeam Room requirements and developing design alternatives, a round room and conference table design were found to be most useful for the given requirements.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/262">information systems architecture</a>,    <a href="/keywords/502">computer aided team</a>,    <a href="/keywords/497">computer-supported cooperative work</a>,    <a href="/keywords/503">conference rooms</a>,    <a href="/keywords/504">conference tables</a>,    <a href="/keywords/505">design</a>,    <a href="/keywords/415">electronic meeting systems</a>,    <a href="/keywords/135">group decision support systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

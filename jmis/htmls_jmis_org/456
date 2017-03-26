@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/23">    Volume 18 Number 3 2001
+</a> pp. 125-156</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Critical Factors for Assimilation of Object-Oriented Programming Languages</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/819">Ihlsoon, C H O</a> and     <a href="/contributors/820">Young-Gul, K I M</a>    </div>
+
+<p>ABSTRACT: Object-oriented (OO) technology was expected to rapidly replace traditional functional software technology due to its productivity and quality improvement potential in software development. Still, OO technology is not yet fully understood and utilized by information systems (IS) organizations. Despite the growing interest and attention of the IS researchers and practitioners, empirical research on the assimilation process of OO technology has been limited. The present study assesses the current status of OO technology assimilation in IS organizations and identifies the factors influencing such assimilation from a software process innovation perspective. Innovation attributes and organizational characteristics were tested as determinants of the organizational OO technology assimilation based on a survey of 220 organizations. Logistic regression analysis was used to assess the relationships of innovation and organizational variables with the level of OO technology assimilation. The findings indicate that, among the innovation characteristics, perceived complexity and perceived maturity of technology have been found to have positive relationships with organizational assimilation of OO technology. Among the organizational characteristics, intensity of new technology education was positively related to organizational assimilation of OO technology, and satisfaction with existing technology was negatively related to organizational assimilation of OO technology.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/684">information technology innovation</a>,    <a href="/keywords/1500">object oriented technology assimilation</a>,    <a href="/keywords/1501">software process innovation</a>,    <a href="/keywords/244">technology assimilation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

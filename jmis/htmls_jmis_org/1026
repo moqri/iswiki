@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/25">    Volume 3 Number 4 1987
+</a> pp. 65-78</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>POOL: A Semantic Model for Approximate Reasoning and Its Application in Decision Support</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1586">Wen-Ran, Zhang</a>    </div>
+
+<p>ABSTRACT: POOLâ€”A Semantic Model for Approximate Reasoningâ€”is based on the theory of linguistic fuzzy relations (LFR) and linguistic similarity relations (LSR). The proposed model combines the advantages of linguistic representation and numerical computation. Hence, it can facilitate knowledge representation and approximate reasoning for object/concept relation modeling especially in an environment containing imprecision, ambiguity, and/or uncertainty, which is often the case faced by knowledge engineers in building decision support systems.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/209">symbolic systems</a>,    <a href="/keywords/210">semantic systems</a>,    <a href="/keywords/211">linguistic similarity relations</a>,    <a href="/keywords/212">linguistic transitive closures</a>,    <a href="/keywords/213">approximate reasoning</a>,    <a href="/keywords/39">decision support systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

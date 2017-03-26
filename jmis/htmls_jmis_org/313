@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/7">    Volume 28 Number 4 2012
+</a> pp. 271-304</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Methodology Mashups: An Exploration of Processes Used to Maintain Software</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/556">Edberg, Dana T,</a>    <a href="/contributors/554">Ivanova, Polina,</a> and     <a href="/contributors/555">Kuechler, William</a>    </div>
+
+<p>ABSTRACT: The majority of studies of software development processes explore initial development rather than ongoing software maintenance, yet the majority of the systems development budget in many organizations is devoted to maintenance. Software maintenance projects differ significantly from original development projects, indicating a need for more research specifically concerning maintenance processes. This study uses a grounded theory research method to explore how information technology professionals define and select a methodology to maintain existing software. We found that in-use maintenance methodologies are composed of components from multiple formal methodologies. We developed a factor model describing how these components are chosen. The findings contribute to a better understanding of how standard methodologies are applied in software practice and the critical factors used by professionals when choosing an appropriate methodology for software maintenance activities. This research underscores the need for incorporating the full software life cycle in information systems development research and education.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2095">grounded theory</a>,    <a href="/keywords/2927">maintenance methodology</a>,    <a href="/keywords/339">software development</a>,    <a href="/keywords/2928">software maintenance</a>,    <a href="/keywords/2313">software process</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

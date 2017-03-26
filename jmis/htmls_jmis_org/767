@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/39">    Volume 20 Number 3 2003
+</a> pp. 197-226</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Role of System Trust in Business-to-Consumer Transactions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1243">Pennington, Robin,</a>    <a href="/contributors/1244">Wilcox, H Dixon,</a> and     <a href="/contributors/195">Grover, Varun</a>    </div>
+
+<p>ABSTRACT: It has been argued that the buyer's trust of the vendor is a critical precursor to a transactional relationship in an e-commerce environment. This study uses an experimental survey to test a model that includes a number of factors such as trust mechanisms, "system trust," and vendor reputation. The results suggest that one trust mechanism, vendor guarantees, has a direct influence on system trust. Further, within e-commerce situations, system trust plays an important role in the nomological network by directly affecting trust in vendors and indirectly affecting attitudes and intentions to purchase. These results held in the case of both firms with and without an established reputation. The results demonstrate the importance of interventions such as self-reported vendor guarantees that affect system trust in enabling successful e-commerce outcomes.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1347">e-commerce</a>,    <a href="/keywords/1734">intention to purchase</a>,    <a href="/keywords/1735">reputation in e-commerce</a>,    <a href="/keywords/1736">system trust</a>,    <a href="/keywords/1737">trust in vendor</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

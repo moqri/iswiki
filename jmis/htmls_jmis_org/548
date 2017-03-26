@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/83">    Volume 19 Number 3 2002
+</a> pp. 99-119</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Evolution of Prices in Electronic Markets Under Diffusion of Price-Comparison Shopping</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/936">Kocas, Cenk</a>    </div>
+
+<p>ABSTRACT: Price-comparison engines allow customers to compare product offerings of online sellers and reveal almost complete information on the alternatives, and hence create erosion in store loyalty. Consequently, the competitive dynamics of online sales are affected in markets where price-comparison shopping is diffusing rapidly. We develop a dynamic competitive pricing model that deals with an asymmetric duopolistic market where the segment sizes are determined through a diffusion process. Our diffusion-of-innovations approach allows us to dynamically capture the proportion of informed and uninformed customers in a homogenous goods market. We use this model to analyze how strategic profit-maximization behavior evolves over time. This analysis shows that the increasing numbers of price-comparison shoppers pull prices down, and the rate at which prices decrease is shaped by the diffusion curve and brand preference. Our analysis shows that stores with loyal customers, or with a preference for their brands, can attain higher profits further into the diffusion process. The direct implication is that firms should use their information technology, operations, and marketing capabilities to create, enhance, and cultivate stronger preferences for, and loyalty to, their brand names to survive the inevitable information-rich markets of tomorrow.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/774">diffusion of innovations</a>,    <a href="/keywords/1618">Internet economics</a>,    <a href="/keywords/1619">price-comparison engines</a>,    <a href="/keywords/1620">price-comparison shopping</a>,    <a href="/keywords/1621">price competition</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

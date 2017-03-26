@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/117">    Volume 11 Number 1 1994
+</a> pp. 141-166</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Impacts of End-User and Information Center Characteristics on End-User Computing Support</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1141">Mirani, Rajesh</a> and     <a href="/contributors/320">King, William R</a>    </div>
+
+<p>ABSTRACT: In a cross-sectional survey of 114 information centers, it was found that support needed by end-users varied with their computing sophistication and the maturity of the information center. However, information centers did not take into account differences among users in designing support services, and provided all users with the same amount of support. For most users, the support provided was far less than the support needed, but end-user satisfaction was higher when more support needs were fulfilled. The implication of these results is that information centers are not making the requisite effort to identify and fulfill the support needs of their end-users.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/365">end-user computing</a>,    <a href="/keywords/242">information center</a>,    <a href="/keywords/752">user-developed applications</a>,    <a href="/keywords/123">user satisfaction</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

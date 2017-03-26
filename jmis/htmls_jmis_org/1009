@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/18">    Volume 27 Number 1 2010
+</a> pp. 145-173</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Network Externalities and Technology Use: A Quantitative Analysis of Intraorganizational Blogs</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/121">Wattal, Sunil,</a>    <a href="/contributors/1565">Racherla, Pradeep,</a> and     <a href="/contributors/1566">Mandviwalla, Munir</a>    </div>
+
+<p>ABSTRACT: The article presents the results of a study which examined the use of blogs in a corporate context, focusing on the social aspects of such information systems. The role of network externalities, positive feedback, and the demographic variables of age and gender were analyzed. The results of the study indicated that network effects were stronger for younger users and women, and strongest for relational networks. The effect of age was nonlinear. Positive feedback and use of blogs by managers correlated with increased blogging.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2653">corporate blogs</a>,    <a href="/keywords/2195">network externalities</a>,    <a href="/keywords/2654">social computing</a>,    <a href="/keywords/1379">social networks</a>,    <a href="/keywords/1063">technology usage</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/31">    Volume 20 Number 2 2003
+</a> pp. 99-111</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Consumers Prefer Bundled Add-Ins</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/394">Dewan, Rajiv M</a> and     <a href="/contributors/510">Freimer, Marshall L</a>    </div>
+
+<p>ABSTRACT: Software such as operating systems, word processing, spreadsheets, graphics, and others often serves as a base for a number of third-party add-in products or plug-ins. These add-ins enhance the functionality of the base product. Unless protected by patents, these add-ins can potentially be bundled into the base software. The impact of this bundling on the profits of the base software producer and the consumer depends on the proportion of consumers that value the add-in and the penalty that some consumers incur from finding only a bundled product available when they do not desire the add-in. Using a model of the market, we show that the price of the bundle will be less than the sum of the prices of the base and add-in software when they are sold separately. We also show that the total consumer surplus and the social welfare increase if the base software producer's profit increases with bundling.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1697">bundled software</a>,    <a href="/keywords/1698">consumer welfare</a>,    <a href="/keywords/1334">information goods</a>,    <a href="/keywords/1699">software add-ins</a>,    <a href="/keywords/1700">supplemental goods</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

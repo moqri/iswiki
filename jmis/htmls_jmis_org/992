@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/91">    Volume 7 Number 3 1990
+</a> pp. 27-39</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Strategic Business Objectives Method for Guiding Executive Information Systems Development</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1542">Volonino, Linda</a> and     <a href="/contributors/625">Watson, Hugh J</a>    </div>
+
+<p>ABSTRACT: Many organizations are moving forward with the development of an executive information system (EIS). Based on the experiences of other organizations, there are guidelines that can be followed when creating an EIS. The strategic business objectives methodology corresponds with these guidelines and involves a six-step process: (1) the organization's strategic business objectives are identified; (2) the business processes that are critical to the strategic business objectives are identified; (3) priorities are assigned to the strategic business objectives, and as a consequence, to the critical business processes; (4) information needed to support the critical business processes is defined; (5) information linkages among business processes are identified; and (6) a plan for a modular EIS development, implementation, and evolution is developed. Fisher-Price used a similar methodology when developing its EIS, and this has helped Fisher-Price become more market oriented.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/438">executive information systems</a>,    <a href="/keywords/326">systems development method</a>,    <a href="/keywords/154">systems analysis and design</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

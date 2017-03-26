@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/82">    Volume 17 Number 1 2000
+</a> pp. 9-29</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Extracting Consumers&#039; Private Information for Implementing Incentive-Compatible Internet Traffic Pricing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/12">Gupta, Alok,</a>    <a href="/contributors/720">Jukic, Boris,</a>    <a href="/contributors/721">Stahl, Dale O,</a> and     <a href="/contributors/154">Whinston, Andrew B</a>    </div>
+
+<p>ABSTRACT: Internet traffic pricing is necessary for the vitality of electronic commerce because uncontrolled congestion creates a detrimental effect on quality of the Internet services. Pricing approaches based on negative externality have potential to address the issue of congestion. However, most externality-based pricing approaches require the knowledge of consumers' private demand characteristics, and this requirement is often pointed out as the single most important shortcoming of these mechanisms. The fact that the Internet is a "public good" presents challenging information extraction problems for network managers in implementing any pricing mechanism. Ideally, we seek an incentive-compatible mechanism--a means of extracting the required information that provides no incentives for users to alter their behavior in an attempt to manipulate the information extraction and price setting processes. The authors present a solution based on a new nonparametric statistical technique that was developed for this purpose. While the results in this paper are presented in the context of our prior research on pricing, the approach presented here applies to information extraction and implementation in other resource pricing approaches.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1321">Internet Pricing</a>,    <a href="/keywords/1322">incentive compatibility</a>,    <a href="/keywords/1323">demand estimation</a>,    <a href="/keywords/1324">economic mechanism design</a>,    <a href="/keywords/1058">simulation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

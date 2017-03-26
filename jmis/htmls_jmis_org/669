@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/81">    Volume 3 Number 1 1986
+</a> pp. 32-51</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Generating an Optimal Information System: PMAX-SDLC and the Redirection of MIS Research (or How to Help Joe Eat Salmon)</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/199">Marsden, James R</a> and     <a href="/contributors/314">Pingry, David E</a>    </div>
+
+<p>ABSTRACT: It is argued that information systems should be treated as any other input into the firm's production process and, as such, should be selected based on their contribution to the profit of the firm. It is argued that the present systems development life cycle (SDLC) heuristics lead to systems which are feasible and satisficing, but do not lead to a profit maximizing design. An alternative strategyâ€”profit-maximizing systems development life cycle (PMAX-SDLC)â€”is proposed which is based on the use of process models. These models have their origin in the economics literature and were developed to accurately characterize engineering production processes. Although PMAX-SDLC is more complex than the current SDLC, several empirical conjectures are presented which would support the notion that the potential benefits of redirecting management information systems (MIS) research toward optimal systems design could be large.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/103">systems development life cycle</a>,    <a href="/keywords/154">systems analysis and design</a>,    <a href="/keywords/155">optimal information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

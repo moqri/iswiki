@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/108">    Volume 24 Number 1 2007
+</a> pp. 301-328</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Impact of Technostress on Role Stress and Productivity</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1471">Tarafdar, Monideepa,</a>    <a href="/contributors/1472">Qiang, T U,</a>    <a href="/contributors/1473">Ragu-Nathan, Bhanu S,</a> and     <a href="/contributors/1474">Ragu-Nathan, T S</a>    </div>
+
+<p>ABSTRACT: Based on empirical survey data, this paper uses concepts from sociotechnical theory and role theory to explore the effects of stress created by information and computer technology (ICT)--that is, "technostress"--on role stress and on individual productivity. We first explain different ways in which ICTs can create stress in users and identify factors that create technostress. We next propose three hypotheses: (1) technostress is inversely related to individual productivity, (2) role stress is inversely related to individual productivity, and (3) technostress is directly related to role stress. We then use structural equation modeling on survey data from ICT users in 223 organizations to test the hypotheses. The results show support for them. Theoretically, the paper contributes in three ways. First, the different dimensions of technostress identified here add to existing concepts on stress experienced by individuals in organizations. Second, by showing that technostress inversely affects productivity, the paper reinforces that failure to manage the effects of ICT-induced stress can offset expected increases in productivity. Third, validation of the positive relationship between technostress and role stress adds a new conceptual thread to literature analyzing the relationship between technology and organizational roles and structure. In the practical domain, the paper proposes a diagnostic tool to evaluate the extent to which technostress is present in an organization and suggests that the adverse effects of technostress can be partly countered by strategies that reduce role conflict and role overload.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/340">human resource management</a>,    <a href="/keywords/1232">role conflict</a>,    <a href="/keywords/2268">role overload</a>,    <a href="/keywords/2269">role stress</a>,    <a href="/keywords/1551">role theory</a>,    <a href="/keywords/969">structural equation modeling</a>,    <a href="/keywords/2034">survey methods</a>,    <a href="/keywords/2270">technostress</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

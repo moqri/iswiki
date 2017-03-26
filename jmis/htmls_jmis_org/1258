@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/128">    Volume 32 Number 3 2015
+</a> pp. 48-74</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Barriers to Interorganizational Knowledge Transfer in Post-Hospital Care Transitions: Review and Directions for Information Systems Research</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1789">Lim, Shi Ying,</a>    <a href="/contributors/571">Jarvenpaa, Sirkka L,</a> and     <a href="/contributors/1790">Lanham, Holly J</a>    </div>
+
+<p>ABSTRACT: 
+<p>Post-hospital care transitions involve coordination and continuity of care from hospital providers to patients and community providers. These care transitions represent a domain of high-risk interorganizational collaborations. However, a conversation about how health information technology (HIT) can enhance interorganizational knowledge transfer during care transitions is largely absent in the information systems literature. We conducted a review of qualitative studies of post-hospital care transitions to better understand barriers to knowledge transfer in high-risk interorganizational collaborations. Our analysis highlights how time pressures inhibit multilateral knowledge transfers, accommodation of fluctuating absorptive capacity, and reconciliation of knowledge and goal conflicts. We advance research questions that focus on HIT capabilities to ease these barriers.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1901">absorptive capacity</a>,    <a href="/keywords/3000">health information technology</a>,    <a href="/keywords/3548">health-care transitions</a>,    <a href="/keywords/3549">interorganizational knowledge transfer</a>,    <a href="/keywords/3550">IS design</a>,    <a href="/keywords/202">knowledge management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

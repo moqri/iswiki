@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/119">    Volume 15 Number 1 1998
+</a> pp. 143-163</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Software Cost Estimation Using Economic Production Models</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1281">Qing, Hu,</a>    <a href="/contributors/1282">Plant, Robert T,</a> and     <a href="/contributors/1283">Hertz, David B</a>    </div>
+
+<p>ABSTRACT: One of the major difficulties in controlling software development project cost overruns and schedule delays has been developing practical and accurate software cost models. Software development could be modeled as an economic production process, therefore the authors propose a theoretical approach to software cost modeling. Specifically, they present the Minimum Software Cost Model (MSCM), derived from economic production theory and systems optimization. The MSCM model is compared with other widely used software cost models, such as COCOMO and SLIM, on the basis of goodness of fit and quality of estimation using software project data sets available in the literature. Judged by both criteria, the MSCM model is comparable to, if not better than, the SLIM, and significantly better than the rest of the models. In addition, the MSCM model provides some insights about the behavior of software development processes and environment, which could be used to formulate guidelines for better software project management polices and practices.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1143">economic production theory</a>,    <a href="/keywords/190">software cost estimation</a>,    <a href="/keywords/1144">software cost models</a>,    <a href="/keywords/1145">software production</a>,    <a href="/keywords/342">software project management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

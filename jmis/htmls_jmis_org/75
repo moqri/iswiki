@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/14">    Volume 8 Number 4 1992
+</a> pp. 117-146</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Analysis and Design of Embedded Knowledge-based Systems Using Box Structure Methods</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/158">Basu, Amit</a> and     <a href="/contributors/159">Hevner, Alan R</a>    </div>
+
+<p>ABSTRACT: Knowledge-based systems are widely used for decision support system and expert system applications. However, they are not a panacea for all business problems. Thorough requirements analysis methods must determine the need for knowledge-based systems vis-Ã¡-vis alternative information system designs. Furthermore, knowledge-based systems are often used as embedded subsystems within larger organizational information systems. Rigorous design methods must support the development of complex information systems with integrated, heterogeneous subsystems, including knowledge-based subsystems. In this paper, we demonstrate that the box structure methods of information systems development support both the requirements analysis of knowledge-based systems and the design of embedded knowledgebased systems. An extended example is presented to show the use of the box structure methods in the development of a financial planning system that requires embedded knowledge-based system components.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/31">knowledge-based systems</a>,    <a href="/keywords/91">system analysis</a>,    <a href="/keywords/274">system design</a>,    <a href="/keywords/326">systems development method</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

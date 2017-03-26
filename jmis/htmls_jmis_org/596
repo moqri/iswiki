@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/114">    Volume 2 Number 4 1986
+</a> pp. 21-35</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Shopping in the Electronic Marketplace</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/162">Lee, Ronald M</a> and     <a href="/contributors/1002">Widmeyer, George R</a>    </div>
+
+<p>ABSTRACT: The concept of an electronic marketplace is introduced whereby consumers may browse through a structured database giving product offerings and local supply outlets. We consider the nature of software to facilitate the shopping process developing a concept of similarity between generic products using a semantic net structure. The search is guided by specified user preferences. A prototype implementation, using Prolog, is described.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/68">database</a>,    <a href="/keywords/138">semantic nets</a>,    <a href="/keywords/139">telecommunications</a>,    <a href="/keywords/33">logic programming</a>,    <a href="/keywords/140">electronic commerce</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/84">    Volume 5 Number 1 1988
+</a> pp. 36-50</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>McKesson Drug Company: A Case Study Economost -- A Strategic Information System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/404">Row, Michael C</a>    </div>
+
+<p>ABSTRACT: There has been considerable attention paid to competitive and strategic information systems. Few cases, however, have been studied and presented in detail. McKesson's order entry and distribution system, Economost, is one of the most widely cited strategic information systems, with wide acceptance; nearly 100% of McKesson's orders are entered electronically by customers. Impact on customers, and on McKesson's costs, has been favorable and dramatic. Similar systems are now widely available from major competitors; the effect of such systems on the industry, and on industry consolidation, has also been significant. But differential competitive impact on McKesson is more difficult to establish.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/178">strategic information systems</a>,    <a href="/keywords/275">strategic use of information</a>,    <a href="/keywords/276">information systems case studies</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

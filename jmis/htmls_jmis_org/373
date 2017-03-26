@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/81">    Volume 3 Number 1 1986
+</a> pp. 81-95</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Capability Criteria for Marketing Decision Support Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/419">Goslar, Martin D</a>    </div>
+
+<p>ABSTRACT: Decision support systems (DSS) are becoming popular computer information system tools to assist in resolving strategic business problems. This paper reports the results of a laboratory study investigating the usefulness of DSS features for marketing problem solving. Marketers perceived DSS model interrogation features as most useful during decision making. Simulation capabilities and features enabling probabilistic specification of problem variables were considered least useful. Study results suggest that model building and decision training be included when introducing a DSS.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/66">marketing information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

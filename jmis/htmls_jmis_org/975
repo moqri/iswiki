@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/94">    Volume 16 Number 2 1999
+</a> pp. 137-156</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Alignment Is Not Enough: Integrating Business and Information Technology Management with the Balanced Business Scorecard</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1514">van der Zee, J T M</a> and     <a href="/contributors/1515">de Jong, Berend</a>    </div>
+
+<p>ABSTRACT: The continuously growing importance of information technology (IT) requires organizations to integrate IT decisions with their common planning and decision-making processes at all organizational levels. Trying to align distinct and separate business with IT management cycles is just not enough. Multilevel, integrated business and IT management are aimed at fully integrating the capabilities of IT with business strategies and management's expectations, and vice versa. Although the need to integrate business and IT strategy has long been advocated, until now a practical framework did not exist. The authors seek to contribute to the discipline of IT value management. Their framework includes the planning of and setting goals for IT, and the evaluation of results, integrated with the business context. First approaches to IT planning and evaluation, and their limitations, are discussed. They then elaborate on the concepts of the Balanced Business Scorecard in two case studies. By investigating the benefits and limitations of the framework, and comparing them with other common frameworks, they conclude that the Balanced Business Scorecard can be a valuable contributor to implementation of an integrated business and IT planning and evaluation process.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1263">Balanced Business Scorecard</a>,    <a href="/keywords/1264">information technology planning and control</a>,    <a href="/keywords/544">information technology strategy</a>,    <a href="/keywords/1265">strategic alignment</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

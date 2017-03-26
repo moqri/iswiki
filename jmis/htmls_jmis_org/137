@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/75">    Volume 16 Number 3 1999
+</a> pp. 33-56</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Testing the Interactivity Model: Communication Processes, Partner Assessments, and the Quality of Collaborative Work</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/268">Burgoon, Judee K,</a>    <a href="/contributors/269">Bonito, Joseph A,</a>    <a href="/contributors/270">Bengtsson, Bjorn,</a>    <a href="/contributors/271">Ramjrez, Jr Artemio,</a>    <a href="/contributors/272">Dunbar, Norah E,</a> and     <a href="/contributors/273">Miczo, Nathan</a>    </div>
+
+<p>ABSTRACT: A major consideration in designing and adopting new communication technologies is their impact on communication processes and outcomes. One way to understand this impact is according to the principle of interpersonal interactivity. Findings from two investigations are reported here that address how properties of task-related communication conducted with differing interfaces relate to perceptions of interaction partners and the outcomes of their collaborative work. Study 1 manipulated the interface affordances of mediation, contingency, and modality richness. Study 2 examined the affordance of mediation. Results show that interfaces that promote higher mutuality and involvement lead to more favorable perceptions of partners' credibility and attraction, and those perceptions are systematically related to higher-quality decisions and more influence. Discussion focuses on the relation between user perceptions, design features, and task outcomes in human-computer interaction and computer-mediated communication.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1275">collaborative work</a>,    <a href="/keywords/1276">communication interfaces</a>,    <a href="/keywords/1138">computer-mediated communication (CMC)</a>,    <a href="/keywords/195">decision making</a>,    <a href="/keywords/336">human-computer interaction</a>,    <a href="/keywords/1277">interactivity</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

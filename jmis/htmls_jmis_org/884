@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/87">    Volume 16 Number 4 2000
+</a> pp. 69-97</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Framework for Assessing the Relationship Between Information Technology Investments and Firm Performance</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1403">Sircar, Sumit,</a>    <a href="/contributors/1404">Turnbow, Joe L,</a> and     <a href="/contributors/221">Bordoloi, Bijoy</a>    </div>
+
+<p>ABSTRACT: There have been several attempts in the past to assess the impact of information technology on firm performance that have yielded conflicting results. Researchers have been unable to conclude that IT spending by an organization results in increases in key performance indicators. Two major recent studies have attempted to address the issue by putting greater emphasis on the theoretical underpinnings of the solution to the problem, although they chose different theoretical frameworks. The present study extends that work to yield a framework that shows the relationship between firm performance and both IT and corporate investments. The data used to validate the framework exceeds that used in previous analyses in both quality and quantity, thereby permitting appropriate statistical analyses. A large database consisting of over 2,000 observations of 624 firms was constructed, using data provided by the International Data Corporation, Standard & Poor's Compustat, and Moody's. This allowed the authors to pose the following research questions: (a) Can the relationship between sets of investment measures and firm performance be demonstrated (as opposed to individual measures)? (b) How are IT investments related to a firm's market value, market share, sales, and assets? and (c) Is there a difference in the effect of computer capital and noncomputer capital?</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/948">information technology payoff</a>,    <a href="/keywords/654">information technology investment</a>,    <a href="/keywords/1036">organizational performance</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

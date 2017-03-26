@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/130">    Volume 33 Number 1 2016
+</a> pp. 260-295</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Duopoly Pricing Strategy for Information Products with Premium Service: Free Product or Bundling?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1826">Zhang, Zan,</a>    <a href="/contributors/1827">Nan, Guofang,</a>    <a href="/contributors/1828">Li, Minqiang,</a> and     <a href="/contributors/1008">Tan, Yong</a>    </div>
+
+<p>ABSTRACT: 
+<p>Many software firms, especially mobile app providers, offer perpetually free basic products to users, but premiums are charged for access to the additional features or functionalities. While the free offering helps capture potential customers, it might cannibalize the sales of premium goods or services. This paper adopts a game theoretical approach to examine the impact of free offering on the competition between two firms in the presence of network effects. The firms can either offer a free core product and a paid service or offer them as a bundle. The core product has stand-alone value and can be used separately but the value-added service has no value without the core product. We derive the market equilibria and present conditions under which the free offering strategy outperforms the bundling strategy. We show that when a firm’s core product has a sufficient advantage in product quality, it is better for this firm to sell the bundle but for the other to use free strategy. However, if the core products are similar in terms of quality, it is optimal for them to use the same strategies. Whether to offer a free product depends largely on the core products’ quality. We also show that the firms may be caught in a prisoner’s dilemma when both adopt the free strategy. Finally, we find that the profitability of the firm that offers a free product always increases in network effects intensity and market size, but this is not the case for the firm that sells the bundle. This study contributes to understanding the behavior of feature-limited free offering in a duopoly setting. Our findings also provide insights into the design of free product and the impact of network effects on the firms’ offering decisions.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3656">free core product</a>,    <a href="/keywords/3399">freemium</a>,    <a href="/keywords/1458">information products</a>,    <a href="/keywords/3259">network effects</a>,    <a href="/keywords/3657">premium service</a>,    <a href="/keywords/1708">pricing</a>,    <a href="/keywords/3658">product bundling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

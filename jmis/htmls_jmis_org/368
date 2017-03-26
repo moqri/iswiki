@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/2">    Volume 6 Number 1 1989
+</a> pp. 41-58</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Effects of Task Differences on the Work Satisfaction, Job Characteristics, and Role Perceptions of Programmer/Analysts</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/672">Goldstein, David K</a>    </div>
+
+<p>ABSTRACT: A measure for classifying programmer/analysts based on the tasks they perform is proposed. A questionnaire, including the measure and measures of work satisfaction, job characteristics, role perceptions, and user interaction characteristics, was administered to over 250 subjects in a manufacturing firm. The results indicated that the task differences measure could be used to classify programmer/analysts into four groupsâ€”development/programmers, development/analysts, maintainers, and supporters. In addition, significant differences among the groups in skill variety, role ambiguity, and amount of user interaction were found. Implications of the results for those interested in redesigning the jobs of programmer/analysts are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/344">information systems personnel</a>,    <a href="/keywords/345">job satisfaction</a>,    <a href="/keywords/49">systems development</a>,    <a href="/keywords/346">systems maintenance</a>,    <a href="/keywords/116">human information processing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

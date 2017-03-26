@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/8">    Volume 13 Number 2 1996
+</a> pp. 29-57</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Analyzing Cost-Effectiveness of Organizations: The Impact of Information Technology Spending</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1145">Mitra, Sabyasachi</a> and     <a href="/contributors/1146">Chayam, Antoine Karim</a>    </div>
+
+<p>ABSTRACT: The performance impacts of information technology (IT) investments in organizations have received considerable attention in recent years. In this research, we investigate the cost factors that are affected by such investments. We analyze a data set containing the information technology budgets of over 400 large and medium-sized U.S. corporations. We find that higher IT investments are associated with lower average production costs, lower average total costs, and higher average overhead costs. We also find that larger companies spend more on information technology as a percentage of their revenues than smaller companies. We do not find any evidence that information technology reduces labor costs in organizations. We explain our findings, which are often counterintuitive but interesting, using basic microeconomic theory of the firm.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/637">business value of information technology</a>,    <a href="/keywords/947">impact of information technology</a>,    <a href="/keywords/654">information technology investment</a>,    <a href="/keywords/948">information technology payoff</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

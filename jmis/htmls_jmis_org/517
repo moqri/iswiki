@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/53">    Volume 4 Number 4 1988
+</a> pp. 25-43</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Effect of Presentation Media on Recipient Performance in Text-based Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/725">Kasper, George M</a> and     <a href="/contributors/903">Morris, Andrew H</a>    </div>
+
+<p>ABSTRACT: The effect of presentation media on recipient performance and perceived difficulty in text-based information systems was investigated. Based on data collected in a laboratory setting, we examined differences among electronic mail, audio, and audio/video media in terms of message comprehension and perceived difficulty. Twenty-four volunteer business administration faculty and graduate students were subjects for the repeated-measures experiment. The results show that media affects message comprehension, but does not alter the recipient's perception of the difficulty of the message. Media that require reading the message were found to be superior to audio media in terms of comprehension.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/263">text-based information systems</a>,    <a href="/keywords/264">computer-mediated communication systems</a>,    <a href="/keywords/113">electronic mail</a>,    <a href="/keywords/72">office automation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

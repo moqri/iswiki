@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/132">    Volume 33 Number 3 2016
+</a> pp. 744-775</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Empirical Assessment of Alternative Designs for Enhancing Different Types of Trusting Beliefs in Online Recommendation Agents</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1560">Wang, Weiquan</a> and     <a href="/contributors/157">Benbasat, Izak</a>    </div>
+
+<p>ABSTRACT: 
+<p>competence, integrity, and benevolence are the three key trusting beliefs that are widely acknowledged in the trust literature. Drawing on users’ different dispositional attribution of these trusting beliefs, we investigate the different influence of two sets of experiential reasons on the competence belief versus the benevolence and integrity beliefs in online recommendation agents (RAs). The two sets of experiential reasons encompass interactive reason, including three performance factors (namely, perceived cognitive effort, advice quality, and perceived strategy restrictiveness), and knowledge-based reason (i.e., perceived transparency of an RA). Data were collected through a laboratory experiment to test our hypotheses. Results demonstrate that the three performance factors affect only the competence belief, whereas perceived RA transparency influences all three trusting beliefs. In addition, the effects of perceived transparency on competence are partially mediated by perceived cognitive effort and advice quality. The research contributes to the trust literature by revealing the different antecedents of the three trusting beliefs and provides guidelines for designers to choose specific design elements to improve a particular trusting belief of the user toward an RA.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3725">advice quality</a>,    <a href="/keywords/3726">cognitive effort</a>,    <a href="/keywords/7">decision support</a>,    <a href="/keywords/3727">recommendation agent</a>,    <a href="/keywords/3728">restrictiveness</a>,    <a href="/keywords/3729">transparency</a>,    <a href="/keywords/1108">trust</a>,    <a href="/keywords/2961">trusting beliefs</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

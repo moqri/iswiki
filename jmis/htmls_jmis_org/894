@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/38">    Volume 16 Number 1 1999
+</a> pp. 37-62</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Choosing Data-Mining Methods for Multiple Classification: Representational and Performance Measurement Implications for Decision Support</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1422">Spangler, William E,</a>    <a href="/contributors/1402">May, Jerrold H,</a> and     <a href="/contributors/1423">Vargas, Luis G</a>    </div>
+
+<p>ABSTRACT: Data-mining techniques are designed for classification problems in which each observation is a member of one and only one category. The authors formulate ten data representations that could be used to extend those methods to problems in which observations may be full members of multiple categories. They propose an audit matrix methodology for evaluating the performance of three popular data-mining techniques--linear discriminant analysis, neural networks, and decision tree induction--using the representations that each technique can accommodate. They then empirically test their approach on an actual surgical data set. Tree induction gives the lowest rate of false positive predictions, and a version of discriminant analysis yields the lowest rate of false negatives for multiple category problems, but neural networks give the best overall results for the largest multiple classification cases. There is substantial room for improvement in overall performance for all techniques.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1207">data mining</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/1213">decision tree induction</a>,    <a href="/keywords/386">neural networks</a>,    <a href="/keywords/1214">statistical classification</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

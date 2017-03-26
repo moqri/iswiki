@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/84">    Volume 5 Number 1 1988
+</a> pp. 25-35</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Object-oriented Systems Analysis and Design: Methodology and Application</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/412">McIntyre, Scott C</a> and     <a href="/contributors/1121">Higgins, Lexis F</a>    </div>
+
+<p>ABSTRACT: This paper presents the results of research into applying an object-oriented approach to systems analysis and design. Characteristics of object-oriented model building are briefly reviewed. A methodology is described which aids development of system modeling and simulation as the analysis and design process proceeds. The paper also describes the advantages of modeling analysis tools as objects which are integrated into the environment being analyzed. These principles are demonstrated by an object-oriented systems analysis and design recently conducted by the authors.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/272">object-oriented systems</a>,    <a href="/keywords/273">systems analysis</a>,    <a href="/keywords/274">system design</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

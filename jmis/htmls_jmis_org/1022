@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/22">    Volume 28 Number 1 2011
+</a> pp. 235-272</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>User Acceptance of Agile Information Systems: A Model and Empirical Test</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1580">Weiyin, Hong,</a>    <a href="/contributors/1235">Thong, James Y L,</a>    <a href="/contributors/1581">Chasalow, Lewis C,</a> and     <a href="/contributors/1582">Dhillon, Gurpreet</a>    </div>
+
+<p>ABSTRACT: In response to the rapid changes in users' requirements, a new generation of information systems (IS), namely, agile IS, has emerged. Agile IS, defined as information systems developed using agile methods, are characterized by frequent upgrades with a small number of new features released periodically. The existing research on agile IS has mainly focused on the developers' perspective with little research into end users' responses to these agile IS. Drawing upon the tripartite model of attitude, the status quo and the omission bias theories, and the availability heuristic, we propose a model that utilizes constructs from the unified theory of acceptance and use of technology, the IS continuance model, habit, and individual differences to examine the drivers of user acceptance of agile IS. Further, we investigate not only users' intentions to continue using the agile IS but also their intentions to use new features when they are released, which is a surrogate for the ultimate success of agile IS. Data from 477 users of an agile IS showed that users' level of comfort with constant changes, the facilitating conditions provided, and users' habit are predictors of both types of intentions, with users' level of comfort with constant changes being the strongest predictor. Users' intentions to continue using agile IS are also determined by users' satisfaction with and perceived usefulness of the past upgrades. Finally, users who are innovative are more likely to use future releases of new features. The present work fills a gap in the software engineering literature and contributes a technology acceptance model specific to agile IS, which are becoming a mainstay of companies' IT portfolio in a fast-changing business environment.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2804">agile methods</a>,    <a href="/keywords/2805">agile systems</a>,    <a href="/keywords/2806">availability heuristic</a>,    <a href="/keywords/2807">comfort with change</a>,    <a href="/keywords/2808">habit</a>,    <a href="/keywords/2809">information systems continuance</a>,    <a href="/keywords/2810">omission bias</a>,    <a href="/keywords/2811">personal innovativeness</a>,    <a href="/keywords/2812">status quo bias</a>,    <a href="/keywords/2675">unified theory of acceptance and use of technology</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

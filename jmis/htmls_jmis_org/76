@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/56">    Volume 14 Number 1 1997
+</a> pp. 215-233</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Method for Easing Normalization of User Views</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/160">Batra, Dinesh</a>    </div>
+
+<p>ABSTRACT: Currently, most database management systems (DBMS) are based on the relational data model. Design methods that target relational models as the end product of logical design are generally based on the entity relationship model (ER) or semantic object model. Such methods entail developing an ER or semantic object representation followed by translation to the relational representation by the designer or by a CASE tool. However, there is no popular method that uses the relational concepts directly, that is, without an intermediate representation such as ER. Mathematically rigorous approaches using decomposition or synthesis do not seem to have been adopted by designers. When user views are complex, designers may encounter difficulty in the absence of an understandable method. This paper suggests a practical method for arriving at a normalized solution of user views.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1040">derived dependency</a>,    <a href="/keywords/1041">logical database design</a>,    <a href="/keywords/1042">normalization</a>,    <a href="/keywords/1043">relational data model</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

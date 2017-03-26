@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/94">    Volume 16 Number 2 1999
+</a> pp. 177-192</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Gaining Competitive Advantage for Trading in Emerging Capital Markets with Neural Networks</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1547">Walczak, Steven</a>    </div>
+
+<p>ABSTRACT: Emerging capital markets may not be as efficient as the more established equity markets. Because of the possible inefficiency in these markets, various indicators that are external to the emerging capital market may provide a significant trading advantage. A preliminary analysis suggests that the Singapore market appears to be efficient. Neural network models are used to evaluate the claim that emerging equity markets, specifically the Singapore exchange, are affected by external signals and attempt to exploit any trading advantage imparted by these signals. The neural network technique as it is applied to trading on market indices in the "emerging" Singapore market is compared with the more established Dow Jones market index. Results indicate that external market signals can significantly improve forecasting on the Singapore DBSS0 index but have little or no effect on forecasts for the more established Dow Jones Industrial Average index. The research demonstrates the efficacy of using neural network methods to capitalize on discovered market inefficiencies. Utilizing external market signals, a neural network forecasting model achieved a 63 percent trading prediction accuracy.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1270">emerging markets</a>,    <a href="/keywords/1271">trading</a>,    <a href="/keywords/386">neural networks</a>,    <a href="/keywords/1272">Pacific Rim</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

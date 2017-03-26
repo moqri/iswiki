@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/13">    Volume 19 Number 1 2002
+</a> pp. 71-98</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Investment in Enterprise Resource Planning: Business Impact and Productivity Measures</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/397">Hitt, Lorin M,</a>    <a href="/contributors/430">Wu, D J,</a> and     <a href="/contributors/767">Xiaoge, Zhou</a>    </div>
+
+<p>ABSTRACT: Enterprise Resource Planning (ERP) software systems integrate key business and management processes within and beyond a firm's boundary. Although the business value of ERP implementations has been extensively debated in trade periodicals in the form of qualitative discussion or detailed case studies, there is little large-sample statistical evidence on whether the benefits of ERP implementation exceed the costs and risks. With multiyear multi-firm ERP implementation and financial data, we find that firms that invest in ERP tend to show higher performance across a wide variety of financial metrics. Even though there is a slowdown in business performance and productivity shortly after the implementation, financial markets consistently reward the adopters with higher market valuation (as measured by Tobin's q). Due to the lack of mid- and long-term post-implementation data, future research on the long-run impact of ERP is proposed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1559">Enterprise Resource Planning systems</a>,    <a href="/keywords/455">information technology</a>,    <a href="/keywords/74">productivity</a>,    <a href="/keywords/1560">productivity analysis</a>,    <a href="/keywords/1561">ROI</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

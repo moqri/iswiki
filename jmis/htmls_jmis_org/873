@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/117">    Volume 11 Number 1 1994
+</a> pp. 31-57</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Group Support Systems Approach to Cognitive Mapping</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1384">Sheetz, Steven D,</a>    <a href="/contributors/1385">Tegarden, David P,</a>    <a href="/contributors/6">Kozar, Kenneth A,</a> and     <a href="/contributors/1387">Zigurs, Ilze</a>    </div>
+
+<p>ABSTRACT: Cognitive maps are valuable tools for understanding individual and group perceptions. But developing such maps is a resource-intensive activity. To reduce required resources, group support system (GSS) technology is proposed as an aid in uncovering cognitive maps. A GSS session was used to develop a cognitive map of users of object-oriented (OO) techniques perceptions of OO system complexity. Seven participants identified concepts and categories, categorized the concepts, rated category importance, and defined relationships between categories. The data collected and analyses performed provide the basis for a cognitive map of the participants' perceptions of OO system complexity. A comparison with similar individual cognitive mapping results supports further investigation of using the GSS approach for identifying perceptions of complexity.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/740">cognitive mapping</a>,    <a href="/keywords/741">complexity</a>,    <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/272">object-oriented systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

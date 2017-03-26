@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/85">    Volume 1 Number 4 1985
+</a> pp. 87-101</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Developmental Model of the Database Administration Function</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/888">Kahn, Beverly K</a> and     <a href="/contributors/889">Garceau, Linda R</a>    </div>
+
+<p>ABSTRACT: This proposal for a new model of database administration development provides organizations with a framework for planning and controlling the growth of the database administration function and rectifies the shortcomings of previous models. These other models have proven to be neither consistent nor concise. Additionally, they have lacked consensus on the number of stages and on their constituent activities. To develop a new model, a field study was conducted. Interviews and a questionnaire were used to identify tasks which were important to the DBA in the performance of the function. Results were analyzed using the techniques of factor and cluster analysis and then related to indicators of functional development. Three stages in the development of the database administration function were identified: initiation, transition, and stability.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/77">database administration</a>,    <a href="/keywords/78">database management systems</a>,    <a href="/keywords/79">shared and integrated data</a>,    <a href="/keywords/80">data administration</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

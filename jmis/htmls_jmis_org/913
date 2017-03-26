@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/33">    Volume 26 Number 2 2009
+</a> pp. 205-240</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Transaction Cost Perspective of the &quot;Software as a Service&quot; Business Model</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1447">Susarla, Anjana,</a>    <a href="/contributors/152">Barua, Anitesh,</a> and     <a href="/contributors/154">Whinston, Andrew B</a>    </div>
+
+<p>ABSTRACT: Application service providers (ASP), which host and maintain information technology (IT) applications across the Internet, offer an alternative to traditional models of IT service for user firms. We build on prior literature in transaction cost economics (TCE) to argue that the contract design should address ex post transaction costs that result due to contractual incompleteness and opportunism. We argue that contract design is multidimensional, and that it is necessary to design governance structures that can protect user firms from shirking and monitoring costs, as well as provide for efficient adaptation when requirements are incompletely specified at the start of the initiative. Our empirical analysis suggests that factors such as uncertainty in specifying service requirements, interdependence between the ASP application and IT systems in the client organization, and the need for specific investments favor time and materials contracts, whereas fixed prices are desirable when strong incentives are needed for cost reduction. We also find that contracts that are aligned with transaction attributes in a transaction cost--economizing manner are significantly less likely to experience budget overruns and realize better ex post performance than those that are not. These results hold normative implications for both user and provider firms to assess the performance implications of choosing contracts in line with prescriptions of TCE.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2291">application service providers</a>,    <a href="/keywords/2549">contract choice</a>,    <a href="/keywords/1076">logit models</a>,    <a href="/keywords/2071">transaction cost economics</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

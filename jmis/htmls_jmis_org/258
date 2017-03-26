@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/1">    Volume 25 Number 1 2008
+</a> pp. 167-198</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Manufacturers&#039; Distribution Strategy in the Presence of the Electronic Channel</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/449">Dazhong, Wu,</a>    <a href="/contributors/450">Ray, Gautam,</a> and     <a href="/contributors/154">Whinston, Andrew B</a>    </div>
+
+<p>ABSTRACT: The Internet provides an additional channel for manufacturers to provide information about and sell their products. The electronic channel has the advantage of reduced search cost and its reach is increasing, but it has limited capability to provide product information. This paper examines how Internet technology affects a monopoly manufacturer's distribution problem in an environment where product information is important for consumers to identify their ideal product. The model suggests that a manufacturer uses the electronic channel in addition to the physical channel when the product information is very valuable and product information is largely about digital attributes, or when the product information is not valuable. The model also suggests that when the manufacturer chooses to sell through both channels, there is an increase in price competition between the two channels such that the manufacturer need not sell through the electronic retailer with the highest reach. Also, when a large proportion of consumers have access to both channels, the manufacturer may sell through only one channel. The paper also examines the case where the manufacturer operates in the electronic channel and the case where the retailers are integrated.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2404">channel management</a>,    <a href="/keywords/2331">distribution strategies</a>,    <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/2405">free riding</a>,    <a href="/keywords/874">game theory</a>,    <a href="/keywords/2406">product information</a>,    <a href="/keywords/2407">search cost</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

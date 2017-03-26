@@ -1,0 +1,62 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/88">    Volume 12 Number 2 1995
+</a> pp. 5-7</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Strategic and Competitive Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/404">Row, Michael C</a>    </div>
+
+<p><p>
+ The current interest in business reengineering is significant both as part of the ongoing evolution of business and as a discontinuity unique to this time and place in history.  Reengineering involves both a change in concepts and perspective, from functions to processes, and the development of tools and techniques.  But reengineering is also a discontinuity brought on by changes in the business environment and by new capabilities made possible by information technology.  Specifically, organizational processes, information systems, and other infrastructures that have evolved over the past twenty to thirty years are increasingly becoming obsolete and dysfunctional and must be replaced.  Indeed, even the strategies that were supported by these processes may need to be rethought.  These aspects of reengineering can be thought of as business re-visioning.  Business re-visioning involves "placing bets" on the firm's future: deciding on an organization and information technology infrastructure that will carry the firm for the next decade.  The investments and risks involved in such a large-scale reorientation are tremendous.
+</p>
+<p>
+ This Special Section addresses the risks of re-visioning from three different but complementary perspectives.  The first paper explores the organizational forces that can create and shape re-visioning risk.  The second paper investigates infrastructure flexibility as a means of reducing re-visioning, particularly what the characteristics of flexibility are and how they can be measured.  The final paper presents an empirical study of computer integrated manufacturing (CIM) implementation with results that link the concept of barriers to change with the concept of flexibility.  All three papers are substantial revisions and expansions of work originally presented at the 28th Annual Hawaii International Conference on System Sciences in January of 1995.
+</p>
+<p>
+ The first paper, "Identifying the Sources of Reengineering Failures: A Study of the Behavioral Factors Contributing to Reengineering Risks," by Eric K. Clemons, Matt E. Thatcher, and Michael C. Row, argues that the outcomes of business re-visioning efforts are often strategies and investments are meant to address.  This mismatch can be understood in terms of the organizational forces that shape how a firm views the future and the influence the firm's ability to make the changes necessary to prepare for that future.  These forces lead to conflict between what the firm should do, what the firm says it is doing, and what the firm actually does.  The result is a tension between functionality risk - the risk of not going far enough in implementing change - and political risk - the risk of going farther than the organization can tolerate.  The authors note that it is critically important to identify and manage these forces in order to reduce the risk of re-visioning failure.
+</p>
+<p>
+ Even in the absence of political risk, functionality risk may be considerable, given the difficulties in envisioning and preparing for an uncertain future.  One way of reducing the risk of making a wrong decision is to develop flexibility - the capability to operate in many different situations and to react rapidly to changes in the environment.  But what is flexibility and how do you achieve it?  Nancy Bogucki Duncan, in "Capturing Flexibility of Information Technology: A Study of Resource Characteristics and their Measure," explores the concept of flexibility in the context of information technology infrastructure.  Using field study methodologies, Duncan explores the issues involved in defining flexibility and suggests a framework for designing measurement tools.  The perspective taken is that definition and measurement of flexibility are necessary before informed decisions can be made as to how much and what kind of flexibility to invest in.
+</p>
+<p>
+ Both organizational barriers to change and the concept of flexibility come together in the third paper, "Computer Integrated Manufacturing: Empirical Implication for Industrial Information Systems," by John Johansen, Uday S. Karmarkar, Dhananjay Nanda, and Abraham Seidmann.  CIM is a set of technologies that has the potential  to provide a flexible infrastructure supporting production; however, the study suggests that in some situations the implementation of CIM has failed to achieve significant integration and flexibility.  The CIM implementations studied tended to be developed "bottom-up" along existing functional and operational line, with narrow operational objectives.  These results are consistent with the framework on organizational barriers to change developed by Clemons et al.
+</p>
+<p>
+ Taken together, the three papers of the Special Section should help expand our view of the risks that need to be managed in the process of business reengineering, and of the means for doing so.
+</p></p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/178">strategic information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

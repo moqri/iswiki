@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/38">    Volume 16 Number 1 1999
+</a> pp. 87-119</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Redesigning Computer-Supported Work Processes with Dual Information Systems: The Work Process Benchmarking Service</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/891">Käkölä, Timo K</a> and     <a href="/contributors/892">Koota, Kalle I</a>    </div>
+
+<p>ABSTRACT: The conceptual design of most computer-based information systems reflects a dualism of technology. During the development phase, part of the work-domain-related knowledge is formalized and encoded in the software, making it difficult for users to reflect on and use this knowledge. This design/use dualism contributes to the deterioration of the interpretive flexibility of information systems. The authors propose an information systems architecture called Dual Information Systems (DIS) that helps bridge the design/use dualism by providing organizations with a set of services that enable and reinforce both effective, institutionalized working and the questioning and (re)construction of computer-supported work routines. DIS have a four-layered conceptual structure: (1) people draw on the business layer to work and learn; (2) people use the breakdown layer to handle unexpected breakdowns; (3) self-organizing project teams use the project layer to create innovative work and IS (re)designs; and (4) the knowledge-sharing server stores these redesigns and makes them organizationally available to facilitate working and learning as well as subsequent redesign efforts. In this paper, the authors first outline the theoretical background, conceptual design, and generic services of DIS. Next, they elaborate on the work-process benchmarking service of DIS, which supports project teams in analyzing and redesigning computer-supported work through lateral sharing of knowledge of work processes between business units. Finally, they demonstrate the benchmarking service with the help of the ReDIS prototype.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1218">Dual Information Systems</a>,    <a href="/keywords/1219">organizational creation of knowledge</a>,    <a href="/keywords/1220">organizational interfaces</a>,    <a href="/keywords/1221">work-process benchmarking</a>,    <a href="/keywords/1222">work-process enactment and redesign</a>,    <a href="/keywords/1223">work-process modeling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

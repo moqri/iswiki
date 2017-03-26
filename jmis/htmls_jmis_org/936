@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/46">    Volume 21 Number 2 2004
+</a> pp. 137-160</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Market Structure for Internet Search Engines</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/656">Telang, Rahul,</a>    <a href="/contributors/1478">Rajan, Uday,</a> and     <a href="/contributors/281">Mukhopadhyay, Tridas</a>    </div>
+
+<p>ABSTRACT: The Internet search engine market has seen a proliferation of entrants over the past few years. Whereas Yahoo was the early market leader, there has been entry by both lower-quality engines and higher-quality ones (such as Google). Prior work on quality differentiation requires that low-quality products have low prices in order to survive in a market with high-quality products. However, the price charged to users of search engines is typically zero. Therefore, consumers do not face a tradeoff between quality and price. Why do lower-quality products survive in such a market? We develop a vertical differentiation model that explains this phenomenon. The quality of the results provided by a search engine is inherently stochastic, and there is no charge for using an engine. Therefore, users who try out one engine may consult a lower-quality engine in the same session. This "residual demand" allows lower-quality products to survive in equilibrium. We then extend our model to incorporate horizontal differentiation as well and show that residual demand leads to higher quality and less differentiation in this market. Engines want to attract competitors' customers and therefore have a strong incentive to be "similar" to each other.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1347">e-commerce</a>,    <a href="/keywords/1156">market structure</a>,    <a href="/keywords/1806">product differentiation</a>,    <a href="/keywords/1807">residual demand</a>,    <a href="/keywords/1808">search engines</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

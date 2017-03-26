@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/90">    Volume 27 Number 3 2010
+</a> pp. 143-178</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Asymmetry in Information Systems Consulting: Toward a Theory of Relationship Constraints</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/446">Dawson, Gregory S,</a>    <a href="/contributors/447">Watson, Richard T,</a> and     <a href="/contributors/448">Boudreau, Marie-Claude</a>    </div>
+
+<p>ABSTRACT: Opportunism, or self-interest seeking with guile, is often witnessed in human behavior, and it bedevils human interactions and relationships. Organizations expend considerable effort to reduce opportunism. Agency theory espouses formal contracts as effective constraints on opportunism; however, a consultant's use of tacit knowledge subjects clients to information asymmetry that is not amenable to formal contracts. The principal-professional lens was developed to accommodate the presence of tacit knowledge, but it ignores formal contracts and, like agency theory, ignores the existence of principal opportunism. This examination of information systems (IS) consulting notes that when information asymmetry is present, both clients and consultants sometimes behave opportunistically. The level of information asymmetry, the type of knowledge, and the level of contract specificity in an IS consulting engagement determine the mixture of legal and social constraints that are efficacious. Based on these revelations and the inadequacy of other theories, a theoretical model of relationship constraints is developed to explain the interplay between signaling and screening, knowledge type, contract specificity, and the levels of information asymmetry in predicting adopted constraint mechanisms. For researchers, this new model offers a lens to study opportunism from a knowledge-based perspective, whereas for practitioners it offers the possibility of forestalling a decline in markets due to rampant opportunism.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/991">agency theory</a>,    <a href="/keywords/1047">information asymmetry</a>,    <a href="/keywords/2725">information systems consulting</a>,    <a href="/keywords/2373">opportunism</a>,    <a href="/keywords/2726">principal-agent relationship</a>,    <a href="/keywords/2727">screening</a>,    <a href="/keywords/1340">signaling</a>,    <a href="/keywords/1361">tacit knowledge</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

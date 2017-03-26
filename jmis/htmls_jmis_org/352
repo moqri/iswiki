@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/86">    Volume 22 Number 1 2005
+</a> pp. 153-192</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Does Information Technology Training Really Matter?: A Social Information Processing Analysis of Coworkers&#039; Influence on IT Usage in the Workplace</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/649">Gallivan, Michael J,</a>    <a href="/contributors/650">Spitler, Valerie K,</a> and     <a href="/contributors/183">Koufaris, Marios</a>    </div>
+
+<p>ABSTRACT: This paper develops a conceptual framework to explain employees' technology usage within organizations. Much of the prior information systems literature has assumed an underlying relationship between "facilitating conditions" for information technology (IT) adoption (e.g., user training, technical support, resource availability) and employees' technology use. Although these facilitating conditions are important, they do not provide a complete explanation of employees' IT usage. The reality of working in organizational settings suggests a different model of IT adoption and usage. Drawing from research on social information processing theory, and acknowledging the role of other individuals within the work context that shapes employees' learning, values, and behavior, we propose a framework to explain employees' adoption of IT and their level of usage within organizations, featuring both individual-level factors and factors related to the social information processing influence of co-workers. Our results show that an employee's coworkers exert an important influence on IT usage, whereas individual-level factors exhibit more modest effects.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1922">community of practice</a>,    <a href="/keywords/365">end-user computing</a>,    <a href="/keywords/1923">information systems usage</a>,    <a href="/keywords/1438">situated learning</a>,    <a href="/keywords/1924">social influence</a>,    <a href="/keywords/1925">social information processing</a>,    <a href="/keywords/1926">survey research and design</a>,    <a href="/keywords/432">end-user training</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

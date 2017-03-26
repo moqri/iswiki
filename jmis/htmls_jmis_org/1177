@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/120">    Volume 30 Number 4 2014
+</a> pp. 151-178</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Informational and Normative Social Influence in Group-Buying: Evidence from Self-Reported and EEG Data</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1669">Kuan, Kevin K Y,</a>    <a href="/contributors/1670">Zhong, Yingqin,</a> and     <a href="/contributors/330">Chau, Patrick Y K</a>    </div>
+
+<p>ABSTRACT: This study examines two types of information commonly used by group-buying sites to induce purchasing. The first study indicates the number of people who have bought a deal ("buy" information). The second one indicates Facebook friends who "like" a deal ("like" information). The effects of the group-buying information on opinions (attitude and intention) and emotions were examined using a controlled experiment. Our results show that positive and negative "buy" information has an asymmetric influence on attitude and intention, whereas "like" information has a positive influence on intention. The presence of "buy" information is associated with EEG activity that is generally linked to negative emotions. However, the addition of "like" information is associated with EEG activity that is generally linked to positive emotions. The different effects of the two types of group-buying information can be explained by the different social influences exerted by the information.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3229">electroencephalography</a>,    <a href="/keywords/3243">emotion online</a>,    <a href="/keywords/3244">group buying</a>,    <a href="/keywords/3245">information social influence</a>,    <a href="/keywords/2783">NeuroIS</a>,    <a href="/keywords/3246">normative social influence</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

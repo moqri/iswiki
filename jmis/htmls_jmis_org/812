@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/68">    Volume 23 Number 4 2007
+</a> pp. 11-28</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Host Country Resource Availability and Information System Control Mechanisms in Multinational Corporations: An Empirical Test of Resource Dependence Theory</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1304">Rao, Madhu T,</a>    <a href="/contributors/253">Brown, Carol V,</a> and     <a href="/contributors/1305">Perkins, William C</a>    </div>
+
+<p>ABSTRACT: The management of the information systems (IS) function is a complex task, particularly in the case of multinational corporations (MNCs), where installations dispersed across distance, time, and cultures can lead to diverse and incompatible systems spreading among foreign subsidiaries. The need to globally control and coordinate the IS management function is often met with resistance from local IS managers, who may perceive corporate standards as intrusive. Resource dependence theory (RDT) argues that control is made easier when a subsidiary unit is dependent on corporate headquarters for critical resources. This study examined the IS management relationship and the use of various mechanisms of control (formal and informal) between 54 headquarters--subsidiary pairs spread across 19 countries of varying resource-richness. While RDT appears to be valid when subsidiaries are dependent on MNC headquarters for resources, the expected relationship between the mechanisms and host country IS resource availability was not observed. Although there was a significant relationship with the use of informal mechanisms and IS resources, it was in the opposite direction to what would be expected by RDT.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2199">canonical correlation</a>,    <a href="/keywords/2200">control mechanisms</a>,    <a href="/keywords/2201">multinational</a>,    <a href="/keywords/2070">resource dependency</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

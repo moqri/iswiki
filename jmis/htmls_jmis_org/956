@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/105">    Volume 4 Number 1 1987
+</a> pp. 59-82</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Design of a Self-evolving Decision Support System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1494">Ting-Peng, Liang</a> and     <a href="/contributors/1497">Jones, Christopher V</a>    </div>
+
+<p>ABSTRACT: The paper presents a self-evolving approach to decision support systems (DSS) design. The basic premise of this approach is that a DSS should be aware of how it is being used and, then, automatically adapt to the evolution of its users. With self-evolving capabilities, a DSS will be able to provide a flexible menu hierarchy and a dynamic user interface. The major difference between the self-evolving design and a DSS developed by current approaches such as system development life cycle and user-involved evolutionary design is that the former has an extra componentâ€”the evolutionary mechanismâ€”to control the evolution of the system. In order to develop self-evolving capabilities, the following three components must be developed: (1) a database of user profiles to keep track of related system usage data, (2) a knowledge base to store rules for determining appropriate system default policy, and (3) a control mechanism to control the evolution of the system.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/221">self-evolving design</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/222">information systems development</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

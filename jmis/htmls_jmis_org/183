@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/89">    Volume 24 Number 3 2007
+</a> pp. 269-295</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Managing Word Mismatch Problems in Information Retrieval: A Topic-Based Query Expansion Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/363">Chih-Ping, W E I,</a>    <a href="/contributors/364">Jen-Hwa Hu, Paul,</a>    <a href="/contributors/365">Chia-Hung, T A I,</a>    <a href="/contributors/366">Chun-Neng, Huang,</a> and     <a href="/contributors/367">Chin-Sheng, Yang</a>    </div>
+
+<p>ABSTRACT: Word mismatch represents a fundamental information retrieval challenge that has become increasingly important as electronic document repositories (e.g., Web resources, digital libraries) grow in number and sheer volume. In general, word mismatch refers to the phenomenon in which a concept is described by different terms in user queries and in source documents. Query expansion represents a promising avenue to address such problems. Previous research predominantly approaches query expansion on the basis of global or local analysis. However, these approaches emphasize a global perspective rather than taking a topic-specific view of term associations. As a consequence, their effectiveness can be severely constrained when the document corpus spans a diverse set of topics. In this study, we propose a topic-based approach for query expansion and develop and empirically evaluate two novel methods--namely, nonfuzzy and fuzzy topic-based query expansion--to address word mismatch problems. According to our evaluation results, the proposed topic-based approach is more effective than a benchmark global analysis method, particularly when user queries consist of multiple query terms.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2153">document clustering</a>,    <a href="/keywords/2341">fuzzy clustering</a>,    <a href="/keywords/1282">information retrieval</a>,    <a href="/keywords/2342">query expansion</a>,    <a href="/keywords/1533">text mining</a>,    <a href="/keywords/2343">topic-based query expansion</a>,    <a href="/keywords/2344">word mismatch</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

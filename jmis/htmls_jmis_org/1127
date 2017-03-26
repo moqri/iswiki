@@ -1,0 +1,1057 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/28">    Volume 18 Number 2 2001
+</a> pp. 5-9</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+THE SPECIAL SECTION ON Economies, Electronic Commerce, and Competitive Strategy
+that opens the issue brings together several analyses of competitive strategy in
+deploying information technology and trading information goods. The papers are
+notable not only for their pushing the research frontier, but also for their tackling of
+real and important problems within the context of the contemporary business environment.
+The Guest Editors of the Special Sectionâ€”Eric K. Clemons, Rajiv M. Dewan,
+and Robert J. Kauffmanâ€”introduce the papers in appropriate detail.
+</p>
+<p>
+The theme is continued in the two subsequent papers. Reynold E. Byers and Phillip
+J. Lederer analyze the effective distribution strategy for retail banking in the face of
+the changes brought on by e-banking. The results are important and enlightening. As
+it is becoming apparent across the e-commerce retailing landscape, the success of
+purely virtual banking is remote, if only in time. Based on their formal model, the
+authors offer specific guidance under what circumstances such success may be expected.
+Robert J. Kauffman and Bin Wang assess group-buying business models in ecommerce,
+where a goodâ€™s price depends on the size of the buying group, assembled
+through a Web site. Through modeling and empirics, the authors are able, among
+other results, to track down the failure sources of the several well-known implementations
+of the group-buying model.
+</p>
+<p>
+Many information systems projects fail. It is disheartening that often this future
+outcome is known to the insiders, or at least suspected by them, quite early in the
+development process. Yet the same insiders choose not to bear the bad newsâ€”at a
+great cost to the firms on whose behalf the project is run and to which they owe
+allegiance. To increase the willingness to report, it is good to go beyond the obvious
+to establish specific causes of â€œkeeping mum.â€ Here, H. Jeff Smith, Mark Keil, and
+Gordon Depledge furnish and test an explanatory model of the decision-making that
+leads to non-reporting. Beyond that, the authors translate the results into specific
+recommendations for managers who want to elicit truthful reporting of project status.
+<p>
+</p>
+<p>
+Decision support systems (DSS) are generally used to evaluate the alternative courses
+of action as envisaged by a human decision-maker. In other words, it is up to the human
+to generate the alternatives during an early stage of the decision-making process. Bijan
+Fazlollahi and Rustam Vahidov present the design of a DSS that is itself able to generate
+alternatives. The DSS design is based on genetic algorithms, and the authors show
+that it generates diverse and promising alternatives for a problem solution.
+</p>
+<p>
+In this eighteenth year of JMIS publication, it is a pleasure and a privilege to thank
+our readers, authors, members of the Editorial Board, and, most important, our referees,
+who all vitally contribute to the success of the Journal. Here are the names of our
+reviewers, always the primary guarantors of the quality of our publication:
+</p>
+<p>
+William Acar
+</p>
+<p>
+Dennis A. Adams
+</p>
+<p>
+Niv Ahituv
+</p>
+<p>
+Murugan Anandarajan
+</p>
+<p>
+Sulin Ba
+</p>
+<p>
+Barbro Back
+</p>
+<p>
+Yannis Bakos
+</p>
+<p>
+P.R. Balasubramanian
+</p>
+<p>
+Dirk Baldwin
+</p>
+<p>
+Henri Barki
+</p>
+<p>
+Genevieve Bassellier
+</p>
+<p>
+Dinesh Batra
+</p>
+<p>
+Irma Becerra-Fernandez
+</p>
+<p>
+Salvatore Belardo
+</p>
+<p>
+Skip Benamati
+</p>
+<p>
+Michael Benaroch
+</p>
+<p>
+Francois Bergeron
+</p>
+<p>
+Sudip Bhattacherjee
+</p>
+<p>
+Bijoy Bordoloi
+</p>
+<p>
+Carol V. Brown
+</p>
+<p>
+Glenn Browne
+</p>
+<p>
+Jeffrey Butterfield
+</p>
+<p>
+Terry A. Byrd
+</p>
+<p>
+Edward G. Cale, Jr.
+</p>
+<p>
+Judith Carlisle
+</p>
+<p>
+Sven Carlsson
+</p>
+<p>
+Houston H. Carr
+</p>
+<p>
+William J. Carroll
+</p>
+<p>
+Robert P. Cerveny
+</p>
+<p>
+Namsik Chang
+</p>
+<p>
+Patrick Chau
+</p>
+<p>
+Hong-Mei Chen
+</p>
+<p>
+Hsing Kenneth Cheng
+</p>
+<p>
+Robert T.H. Chi
+</p>
+<p>
+Roger Chiang
+</p>
+<p>
+William C. Chismar
+</p>
+<p>
+Jong-min Choe
+</p>
+<p>
+H. Michael Chung
+</p>
+<p>
+Roger Clarke
+</p>
+<p>
+Sue Conger
+</p>
+<p>
+Randy Cooper
+</p>
+<p>
+Timothy P. Cronan
+</p>
+<p>
+David C. Croson
+</p>
+<p>
+Paul Cule
+</p>
+<p>
+Qizhi Dai
+</p>
+<p>
+Ronald Dattero
+</p>
+<p>
+Michael J. Davern
+</p>
+<p>
+Donald L. Davis
+</p>
+<p>
+Gordon Depledge
+</p>
+<p>
+Sarv Devaraj
+</p>
+<p>
+Ali Dogramaci
+</p>
+<p>
+Peter Duchessi
+</p>
+<p>
+Omar A. El Sawy
+</p>
+<p>
+Hyun B. Eom
+</p>
+<p>
+Gerald E. Evans
+</p>
+<p>
+Bijan Fazlollahi
+</p>
+<p>
+Steven Feiner
+</p>
+<p>
+Kirk Fiedler
+</p>
+<p>
+Edmond P. Fitzgerald
+</p>
+<p>
+Jerry Fjermestad
+</p>
+<p>
+Steven W. Floyd
+</p>
+<p>
+Edward Fox
+</p>
+<p>
+Dennis Galletta
+</p>
+<p>
+Edward J. Garrity
+</p>
+<p>
+Erol Gelenbe
+</p>
+<p>
+Mark Ginsburg
+</p>
+<p>
+Janis L. Gogan
+</p>
+<p>
+Dale Goodhue
+</p>
+<p>
+Sanjay Gosain
+</p>
+<p>
+Martin D. Goslar
+</p>
+<p>
+Paul Gray
+</p>
+<p>
+Saul Greenberg
+</p>
+<p>
+Robert K. Griffin
+</p>
+<p>
+Michael D. Grigoriades
+</p>
+<p>
+Mary-Liz Grise
+</p>
+<p>
+Tor Guimaraes
+</p>
+<p>
+Alok Gupta
+</p>
+<p>
+Jungpil Hahn
+</p>
+<p>
+Barbara Haley
+</p>
+<p>
+Bill C. Hardgrave
+</p>
+<p>
+Il-Horn Hann
+</p>
+<p>
+Paul Hart
+</p>
+<p>
+Stephen Hayne
+</p>
+<p>
+Roxanne Starr Hiltz
+</p>
+<p>
+Rudy Hirschheim
+</p>
+<p>
+Lorin M. Hitt
+</p>
+<p>
+Richard Hoffman
+</p>
+<p>
+John A. Hoxmeier
+</p>
+<p>
+Qing Hu
+</p>
+<p>
+Wayne Huang
+</p>
+<p>
+Cary T. Hughes
+</p>
+<p>
+Ard Huizing
+</p>
+<p>
+E. Gerald Hurst
+</p>
+<p>
+Zahir Irani
+</p>
+<p>
+Gretchen I. Irwin
+</p>
+<p>
+Tomas Isakowitz
+</p>
+<p>
+Bharat A. Jain
+</p>
+<p>
+Sirkka L. Jarvenpaa
+</p>
+<p>
+Murray E. Jennex
+</p>
+<p>
+Per V. Jenster
+</p>
+<p>
+Linda Ellis Johnson
+</p>
+<p>
+Kailash Joshi
+</p>
+<p>
+Charles Kacmar
+</p>
+<p>
+Surinder Kahai
+</p>
+<p>
+Timo Kakola
+</p>
+<p>
+Ajit Kambil
+</p>
+<p>
+P.K. Kannan
+</p>
+<p>
+Jahangir Karimi
+</p>
+<p>
+Michael Kattan
+</p>
+<p>
+Timothy Kayworth
+</p>
+<p>
+Mark Keil
+</p>
+<p>
+Robert T. Keim
+</p>
+<p>
+Chris Kemerer
+</p>
+<p>
+Julie E. Kendall
+</p>
+<p>
+William J. Kettinger
+</p>
+<p>
+Omar E.M. Khalil
+</p>
+<p>
+Melody Y. Kiang
+</p>
+<p>
+Rajiv Kishore
+</p>
+<p>
+Gary Klein
+</p>
+<p>
+Stefan Koch
+</p>
+<p>
+Esther Koster
+</p>
+<p>
+Kenneth A. Kozar
+</p>
+<p>
+Kenneth L. Kraemer
+</p>
+<p>
+Ramayya Krishnan
+</p>
+<p>
+Uday Kulkarni
+</p>
+<p>
+Akhil Kumar
+</p>
+<p>
+Ram Kumar
+</p>
+<p>
+Mary C. Lacity
+</p>
+<p>
+Simon S.K. Lam
+</p>
+<p>
+Gwynne Larsen
+</p>
+<p>
+Tor J. Larsen
+</p>
+<p>
+Kathy S. Lassila
+</p>
+<p>
+Heeseok Lee
+</p>
+<p>
+Ho Geun Lee
+</p>
+<p>
+Jungwoo Lee
+</p>
+<p>
+Dorothy Leidner
+</p>
+<p>
+Richard Leifer
+</p>
+<p>
+Mary Jane Lenard
+</p>
+<p>
+Hugo Levecq
+</p>
+<p>
+Ting-Peng Liang
+</p>
+<p>
+Nancy Lightner
+</p>
+<p>
+Yihwa Irene Liou
+</p>
+<p>
+Astrid Lipp
+</p>
+<p>
+Paulo J.G. Lisboa
+</p>
+<p>
+Henry C. Lucas, Jr.
+</p>
+<p>
+Kalle Lyytinen
+</p>
+<p>
+William McCarthy
+</p>
+<p>
+Jane M. Mackay
+</p>
+<p>
+Roy McKelvey
+</p>
+<p>
+Ephraim R. McLean
+</p>
+<p>
+Poppy L. McLeod
+</p>
+<p>
+Gregory Madey
+</p>
+<p>
+Simha R. Magal
+</p>
+<p>
+Mo A. Mahmood
+</p>
+<p>
+David Maier
+</p>
+<p>
+Ji-Ye Mao
+</p>
+<p>
+Salvatore T. March
+</p>
+<p>
+Anne P. Massey
+</p>
+<p>
+Charles H. Mawhinney
+</p>
+<p>
+Jerrold H. May
+</p>
+<p>
+Karon Meehan
+</p>
+<p>
+Roberto J. Mejias
+</p>
+<p>
+Thomas Miller
+</p>
+<p>
+Shaila Miranda
+</p>
+<p>
+Rajesh Mirani
+</p>
+<p>
+William H. Money
+</p>
+<p>
+Ali R. Montazemi
+</p>
+<p>
+Ramiro Montealegre
+</p>
+<p>
+Janette Moody
+</p>
+<p>
+Ajay S. Mookerjee
+</p>
+<p>
+Scott Moore
+</p>
+<p>
+Jolene Morrison
+</p>
+<p>
+Michael D. Myers
+</p>
+<p>
+Kathleen Mykytyn
+</p>
+<p>
+Peter P. Mykytyn, Jr.
+</p>
+<p>
+Barin N. Nag
+</p>
+<p>
+Murli Nagasundaram
+</p>
+<p>
+R. Ryan Nelson
+</p>
+<p>
+Boon Siong Neo
+</p>
+<p>
+Fred Niederman
+</p>
+<p>
+Mark Nissen
+</p>
+<p>
+Rosalie Ocker
+</p>
+<p>
+Lorne Olfman
+</p>
+<p>
+James Oliver
+</p>
+<p>
+Levent Orman
+</p>
+<p>
+Richard Orwig
+</p>
+<p>
+Jonathan W. Palmer
+</p>
+<p>
+Raymond R. Panko
+</p>
+<p>
+Michael Parent
+</p>
+<p>
+Diane Parente
+</p>
+<p>
+Kenneth Peffers
+</p>
+<p>
+Norman Pendegraft
+</p>
+<p>
+Mark Pendergast
+</p>
+<p>
+Roger A. Pick
+</p>
+<p>
+Leo L. Pipino
+</p>
+<p>
+Steven Poltrock
+</p>
+<p>
+Gerald Post
+</p>
+<p>
+John H. Prager
+</p>
+<p>
+Jayesh Prasad
+</p>
+<p>
+G. Premkumar
+</p>
+<p>
+Sandeep Purao
+</p>
+<p>
+S. Raghunathan
+</p>
+<p>
+Arik Ragowsky
+</p>
+<p>
+T.S. Ragu-Nathan
+</p>
+<p>
+Arun Rai
+</p>
+<p>
+Rex Kelly Rainer, Jr.
+</p>
+<p>
+K.S. Raman
+</p>
+<p>
+B. Ramesh
+</p>
+<p>
+Richard G. Ramirez
+</p>
+<p>
+H.R. Rao
+</p>
+<p>
+R. Ravichandran
+</p>
+<p>
+T. Ravichandran
+</p>
+<p>
+Sury Ravindran
+</p>
+<p>
+Amy W. Ray
+</p>
+<p>
+Louis Raymond
+</p>
+<p>
+Paul Resnick
+</p>
+<p>
+William B. Richmond
+</p>
+<p>
+Frederick Riggins
+</p>
+<p>
+Daniel Robey
+</p>
+<p>
+Michael B. Rogich
+</p>
+<p>
+Young U. Ryu
+</p>
+<p>
+Timo Saarinen
+</p>
+<p>
+Rajiv Sabherwal
+</p>
+<p>
+Sharon Salveter
+</p>
+<p>
+G. Lawrence Sanders
+</p>
+<p>
+Tuomas Sandholm
+</p>
+<p>
+Radhika Santhanam
+</p>
+<p>
+John Satzinger
+</p>
+<p>
+Carol Saunders
+</p>
+<p>
+Naveed Saleem
+</p>
+<p>
+George Schell
+</p>
+<p>
+K.D. Schenk
+</p>
+<p>
+Judy Scott
+</p>
+<p>
+Irmtraud S. Seeborg
+</p>
+<p>
+Kishore Sengupta
+</p>
+<p>
+Vikram Sethi
+</p>
+<p>
+Kenneth C. Sevcik
+</p>
+<p>
+Dennis G. Severance
+</p>
+<p>
+Theresa M. Shaft
+</p>
+<p>
+Steven Sheetz
+</p>
+<p>
+Jim Sheffield
+</p>
+<p>
+Olivia Sheng
+</p>
+<p>
+Michael Shields
+</p>
+<p>
+J.P. Shim
+</p>
+<p>
+Siew Kien Sia
+</p>
+<p>
+Mark S. Silver
+</p>
+<p>
+Atish P. Sinha
+</p>
+<p>
+Sumit Sircar
+</p>
+<p>
+H. Jeff Smith
+</p>
+<p>
+Eli M. Snir
+</p>
+<p>
+Charles A. Snyder
+</p>
+<p>
+William E. Spangler
+</p>
+<p>
+Rajendra P. Srivastava
+</p>
+<p>
+Thomas F. Stafford
+</p>
+<p>
+Sandy Staples
+</p>
+<p>
+Eric W. Stein
+</p>
+<p>
+Dick Stenmark
+</p>
+<p>
+John M. Stevens
+</p>
+<p>
+Veda Storey
+</p>
+<p>
+Girish Subramanian
+</p>
+<p>
+Ramesh Subramanian
+</p>
+<p>
+Ephraim Sudit
+</p>
+<p>
+Robert T. Sumichrast
+</p>
+<p>
+Shankar Sunarajan
+</p>
+<p>
+Arun Sundararajan
+</p>
+<p>
+Tae Kyung Sung
+</p>
+<p>
+Edward J. Szewczak
+</p>
+<p>
+Paul P. Tallon
+</p>
+<p>
+Kar Yan Tam
+</p>
+<p>
+Bernard C.Y. Tan
+</p>
+<p>
+Mohan R. Tanniru
+</p>
+<p>
+Alfred Taudes
+</p>
+<p>
+David P. Tegarden
+</p>
+<p>
+James T.C. Teng
+</p>
+<p>
+Hock-Hai Teo
+</p>
+<p>
+Thompson Teo
+</p>
+<p>
+Matthew Thatcher
+</p>
+<p>
+Ron Thompson
+</p>
+<p>
+James Y.L. Thong
+</p>
+<p>
+John Tillquist
+</p>
+<p>
+Peter Tingling
+</p>
+<p>
+Leon van der Torre
+</p>
+<p>
+Jonathan K. Trower
+</p>
+<p>
+Duane Truex
+</p>
+<p>
+Gregory E. Truman
+</p>
+<p>
+Ilkka Tuomi
+</p>
+<p>
+Jon A. Turner
+</p>
+<p>
+Brad Tuttle
+</p>
+<p>
+Craig K. Tyran
+</p>
+<p>
+N.S. Umanath
+</p>
+<p>
+Rustam Vahidov
+</p>
+<p>
+Yaniv Vakrat
+</p>
+<p>
+Alfredo Vellido
+</p>
+<p>
+Boris S. Verkhovsky
+</p>
+<p>
+Ajay Vinze
+</p>
+<p>
+Michael Wade
+</p>
+<p>
+Steven Walczak
+</p>
+<p>
+Michael S. Wang
+</p>
+<p>
+Shouhong Wang
+</p>
+<p>
+Y. Richard Wang
+</p>
+<p>
+Carol Watson
+</p>
+<p>
+Richard Watson
+</p>
+<p>
+Mary Beth Watson-Manheim
+</p>
+<p>
+Chih-Ping Wei
+</p>
+<p>
+Peter Weill
+</p>
+<p>
+Charles E. Wells
+</p>
+<p>
+Larry West
+</p>
+<p>
+J. Christopher Westland
+</p>
+<p>
+Seungjin Whang
+</p>
+<p>
+Michael E. Whitman
+</p>
+<p>
+George Widmeyer
+</p>
+<p>
+Fons Wijnhoven
+</p>
+<p>
+Kristoff K. Wolyniec
+</p>
+<p>
+Hans Wortmann
+</p>
+<p>
+Evangelos Yfantis
+</p>
+<p>
+J. Leon Zhao
+</p>
+<p>
+Lina Zhou
+</p>
+<p>
+Ilze Zigurs
+</p>
+<p>
+Moshe Zviran
+</p>
+<p>
+Enjoy the papers!
+</p>
+<p>
+VLADIMIR ZWASS
+</p>
+<p>
+Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

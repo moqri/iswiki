@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/88">    Volume 12 Number 2 1995
+</a> pp. 9-36</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Identifying Sources of Reengineering Failures: A Study of the Behavioral Factors Contributing to Reengineering Risks</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K,</a>    <a href="/contributors/404">Row, Michael C,</a> and     <a href="/contributors/315">Thatcher, Matt E</a>    </div>
+
+<p>ABSTRACT: Recent experience suggests that many reengineering efforts fail, and that they fail for reasons unrelated to the technical ability of organizations to implement information systems. Our research suggests that the two principal reasons for failure are functionality risk and political risk: respectively, the organization's inability to understand its uncertain future strategic needs, and its inability to make painful and difficult changes in response to these future strategic needs. Recent research in the organizational change literature suggests that these risks are the result of conflict among the organization's current strategy, its espoused degree of change, the actually accepted and generally smaller degree of change, and the generally larger degree of change that would be in some sense optimal. Moreover, the conflicts among these may be unperceived or undiscussable within the organization, exacerbating the risks. We summarize in a few testable hypotheses our experience with managing the risks of reengineering, and use a small set of representative case studies to examine these hypotheses informally.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/716">business reengineering</a>,    <a href="/keywords/864">implementation of information systems</a>,    <a href="/keywords/865">risk of information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

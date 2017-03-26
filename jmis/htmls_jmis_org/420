@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/76">    Volume 20 Number 4 2004
+</a> pp. 65-84</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Unified Model of Requirements Elicitation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/461">Hickey, Ann M</a> and     <a href="/contributors/761">Davis, Alan M</a>    </div>
+
+<p>ABSTRACT: Effective requirements elicitation is essential to the success of software development projects. Many papers have been written that promulgate specific elicitation methods. A few model elicitation in general. However, none have yet modeled elicitation in a way that makes clear the critical role played by situational knowledge. This paper presents a unified model of the requirements elicitation process that emphasizes the iterative nature of elicitation as it transforms the current state of the requirements and the situation to an improved understanding of the requirements and, potentially, a modified situation. One meta-process of requirements elicitation, selection of an appropriate elicitation technique, is also captured in the model. The values of this model are: (1) an improved understanding of elicitation helps analysts improve their elicitation efforts and (2) as we improve our ability to perform elicitation, we improve the likelihood that systems we create will meet their intended customers' needs.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/636">requirements analysis</a>,    <a href="/keywords/1420">requirements elicitation</a>,    <a href="/keywords/273">systems analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

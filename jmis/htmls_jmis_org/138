@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/74">    Volume 9 Number 3 1992
+</a> pp. 183-198</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Application of Expectancy Theory for Assessing User Motivation to Utilize an Expert System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/274">Burton, F Greg,</a>    <a href="/contributors/275">Yi-Ning, Chen,</a>    <a href="/contributors/195">Grover, Varun,</a> and     <a href="/contributors/276">Stewart, Kathy A</a>    </div>
+
+<p>ABSTRACT: Evaluation of information system success has been the focus of much research. However, most variables such as user satisfaction and system usage can only be measured after system implementation. To predict system success before actual implementation, behavioral theories indicate that it is necessary to evaluate behavioral intention or users' motivation to use the system. Expectancy theory is considered one of the most promising models of individual motivation. This study examines the use of expectancy theory in explaining the motivation to use an expert system. Data gathered from 95 M.B.A. students in a judgmental modeling exercise suggest that the model is a significant predictor of motivation. It also provides insight into the development of such systems. The successful use of this model further suggests that it is appropriate for evaluating and understanding individual motivation to use a system and, subsequently, system success.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/608">behavioral intention</a>,    <a href="/keywords/609">expectancy theory</a>,    <a href="/keywords/156">expert systems</a>,    <a href="/keywords/76">motivation</a>,    <a href="/keywords/392">information systems success</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

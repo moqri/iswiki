@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/130">    Volume 33 Number 1 2016
+</a> pp. 202-228</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Do Professional Reviews Affect Online User Choices Through User Reviews? An Empirical Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1831">Zhou, Wenqi</a> and     <a href="/contributors/1832">Duan, Wenjing</a>    </div>
+
+<p>ABSTRACT: 
+<p>With the broad reach of the Internet, online users frequently resort to various word-of-mouth (WOM) sources, such as online user reviews and professional reviews, during online decision making. Although prior studies generally agree on the importance of online WOM, we have little knowledge of the interplay between online user reviews and professional reviews. This paper empirically investigates a mediation model in which online user reviews mediate the impact of professional reviews on online user decisions. Using software download data, we show that a higher professional rating not only directly promotes software download but also results in more active user-generated WOM interactions, which indirectly lead to more downloads. The indirect impact of professional reviews can be as large as 20 percent of the corresponding total impact. These findings deepen our understanding of online WOM effect, and provide managerial suggestions about WOM marketing and the prediction of online user choices.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3662">Bayesian modeling</a>,    <a href="/keywords/3123">electronic word of mouth</a>,    <a href="/keywords/3124">eWOM</a>,    <a href="/keywords/3663">mediation model</a>,    <a href="/keywords/2148">online reviews</a>,    <a href="/keywords/3664">online software markets</a>,    <a href="/keywords/3665">professional reviews</a>,    <a href="/keywords/2151">word of mouth</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

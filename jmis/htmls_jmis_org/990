@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/7">    Volume 28 Number 4 2012
+</a> pp. 11-38</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Two Rule-Based Natural Language Strategies for Requirements Discovery and Classification in Open Source Software Development Projects</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1537">Vlas, Radu E</a> and     <a href="/contributors/1538">Robinson, William N</a>    </div>
+
+<p>ABSTRACT: Open source projects do have requirements; they are, however, mostly informal text descriptions found in requests, forums, and other correspondence. Understanding such requirements provides insight into the nature of open source projects. Unfortunately, manual analysis of natural language requirements is time-consuming, and for large projects, error prone. Automated analysis of natural language requirements, even partial, will be of great benefit. Toward that end, we describe the design and validation of an automated natural language requirements classifier for open source projects. We compare two strategies for recognizing requirements in open forums of software features. Our results suggest that classifying text at the forum postaggregation and sentence aggregation levels may be effective. Our results suggest that it can reduce the effort required to analyze requirements of open source projects.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/876">natural language processing</a>,    <a href="/keywords/2168">open source</a>,    <a href="/keywords/2907">requirements classification</a>,    <a href="/keywords/2908">requirements discovery</a>,    <a href="/keywords/2909">software requirements</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

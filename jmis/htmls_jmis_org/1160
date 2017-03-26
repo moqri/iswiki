@@ -1,0 +1,66 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/27">    Volume 29 Number 3 2012
+</a> pp. 5-8</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ THE THREE PAPERS THAT OPEN THIS ISSUE OF JMIS present empirical investigations of diverse aspects of the use of  information systems (IS) by teams and groups, with the researchers employing different theoretical lenses.  Massimo Magni, Corey M. Angst, and Ritu Agarwal show how the network structure of teams influences the  use of the newly implemented systems by team members. Social network theory underlies the study and helps  to tease out unobvious dependencies between a team's internal closure and external bridging on the one hand  and the infusion of a complex IS into the practices of its individual members. The theme is continued in the  next work. Monica J. Garfield and Alan R. Dennis investigate the group development aspect of the  introduction of a collaboration technology. The authors focus on the enactment of shared routines. They show  that this enactment versus the disruption of the established routines during the introduction of new  technology is the key to the understanding of the trajectory of group. Using this lens, the authors formulate an  integrated model of group development. Ofer Arazy and Ian R. Gellatly study the motivation and the  engagement of the members of groups forming around corporate wikis, an increasingly active component of  knowledge generation, sharing, and longitudinal management. Relying on the theory of social cognition and  on regulatory focus theory, the researchers examine the role of wiki leaders in the prevalence of one of the  two forces that, respectively, motivate or demotivate the full engagement of group members with the wiki.
+</p>
+<p>
+ Two subsequent works rely on different methodologies to study organizational information security. As a  part of the general trend to outsource, use process specialists, focus on core competencies, and seek the  external expertise and economies of scale (the terms depend on your perspective), many firms outsource a  large part of their information security function. In the case of security, particularly when conformance to  regulations is sought, this may lead to a new and serious category of risks stemming from system  interdependencies through the common outsourcer. In a formal economic analysis, Kai-Lung Hui, Wendy Hui,  and Wei T. Yue show that stringent and narrow security regulations, such as certifications, may lead to  increased outsourcing to a few managed security service providers--and to increased security exposures  owing to the interdependencies. This is an important warning. Of course, we are not facing total security  outsourcing yet. What about the internal compliance with the organization's security policies? Yan Chen, K.  (Ram) Ramamurthy, and Kuang-Wei Wen present an empirical study that shows the relative advantages of  rewards (in combination with punishment) in seeking this compliance. The tenets of the combined deterrence  and reward reinforcement theories lead the authors to a scheme of combined reward and punishment, which  they proceed to validate in the setting of two financial firms.
+</p>
+<p>
+ E-commerce turns to a large degree on the ever-more voluminous, multi-attribute, detailed, integrated, and  closely exploited data on consumers. Therefore, the possession of such data is a coveted corporate asset. Yet,  even competing firms trade some of this data with one another. Xia Zhao and Ling Xue conduct a formal  economic analysis of such trade during the competition between firms selling the same products and using  targeted advertising based on the consumer behavioral data. The model surfaces the rational policies the firms  should pursue in the data trades depending on their information differences--as well as the viability of  exchanges for trading consumer data.
+</p>
+<p>
+ The potential of e-commerce methods for closing the gap between the supplier and the prospective buyer is  not as yet fully realized. Fixed and dynamic price settings, and price discovery via various auction  mechanisms still leave much of the more involved transacting to human negotiation--which does not scale up  too well. Of course, complex contracts will always require an often protracted negotiation by specialists.  However, there is a middle range of complexity, where relatively small and relatively simple transactions can  be conducted by humans negotiating over the Web with software agents. Yinping Yang, Sharad Singhal, and  Yunjie (Calvin) Xu offer the design theory of such a negotiation agent and investigate experimentally the  alternative negotiation strategies. The authors surface an effective strategy and demonstrate this efficacy in  respect to the acceptance ratio, utilities, and buyer satisfaction. This line of investigation will certainly push  the frontier of selling in e-commerce toward a broader range of transactions.
+</p>
+<p>
+ Two subsequent papers present empirical investigations of the organizational use of IS. We know well that  intrinsic motivations generally bind more strongly. Weiling Ke, Chuan-Hoo Tan, Choon-Ling Sia, and Kwok- Kee Wei propose two organizational levers for inducing such motivations in the employees' exploring of  enterprise systems, which can lead to a deeper infusion in the system's use. By unpacking the construct of  intrinsic motivation, the authors are able to push forward the theory of IS use and, we hope, its practice. The  same concern with more effective IS use after a system's adoption is evinced by the work presented by Xuefei  (Nancy) Deng and Lei Chi. These authors adopt the perspective of removing the obstacles to such effective  use. Using network analysis and revealed causal mapping, the authors surface seven categories of such  emergent obstacles and show their differential effects on user categories and system-usage phases. Clear  implications for practice follow from both works.
+</p>
+<p>
+ In the concluding paper of the issue, Gimun Kim, Bongsik Shin, and Ohbyung Kwon apply a novel, in this  context, perspective to the study of the multifaceted IT capability of a firm. The lens of sociomaterialism  helps the researchers to perceive the continuing interaction between the human agency, with it's the ability to  set out and realize goals, and the material agency, that is, the capacity of technology for presenting  affordances and constraints. The authors further bifurcate the relevant human agency into that of the users  and the IT unit. They proceed to develop a multidimensional model of the firm's IT capability based on the  entanglement conceptualization stemming from the adopted perspective and show that this perspective offers  a closer view of the firm's IT capability as compared to the preexisting views.
+</p>
+<p>
+ Vladimir Zwass
+ <br/>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

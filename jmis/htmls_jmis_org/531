@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/103">    Volume 15 Number 4 1999
+</a> pp. 63-87</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Turning Around Troubled Software Projects: An Exploratory Study of the Deescalation of Commitment to Failing Courses of Action</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/912">Keil, Mark</a> and     <a href="/contributors/537">Robey, Daniel</a>    </div>
+
+<p>ABSTRACT: Project failure in the information systems field is a costly problem and troubled projects are not uncommon. In many cases, whether a troubled project ultimately succeeds or fails depends on the effectiveness of managerial actions taken to turn around or redirect such projects. Before such actions can be taken, however, management must recognize problems and prepare to take appropriate corrective measures. While prior research has identified many factors that contribute to the escalation of commitment to failing courses of action, there has been little research on the factors contributing to the deescalation of commitment. Through deescalation, troubled projects may be successfully turned around or sensibly abandoned. This study seeks to clarify the factors that contribute to software project deescalation and to establish practical guidelines for identifying and managing troubled projects. Through interviews with forty-two IS auditors, the authors gathered both quantitative and qualitative data about the deescalation of commitment to troubled software projects. The interviews sought judgments about the importance of twelve specific factors derived from a review of the literature on deescalation. Interviews also generated qualitative data about specific actors and actions taken to turn troubled projects around. The results indicate that the escalation and deescalation phases of projects manifest different portraits. While there were no factors that always turned projects around, many actors triggered deescalation, and many specific actions accounted for deescalation. In the majority of cases, deescalation was triggered by actors such as senior managers, internal auditors, or external consultants. Deescalation was achieved both by managing existing resources better and by changing the level of resources committed to the project. We summarize the implications of these findings in a process model of project deescalation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1188">escalation of commitment</a>,    <a href="/keywords/1189">information systems auditing</a>,    <a href="/keywords/1190">information system development</a>,    <a href="/keywords/83">project management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

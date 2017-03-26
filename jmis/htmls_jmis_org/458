@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/26">    Volume 24 Number 2 2007
+</a> pp. 13-42</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Overcoming Online Information Privacy Concerns: An Information-Processing Theory Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/823">Il-Horn, Hann,</a>    <a href="/contributors/890">Kai Lung, Hui,</a>    <a href="/contributors/825">Sang-Yong Tom, L E E,</a> and     <a href="/contributors/826">Png, Ivan P L</a>    </div>
+
+<p>ABSTRACT: The advent of the Internet has made the transmission of personally identifiable information more common and often unintended by the user. As personal information becomes more accessible, individuals worry that businesses misuse the information that is collected while they are online. Organizations have tried to mitigate this concern in two ways: (1) by offering privacy policies regarding the handling and use of personal information and (2) by offering benefits such as financial gains or convenience. In this paper, we interpret these actions in the context of the information-processing theory of motivation. Information-processing theories, also known as expectancy theories in the context of motivated behavior, are built on the premise that people process information about behavior--outcome relationships. By doing so, they are forming expectations and making decisions about what behavior to choose. Using an experimental setting, we empirically validate predictions that the means to mitigate privacy concerns are associated with positive valences resulting in an increase in motivational score. In a conjoint analysis exercise, 268 participants from the United States and Singapore face trade-off situations, where an organization may only offer incomplete privacy protection or some benefits. While privacy protections (against secondary use, improper access, and error) are associated with positive valences, we also find that financial gains and convenience can significantly increase individuals' motivational score of registering with a Web site. We find that benefits--monetary reward and future convenience--significantly affect individuals' preferences over Web sites with differing privacy policies. We also quantify the value of Web site privacy protection. Among U.S. subjects protection against errors, improper access, and secondary use of personal information is worth $30.49--$44.62. Finally, our approach also allows us to identify three distinct segments of Internet...</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2275">conjoint analysis</a>,    <a href="/keywords/609">expectancy theory</a>,    <a href="/keywords/2276">financial reward</a>,    <a href="/keywords/1352">information privacy</a>,    <a href="/keywords/2277">online privacy</a>,    <a href="/keywords/2278">segmentation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

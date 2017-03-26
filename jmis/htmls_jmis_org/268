@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/101">    Volume 12 Number 3 1995
+</a> pp. 187-205</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Software Processes and Project Performance</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/471">Deephouse, Christopher,</a>    <a href="/contributors/281">Mukhopadhyay, Tridas,</a>    <a href="/contributors/472">Goldenson, Dennis R,</a> and     <a href="/contributors/473">Kellner, Marc I</a>    </div>
+
+<p>ABSTRACT: Firms developing software face increasing pressures to improve project outcomes in terms of product quality, productivity, time to market, and customer satisfaction. As projects expand in size and complexity, and competition grows, firms are reengineering their software processes. They are adopting more intensive procedures for requirements management, project planning, defect tracking, configuration management, design and code inspections, and so forth. To assess the effectiveness of these efforts, we conducted a survey of senior practitioners at the 1993 Software Engineering Process Group National Meeting. The survey asked participants about the processes followed on, and the outcome of, a specific software project. Certain practices--notably project planning and cross-functional teams--were consistently associated with favorable outcomes. Based on the survey results, other practices may have little impact on project outcomes.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/894">cross-functional teams</a>,    <a href="/keywords/442">software development processes</a>,    <a href="/keywords/342">software project management</a>,    <a href="/keywords/895">software project planning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/36">    Volume 10 Number 2 1993
+</a> pp. 177-201</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Learning to Specify Information Requirements: The Relationship between Application and Methodology</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1375">Vessey, Iris</a> and     <a href="/contributors/1527">Conger, Sue</a>    </div>
+
+<p>ABSTRACT: The systems development process involves establishing the information requirements of an application and successively transforming those requirements into a computer-based model of the application. Attention is usually focused almost exclusively on the method of transformation, however, with little recognition of the role of the application. As a first step in examining the relevance of knowledge of the application to the systems development process, this study addresses whether there are synergistic effects of application and methodology knowledge in specifying information requirements. This was achieved via a repeated-measures protocol analysis study that manipulated both experience with the application and knowledge of the methodology. The results show that in learning to specify information requirements, novice analysts: performed more effectively over time when trained to use a methodology applied the methodology more effectively when familiar with the application; performed more effectively when they used procedural methodology knowledge rather than declarative methodology knowledge alone; improved the effectiveness of their problem solving over time only when they used procedural methodology knowledge; produced idiosyncratic results based on the application. Based on the findings of this research, it appears that research into the nature of applications, as well as methodologies, is warranted. From the viewpoint of the practitioner, since application knowledge is idiosyncratic, it may be necessary to include more than one application-knowledgable person on a systems development team.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/688">information requirements specification</a>,    <a href="/keywords/689">learning</a>,    <a href="/keywords/402">problem solving</a>,    <a href="/keywords/690">structured methodologies</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

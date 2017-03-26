@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/113">    Volume 13 Number 3 1996
+</a> pp. 25-44</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Hypermedia-Based Design Image Database System Using a Perceptional Link Method</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1390">Shibata, Yoshitaka,</a>    <a href="/contributors/1391">Fukuda, Manabu,</a> and     <a href="/contributors/1392">Katsumoto, Michiaki</a>    </div>
+
+<p>ABSTRACT: We introduce a hypermedia-based distributed design image database system that can provide simple and flexible user access capabilities based on the "kansei" link method. As proof of this concept, we have developed a prototype distributed multimedia information network incorporating the DHS model. Dubbed the Textile Design Image Database System (TDIDS), this database aids designers using apparel computer-aided design (CAD) systems in different locations, collaborating or working separately, in the design of clothes, including kimonos. Our purpose has been to create a database that will allow each designer to make the best use of his or her creativity and originality--his or her "style and sensitivity to beauty," or, in Japanese, kansei. In our hypermedia system, "metanodes" are defined as abstract nodes that are dynamically organized by multimedia objects, while "metalinks" are defined as flexible kansei links. Metanodes and metalinks are combined to organize a dynamic hypermedia space from which users can easily retrieve desired design image objects by querying a knowledge agent. The knowledge agent, utilizing the knowledge base, creates links from kansei word objects provided by the user to suitable design image objects among those stored on multimedia databases distributed across the network. The knowledge agent also performs query conversion of individual users' subjective kansei (idiosyncratic, subjective use of kansei words) into objective kansei words using each user's own "user model." These objective kansei words are then converted to equivalent color values. Color value is the means by which all stored design images are characterized. This dynamic linking of kansei word objects to equivalent design images allows individual users' kansei to influence the retrieval process. The sophisticated and flexible CAD systems of the future will require multimedia database systems with cooperative supporting capabilities similar to our kansei system.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/977">design databases</a>,    <a href="/keywords/796">hypermedia</a>,    <a href="/keywords/978">image databases</a>,    <a href="/keywords/979">perceptional retrieval</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

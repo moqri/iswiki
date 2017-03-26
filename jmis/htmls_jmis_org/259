@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/63">    Volume 3 Number 2 1986
+</a> pp. 33-51</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Adaptive Information Systems Control: A Reliability-based Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/451">De, Prabuddha</a> and     <a href="/contributors/452">Cheng, Hsu</a>    </div>
+
+<p>ABSTRACT: The problem of information systems control is well known to information managers, but its scientific nature has not been studied thoroughly. The literature of information systems (IS) has been concerned mostly with such problems as IS policies and system development methodologies. Relatively few attempts have been made to solve the problem of adapting an ongoing IS in a systematic fashion. This adaptation problem, however, is critical in is management since an IS is really an evolving structure rather than a stable, one-shot phenomenon. Toward this end, this article develops a framework for general systems control using a reliability-based approach and characterizes the IS control problem accordingly. Then, an adaptive control construct is proposed for systematic evolution of an IS over time. Both users' satisfaction with the IS and the usage pattern are monitored on a real-time basis and used for controlling the IS adaptively. Chance-constrained models are proposed to characterize suitable decision rules. Some model scenarios demonstrating the feasibility of the approach are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/168">information systems management</a>,    <a href="/keywords/150">database evolution</a>,    <a href="/keywords/169">system reliability</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

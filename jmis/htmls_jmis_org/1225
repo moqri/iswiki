@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/125">    Volume 31 Number 4 2015
+</a> pp. 109-157</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Enhancing Predictive Analytics for Anti-Phishing by Exploiting Website Genre Information</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1">Abbasi, Ahmed,</a>    <a href="/contributors/1753">Zahedi, Fatemeh “Mariam”,</a>    <a href="/contributors/1754">Zeng, Daniel,</a>    <a href="/contributors/347">Chen, Yan,</a>    <a href="/contributors/433">Chen, Hsinchun,</a> and     <a href="/contributors/1729">Nunamaker, Jay F</a>    </div>
+
+<p>ABSTRACT: 
+<p>Phishing websites continue to successfully exploit user vulnerabilities in household and enterprise settings. Existing anti-phishing tools lack the accuracy and generalizability needed to protect Internet users and organizations from the myriad of attacks encountered daily. Consequently, users often disregard these tools’ warnings. In this study, using a design science approach, we propose a novel method for detecting phishing websites. By adopting a genre theoretic perspective, the proposed genre tree kernel method utilizes fraud cues that are associated with differences in purpose between legitimate and phishing websites, manifested through genre composition and design structure, resulting in enhanced anti-phishing capabilities. To evaluate the genre tree kernel method, a series of experiments were conducted on a testbed encompassing thousands of legitimate and phishing websites. The results revealed that the proposed method provided significantly better detection capabilities than state-of-the-art anti-phishing methods. An additional experiment demonstrated the effectiveness of the genre tree kernel technique in user settings; users utilizing the method were able to better identify and avoid phishing websites, and were consequently less likely to transact with them. Given the extensive monetary and social ramifications associated with phishing, the results have important implications for future anti-phishing strategies. More broadly, the results underscore the importance of considering intention/purpose as a critical dimension for automated credibility assessment: focusing not only on the “what” but rather on operationalizing the “why” into salient detection cues.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2317">design science</a>,    <a href="/keywords/1207">data mining</a>,    <a href="/keywords/3414">phishing websites</a>,    <a href="/keywords/3415">genre theory</a>,    <a href="/keywords/3416">Internet fraud</a>,    <a href="/keywords/3417">website genres</a>,    <a href="/keywords/2656">credibility assessment</a>,    <a href="/keywords/2671">phishing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

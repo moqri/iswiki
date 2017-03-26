@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/112">    Volume 23 Number 3 2006
+</a> pp. 45-70</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Personalized Content Recommendation and User Satisfaction: Theoretical Synthesis and Empirical Findings</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1494">Ting-Peng, Liang,</a>    <a href="/contributors/1495">Hung-Jen, L A I,</a> and     <a href="/contributors/1496">Yi-Cheng, K U</a>    </div>
+
+<p>ABSTRACT: Personalized services are increasingly popular in the Internet world. This study identifies theories related to the use of personalized content services and their effect on user satisfaction. Three major theories have been identified--information overload, uses and gratifications, and user involvement. The information overload theory implies that user satisfaction increases when the recommended content fits user interests (i.e., the recommendation accuracy increases). The uses and gratifications theory indicates that motivations for information access affect user satisfaction. The user involvement theory implies that users prefer content recommended by a process in which they have explicit involvement. In this research, a research model was proposed to integrate these theories and two experiments were conducted to examine the theoretical relationships. Our findings indicate that information overload and uses and gratifications are two major theories for explaining user satisfaction with personalized services. Personalized services can reduce information overload and, hence, increase user satisfaction, but their effects may be moderated by the motivation for information access. The effect is stronger for users whose motivation is in searching for a specific target. This implies that content recommendation would be more useful for knowledge management systems, where users are often looking for specific knowledge, rather than for general purpose Web sites, whose customers often come for scanning. Explicit user involvement in the personalization process may affect a user's perception of customization, but has no significant effect on overall satisfaction.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2170">content recommendation</a>,    <a href="/keywords/2155">personalization</a>,    <a href="/keywords/2171">recommendation systems</a>,    <a href="/keywords/123">user satisfaction</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

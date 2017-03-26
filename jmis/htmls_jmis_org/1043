@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/90">    Volume 27 Number 3 2010
+</a> pp. 111-142</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Oligopolistic Pricing with Online Search</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1613">Xu, Lizhen,</a>    <a href="/contributors/342">Chen, Jianqing,</a> and     <a href="/contributors/154">Whinston, Andrew B</a>    </div>
+
+<p>ABSTRACT: In this paper, we set up a game-theoretic model to examine oligopolistic price competition, considering two features of online search: the existence of a common search ordering and shoppers who have nonpositive search cost. We find that in equilibrium firms set their prices probabilistically rather than deterministically, and different firms follow different price distributions. The equilibrium pricing pattern exhibits an interesting local-competition feature in which direct price competition occurs only between firms adjacent to each other. Further, we incorporate consumers' search strategies into the model so that both search order and stopping rules are determined rationally by consumers. We show that similar patterns may continue to hold in the fully rational framework when consumers have higher inspection costs for inferior positions.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2723">local competition</a>,    <a href="/keywords/2724">oligopolistic competition</a>,    <a href="/keywords/2114">online search</a>,    <a href="/keywords/2693">price dispersion</a>,    <a href="/keywords/1708">pricing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

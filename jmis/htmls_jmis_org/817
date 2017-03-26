@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/11">    Volume 15 Number 2 1998
+</a> pp. 9-21</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Formal and Systematic Specification of Market Structures and Trading Services</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1311">Reck, Martin</a>    </div>
+
+<p>ABSTRACT: This paper supplies methodological support for trading system development. It provides a formal framework for the systematic definition of market structures and the specification of trading services. Market structure describes the interaction among traders, and trading services identifies the trading system interface and the description of the system behavior. The framework provides guidance in applying "trace specifications" as a formal description technique for both market structure and trading services. It also details how to formally assess market structure and trading service properties. Moreover, the framework introduces concepts for building market structure taxonomies that support the systematic search and development of alternative forms of markets. The taxonomies are collections of trace specifications for market structures with specialization and extension relationships defined between them. Improvements in market quality and efficiency should result from such a disciplined and systematic approach to market structure and trading services definition and implementation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1155">electronic trading</a>,    <a href="/keywords/1054">financial markets</a>,    <a href="/keywords/1156">market structure</a>,    <a href="/keywords/1157">specification languages</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

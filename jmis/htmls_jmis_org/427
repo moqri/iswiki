@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/113">    Volume 13 Number 3 1996
+</a> pp. 113-136</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Market Process Reengineering through Electronic Market Systems: Opportunities and Challenges</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/768">Ho Geun, Lee</a> and     <a href="/contributors/389">Clark, Theodore H</a>    </div>
+
+<p>ABSTRACT: Over the past few years, various electronic market systems have been introduced by market-making firms to improve transaction effectiveness and efficiency within their markets. Although successful implementation of electronic marketplaces may be found in several industries, some systems have failed or their penetration pace is slower than was projected, indicating that significant bathers remain. This paper analyzes the economic forces and barriers behind the electronic market adoptions from the perspective of market process reengineering. Four cases of electronic market adoption--two successful and two failed--are used for this analysis. Economic benefits are examined by investigating how the market process innovation enabled by information technology (IT) reduces transaction costs and increases market efficiency. Adoption barriers are identified by analyzing transaction risks and resistance resulting from the reengineering. Successful deployment of electronic market systems requires taking into account these barriers along with the economic benefits of adoption. The paper presents suggestions based on these case studies, which are relevant to the analysis, design, and implementation of electronic market systems by market-making firms.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/986">adoption barriers</a>,    <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/486">electronic markets</a>,    <a href="/keywords/987">market makers</a>,    <a href="/keywords/707">reengineering</a>,    <a href="/keywords/766">transaction costs</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

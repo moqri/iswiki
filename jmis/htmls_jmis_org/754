@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/12">    Volume 2 Number 1 1985
+</a> pp. 77-95</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Properties and MIS Applications of Combinatorial Distribution Functions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1217">Papayanopoulos, Lee</a>    </div>
+
+<p>ABSTRACT: We examine a versatile mathematical device which systematically summarizes combinations of linear functions of integer variables. The deterministic frequency function, like its relative the probability distribution, may be manipulated numerically or analytically to serve different purposes. Here we review some of its properties which make it suitable for solving small combinatorial problems of a general nature as may arise in MIS and other applications.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/99">MIS modeling</a>,    <a href="/keywords/100">combinatorial methods</a>,    <a href="/keywords/101">quantitative analysis</a>,    <a href="/keywords/102">knapsack problem</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,58 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/95">    Volume 14 Number 2 1997
+</a> pp. 5-7</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Strategic and Competitive Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/393">Weber, Bruce W</a> and     <a href="/contributors/69">Clemons, Eric K</a>    </div>
+
+<p>ABSTRACT: <p>
+ FOR THE EIGHTH YEAR, THIS SPECIAL SECTION ON STRATEGIC and Competitive Information Systems  presents innovative research on the impact of information systems on organizations' strategy and competitive  performance. The papers in this section this year emphasize how information technology can dramatically alter  the economics of firms and entire industries. The authors of each of these papers examine profound  transformations; two of the three papers deal with the difficulty of seeing the need for change or the effects of  change that information technology can bring about. The first paper examines ways in which regulators of health  insurance can consistently and systematically exacerbate the very problems that they are trying to alleviate. The  second paper examines ways in which well-meaning changes in job descriptions, decision rights, and employee  empowerment can lower levels of customer satisfaction and reduce firm performance. The final paper examines  some counterintuitive implications of the roles of intermediaries for market quality that need to be considered when  modifying the market structure of a stock exchange. Earlier versions of all three works were published in the  Proceedings of the Thirtieth Hawaii International Conference on Systems Science held in January 1997.
+</p>
+<p>
+ "Evaluating Alternative Information Regimes in the Private Health Insurance Industry: Managing the Social Cost  of Private Information," by Eric K. Clemons and Matt E. Thatcher, examines the consequences of informed  self-selection in insurance markets. The authors find that increasing medical test information, combined with  consumers' self-selection of health insurance alternatives, presents a number of challenges for consumers,  consumer activists, health insurance executives, and regulators. Consumers and activists have been pressuring  regulators to limit the amount of information insurance companies are allowed to use when rating applicants and  to limit the pricing and policy coverage exclusions that may be employed in designing policies. The authors' results  show that, rather than helping high-risk consumers, these activities tend paradoxically to leave the highest-risk  consumers no better off while significantly harming the lowest-risk segments of the applicant pool.
+</p>
+<p>
+ "Competing in Information-Intensive Services: Analyzing the Economic Impact of Task Consolidation and  Employee Empowerment," by Abraham Seidmann and Arun Sundararajan, analyzes alternative configurations of  service processes and decision responsibilities. The paper examines the performance of a firm seeking to  maximize profits by offering each customer a tailored design to maximize satisfaction. The authors use a queuing  model of firm output to examine rigorously the implications of different designs for the work flow of the firm,  varying the decision rights (centralization or employee empowerment) and span of control (task consolidation) of  employees. Their findings suggest that employee empowerment and task consolidation may have opposite  effects, and that firms that simultaneously implement both during reengineering efforts may achieve suboptimal  performance. This in turn suggests changes in the practice of reengineering process flows.
+</p>
+<p>
+ "Next-Generation Securities Markets Systems: Experimental Investigations of Quote-Driven and Order-Driven  Trading," by Robert A. Schwartz and Bruce W. Weber, describes how several quote-driven dealer markets are  introducing new order-driven trading systems. The authors use experimental economics methods and analyze  how the trading decisions made by twenty-four experimental subjects were affected by alternative trading  systems. The results indicate that investors trading in dealer markets will benefit from the introduction of  order-driven trading to augment, but not replace, the trading services provided by traditional dealer-intermediaries.  The resulting hybrid market structure is likely to become more prevalent in global financial trading and will have  important implications for investment and securities firms.
+</p>
+<p>
+ ERIC K. CLEMONS AND BRUCE W. WEBER, Guest Editors
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

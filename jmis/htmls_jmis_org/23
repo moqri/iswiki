@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/10">    Volume 9 Number 1 1992
+</a> pp. 133-163</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>AEI: A Knowledge-Based Approach to Integrated Office Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/41">Amaravadi, Chandra S,</a>    <a href="/contributors/42">Liu Sheng, Olivia R,</a>    <a href="/contributors/43">George, Joey F,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: Although various attempts have been made in the past to introduce office systems and office models, they have been limited in one or several ways: they have not been based on integrated views; no models were developed or the models were artificial; they have been limited in scope; they used restrictive representation schemes; they were not intelligent; they were not user-friendly. Our research attempts to address these issues with: an integrated view of the office; a model tied to the nature of office activity; integration across various office domains; and a knowledge base. Intelligence is supplied from the interface and from the planner, as well as from the domain knowledge. An important component of the domain knowledge is the functional structure which captures activity relationships with a uniform representation scheme. Users can access explanations about functions of the office and can add comments on them. The realization of these concepts in a prototype system is discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/557">intelligent office systems</a>,    <a href="/keywords/558">knowledge-based office systems</a>,    <a href="/keywords/559">office knowledge representation</a>,    <a href="/keywords/560">office models</a>,    <a href="/keywords/561">office system architectures</a>,    <a href="/keywords/73">office information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

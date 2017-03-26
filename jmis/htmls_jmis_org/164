@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/49">    Volume 18 Number 4 2002
+</a> pp. 191-229</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Examining a Model of Information Technology Acceptance by Individual Professionals: An Exploratory Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/330">Chau, Patrick Y K</a> and     <a href="/contributors/331">Hu, Paul J</a>    </div>
+
+<p>ABSTRACT: The recent proliferation of information technology designed to support or enhance an individual professional's task performance has made the investigation of technology acceptance increasingly challenging and significant. This study investigates technology acceptance by individual professionals by examining physicians' decision to accept telemedicine technology. Synthesized from relevant prior research, a generic research framework was built to provide a necessary foundation upon which a research model for telemedicine technology acceptance by physicians could be developed. The research model was then empirically examined, using data collected from more than 400 physicians practicing in public tertiary hospitals in Hong Kong. Results of the study suggest several areas where individual "professionals" might subtly differ in their technology acceptance decision-making, as compared with end users and business managers in ordinary business settings. Specifically, physicians appeared to be fairly pragmatic, largely anchoring their acceptance decisions in the usefulness of the technology rather than its ease of use. When making decisions to accept a technology, physicians expressed considerable concerns about the compatibility of the technology with their practices, placed less importance on controlling technology operations, and attached limited weight to peers' opinions about using the technology. Based on results obtained from this study, the initially proposed framework for technology acceptance by individual professionals was revised to a "hierarchical, three-layer" structure with the individual context at the inner core, the implementation context on the outermost layer, and the technological context residing in the middle. Implications for information systems research and telemedicine management practice that have emerged from the study's findings are also discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1259">information technology acceptance</a>,    <a href="/keywords/965">information technology adoption</a>,    <a href="/keywords/1552">professional users</a>,    <a href="/keywords/1553">telemedicine technology management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

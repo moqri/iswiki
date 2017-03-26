@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/51">    Volume 10 Number 4 1994
+</a> pp. 25-57</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Global Network Organization of the Future: Information Management Opportunities and Challenges</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/571">Jarvenpaa, Sirkka L</a> and     <a href="/contributors/604">Ives, Blake</a>    </div>
+
+<p>ABSTRACT: The key information processing building blocks for yesterday's organizations were typewriters, carbon paper, filing cabinets, and a government mail service. The constraints of these crude information processing technologies often required workers to be located under one roof and organizations to arrange themselves as efficient, but relatively change-resistant, management hierarchies. Those legacy organization designs have persisted despite fundamental changes in information processing technology. Tomorrow's successful organizations will be designed around the building blocks of advanced computer and communications technology. The success of these organizations will come from the ability to couple to, and decouple from, the networks of knowledge nodes. These networked organizations will link, on an as-needed basis, teams of empowered employees, consultants, suppliers, and customers. These ad hoc teams will solve one-time problems, provide personalized customer service, and then, as lubricant for subsequent interactions, evaluate one another's performance. In the network organization, structure will dominate strategy, credentials will give way to performance and knowledge, and human resources will be the only sustainable advantage. Despite the promise, networked organizations present difficult information management challenges. Among these are developing a flexible and efficient information architecture, establishing new values, attitudes, and behaviors concerning information sharing, building databases that can provide integrated customer support on a worldwide basis, and protecting personal freedoms and privacy. Here, we explore the opportunities and challenges that networked organizations will present for information technology management.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/262">information systems architecture</a>,    <a href="/keywords/711">networked organization</a>,    <a href="/keywords/713">organizational knowledge processing</a>,    <a href="/keywords/714">scenario analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

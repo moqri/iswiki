@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/30">    Volume 30 Number 3 2013
+</a> pp. 49-80</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Governance and Control of Open Source Software Projects</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/518">Di Tullio, Dany</a> and     <a href="/contributors/519">Staples, D Sandy</a>    </div>
+
+<p>ABSTRACT: A comprehensive set of governance mechanisms and dimensions were investigated to identify combinations of mechanisms that are effectively used together in on-going volunteer-based open source software (OSS) projects. Three configurations were identified: Defined Community, Open Community, and Authoritarian Community. Notably, Defined Community governance had the strongest coordination and project climate and had the most extensive use of outcome, behavior, and clan control mechanisms (controller driven). The controls in the Defined Community governance configuration appear to effectively enable open, coordinated contribution and participation from a wide variety of talented developers (one of the virtues of open source development) while managing the development process and outcomes. The results add to our theoretical understanding of control in different types of information systems projects, as the combination of control modes found in OSS projects is different from those found in previous research for internal or outsourced information systems development projects. This could be due to unique features of OSS projects, such as volunteer participation and the controller being part of the development team. The results provide guidance for practitioners about how to combine 19 identified governance mechanisms into effective project governance that stimulates productive participation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3179">configuration theory</a>,    <a href="/keywords/3180">control modes and mechanisms</a>,    <a href="/keywords/2556">control theory</a>,    <a href="/keywords/692">coordination</a>,    <a href="/keywords/3181">development activity</a>,    <a href="/keywords/2496">governance</a>,    <a href="/keywords/3182">IS development</a>,    <a href="/keywords/3183">open source software projects</a>,    <a href="/keywords/3184">OSS</a>,    <a href="/keywords/3185">project climate</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

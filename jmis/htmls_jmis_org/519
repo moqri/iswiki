@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/28">    Volume 18 Number 2 2001
+</a> pp. 157-188</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>New Buyers&#039; Arrival Under Dynamic Pricing Market Microstructure: The Case of Group-Buying Discounts on the Internet</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/79">Kauffman, Robert J</a> and     <a href="/contributors/907">Bin, Wang</a>    </div>
+
+<p>ABSTRACT: Dynamic pricing mechanisms occur on the Internet when buyers and sellers negotiate the final transaction price for the exchange of goods or services. These mechanisms are used in online auctions (e.g., eBay.com, uBid.com) and name-your-own-price (Priceline.com) formats, for example. The current research studies the dynamics of one instance of dynamic pricing--group-buying discounts--used by MobShop.com, whose products' selling prices drop as more buyers place their orders. We collect and analyze changes in the number of orders for MobShop-listed products over various periods of time, using an econometric model that reflects our understanding of bidder behavior in the presence of dynamic pricing and different levels of bidder participation. We find that the number of existing orders has a significant positive effect on new orders placed during each three-hour period, indicating the presence of a positive participation externality effect. We also find evidence for expectations of falling prices, a price drop effect. This occurs when the number of orders approaches the next price drop level and the price level for transacting will fall in the near future. The results also reveal a significant ending effect, as more orders were placed during the last three-hour period of the auction cycles. We also assess the efficacy of group-buying business models to shed light on the recent failures of many group-buying Web sites.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1007">bidding</a>,    <a href="/keywords/1478">dynamic pricing</a>,    <a href="/keywords/486">electronic markets</a>,    <a href="/keywords/1479">group buying discounts</a>,    <a href="/keywords/1480">internet based selling</a>,    <a href="/keywords/1056">market microstructure</a>,    <a href="/keywords/1481">online retailing</a>,    <a href="/keywords/1482">pricing mechanisms</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

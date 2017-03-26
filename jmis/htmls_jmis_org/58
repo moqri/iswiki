@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/44">    Volume 10 Number 1 1993
+</a> pp. 11-32</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Comparing the Modeling Performance of Regression and Neural Networks as Data Quality Varies: A Business Value Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/123">Bansal, Arun,</a>    <a href="/contributors/79">Kauffman, Robert J,</a> and     <a href="/contributors/124">Weitz, Rob R</a>    </div>
+
+<p>ABSTRACT: Under circumstances where data quality may vary (due to inaccuracies or lack of timeliness, for example), knowledge about the potential performance of alternate predictive models can help a decision maker to design a business-value-maximizing information system. This paper examines a real-world example from the field of finance to illustrate a comparison of alternative modeling tools. Two modeling alternatives are used in this example: regression analysis and neural network analysis. There are two main results: (1) Linear regression outperformed neural nets in terms of forecasting accuracy, but the opposite was true when we considered the business value of the forecast. (2) Neural net-based forecasts tended to be more robust than linear regression forecasts as data accuracy degraded. Managerial implications for financial risk management of mortgage-backed security portfolios are drawn from the results.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/637">business value of information technology</a>,    <a href="/keywords/638">data quality</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/639">forecasting</a>,    <a href="/keywords/640">information economics</a>,    <a href="/keywords/386">neural networks</a>,    <a href="/keywords/641">mortgage-backed securities</a>,    <a href="/keywords/642">prepayment forecasting</a>,    <a href="/keywords/643">risk management forecasting systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

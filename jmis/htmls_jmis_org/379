@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/115">    Volume 1 Number 3 1984
+</a> pp. 49-63</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Productivity in the Forth Generation: Six Case Studies</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/687">Green, Jesse</a>    </div>
+
+<p>ABSTRACT: A severalfold increase in productivity is being accomplished today by a combination of various techniques called summarily "fourth generation" methods. An investigation of six success stories, based on a series of interviews, is presented, and reasons for success are analyzed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/50">system development by end-users</a>,    <a href="/keywords/47">fourth generation languages</a>,    <a href="/keywords/51">practice of systems development</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

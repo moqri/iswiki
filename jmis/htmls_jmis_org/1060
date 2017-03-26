@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/111">    Volume 17 Number 3 2000
+</a> pp. 45-72</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Workflow-Centric Information Distribution Through E-Mail</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1639">Zhao, J Leon,</a>    <a href="/contributors/956">Kumar, Akhil,</a> and     <a href="/contributors/207">Stohr, Edward A</a>    </div>
+
+<p>ABSTRACT: Organizations require ways to efficiently distribute information such as news releases, seminar announcements, and memos. While the machinery for information storage, manipulation, and retrieval exists, research dealing directly with its distribution in an organizational context is scarce. In this paper, we address this need by first examining the pros and cons of the conventional "mailing lists" approach and then proposing new workflow mechanisms that improve the efficiency and effectiveness of information distribution through e-mail. The proposed approach is relevant to other information distribution approaches beyond e-mail. The main contributions of this study include: (1) offering a workflow perspective on organizational information distribution; (2) analysis of workflows in two new information distribution methods based on dynamic mailing lists and profile matching, respectively; and (3) proposing a new way of matching supply and demand of information that extends existing information filtering algorithms.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/113">electronic mail</a>,    <a href="/keywords/1372">information distribution</a>,    <a href="/keywords/202">knowledge management</a>,    <a href="/keywords/1373">workflow management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

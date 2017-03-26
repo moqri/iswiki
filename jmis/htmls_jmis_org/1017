@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/86">    Volume 22 Number 1 2005
+</a> pp. 45-83</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Complexity of Information Systems Development Projects: Conceptualization and Measurement Development</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/527">Weidong, Xia</a> and     <a href="/contributors/1572">Lee, Gwanhoo</a>    </div>
+
+<p>ABSTRACT: This paper conceptualizes and develops valid measurements of the key dimensions of information systems development project (ISDP) complexity. A conceptual framework is proposed to define four components of ISDP complexity: structural organizational complexity, structural IT complexity, dynamic organizational complexity, and dynamic IT complexity. Measures of ISDP complexity are generated based on literature review, field interviews, and focus group discussions. The measures are then refined through a systematic process and are tested using confirmatory data analyses with survey responses from 541 ISDP managers. Results support the final measurement model that consists of a second-order factor of ISDP complexity, four distinct first-order factors, and 15 measurement items. The measurement adequately satisfies the criteria for unidimensionality, convergent validity, discriminant validity, reliability, factorial invariance across different types of ISDPs, and nomo logical validity. Implications of the study results to research and practice as well as limitations of the study and directions for future research are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/741">complexity</a>,    <a href="/keywords/1906">conceptual framework</a>,    <a href="/keywords/1786">confirmatory factor analysis</a>,    <a href="/keywords/1907">information systems development project</a>,    <a href="/keywords/1578">scale development</a>,    <a href="/keywords/1908">scale validation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

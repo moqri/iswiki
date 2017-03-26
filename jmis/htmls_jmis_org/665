@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/118">    Volume 5 Number 3 1988
+</a> pp. 5-18</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Resource Management: A Metadata Perspective</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/642">March, Salvatore T</a> and     <a href="/contributors/1106">Kim, Young-Gul</a>    </div>
+
+<p>ABSTRACT: While information is recognized as an important corporate resource, its management has not been accomplished to the extent of other major resources. A major reason for this condition is that the information resource is not as well defined as other resources. To manage any resource effectively, the nature of that resource must be well defined. In this article, we first propose a model for corporate data. This model represents the data definition or "metadata" for Information Resource Management (IRM). Through this metadata we define the "state" of the information resource. We characterize a set of dimensions for metadata and discuss its representation and management. Concepts from Information Resource Dictionary Systems (IRDS) are described as they support metadata management. We include IRDS contents, capabilities, and implementation issues. Finally, we assess the diverse impacts of metadata management on related Information System (IS) issues such as end-user computing, corporate is planning, information architecture development, and information system development.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/299">information resource management</a>,    <a href="/keywords/300">data dictionary</a>,    <a href="/keywords/77">database administration</a>,    <a href="/keywords/80">data administration</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

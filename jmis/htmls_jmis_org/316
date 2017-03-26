@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/97">    Volume 12 Number 1 1995
+</a> pp. 171-197</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Natural Language Access to Multiple Databases: A Model and a Prototype</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/558">Ein-Dor, Phillip</a> and     <a href="/contributors/561">Spiegler, Israel</a>    </div>
+
+<p>ABSTRACT: A model is proposed that defines "context" for natural language queries in a multiple database environment and a suggested implementation for this model is described. The approach developed in this study relaxes the assumption usually made for natural language query systems that the context, in the form of a specific database, is given. The formal model defines a universe of discourse consisting of multiple contexts, each of which is represented by a database, which consists of a dictionary, a thesaurus, relations, columns, and values. A mechanism for identifying and selecting the appropriate context for a query and its implementation as a prototype are described. The integration of this mechanism into the general model of natural language query processing is indicated and implementational issues are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/852">context</a>,    <a href="/keywords/68">database</a>,    <a href="/keywords/853">dictionary</a>,    <a href="/keywords/854">index</a>,    <a href="/keywords/855">lexical analysis</a>,    <a href="/keywords/856">natural language queries</a>,    <a href="/keywords/857">semantics</a>,    <a href="/keywords/858">synonyms</a>,    <a href="/keywords/859">syntax</a>,    <a href="/keywords/860">thesaurus</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

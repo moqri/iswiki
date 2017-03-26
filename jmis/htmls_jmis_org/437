@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/42">    Volume 8 Number 3 1991
+</a> pp. 27-48</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Exploring the Impact of Face-to-Face Collaborative Technology on Group Writing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/785">Horton, Marjorie,</a>    <a href="/contributors/787">Rogers, Priscilla S,</a>    <a href="/contributors/788">Austin, Laurel,</a> and     <a href="/contributors/789">McCormick, Michael</a>    </div>
+
+<p>ABSTRACT: This exploratory study examines the impact of face-to-face collaborative technology on group writing. We compared small groups writing managerial memoranda in a computer-supported meeting room, and with conventional writing tools. The computer environment, the Capture Lab, allowed us to study how a technology designed for broad functionality and flexibility in group process affects collaborative work. We find that the technology alters the writing process, resulting in less initial group planning, more individual work, and more revising than when conventional tools are used. This affects negotiation and consensus-reaching processes. The technology also reduces speech and group focus. User feedback suggests the technology has both positive and negative effects on group interaction. The technology did not affect overall document quality, although one measure suggests it can enhance writers' audience adaptiveness. Comparisons of how different groups used the technology suggest that these patterns influence document quality. In the conclusion, we discuss what groups need in order to use this kind of collaborative technology effectively and future research directions.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/495">collaborative technology</a>,    <a href="/keywords/496">collaborative writing</a>,    <a href="/keywords/497">computer-supported cooperative work</a>,    <a href="/keywords/498">computer-supported meeting rooms</a>,    <a href="/keywords/499">group work</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

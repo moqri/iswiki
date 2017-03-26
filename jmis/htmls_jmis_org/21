@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/19">    Volume 7 Number 2 1990
+</a> pp. 55-69</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Microeconomic Approach to the Measurement of Information Technology Value</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/36">Alpar, Paul</a> and     <a href="/contributors/37">Kim, Moshe</a>    </div>
+
+<p>ABSTRACT: The problem of measuring the impact of information technology on economic performance at the business unit or enterprise level is receiving increased attention. We develop a methodology based on the microeconomic theory of production and apply the model to data from the banking industry. In addition, we compare our methodology to approaches based on key ratios of information technology deployment. Both procedures are applied to the same set of data. The results show that reasoning about information technology value based on key ratios may be misleading, especially when the figures are only osculated for a cross-section of data.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/425">measurement of information technology value</a>,    <a href="/keywords/426">production in commercial and retail banking</a>,    <a href="/keywords/427">cost function</a>,    <a href="/keywords/428">key ratios of firm performance</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

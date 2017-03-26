@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/130">    Volume 33 Number 1 2016
+</a> pp. 11-44</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Effects of IT-Enabled Cognitive Stimulation Tools on Creative Problem Solving: A Dual Pathway to Creativity</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1702">Althuizen, Niek</a> and     <a href="/contributors/1818">Reichel, Astrid</a>    </div>
+
+<p>ABSTRACT: 
+<p>We investigate the effectiveness of three types of IT-enabled cognitive stimulation tools for enhancing creative problem solving: mind mappers, process guides, and stimuli providers. Based on the dual pathway to creativity models, the authors examine the extent to which these tools are capable of stimulating individuals to explore their knowledge base more deeply (i.e., the persistence pathway) and more broadly (i.e., the flexibility pathway) and, hence, help to produce more novel ideas. In a laboratory study with business students, they find that, as compared to unaided individuals, IT-enabled stimuli providers enhance individual creativity more than process guides and mind mappers. As for the underlying creative process, stimuli providers push individuals to explore their knowledge base more deeply and more broadly, leading to more novel but, unexpectedly, also more useful ideas. The reported findings may facilitate the development of creativity support systems and their assignment to individuals and tasks.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/198">creativity</a>,    <a href="/keywords/3293">creative problem solving</a>,    <a href="/keywords/3620">creativity stimulation</a>,    <a href="/keywords/3621">dual pathway to creativity</a>,    <a href="/keywords/3622">IT-enabled cognitive stimulation</a>,    <a href="/keywords/3623">knowledge activation</a>,    <a href="/keywords/3624">search for ideas in associative memory (SIAM)</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

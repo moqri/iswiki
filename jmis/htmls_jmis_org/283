@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/56">    Volume 14 Number 1 1997
+</a> pp. 155-184</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Group Support Systems for Strategic Planning</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/239">Dennis, Alan R,</a>    <a href="/contributors/499">Tyran, Craig K,</a>    <a href="/contributors/459">Vogel, Douglas R,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: Strategic planning is typically performed by groups of managers. Group support systems (GSS), an information technology designed to improve group work, may therefore have useful application to strategic planning. In this paper, the application of GSS is examined with respect to four dimensions: process support, process structure, task support, and task structure. A GSS may assist the communication aspects of group meetings by providing process support to improve interaction among participants and process structure to direct the pattern or content of the discussion. GSS may also provide task structure, such as structured analysis and modeling techniques, and task support, such as access to important task information. This paper reports on the use of a GSS in the strategic planning processes of thirty organizations. The ability of the GSS to provide process support was found to be the most important contributor to strategic planning success, with task structure and process structure secondary. Task support contributed little. Those organizations that made greater use of electronic communication, structured problem analysis techniques, and structured meeting processes reported greater success.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/693">group support systems</a>,    <a href="/keywords/698">groupware</a>,    <a href="/keywords/35">strategic planning</a>,    <a href="/keywords/467">strategic management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/54">    Volume 3 Number 3 1986
+</a> pp. 111-122</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Open versus Closed Minds: The Effect of Dogmatism on an Analyst&#039;s Problemsolving Behavior</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1214">Paddock, Charles E</a> and     <a href="/contributors/1215">Swanson, Neil E</a>    </div>
+
+<p>ABSTRACT: Developing successful information systems depends in part on the approach and attitude of systems analysts toward solving user problems. "Understanding human behavior is a prerequisite to the successful design and implementation of all information systems" [2]. This research investigates whether dogmatism, the degree to which an individual's belief-disbelief system is open or closed, can be related to systems analysts' problem-solving approach (flexible vs. inflexible) and problem-solving attitude (positive vs. negative). Dogmatism is used to classify participants' responses to an information systems problem scenario. Results indicate that differences do exist. The article presents background related to successful information systems projects and the dogmatism construct, describes the study, presents and discusses its findings, and concludes with some implications and suggestions for future research.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/192">behavioral factors in MIS</a>,    <a href="/keywords/193">dogmatism in systems analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

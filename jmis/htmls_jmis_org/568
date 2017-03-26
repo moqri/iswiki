@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/22">    Volume 28 Number 1 2011
+</a> pp. 115-145</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Technology Spillover and Productivity: The Role of Information Technology Intensity and Competition</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/962">Kunsoo, Han,</a>    <a href="/contributors/963">Young Bong, Chang,</a> and     <a href="/contributors/964">Jungpil, Hahn</a>    </div>
+
+<p>ABSTRACT: We study interindustry information technology (IT) spillover wherein IT investments made by supplier industries increase the productivity of downstream industries. Using data from U.S. manufacturing industries, we find that industries receive significant IT spillover benefits in terms of total factor productivity growth through economic transactions with their respective supplier industries. More importantly, we find that two characteristics of downstream industries, namely, IT intensity and competitiveness, which have been shown to moderate the effect of internal IT investments, play an important role in IT spillovers as well. Our results suggest that IT intensity as well as competitiveness of the downstream industry moderate the effect of IT spillovers-industries that are more IT intensive and more competitive benefit more from IT spillovers. Finally, our results suggest that the long-term effects of spillovers are greater than short-term effects, suggesting that learning periods are required to reap the benefits from the IT spillovers.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2768">competition</a>,    <a href="/keywords/2791">industry analysis</a>,    <a href="/keywords/2792">industry characteristics</a>,    <a href="/keywords/2793">IT effects</a>,    <a href="/keywords/2794">IT intensity</a>,    <a href="/keywords/2795">IT spillover</a>,    <a href="/keywords/74">productivity</a>,    <a href="/keywords/2796">total factor productivity</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

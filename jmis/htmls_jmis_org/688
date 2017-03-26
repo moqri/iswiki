@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/71">    Volume 26 Number 1 2009
+</a> pp. 297-316</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Differential Effects of the Two Types of Information Systems: A Hospital-Based Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/998">Menon, Nirup M,</a>    <a href="/contributors/1133">Yaylacicegi, Ulku,</a> and     <a href="/contributors/1134">Cezar, Asunur</a>    </div>
+
+<p>ABSTRACT: A new empirical model for the production function of the hospital incorporating two types of information systems (IS) is developed. One type of IS is representative of information technology (IT) used in primary, clinical, value-chain activities, and the other is representative of the IT used in support (administrative) value-chain activities. The model innovation is that it accommodates up to a seven-year lag for each type of IS. The output variables for the production function are hospital output and medical labor productivity. Using data spanning from 1979 to 2006 from several hospitals, it was found that clinical IS improve hospital output in the short run (of two years). Administrative IS were found to be negatively associated with organizational performance in the short run, but positively associated with these performance measures over the long run (over four years). These results highlight the importance of timing IT investments and the sequencing chosen for the implementation of IS presenting various value-chain activities, and the resulting pattern of business value over time. Differential lag length of the types of IS is to be considered in estimating the rate of return of new IT projects.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2527">health-care informatics</a>,    <a href="/keywords/1299">information technology productivity</a>,    <a href="/keywords/2528">value-chain model</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

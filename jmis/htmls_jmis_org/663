@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/78">    Volume 14 Number 3 1997
+</a> pp. 109-140</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Understanding Organizational Dynamics of IT-Enabled Change: A Multimedia Simulation Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1103">Manzoni, Jean-Francois</a> and     <a href="/contributors/1104">Angehrn, Albert A</a>    </div>
+
+<p>ABSTRACT: Successful implementation of IT-enabled change requires good management of the change process and of the various sources of resistance that typically accompany the introduction of such change. As a result, helping managers better understand the dynamics of organizational processes is an important objective for IS and IT educators. The EIS Simulation is a new computer-based multimedia simulation that allows managers to experience the process of introducing an EIS in a fictitious organization. It has been used extensively over the last two years with groups of management students and executives. The paper presents the simulation and discusses its potential pedagogical benefits, possible extensions, and use in a research context. More generally, the EIS Simulation provides a first step in the development of a new generation of pedagogical tools: computer-based organizational games exploiting the potential of multimedia and object-oriented technology to provide managers with realistic experiential learning environments.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/753">adoption of information technology</a>,    <a href="/keywords/833">change management</a>,    <a href="/keywords/1088">experiential learning</a>,    <a href="/keywords/846">implementation of innovations</a>,    <a href="/keywords/797">multimedia</a>,    <a href="/keywords/1058">simulation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

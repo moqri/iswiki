@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/103">    Volume 15 Number 4 1999
+</a> pp. 215-234</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Structural Equation Evaluation of CASE Tools Attributes</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1269">Post, Gerald V,</a>    <a href="/contributors/1270">Kagan, Albert,</a> and     <a href="/contributors/1271">Keim, Robert T</a>    </div>
+
+<p>ABSTRACT: A latent variable approach to the evaluation of CASE tools is used to assess user needs and applications. Responses are consistent with the taxonomy of upper and lower CASE tools. Results indicate the importance of analysis and prototyping features. Some existing tools are rated significantly higher than others in terms of these features. The study also reveals a link between organizational size and the demand for upper and lower CASE tool features. Smaller organizations use CASE tools in the design stage and rely on teamwork and collaboration facilities. Larger firms focus on lower CASE facilities such as prototyping to build completed systems.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1203">computer-aided software engineering</a>,    <a href="/keywords/513">CASE</a>,    <a href="/keywords/1204">CASE tool ratings</a>,    <a href="/keywords/1205">path analysis</a>,    <a href="/keywords/1206">structural equation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

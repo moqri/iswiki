@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/41">    Volume 30 Number 2 2013
+</a> pp. 239-268</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Consumer Learning and Time-Locked Trials of Software Products</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/513">Dey, Debabrata,</a>    <a href="/contributors/514">Lahiri, Atanu,</a> and     <a href="/contributors/515">Liu, Dengpan</a>    </div>
+
+<p>ABSTRACT: The usefulness of a software product becomes obvious to consumers only after they get to experience it and, upon experiencing it, they may reach different conclusions regarding its true value. We examine the problem of designing free software trials under a general learning function. Our analyses lead to several new findings. We find that a time-locked trial is optimal only when the rate of learning is sufficiently large. It is not optimal in other situations, even when it has an overall positive effect on consumers' valuations. We also find that positive network effects have a minimal impact on this optimality. Interestingly, we find that neither the optimal trial period nor the optimal price is monotonically increasing in the rate of learning. At moderate rates, the software manufacturer pursues a dual strategy of offering a longer trial as well as a lower price. At higher rates of learning, the manufacturer does the opposite. Our results are robust, and incorporating possibilities such as a trial providing a signal of quality or learning being correlated with prior valuation has little impact on their applicability.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3166">consumer learning</a>,    <a href="/keywords/2691">experience goods</a>,    <a href="/keywords/3167">free trial</a>,    <a href="/keywords/1609">network effect</a>,    <a href="/keywords/1340">signaling</a>,    <a href="/keywords/3168">software trial</a>,    <a href="/keywords/3169">time-locked trial</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

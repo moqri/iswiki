@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/88">    Volume 12 Number 2 1995
+</a> pp. 131-159</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Management of Information Systems Outsourcing: A Bidding Perspective</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/332">Chaudhury, A,</a>    <a href="/contributors/333">Nam, Kichan,</a> and     <a href="/contributors/318">Rao, H Raghav</a>    </div>
+
+<p>ABSTRACT: Outsourcing is the contracting of various information systems' sub- functions by user firms to outside information systems vendors. A critical factor in the outsourcing process is the bidding and vendor selection mechanism. This paper describes the process of outsourcing and identifies the various stages involved. Subsequently, considering that cost reduction is a driving force of outsourcing for user-firms, this paper proposes a bidding mechanism to reduce expected outsourcing costs in the final bidding and vendor selection process. The paper studies outsourcing contracts of routine and repetitive activities such as maintenance and operation of telecommunication networks. A realistic scenario is studied, wherein multiple vendors bid for such contracts and where one vendor has cost and expertise advantages over other vendors and as a result tends to inflate bids. A mixed integer programming model is formulated for a multiple vendor scenario. In general, the results suggest a prescription that calls for the use of "carrot and stick" policies by the user firm. Subsidies (the carrot) need to be used as incentives for bidders to announce their most competitive bids. In addition, penalties (the stick) have to be levied in order to pressure bidders not to bid high.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/870">bidding mechanisms</a>,    <a href="/keywords/168">information systems management</a>,    <a href="/keywords/871">mixed integer programming</a>,    <a href="/keywords/872">outsourcing of information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

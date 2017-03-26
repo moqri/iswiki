@@ -1,0 +1,44 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/99">    Volume 7 Number 4 1991
+</a> pp. 3-5</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: An introduction to several articles published within the issue is presented. Articles discussed include "Identification of Key International Information Systems Issues in U.S.-Based Multinational Corporations," by Candace Deans, Kirk Karwan, Martin Goslar, David Ricks, and Brian Toyne, "Adoption Patterns and Attitudinal Development in Computer-Supported Meetings: An Exploratory Study with SAMM" by Ilze Zigurs, Gerardine DeSanctis, and Julie Billingsley, and Globalization and Information Management Strategies," by Jahangir Karimi and Benn R. Konsysnki.</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

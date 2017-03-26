@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/6">    Volume 11 Number 2 1994
+</a> pp. 187-208</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Procurement Strategies for Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/914">Saarinen, Timo</a> and     <a href="/contributors/1341">Vepsalainen, Ari P J</a>    </div>
+
+<p>ABSTRACT: A general framework of different procurement strategies is introduced to help managers review their project portfolio to find more effective ways of using both internal and market resources in information systems development. Major decision criteria-the specificity of system design and the uncertainty involved in requirements specification-are adopted from transaction cost economics to determine what procurement strategies should be used in different situations. According to our Procurement Principle, systems that are company-specific and involve high uncertainty have to be internally developed because they require both the specific knowledge arid intensive interaction between developers and users. More standard requirements indicate the use of outside consultants or software contractors who have experience and knowledge about a similar type of systems. For routine systems common in many organizations, acquisition and tailoring of a software package provides the most efficient procurement strategy. The Procurement Principle is also empirically tested with data from recent system development projects in major Finnish companies. Partial support was gained for the framework, but some interesting deviations were also detected, such as a tendency to rely on in-house development of even routine systems.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/777">contingency approach</a>,    <a href="/keywords/778">information systems procurement</a>,    <a href="/keywords/650">outsourcing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

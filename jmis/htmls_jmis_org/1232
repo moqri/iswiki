@@ -1,0 +1,639 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/126">    Volume 32 Number 1 2015
+</a> pp. 1-8</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>
+<p>As the formation of supply webs through strategic outsourcing has redefined the landscape of contemporary business, a deeper understanding of the long-term objectives of these relationships is emerging. Organizational learning is—or should be—a primary objective of the firms collaborating in information-technology (IT)–supported business-process outsourcing and in the outsourcing of IT itself. In realizing this objective, one needs to meet a challenge: learning can be impaired by outsourcing processes to other firms. Measures are needed to continuously learn from partner companies. In the opening paper of this issue of the Journal of Management Information Systems (JMIS), Deepa Mani and Anitesh Barua investigate the impact of organizational learning on the creation of value in outsourcing relationships. The authors parse this learning into two fundamental components, relational and procedural, and use the market data on outsourcing contracts to determine the differential effects of these two kinds of learning. The results point to the salutary value-creation effects of learning as firms tend properly to these aspects of outsourcing—and, indeed, to the need to tend to these aspects.</p>
+<p>The disruption of business models of the traditional media by the Internet–Web compound is seen everywhere, perhaps most clearly in the newspaper industry. This package of content monetized largely by print advertising has been severely challenged. Is there a response? Jahangir Karimi and Zhiping Walter deploy the theory of disruptive innovation to establish which dynamic capabilities need to be mustered by a newspaper-owning firm to respond to such a survival-threatening challenge. Dynamic capabilities are in their essence the multifaceted capabilities for change through developing specialized and differentiating resources that are dispositive in the emerging competitive environment. Much of the required response that has surfaced in the authors’ research is of the “join-them” kind, but by far not all of it. As you will read, the proper deployment of IT to create these firm’s capabilities is central to the response.</p>
+<p>Two subsequent papers focus on software development. Nikhil Mehta and Anandhi Bharadwaj study software development by vendor teams serving a client firm in an outsourcing relationship. Adopting the knowledge-integration lens, these authors investigate two boundary-spanning processes that control, respectively, the inflow of information to a team and the outflow of information from it. Collectively, these processes aim to help the software-development team to minimize external distractions and thus help its members to integrate their common stocks of knowledge toward salutary project outcomes. Based on the empirics they deploy, the researchers show that the role these processes play has a nonlinear effect on a team’s knowledge integration and is sensitive to the degree of the project’s uncertainty. The findings are not obvious and have important implications for the regulation of interactions between the team and its organizational environment.</p>
+<p>Open source software (OSS) development has become a key development mode in the software industry. Communitarian in nature, it is often supported in various ways by major companies that benefit from the complementarities. Software innovation in this domain is therefore of great importance, as is the effective maintenance of the existing code base. Here, Orcun Temizkan and Ram L. Kumar adopt the software-artifact unit of analysis to seek the antecedents of ambidexterity in OSS development. They show that patch development and feature requests can serve as the respective proxies for exploitation and exploration activities in OSS development processes, and proceed to empirically determine which OSS team structures lead to success.</p>
+<p>Information technology has served to enable a variety of team structures, dispersed in space and time. J. Alberto Espinosa, Ning Nan, and Erran Carmel posit that the effects of the latter distance, that is, of the temporal separation among the team members have not been investigated in-depth, important as these effects are. After all, limited work synchronicity can be expected to lower a team’s performance, whereas the ability to “follow the sun” offers efficiencies. Basing themselves on several theoretical perspectives, the researchers devised a controlled experiment to investigate the contradiction. The authors show that the received wisdom of speed-for-quality trade-off requires qualification and they offer well-grounded avenues to achieving both benefits in the work of temporally and spatially dispersed teams.</p>
+<p>Four papers analyze various aspects of e-commerce. Gregory D. Moody and Dennis F. Galletta postulate maximizing information scent as a means of attracting users to a website and thus as a site design objective. Information scent is the set of visual, audio, and semantic cues that can be used to guide website users in accomplishing their informational or transactional task. The authors show the efficacy of latent semantic analysis in assessing the scent and, in turn, the scent’s value in reducing the stress and enhancing the positive attitude of the website user. Clear guidelines emerge for the site designers, in particular, in regard to the need to develop use scenarios and cases, and to scent the paths to their accomplishment. A similar objective—that of enhancing users’ attitude with respect to a website—is pursued by Alexander Benlian. He studies the effect of site-personalization cues on website stickiness and on users’ willingness to pay for the site’s offerings. The author differentiates between content and design personalization, and shows the distinctions in their effects, individually and jointly. The work relies on a model grounded in the stimulus–organism–response framework. Taken together, the two papers offer a rich store of theoretically grounded and empirically verified advice to website designers.</p>
+<p>Price dispersion online is a well-established fact, contra the early expectations of a one-price environment. There are two ways to assess this dispersion, as stated by Kexin Zhao, Xia Zhao, and Jing Deng, the authors of the next paper in the issue. One can focus on the supply side and thus the listing prices posted by sellers, or on the demand side, that is, the transaction prices, actually paid by the buyers. The difference in the two price aggregates exists because many transactions are realized at lower listing prices and the higher listing prices would thus appear less frequently as transaction prices. Using the data sets of actual prices, the authors show that the drivers of price dispersion are different on the supply and demand sides of the market. Notably, they also show that the dispersion of transaction prices is three times lower than that of listing prices. This is an important finding: whereas we do not see one price on the buying side, we are actually much closer to that than we would think when looking at the listing prices.</p>
+<p>Using a formal game-theoretic economic model, Dan Ma investigates the impact of push-type delivery of online content as compared to the pull of content by website users. A common realization of this delivery mode is really simple syndication (RSS). The impact is measured as profitability of the site and the competitive advantage of the owner. The anecdotal evidence from the push-versus-pull practice of content delivery has been contradictory, dependent as it is on various factors, including the motivation for disclosure of the attributable revenues. Do RSS and similar push-oriented modes of content delivery add value to a website? The author uncovers a nuanced response to this question and shows that this response answers some more general questions, too.</p>
+<p>A paper that generalizes empirically much of our knowledge about the exploration of complex information systems by organizational users closes this issue of JMIS. Huigang Liang, Zeyu Peng, Yajiong Xue, Xitong Guo, and Nengmin Wang triangulate system-exploration behavior into three factor sets: task, system, and organizational environment. The authors proceed to build a theoretically grounded model of employee-exploration behavior and use an enterprise resource planning (ERP) system as an exemplar in their empirical verification of the model. Based on this, they are in a position to provide a rich set of guidelines for employers aiming to foster comprehensive and effective use of complex information systems, and their infusion into innovative organizational practices.</p>
+<p>As is our tradition at the outset of a new volume, I wish to thank our referees, the primary guarantors of the quality of our papers. Here are the names of the JMIS referees:
+
+<p>Hyung Jun Ahn</p>
+<p>Pervaiz Alam</p>
+<p>Oliver Alexy</p>
+<p>Muhammad Aljukhadar</p>
+<p>Gove Allen</p>
+<p>Paul Alpar</p>
+<p>Niek Altuizen</p>
+<p>Kemal Altinkemer</p>
+<p>Naveen Amblee</p>
+<p>Ofer Arazy</p>
+<p>Kursad Asdemir</p>
+<p>Norman Au</p>
+<p>Yoris Au</p>
+<p>Benoit A. Aubert</p>
+<p>Peter van Baalen</p>
+<p>Hyunmi Baek</p>
+<p>Ainsworth Bailey</p>
+<p>Akhilesh Bajaj</p>
+<p>Hillol Bala</p>
+<p>Dirk Baldwin</p>
+<p>Subhajyoti Bandyopadhyay</p>
+<p>Gaurav Bansal</p>
+<p>Reza Barkhi</p>
+<p>Henri Barki</p>
+<p>Stuart J. Barnes</p>
+<p>Richard Baskerville</p>
+<p>Dinesh Batra</p>
+<p>Daniel Beimborn</p>
+<p>Skip Benamati</p>
+<p>Michel Benaroch</p>
+<p>Raquel Benbunan-Fich</p>
+<p>Alexander Benlian</p>
+<p>François Bergeron</p>
+<p>Ganesh Bhatt</p>
+<p>Sudip Bhattacharjee</p>
+<p>Eva Bittner</p>
+<p>Jesse Bockstedt</p>
+<p>Riccardo Bonazzi</p>
+<p>Antal van den Bosch</p>
+<p>Indranil Bose</p>
+<p>Randy Bradley</p>
+<p>Tobias Brandt</p>
+<p>Nicola Breugst</p>
+<p>Glenn J. Browne</p>
+<p>Sebastian Bruque</p>
+<p>Scott Buffett</p>
+<p>Judee Burgoon</p>
+<p>Andrew Burton-Jones</p>
+<p>Ashley Bush</p>
+<p>Brian Butler</p>
+<p>Terry A. Byrd</p>
+<p>Jinwei Cao</p>
+<p>Lan Cao</p>
+<p>Erran Carmel</p>
+<p>Hasan Cavusoglu</p>
+<p>Sangmi Chai</p>
+<p>Hsin-Lu Chang</p>
+<p>Young Bong Chang</p>
+<p>Mohamed-Hédi Charki</p>
+<p>Sutirtha Chatterjee</p>
+<p>Michael Chau</p>
+<p>Patrick Chau</p>
+<p>Aihui Chen</p>
+<p>Andrew Chen</p>
+<p>Daniel Chen</p>
+<p>Hong-Mei Chen</p>
+<p>Hsinchun Chen</p>
+<p>Jianqing Chen</p>
+<p>Jin Chen</p>
+<p>Kay-Yut Chen</p>
+<p>Kuan Chen</p>
+<p>Li Chen</p>
+<p>Liwei Chen</p>
+<p>Yan Chen</p>
+<p>Hsing Kenneth Cheng</p>
+<p>Mike Cheung</p>
+<p>Robert T.H. Chi</p>
+<p>Robert Chiang</p>
+<p>Roger Chiang</p>
+<p>Benjamin Chiao</p>
+<p>Ananth Chiravuri</p>
+<p>Alina M. Chircu</p>
+<p>Chaochang Chiu</p>
+<p>Jong-min Choe</p>
+<p>H. Michael Chung</p>
+<p>Wingyan Chung</p>
+<p>Theodore H. Clark</p>
+<p>Randolph Cooper</p>
+<p>Kevin Crowston</p>
+<p>Dianne Cyr</p>
+<p>Qizhi Dai</p>
+<p>Yan Dang</p>
+<p>John D’Arcy</p>
+<p>Ronald Dattero</p>
+<p>Gregory Dawson</p>
+<p>Jason Dedrick</p>
+<p>Chrysanthos Dellarocas</p>
+<p>Haluk Demirkan</p>
+<p>Xuefei Deng</p>
+<p>Sarv Devaraj</p>
+<p>Sanjeev Dewan</p>
+<p>Debabrata Dey</p>
+<p>Soussan Djamasbi</p>
+<p>Su Dong</p>
+<p>Line Dubé</p>
+<p>Peter Duchessi</p>
+<p>Alina Dulipovici</p>
+<p>Deborah E. Dunkle</p>
+<p>Kaushik Dutta</p>
+<p>Robert Easley</p>
+<p>Dana Edberg</p>
+<p>Christophe Elie-Dit-Cosaque</p>
+<p>Omar A. El Sawy</p>
+<p>Mike Eom</p>
+<p>Sean B. Eom</p>
+<p>J. Alberto Espinosa</p>
+<p>Andrea Everard</p>
+<p>Kelly Fadel</p>
+<p>Ming Fan</p>
+<p>Patrick Fan</p>
+<p>Xiaofen Fang</p>
+<p>Yulin Fang</p>
+<p>Jane Feng</p>
+<p>Daniel R. Fesenmaier</p>
+<p>Eliezer M. Fich</p>
+<p>Thomas A. Fischer</p>
+<p>Jerry Fjermestad</p>
+<p>Chris Forman</p>
+<p>Chiara Francalanci</p>
+<p>Brent Furneaux</p>
+<p>John Gallaugher</p>
+<p>Dale Ganley</p>
+<p>Gordon Gao</p>
+<p>Monica Garfield</p>
+<p>Ina Garnefeld</p>
+<p>Edward J. Garrity</p>
+<p>Xianjun Geng</p>
+<p>Michiel van Genuchten</p>
+<p>Janis L. Gogan</p>
+<p>Kim Huat Goh</p>
+<p>Thomas Goh</p>
+<p>Dale Goodhue</p>
+<p>Anand Gopal</p>
+<p>Ram D. Gopal</p>
+<p>Nelson Granados</p>
+<p>Dawn G. Gregg</p>
+<p>Shirley Gregor</p>
+<p>Ulrike Gretzel</p>
+<p>Robert K. Griffin</p>
+<p>Michael D. Grigoriades</p>
+<p>Bin Gu</p>
+<p>Ken Guo</p>
+<p>Zhiling Guo</p>
+<p>Saurabh Gupta</p>
+<p>Nicole Haggerty</p>
+<p>Jungpil Hahn</p>
+<p>Ingoo Han</p>
+<p>Kunsoo Han</p>
+<p>Shu Han</p>
+<p>Il-Horn Hann</p>
+<p>Matthew Hashim</p>
+<p>Jun He</p>
+<p>Raymond Henry</p>
+<p>Hemantha Herath</p>
+<p>Tejaswini Herath</p>
+<p>Thomas Hess</p>
+<p>Traci Hess</p>
+<p>Alan R. Hevner</p>
+<p>Oliver Hinz</p>
+<p>Susanna Ho</p>
+<p>Richard Hoffman</p>
+<p>Christian P. Hoffmann</p>
+<p>Jason Hong</p>
+<p>Weiyin Hong</p>
+<p>John A. Hoxmeier</p>
+<p>Han-Fen Hu</p>
+<p>Jeffrey Hu</p>
+<p>Nan Hu</p>
+<p>Paul Hu</p>
+<p>Petra Hu</p>
+<p>Qing Hu</p>
+<p>Chun-Yao Huang</p>
+<p>Ming-Hui Huang</p>
+<p>Wayne Huang</p>
+<p>Xiaowen Huang</p>
+<p>Thomas Huber</p>
+<p>Kai Lung Hui</p>
+<p>Wendy Hui</p>
+<p>Ard Huizing</p>
+<p>Ghiyong Im</p>
+<p>Gretchen I. Irwin</p>
+<p>Anja Ischebeck</p>
+<p>Varghese Jacob</p>
+<p>Bharat A. Jain</p>
+<p>Hemant Jain</p>
+<p>Radhika Jain</p>
+<p>Jeevan Jaisingh</p>
+<p>Dietmar Jannach</p>
+<p>Matthew Jensen</p>
+<p>James J. Jiang</p>
+<p>Qiqi Jiang</p>
+<p>Zhengrui Jiang</p>
+<p>Zhenhui Jiang</p>
+<p>Monica Johar</p>
+<p>Alice Johnson</p>
+<p>Eric Johnson</p>
+<p>Emmanuel Josserand</p>
+<p>Surinder Kahai</p>
+<p>Arnold Kamis</p>
+<p>Atreyi Kankanhalli</p>
+<p>Karthik Kannan</p>
+<p>P.K. Kannan</p>
+<p>Jahangir Karimi</p>
+<p>Michael Kattan</p>
+<p>Timothy Kayworth</p>
+<p>Weiling Ke</p>
+<p>Mark Keith</p>
+<p>Peter Kenning</p>
+<p>William J. Kettinger</p>
+<p>Lara Khansa</p>
+<p>Moutaz Khouja</p>
+<p>Melody Y. Kiang</p>
+<p>Byung Cho Kim</p>
+<p>Dan J. Kim</p>
+<p>Dongmin Kim</p>
+<p>Gimun Kim</p>
+<p>Hee-Woong Kim</p>
+<p>Keongtae Kim</p>
+<p>Kihoon Kim</p>
+<p>Seung Hyun Kim</p>
+<p>Young-Gul Kim</p>
+<p>Ruth King</p>
+<p>Rajiv Kishore</p>
+<p>Gary Klein</p>
+<p>Richard Klein</p>
+<p>Sven Kleinknecht</p>
+<p>Cenk Kocas</p>
+<p>Chang Koh</p>
+<p>Rajiv Kohli</p>
+<p>Tobias Kollman</p>
+<p>Praveen K. Kopalle</p>
+<p>Marios Koufaris</p>
+<p>Kenneth A. Kozar</p>
+<p>Ramayya Krishnan</p>
+<p>Gillian Ku</p>
+<p>Uday Kulkarni</p>
+<p>Akhil Kumar</p>
+<p>Ram Kumar</p>
+<p>Subodha Kumar</p>
+<p>Jason Kuruzovich</p>
+<p>Juhee Kwon</p>
+<p>Atanu Lahiri</p>
+<p>Simon S.K. Lam</p>
+<p>Guido Lang</p>
+<p>Karl R. Lang</p>
+<p>Kai R. Larsen</p>
+<p>Dong-Joo Lee</p>
+<p>Gwanhoo Lee</p>
+<p>Heeseok Lee</p>
+<p>Ho Geun Lee</p>
+<p>Jong Seok Lee</p>
+<p>Jungwoo Lee</p>
+<p>Thomas Lee</p>
+<p>Yang Lee</p>
+<p>Yen-Hsien Lee</p>
+<p>Young-Jin Lee</p>
+<p>Pierre-Majorique Léger</p>
+<p>Jan Marco Leimeister</p>
+<p>Natalia Levina</p>
+<p>Chen Li</p>
+<p>Dahui Li</p>
+<p>Jiexun Li</p>
+<p>Seth Li</p>
+<p>Ting Li</p>
+<p>Xiaotong Li</p>
+<p>Xin Li</p>
+<p>XinXin Li</p>
+<p>XiXi Li</p>
+<p>Huigang Liang</p>
+<p>Ting-Peng Liang</p>
+<p>Paul Licker</p>
+<p>John Lim</p>
+<p>Aleck Lin</p>
+<p>Fu-ren Lin</p>
+<p>Lihui Lin</p>
+<p>Mei Lin</p>
+<p>Charles Zhechao Liu</p>
+<p>Ying Liu</p>
+<p>Yipeng Liu</p>
+<p>Alexandre Lopes</p>
+<p>Paul B. Lowry</p>
+<p>Henry C. Lucas Jr.</p>
+<p>Xueming Luo</p>
+<p>Christoph Lutz</p>
+<p>Mark Lycett</p>
+<p>Dan Ma</p>
+<p>Xiao Ma</p>
+<p>Jane M. Mackay</p>
+<p>Massimo Magni</p>
+<p>Pruthikrai Mahatanankoon</p>
+<p>M. Adam Mahmood</p>
+<p>Rolf Mahnke</p>
+<p>Bin Mai</p>
+<p>Yogesh Malhotra</p>
+<p>Deepa Mani</p>
+<p>Ravi Mantena</p>
+<p>Salvatore T. March</p>
+<p>Kent Marett</p>
+<p>Panos Markopoulos</p>
+<p>Likoebe M. Maruping</p>
+<p>Sabine Matook</p>
+<p>Kurt Matzler</p>
+<p>Jerrold H. May</p>
+<p>Kristina McElheran</p>
+<p>Roy McKelvey</p>
+<p>Ephraim R. McLean</p>
+<p>Nigel Melville</p>
+<p>Nirup Menon</p>
+<p>Thomas Meservy</p>
+<p>Randy Minas</p>
+<p>Shaila Miranda</p>
+<p>Dinesh Mirchandani</p>
+<p>Abhay Nath Mishra</p>
+<p>Stephanie Missonier</p>
+<p>Sunil Mithas</p>
+<p>Prasenjit Mitra</p>
+<p>Kannan Mohan</p>
+<p>Peter N.C. Mohr</p>
+<p>William Money</p>
+<p>Ali R. Montazemi</p>
+<p>Ramiro Montealegre</p>
+<p>Alan Montgomery</p>
+<p>Greg Moody</p>
+<p>Jolene Morrison</p>
+<p>Michael D. Myers</p>
+<p>Peter P. Mykytyn Jr.</p>
+<p>Barin N. Nag</p>
+<p>Fiona Nah</p>
+<p>Ravi Narayanaswamy</p>
+<p>Derek Nazareth</p>
+<p>Matthew Nelson</p>
+<p>R. Ryan Nelson</p>
+<p>Boon Siong Neo</p>
+<p>Derrick Neufeld</p>
+<p>Dirk Neumann</p>
+<p>Dorit Nevo</p>
+<p>Michael Newman</p>
+<p>Mark Nissen</p>
+<p>Dmitri Nizovtsev</p>
+<p>Oded Nov</p>
+<p>Lih-Bin Oh</p>
+<p>Wonseok Oh</p>
+<p>Bob O’Keefe</p>
+<p>Lorne Olfman</p>
+<p>James Oliver</p>
+<p>Ana Ortiz de Guinea</p>
+<p>Benoit Otjacques</p>
+<p>Peter Otto</p>
+<p>Eric Overby</p>
+<p>Zafer D. Ozdemir</p>
+<p>Raymond R. Panko</p>
+<p>Gautam Pant</p>
+<p>Manoj Parameswaran</p>
+<p>Michael Parent</p>
+<p>Insu Park</p>
+<p>Sungjune Park</p>
+<p>Craig Parker</p>
+<p>Bhavik K. Pathak</p>
+<p>Praveen Pathak</p>
+<p>Ravi Patnayakuni</p>
+<p>Souren Paul</p>
+<p>David J. Pauleen</p>
+<p>Kenneth Peffers</p>
+<p>Zeyu Peng</p>
+<p>Robin Pennington</p>
+<p>Chee-Wei Phang</p>
+<p>Roger A. Pick</p>
+<p>Selwyn Piramuthu</p>
+<p>Huseyin Polat</p>
+<p>Jean-Charles Pomerol</p>
+<p>Jaana Porra</p>
+<p>Constance Porter</p>
+<p>Gerald Post</p>
+<p>John H. Prager</p>
+<p>David Preston</p>
+<p>Sandeep Purao</p>
+<p>Liangfei Qiu</p>
+<p>Lingyun Qiu</p>
+<p>Wen Guang Qu</p>
+<p>Arik Ragowsky</p>
+<p>Rex Kelly Rainer Jr.</p>
+<p>Balaraman Rajan</p>
+<p>Vandana Ramachandran</p>
+<p>K. Ramamurthy</p>
+<p>Arkalgud Ramaprasad</p>
+<p>Bala Ramesh</p>
+<p>H.R. Rao</p>
+<p>R. Ravichandran</p>
+<p>Gautam Ray</p>
+<p>Louis Raymond</p>
+<p>Blaize Horner Reich</p>
+<p>Bruce Reinig</p>
+<p>Yuqing Ren</p>
+<p>Paul Resnick</p>
+<p>Hyuen-Suk Rhee</p>
+<p>Amir Riaz</p>
+<p>William B. Richmond</p>
+<p>Christoph Riedl</p>
+<p>René Riedl</p>
+<p>Lionel Robert</p>
+<p>Nicholas Roberts</p>
+<p>Daniel Robey</p>
+<p>Michael Rogich</p>
+<p>Huaxia Rui</p>
+<p>Sherry D. Ryan</p>
+<p>Young U. Ryu</p>
+<p>Khawaja Saeed</p>
+<p>Otavio Sanchez</p>
+<p>G. Lawrence Sanders</p>
+<p>Radhika Santhanam</p>
+<p>Pallab Sanyal</p>
+<p>Saonee Sarker</p>
+<p>Surendra Sarnikar</p>
+<p>Carol Saunders</p>
+<p>George Schell</p>
+<p>Hans J. Scholl</p>
+<p>Petra Schubert</p>
+<p>Judy Scott</p>
+<p>Ravi Sen</p>
+<p>Sagnika Sen</p>
+<p>Sylvain Sénécal</p>
+<p>Nainika Seth</p>
+<p>Vikram Sethi</p>
+<p>Theresa M. Shaft</p>
+<p>Tushar Shanker</p>
+<p>Michael Shaw</p>
+<p>Jim Sheffield</p>
+<p>Hong Sheng</p>
+<p>Zhan Shi</p>
+<p>Hung-Pin Shih</p>
+<p>Choon Ling Sia</p>
+<p>Siew Kien Sia</p>
+<p>Keng Siau</p>
+<p>Mark Silver</p>
+<p>Param Vir Singh</p>
+<p>Atish P. Sinha</p>
+<p>Kingshuk Sinha</p>
+<p>Sumit Sircar</p>
+<p>Laura Smarandescu</p>
+<p>Stefan Smolnik</p>
+<p>Manuel Sojer</p>
+<p>Jaeki Song</p>
+<p>Ryan Sougstad</p>
+<p>Scott Spangler</p>
+<p>William E. Spangler</p>
+<p>Rajendra P. Srivastava</p>
+<p>Shirish C. Srivastava</p>
+<p>Thomas F. Stafford</p>
+<p>Eric W. Stein</p>
+<p>Dick Stenmark</p>
+<p>Theofanis C. Stratopoulos</p>
+<p>Diane M. Strong</p>
+<p>Besiki Stvilia</p>
+<p>Daewon Su</p>
+<p>Mani Subramani</p>
+<p>Chandra Subramaniam</p>
+<p>Ramanath Subramanyam</p>
+<p>Eung-Kyo Suh</p>
+<p>Heshan Sun</p>
+<p>Arun Sundararajan</p>
+<p>Shankar Sundaresan</p>
+<p>Paul P. Tallon</p>
+<p>Yong Tam</p>
+<p>Prasanna Tambe</p>
+<p>Yao-Hua Tan</p>
+<p>Qiuan Tang</p>
+<p>Xinlin Tang</p>
+<p>Mohan R. Tanniru</p>
+<p>Monideepa Tarafdar</p>
+<p>Nolan Taylor</p>
+<p>Orkun Temizkan</p>
+<p>Gary F. Templeton</p>
+<p>Hock Hai Teo</p>
+<p>Thompson Teo</p>
+<p>Matthew Thatcher</p>
+<p>Dominic Thomas</p>
+<p>Ron Thompson</p>
+<p>James Y.L. Thong</p>
+<p>Ryad Titah</p>
+<p>Yanbin Tu</p>
+<p>Ofir Turel</p>
+<p>Tuure Tuunanen</p>
+<p>Doug Twitchell</p>
+<p>Nathan W. Twyman</p>
+<p>N.S. Umanath</p>
+<p>Rustam Vahidov</p>
+<p>Ganesan Vaidyanathan</p>
+<p>Anthony Vance</p>
+<p>Viswanath Venkatesh</p>
+<p>Goetz Viering</p>
+<p>Padmal Vitharana</p>
+<p>Radu Vlas</p>
+<p>Douglas Vogel</p>
+<p>Sebastian Voigt</p>
+<p>Jan vom Brocke</p>
+<p>Heinz-Theo Wagner</p>
+<p>Steven Walczak</p>
+<p>Joseph Walls</p>
+<p>Zhiping Walter</p>
+<p>Bin Wang</p>
+<p>Eric T.G. Wang</p>
+<p>Jingguo Wang</p>
+<p>Michael S. Wang</p>
+<p>Qiu-Hong Wang</p>
+<p>Shouhong Wang</p>
+<p>Sophia Wang</p>
+<p>Weiquan Wang</p>
+<p>Yinglei Wang</p>
+<p>Y. Richard Wang</p>
+<p>Sidne Ward</p>
+<p>Mary Beth Watson-Manheim</p>
+<p>Sunil Wattal</p>
+<p>Thomas Weber</p>
+<p>Chih-Ping Wei</p>
+<p>Tim Weitzel</p>
+<p>John Wells</p>
+<p>Robert West</p>
+<p>J. Christopher Westland</p>
+<p>Jonathan Whitaker</p>
+<p>Michael E. Whitman</p>
+<p>Jeffrey L. Whitten</p>
+<p>George Widmeyer</p>
+<p>Rolf Wigand</p>
+<p>Fons Wijnhoven</p>
+<p>Christopher Wolfe</p>
+<p>Christina Wong</p>
+<p>Charles A. Wood</p>
+<p>Hans Wortmann</p>
+<p>Ryan Wright</p>
+<p>Dazhong Wu</p>
+<p>Mu Xia</p>
+<p>Weidong Xia</p>
+<p>Mingdi Xin</p>
+<p>Heng Xu</p>
+<p>Hongjiang Xu</p>
+<p>Kefeng Xu</p>
+<p>Lizhen Xu</p>
+<p>Peng Xu</p>
+<p>Yunjie (Calvin) Xu</p>
+<p>Ling Xue</p>
+<p>Lucy Yan</p>
+<p>Yinping Yang</p>
+<p>Zhiyong Yang</p>
+<p>Oliver Yao</p>
+<p>Ulku Yaylacicegi</p>
+<p>Cheng Yi</p>
+<p>Denny Yin</p>
+<p>Byungjoon Yoo</p>
+<p>Yufei Yuan</p>
+<p>Wei T. Yue</p>
+<p>Fatemeh (Mariam) Zahedi</p>
+<p>Chun Zeng</p>
+<p>Dongsong Zhang</p>
+<p>Han Zhang</p>
+<p>Jennifer Zhang</p>
+<p>John Zhang</p>
+<p>Ping Zhang</p>
+<p>Xiaoquan Zhang</p>
+<p>Yulei Zhang</p>
+<p>Zhu Zhang</p>
+<p>Huimin Zhao</p>
+<p>Kexin Zhao</p>
+<p>J. Leon Zhao</p>
+<p>Xia Zhao</p>
+<p>Dmitry Zhdanov</p>
+<p>Lina Zhou</p>
+<p>Yilu Zhou</p>
+<p>Zhongyun Zhou</p>
+<p>Hongwei Zhu</p>
+<p>Youlong Zhuang</p>
+<p>Moshe Zviran</p>
+</p>
+<p>I would also like to welcome two new members of our Editorial Board, Sunil Mithas of the University of Maryland and Joseph S. Valacich of the University of Arizona. I would like to thank two outgoing board members, Alan Dennis and Alok Gupta, for their contribution over the years of service to JMIS.</p>
+</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

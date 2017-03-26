@@ -1,0 +1,82 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/75">    Volume 16 Number 3 1999
+</a> pp. 3-4</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ The field of management information systems is inherently diverse and dynamic. As befits an area of inquiry  centering on the organizational use of information technologies, the theoretical approaches and the problematic of  the field are fed by and overlap with those of several behavioral and technological disciplines. The diversity of  foundational theories and problem sets is amplified by the diversity of research methodologies. Moreover, since  some of the reference disciplines, such as computer science, are "sciences of the artificial" [2]-that is, sciences  of design that creates new realities-these disciplines move ever new areas of investigation within the MIS  compass. For example, as the progress in technological capabilities enables knowledge management, we may  observe that information retrieval and, beyond that, the issues of ontologies move within the area of our interests.  It is a fundamental and abiding commitment of the Journal of Management Information Systems to present leading  research in the field in all its diversity. We have published and will publish behavioral work as well as research  based on the development and study of technological exemplars of novel systems that aim to support individuals  in organizations. We have published and will publish theoretical work as well as rich case studies that bring  important insight. We have published and will publish the work of researchers with positivist as well as  interpretivist commitments. The dynamics of our own field, the evolution of the reference disciplines, and the  development of the technological substratum continually renew the disciplinary matrix of MIS, to use the terms in  which Thomas Kuhn reconceptualized his notion of paradigm [1]. Indeed, scholarly journals are the essential  vehicles for the integration and elaboration of this matrix of research and scholarship.
+</p>
+<p>
+ The statement of the above paragraph is occasioned by the title chosen by the Guest Editors for the Special  Section that opens the issue, Robert O. Briggs, Jay F. Nunamaker, Jr., and Ralph H. Sprague, Jr. Let me introduce  dialectical tension here by saying that, far from exploring the outlands of our discipline, the papers are right in the  corral. Each of them expands the way we can think about a core issue of information systems: security  assurance, processes of human communication, document management, or the very basic understanding of the  relationship among data, information, and knowledge. The Guest Editors introduce these works more closely.
+</p>
+<p>
+ The first paper of the general section, by T. Ravichandran and Arun Rai, offers a badly needed empirically  validated set of partly interrelated constructs that make for effective total quality management in information  systems development. Although the empirics are perceptual, they generally correlate with the objective quality  performance measures. The study indicates that the managerial quality factors have a cumulative effect and  should be adopted as a whole. It is an important complement to the technological perspective generally adopted in  the work on information systems quality. The paper is also an illustration of how MIS research can complement  the work in the reference discipline of computer science.
+</p>
+<p>
+ The idea-generation stage of electronic meetings is particularly vulnerable to the effects of information  overload. Thus, users of a brainstorming tool of a group support system have to cope with a large number of  rapidly generated ideas and with many comments that support them. Mary-Liz Grise and R. Brent Gallupe present a  theoretical perspective and a tool for regulating the flow of ideas based on this theory. They proceed to describe  an experiment that shows the tradeoffs involved in using the complexity-handling tool.
+</p>
+<p>
+ We still have a fragmentary understanding of the relationship between the use of information technologies and  organizational structures. Choong C. Lee and Varun Grover examine the relationship between the use of  communications-oriented (as opposed to computing-oriented) information technologies and the firm structure in  the context of the manufacturing sector. The authors find that these technologies play a direct role in reinforcing  the organizational structures dictated by the firm's environment. Although the general causal contingency model of  IT-influenced structural organizational variables remains elusive, this contribution shows that the technologies  that enable organizational coordination play a more weighty structuring role than the purely  information-processing technologies.
+</p>
+<p>
+ It is not exactly bad news for the discipline that entry-level MIS professionals are hard to keep. It is, naturally,  a serious problem fo1r the organizations. The work of James J. Jiang and Gary Klein tells them what they can do  about it. A long-term supportive view of a novice's carrier is the recommendation that follows from the empirical  study presented by the authors.
+</p>
+<p>
+ VLADIMIR ZWASS
+</p>
+<p>
+ Editor-in-Chief
+</p>
+<p>
+ REFERENCES
+</p>
+<p>
+ 1. Kuhn, T.S. Second thoughts on paradigms. In F. Suppe (ed.), The Structure of Scientific Theories. Urbana:  University of Illinois Press, 1974, pp. 459-482.
+</p>
+<p>
+ 2. Simon, H.A. The Sciences of the Artificial, 2d ed. Cambridge, MA: MIT Press, 1981.
+</p>
+<p>
+ <b>
+  Key words and  phrases
+ </b>
+ :   ,
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

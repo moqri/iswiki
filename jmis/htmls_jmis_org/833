@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/93">    Volume 21 Number 3 2004
+</a> pp. 223-247</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Effects of Information Technology Project Complexity on Group Interaction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1325">Roberts, Tom L,</a>    <a href="/contributors/45">Cheney, Paul H,</a>    <a href="/contributors/1326">Sweeney, Paul D,</a> and     <a href="/contributors/1327">Hightower, Ross T</a>    </div>
+
+<p>ABSTRACT: This study investigates the effect of varying project complexity on the group interaction processes of small information technology (IT) project teams. The projects included two complex tasks (i.e., LAN and WAN development tasks) and a less complex development task (i.e.. a small business Web site development task). The study found that project complexity can affect the group interaction process. Participants reported significantly higher expectations, group integration, communication, and participation while working on less complex projects. Efforts to organize project personnel and define roles were more effective with less complex projects. Power struggles and noninvolvement remained a problem for teams regardless of project complexity. This study identifies and confirms key problem areas that can lead to project failure as IT projects become more complex. The results should interest both researchers and information systems managers, because the study is among the first to extend the common body of knowledge concerning group interaction and task complexity to IT projects.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1368">group interaction</a>,    <a href="/keywords/1236">group processes</a>,    <a href="/keywords/1855">project complexity</a>,    <a href="/keywords/83">project management</a>,    <a href="/keywords/1856">technical projects</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/41">    Volume 30 Number 2 2013
+</a> pp. 67-100</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Impact of Cloud Computing: Should the IT Department Be Organized as a Cost Center or a Profit Center?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/192">Choudhary, Vidyanand</a> and     <a href="/contributors/379">Vithayathil, Joseph</a>    </div>
+
+<p>ABSTRACT: How does the adoption of cloud computing by a firm affect the organizational structure of its information technology (IT) department? To analyze this question, we consider an IT department that procures IT services from a cloud computing vendor and enhances these services for consuming units within the firm. Our model incorporates the competitive environment faced by the cloud vendor, which affects the price of the cloud vendor. We find that when the cloud vendor faces intense competition, the cost-center organizational model is preferred over the profit-center model. Infrastructure services such as basic storage, e-mail, and raw computing face intense competition, and our results suggest that such services be offered as a free corporate resource under the cost-center organizational structure. When the cloud vendor has pricing power, a profit-center organizational structure is likely to be preferred. Our results suggest that highly differentiated services such as cloud-based enterprise-wide enterprise resource planning or business intelligence be offered under the profit-center structure. Finally, the profit-center structure provides greater internal quality enhancement to cloud-based IT services than the cost center.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3140">chargeback</a>,    <a href="/keywords/3141">cloud</a>,    <a href="/keywords/2601">cloud computing</a>,    <a href="/keywords/3142">cost center</a>,    <a href="/keywords/2616">infrastructure-as-a-service</a>,    <a href="/keywords/3130">IT governance</a>,    <a href="/keywords/3143">platform-as-a-service</a>,    <a href="/keywords/3144">profit center</a>,    <a href="/keywords/2294">software as a service</a>,    <a href="/keywords/3145">supply chain</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

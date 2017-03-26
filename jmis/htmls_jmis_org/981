@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/115">    Volume 1 Number 3 1984
+</a> pp. 33-48</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>On the Interactive Use of Databases: Query Languages</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1522">Vassiliou, Yannis</a>    </div>
+
+<p>ABSTRACT: Database query languages constitute a subset of Fourth Generation Languages in that they primarily focus on the querying and simple modification aspects of data management. Query languages appear to benefit from recent developments in Computer Graphics, Artificial Intelligence, and Applied User Psychology. These developments, coupled with widespread use of computers by an expanding population of novice users, have resulted in the emergence of query languages which are easy to use and offer much power. The paper reviews the major query language types and examines motivations and trends in their design.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/48">query languages</a>,    <a href="/keywords/47">fourth generation languages</a>,    <a href="/keywords/49">systems development</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

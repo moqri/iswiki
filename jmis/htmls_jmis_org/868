@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/48">    Volume 26 Number 4 2010
+</a> pp. 287-316</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Demand Information Sharing in Heterogeneous IT Services Environments</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1372">Sen, Sagnika,</a>    <a href="/contributors/91">Raghu, T S,</a> and     <a href="/contributors/1196">Vinze, Ajay S</a>    </div>
+
+<p>ABSTRACT: In an information technology services outsourcing arrangement, variance in demand volume and individual user preferences pose significant challenges to the provider organization in making resource allocation decisions. Such variations affect service levels, especially under fixed resource constraints. We explore the possible role of periodic demand information sharing and subsequent resource-level adjustments as a means of addressing issues arising from demand variation. As information exchange alters the dynamics of the relationship between the customer and provider organizations, incorporating information sharing in service-level agreements requires modifying current pricing schemes. A pricing heuristic is developed and tested under varying levels of information accuracy and granularity. The heuristic is shown to provide better economic welfare for both participants in comparison to the baseline pricing strategies considered. Also, it is shown that information, even at a coarse level of granularity, is very effective in providing stable service levels--a finding that is encouraging for enhanced collaborations between customer and provider organizations in outsourcing arrangements.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2630">heterogeneous demand</a>,    <a href="/keywords/528">information sharing</a>,    <a href="/keywords/2288">IT services</a>,    <a href="/keywords/1708">pricing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

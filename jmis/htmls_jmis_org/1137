@@ -1,0 +1,67 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/62">    Volume 21 Number 4 2005
+</a> pp. 5-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ As the capabilities of information systems (IS) grow and multiply, the systems are contributing to the handling of higher orders of complexity and enabling us to embed them in the ever richer contexts to salutary effects. Digital archives can be moved architecturally toward permanence; Web search and knowledge discovery can be made more effective with genetic algorithms, Web mining, and visualization techniques; novel data mining techniques can be exploited to assign patients or insurance prospects to risk groups; virtual communities can be created and maintained; and large-scale negotiations, with multiple actors in complex environment of high uncertainty, can be supported. Indeed, our field can make significant contributions in all of these&#8212;and many other&#8212;domains. This is illustrated very well by the Special Issue on Context-Driven Information Access and Deployment, guest-edited by Robert O. Briggs, Gert-Jan de Vreede, Jay F. Nunamaker Jr., and Ralph H. Sprague Jr., who will further introduce the included papers to you.
+</p>
+<p>
+ In the first paper of the general section, Sulin Ba, Jan Stallaert, Andrew B. Whinston, and Han Zhang study the sustainable choice patterns of the  electronic versus conventional market channels. The authors determine analytically the lasting patterns of coexistence between the two principal transaction channels, with the channel choice conditioned by the nature of the product. They also forecast analytically a technologically based tipping point, when going to the electronic market through a trusted intermediary would become the preferred method of acquisition. The use of evolutionary game theory is a notable contribution to the toolbox of our discipline.
+</p>
+<p>
+ The user-acceptance models in common currency in our field do not accord its proper place to quality as a fundamental antecedent of user satisfaction. Indeed, very few database textbooks address the issue of data quality! Here, R. Ryan Nelson, Peter A. Todd, and Barbara H. Wixom present a model of the determinants of both information quality and IS quality. The authors validate the model in the apt context of data warehousing. It is hoped that this work, when combined with the increased attention devoted to information quality in other recent research [1], will focus our field on the quality of our products and processes.
+</p>
+<p>
+ The resource-based theory, focusing on the firm&#8217;s resources as the source of the firm&#8217;s competitiveness, waxes and wanes. At this time, a consensus has emerged that the complementarities of appropriate (inter alia, appropriable) resources, including the well-targeted IS, can lead to a heightened firm performance in the marketplace. Here, T. Ravichandran and Chalermsak Lertwongsatien move forward the development of this theory by offering and validating a model that relates the IS and information technology antecedents to the resulting IS capabilities, and further to the support for the firm&#8217;s core competencies, and then on to the performance of individual firms. The empirical evidence that the core IS resources are at the source of superior (or not) performance of a firm is of an obvious value to the decision-makers.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p>
+<p>
+ Reference
+</p>
+<p>
+ 1. Wang, R.Y.; Madnick, S.E.; Pierce, E.M.; and Fisher, C.W. (eds.). Information Quality. Advances in Management Information Systems. Armonk, NY: M.E. Sharpe, 2005.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

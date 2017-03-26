@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/46">    Volume 21 Number 2 2004
+</a> pp. 87-107</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Poaching and the Misappropriation of Information: Transaction Risks of Information Exchange</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/397">Hitt, Lorin M</a>    </div>
+
+<p>ABSTRACT: We address the concept of poaching, the risk that in any transactional relationship, information that is transferred between parties for purposes specified in the contract will deliberately be used by the receiving party for purposes outside the contract, to its own economic benefit, and to the detriment of the party that provided the information. We argue that this form of transactional risk, a component of transaction costs, is increasingly important in our service-centered, information-driven, postindustrial economy. Using case examples and a discussion of the related literature, we demonstrate and discuss the conditions under which shared information creates the potential for poaching, examine the impact and efficacy of traditional remedies for contractual problems in managing poaching, and identify additional mechanisms for managing poaching risk. Our analysis suggests that these risks and their remedies are fundamentally different in nature from those considered in previous theories of supplier relations and contractual governance.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1798">economic analysis of information</a>,    <a href="/keywords/669">incomplete contracts</a>,    <a href="/keywords/528">information sharing</a>,    <a href="/keywords/1799">intellectual property</a>,    <a href="/keywords/1800">managing risks</a>,    <a href="/keywords/1801">transaction cost theory</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

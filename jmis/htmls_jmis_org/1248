@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/127">    Volume 32 Number 2 2015
+</a> pp. 134-161</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Contextualized Relationship Between Knowledge Sharing and Performance in Software Development</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1777">Ozer, Muammer</a> and     <a href="/contributors/716">Vogel, Doug</a>    </div>
+
+<p>ABSTRACT: 
+<p>We study how the knowledge that software developers receive from other software developers in their company impacts their performance. We also study the boundary conditions of this relationship. The results of our empirical study indicate that receiving knowledge from other software developers in the company is positively related to the performance of the knowledge-receiving software developers. Moreover, this relationship was stronger when the software developers had high rather than low task autonomy, when they had high- rather than low-quality social exchanges with their supervisors, and when the software development firms used formal knowledge utilization processes. Theoretically, these results contribute to a better understanding of the processes through which software developers utilize the knowledge that they receive from their peers in the firm. Practically, they show software development firms how emphasizing the task, social, and institutional dimensions of the software development process can help them increase knowledge utilization and performance in software development.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2004">knowledge sharing</a>,    <a href="/keywords/1982">software developers</a>,    <a href="/keywords/339">software development</a>,    <a href="/keywords/3518">software-development performance</a>,    <a href="/keywords/3519">systems design and implementation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

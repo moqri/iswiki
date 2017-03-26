@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/93">    Volume 21 Number 3 2004
+</a> pp. 7-45</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Coordinating for Flexibility in e-Business Supply Chains</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/676">Gosain, Sanjay,</a>    <a href="/contributors/670">Malhotra, Arvind,</a> and     <a href="/contributors/562">El Sawy, Omar A</a>    </div>
+
+<p>ABSTRACT: The widespread use of information technology (IT) to create electronic linkages among supply chain partners with the objective of reducing transaction costs may have unintended adverse effects on supply chain flexibility. Increasing business dynamics, changing customer preferences, and disruptive technological shifts pose the need for two kinds of flexibility that interenterprise information systems must address--the ability of interenterprise linkages to support changes in offering characteristics (offering flexibility) and the ability to alter linkages to partner with different supply chain players (partnering flexibility). This study explores how enterprises in supply chains may forge supply chain linkages that enable both types of flexibility jointly, and allow them to deal with ubiquitous change. Drawing on March and Simon's coordination theory, we propose two design principles: (1) advance structuring of interorganizational processes and Information exchange that allows partnering organizations to be loosely coupled, and (2) IT-supported dynamic adjustment that allows enterprises to quickly sense change and adapt their supply chain linkages. This study reports on a survey of 41 supply chain relationships in the IT industry. For design principle, our empirical investigation of factors shows (I) that modular design of interconnected processes and structured data connectivity are associated with higher supply chain flexibility, and (2) that deep coordination-related knowledge is critical for supply chain flexibility. Also, sharing a broad range of information with partners is detrimental to supply chain flexibility, and organizations should instead focus on improving the quality of information shared. For Industry managers, the study provides clear insights for information infrastructure design. To manage their interdependencies, enterprises need to encapsulate their interconnected processes in modular chunks, and support these with IT platforms for...</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1821">coordination theory</a>,    <a href="/keywords/867">information technology infrastructure</a>,    <a href="/keywords/665">interorganizational systems</a>,    <a href="/keywords/1822">supply chain flexibility</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

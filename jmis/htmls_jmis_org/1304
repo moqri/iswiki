@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/132">    Volume 33 Number 3 2016
+</a> pp. 713-743</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>From Warning to Wallpaper: Why the Brain Habituates to Security Warnings and What Can Be Done About It</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1859">Anderson, Bonnie Brinton,</a>    <a href="/contributors/1069">Vance, Anthony,</a>    <a href="/contributors/1860">Kirwan, C Brock,</a>    <a href="/contributors/857">Jenkins, Jeffrey L,</a> and     <a href="/contributors/1861">Eargle, David</a>    </div>
+
+<p>ABSTRACT: 
+<p>Warning messages are fundamental to users’ security interactions. Unfortunately, they are largely ineffective, as shown by prior research. A key contributor to this failure is habituation: decreased response to a repeated warning. Previous research has only inferred the occurrence of habituation to warnings, or measured it indirectly, such as through the proxy of a related behavior. Therefore, there is a gap in our understanding of how habituation to security warnings develops in the brain. Without direct measures of habituation, we are limited in designing warnings that can mitigate its effects. In this study, we use neurophysiological measures to directly observe habituation as it occurs in the brain and behaviorally. We also design a polymorphic warning artifact that repeatedly changes its appearance in order to resist the effects of habituation. In an experiment using functional magnetic resonance imaging (fMRI; n = 25), we found that our polymorphic warning was significantly more resistant to habituation than were conventional warnings in regions of the brain related to attention. In a second experiment (n = 80), we implemented the four most resistant polymorphic warnings in a realistic setting. Using mouse cursor tracking as a surrogate for attention to unobtrusively measure habituation on participants’ personal computers, we found that polymorphic warnings reduced habituation compared to conventional warnings. Together, our findings reveal the substantial influence of neurobiology on users’ habituation to security warnings and security behavior in general, and we offer our polymorphic warning design as an effective solution to practice</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3717">behavioral information systems security</a>,    <a href="/keywords/3703">cybersecurity</a>,    <a href="/keywords/3718">fMRI</a>,    <a href="/keywords/3719">functional magnetic resonance imaging</a>,    <a href="/keywords/3720">habituation</a>,    <a href="/keywords/3721">mouse cursor tracking</a>,    <a href="/keywords/3722">neurobiology</a>,    <a href="/keywords/2783">NeuroIS</a>,    <a href="/keywords/3723">polymorphic warnings</a>,    <a href="/keywords/3724">security warnings</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

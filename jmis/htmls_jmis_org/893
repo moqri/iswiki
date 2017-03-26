@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/73">    Volume 19 Number 4 2003
+</a> pp. 191-212</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Generating and Browsing Multiple Taxonomies Over a Document Collection</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1419">Spangler, Scott,</a>    <a href="/contributors/1420">Kreulen, Jeffrey T,</a> and     <a href="/contributors/1421">Lessler, Justin</a>    </div>
+
+<p>ABSTRACT: We present a novel system and methodology for generating and then browsing multiple taxonomies over a document collection. Taxonomies are generated using a broad set of capabilities, including meta data, key word queries, and automated clustering techniques that serve as a seed taxonomy. The taxonomy editor, eClassifier, provides powerful tools to visualize and edit each taxonomy to make it reflective of the desired theme. Cluster validation tools allow the editor to verify that documents received in the future can be automatically classified into each taxonomy with sufficiently high accuracy. In general, those seeking knowledge from a document collection may have only a vague notion of exactly what they are attempting to understand, and would like to explore related topics and concepts rather than simply being given a set of documents. For this purpose, we have developed MindMap, an interface utilizing multiple taxonomies and the ability to interact with a document collection.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1207">data mining</a>,    <a href="/keywords/1529">document classification</a>,    <a href="/keywords/1278">document clustering techniques</a>,    <a href="/keywords/202">knowledge management</a>,    <a href="/keywords/1376">navigation</a>,    <a href="/keywords/924">taxonomy</a>,    <a href="/keywords/1533">text mining</a>,    <a href="/keywords/1381">visualization</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

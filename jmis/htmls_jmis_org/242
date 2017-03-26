@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/40">    Volume 26 Number 3 2009
+</a> pp. 241-274</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Risks and Benefits of Signaling Information System Characteristics to Strategic Attackers</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/415">Cremonini, Marco</a> and     <a href="/contributors/416">Nizovtsev, Dmitri</a>    </div>
+
+<p>ABSTRACT: The paper uses a game-theoretic setting to examine the interaction between strategic attackers who try to gain unauthorized access to information systems, or "targets," and defenders of those targets. Our analysis of the attacker--defender interaction shows that well-protected targets can use signals of their superior level of protection as a deterrence tool. This is due to the fact that, all other things being equal, rational attackers motivated by potential financial gains tend to direct their effort toward less-protected targets. We analyze several scenarios differing in the scope of publicly available information about target parameters and discuss conditions under which greater defenders' ability to signal their security characteristics may improve their welfare. Our results may assist security researchers in devising better defense strategies through the use of deterrence and provide new insight about the efficacy of specific security practices in complex information security environments.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/81">cost-benefit analysis</a>,    <a href="/keywords/2590">crime deterrence</a>,    <a href="/keywords/2591">games of complete and incomplete information</a>,    <a href="/keywords/2271">information security</a>,    <a href="/keywords/2592">information warfare</a>,    <a href="/keywords/2593">interdependent strategies</a>,    <a href="/keywords/1340">signaling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

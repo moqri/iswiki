@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/6">    Volume 11 Number 2 1994
+</a> pp. 9-36</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Segmentation, Differentiation, and Flexible Pricing: Experiences with Information Technology and Segment-Tailored Strategies</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/393">Weber, Bruce W</a>    </div>
+
+<p>ABSTRACT: Information technology (IT) radically alters the cost of capturing, storing, and analyzing information, and thus dramatically alters the value of the historical data represented by a firm's detailed transaction records of customer interactions. Yet, information systems are seldom used to their full potential in developing flexible pricing strategies and tailored offerings for individual customers, based either on the actual cost of serving these customers or on their demonstrated preferences and requirements. This will become increasingly crucial in industries with heterogeneous customers and with costs that vary widely across customers, in order to enable flexible pricing and to provide services that are accurately targeted at the needs of specific customer segments. In addition, accurate, detailed, and robust cost-accounting systems and expertise in the interpretation of performance data will increasingly become essential for competing successfully; those firms prevented from accurate microsegmentation by corporate culture and tradition, by regulation, or by an outmoded information infrastructure will be vulnerable to newer and more nimble competitors. In particular, being the low-cost provider with economies of scale will not provide adequate defense against targeted cream-skimming by opportunistic competitors, able to offer lower prices to selected customer segments. The earliest academic papers on the strategic implications of information technology explicitly adopted a framework recommending that firms adopt a single, simple generic strategy from a small set (cost leadership, differentiation, or niche). In contrast, recent experience suggests that IT may enable firms to select from more finely tuned strategic options, arid that it may require them to implement multiple strategies simultaneously.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/755">flexible pricing</a>,    <a href="/keywords/756">market segmentation</a>,    <a href="/keywords/757">value of information</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/111">    Volume 17 Number 3 2000
+</a> pp. 73-92</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Conversation Map: An Interface for Very Large-Scale Conversations</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1343">Sack, Warren</a>    </div>
+
+<p>ABSTRACT: Very large-scale conversation (VLSC) involves the exchange of thousands of electronic mail (e-mail) messages among hundreds or thousands of people. Usenet newsgroups are good examples (but not the only examples) of online sites where VLSCs take place. To facilitate understanding of the social and semantic structure of VLSCs, two tools from the social sciences--social networks and semantic networks--have been extended for the purposes of interface design. As interface devices, social and semantic networks need to be flexible, layered representations that are useful as a means for summarizing, exploring, and cross-indexing the large volumes of messages that constitute the archives of VLSCs. This paper discusses the design criteria necessary for transforming these social scientific representations into interface devices. The discussion is illustrated with the description of the Conversation Map system, an implemented system for browsing and navigating VLSCs.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1374">browsing</a>,    <a href="/keywords/1375">conversation analysis</a>,    <a href="/keywords/400">discourse analysis</a>,    <a href="/keywords/113">electronic mail</a>,    <a href="/keywords/918">interface design</a>,    <a href="/keywords/1376">navigation</a>,    <a href="/keywords/1377">newsgroups</a>,    <a href="/keywords/1378">semantic networks</a>,    <a href="/keywords/1379">social networks</a>,    <a href="/keywords/1380">summarization</a>,    <a href="/keywords/1381">visualization</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

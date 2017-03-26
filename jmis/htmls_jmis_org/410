@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/34">    Volume 10 Number 3 1993
+</a> pp. 43-61</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Implementing Gesturing with Cursors in Group Support Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/745">Hayne, Stephen C,</a>    <a href="/contributors/460">Pendergast, Mark O,</a> and     <a href="/contributors/744">Greenberg, Saul</a>    </div>
+
+<p>ABSTRACT: Gesturing from one human to another appears to span all cultural boundaries; one could possibly call it a universal means of communication. Group work studies have shown that gesturing makes up over 35 percent of all interactions. Participants use hand gestures to enact ideas, to focus the attention of the group, to signal turn-taking, and to reference objects on the work surface. Specifically, this paper explores gesturing as applied to users of group support systems. We address practical issues such as: at what level of interaction might gesturing be supported, how large and what shape should gesture pointers be, how they should move, network and processor throughput requirements, and group size effects. Our results show that while full motion computer gesturing can be supported on PC-LAN systems for small groups, gesturing for medium and large groups requires the use of special techniques such as regulating transmission rates, motion smoothing, and point and quiver cursors. These techniques could also be applied to wide area network implementations to reduce network traffic and latency problems.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/497">computer-supported cooperative work</a>,    <a href="/keywords/697">gesturing</a>,    <a href="/keywords/698">groupware</a>,    <a href="/keywords/699">local area networks</a>,    <a href="/keywords/700">telepointers</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

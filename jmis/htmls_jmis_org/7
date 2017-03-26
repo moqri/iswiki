@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/2">    Volume 6 Number 1 1989
+</a> pp. 101-110</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Security of Statistical Databases with an Output Perturbation Technique</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/7">Adam, Nabil R</a> and     <a href="/contributors/10">Jones, Douglas H</a>    </div>
+
+<p>ABSTRACT: A statistical database aims at providing users with statistics about the population while not compromising the confidentiality of the individuals whose data are included in the database. Threats to the database security range from issuing cleverly designed sequences of queries to using such sophisticated methods as regression analysis. In order to overcome this security problem, several solution methods have been suggested in the literature. These methods can be classified under four general approaches: conceptual modeling; query restriction; data perturbation; and output perturbation. These methods, however, can be easily compromised, or require excessive CPU and memory, or result in biased response to users. The purpose of this paper is to propose a new type of output perturbation method that may be very difficult to compromise and provides unbiased response. The method is based on recoiling of the data, the jackknifing concept, and an extension of the random sample queries method suggested by Denning [5]. A comparison of the proposed method and the modified random sample queries method (which is considered a viable alternative for security of statistical databases) is presented.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/356">database management</a>,    <a href="/keywords/357">statistical databases</a>,    <a href="/keywords/358">database security</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

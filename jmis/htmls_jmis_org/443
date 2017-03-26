@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/30">    Volume 30 Number 3 2013
+</a> pp. 81-114</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Process Model of Complementarity and Substitution of Contractual and Relational Governance in IS Outsourcing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/799">Huber, Thomas L,</a>    <a href="/contributors/800">Fischer, Thomas A,</a>    <a href="/contributors/801">Dibbern, Jens,</a> and     <a href="/contributors/802">Hirschheim, Rudy</a>    </div>
+
+<p>ABSTRACT: This paper develops a process model of how and why complementarity and substitution form over time between contractual and relational governance in the context of information systems outsourcing. Our analysis identifies four distinct process patterns that explain this formation as the outcome of interaction processes between key elements of both contractual and relational governance. These patterns unveil the dynamic nature of complementarity and substitution. In particular, we show that the relationship between contractual and relational governance oscillates between complementarity and substitution. Those oscillations are triggered mainly by three types of contextual events (goal fuzziness, goal conflict, and goal misalignment). Surprisingly, substitution of informal control did not occur as an immediate reaction to external events but emerged as a consequence of preceding complementarity. Thus, our study challenges the prevailing view of an either/or dichotomy of complementarity and substitution by showing that they are causally connected over time.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3186">contract</a>,    <a href="/keywords/3187">contractual governance</a>,    <a href="/keywords/3188">formal control</a>,    <a href="/keywords/3189">informal control</a>,    <a href="/keywords/903">information systems outsourcing</a>,    <a href="/keywords/650">outsourcing</a>,    <a href="/keywords/3190">process view</a>,    <a href="/keywords/2999">relational governance</a>,    <a href="/keywords/1108">trust</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

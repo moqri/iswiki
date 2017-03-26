@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/128">    Volume 32 Number 3 2015
+</a> pp. 10-47</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Last Research Mile: Achieving Both Rigor and Relevance in Information Systems Research</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1729">Nunamaker, Jay F,</a>    <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/1194">Derrick, Douglas C,</a> and     <a href="/contributors/97">Schwabe, Gerhard</a>    </div>
+
+<p>ABSTRACT: 
+<p>From our desk chairs it may be tempting to work up an idea, build a quick prototype, test it in a lab, and say, “Our work here is done; the rest is merely details.” More scholarly knowledge awaits discovery, however, by researchers who shepherd an information systems (IS) solution through the last research mile, that is, through successful transition to the workplace. Going the last research mile means using scientific knowledge and methods to address important unsolved classes of problems for real people with real stakes in the outcomes. The last research mile proceeds in three stages: proof-of-concept research to demonstrate the functional feasibility of a solution; proof-of-value research to investigate whether a solution can create value across a variety of conditions; and proof-of-use research to address complex issues of operational feasibility. The last research mile ends only when practitioners routinely use a solution in the field. We argue that going the last research mile negates the assumption that one must trade off rigor and relevance, showing it to be it a false dilemma. Systems researchers who take their solutions through the last research mile may ultimately have the greatest impact on science and society. We demonstrate the last research mile with cases from our own work and the work of others spanning more than forty years.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2317">design science</a>,    <a href="/keywords/3544">prototypes</a>,    <a href="/keywords/3545">research methodology</a>,    <a href="/keywords/3546">research rigor</a>,    <a href="/keywords/3547">systems research</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

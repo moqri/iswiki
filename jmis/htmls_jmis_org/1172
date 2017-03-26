@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/120">    Volume 30 Number 4 2014
+</a> pp. 235-268</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Effects of Social Networks on Prediction Markets: Examination in a Controlled Experiment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1661">Qiu, Liangfei,</a>    <a href="/contributors/1662">Rui, Huaxia,</a> and     <a href="/contributors/154">Whinston, Andrew B</a>    </div>
+
+<p>ABSTRACT: This paper examines the effect of a social network on prediction markets using a controlled laboratory experiment that allows us to identify causal relationships between a social network and the performance of an individual participant, as well as the performance of the prediction market as a whole. Through a randomized experiment, we first confirm the theoretical predictions that participants with more social connections are less likely to invest in information acquisition from outside information sources, but perform significantly better than other participants in prediction markets. We further show that when the cost of information acquisition is low, a social network-embedded prediction market outperforms a nonnetworked prediction market. We find strong support for peer effects in prediction accuracy among participants. These results have direct managerial implications for the business practice of prediction markets and are critical to understanding how to use social networks to improve the performance of prediction markets.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1383">information exchange</a>,    <a href="/keywords/3256">prediction markets</a>,    <a href="/keywords/1379">social networks</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

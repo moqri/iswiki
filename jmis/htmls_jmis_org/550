@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/20">    Volume 27 Number 4 2011
+</a> pp. 231-260</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Consumer Acceptance of Recommendations by Interactive Decision Aids: The Joint Role of Temporal Distance and Concrete Versus Abstract Communications</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/938">Kohler, Clemens F,</a>    <a href="/contributors/939">Breugelmans, Els,</a> and     <a href="/contributors/940">Dellaert, Benedict G C</a>    </div>
+
+<p>ABSTRACT: Interactive decision aids (IDAs) typically use concrete, featureâ€“based approaches to interact with consumers. Recently, however, interaction designs that focus on communicating abstract consumer needs have been suggested as a promising alternative. This paper investigates how temporal distance moderates the effectiveness of these two competing IDA communication designs by its effect on consumersâ€™ mental representation of the product decision problem. Temporal distance is inherently connected to IDAs in two ways. Congruency between consumption timing (immediate versus distant) and IDA communication design (concrete versus abstract, respectively) increases the likelihood to accept the IDAâ€™s advice. This effect is also achieved by congruency between IDA process timing (immediate versus delayed delivery of recommendations) and IDA communication design (concrete versus abstract, respectively). We further show that this process is mediated by the perceived transparency of the IDA process. Managers and researchers need to take into account the importance of congruency between the user and the interface through which companies interact with their users and can further optimize IDAs so that they better match consumersâ€™ mental representations.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2770">construal level theory</a>,    <a href="/keywords/2686">consumer behavior</a>,    <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/2771">interactive decision aids</a>,    <a href="/keywords/2772">recommenders</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

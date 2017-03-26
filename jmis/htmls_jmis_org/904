@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/64">    Volume 29 Number 4 2013
+</a> pp. 217-248</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Emotions and Information Diffusion in Social Media-Sentiment of Microblogs and Sharing Behavior</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1435">Stieglitz, Stefan</a> and     <a href="/contributors/1436">Dang-Xuan, Linh</a>    </div>
+
+<p>ABSTRACT: As a new communication paradigm, social media has promoted information dissemination in social networks. Previous research has identified several content-related features as well as user and network characteristics that may drive information diffusion. However, little research has focused on the relationship between emotions and information diffusion in a social media setting. In this paper, we examine whether sentiment occurring in social media content is associated with a user's information sharing behavior. We carry out our research in the context of political communication on Twitter. Based on two data sets of more than 165,000 tweets in total, we find that emotionally charged Twitter messages tend to be retweeted more often and more quickly compared to neutral ones. As a practical implication, companies should pay more attention to the analysis of sentiment related to their brands and products in social media communication as well as in designing advertising content that triggers emotions.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2824">information diffusion</a>,    <a href="/keywords/3072">sentiment</a>,    <a href="/keywords/2912">social media</a>,    <a href="/keywords/3073">Twitter</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

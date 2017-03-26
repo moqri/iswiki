@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/100">    Volume 30 Number 1 2013
+</a> pp. 153-190</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Drivers in the Use of Online Whistle-Blowing Reporting Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/532">Lowry, Paul Benjamin,</a>    <a href="/contributors/1068">Moody, Gregory D,</a>    <a href="/contributors/587">Galletta, Dennis F,</a> and     <a href="/contributors/1069">Vance, Anthony</a>    </div>
+
+<p>ABSTRACT: Online whistle-blowing reporting systems (WBRS) have become increasingly prevalent channels for reporting organizational failures. The Sarbanes-Oxley Act and similar international laws now require firms to establish whistle-blowing (WB) procedures and WBRSs, increasing the importance of WB research and applications. Although the literature has addressed conventional WB behavior, it has not explained or measured the use of WBRSs in online contexts that could significantly alter elements of anonymity, trust, and risk for those using such reporting tools. This study proposes the WBRS model (WBRS-M). Using actual working professionals in an online experiment of hypothetical scenarios, we empirically tested the WBRS-M for reporting computer abuse and find that anonymity, trust, and risk are highly salient in the WBRS context. Our findings suggest that we have an improved WB model with increased explanatory power. Organizations can make WB less of a professional taboo by enhancing WBRS users' perceptions of trust and anonymity. We also demonstrate that anonymity means more than the mere lack of identification, which is not as important in this context as other elements of anonymity.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1085">anonymity</a>,    <a href="/keywords/3107">computer abuse</a>,    <a href="/keywords/3108">IT artifacts</a>,    <a href="/keywords/3109">organizational failure</a>,    <a href="/keywords/3110">organizational governance</a>,    <a href="/keywords/3111">risk</a>,    <a href="/keywords/1108">trust</a>,    <a href="/keywords/1484">whistle-blowing</a>,    <a href="/keywords/3112">whistle-blowing reporting systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

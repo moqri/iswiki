@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/10">    Volume 9 Number 1 1992
+</a> pp. 185-203</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Performance Analysis of &quot;What-If&quot; Databases Using Independently Updated Views</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/436">Ramirez, Richard G,</a>    <a href="/contributors/954">Kulkarni, Uday R,</a> and     <a href="/contributors/1303">Moser, Kathleen A</a>    </div>
+
+<p>ABSTRACT: Multiple scenarios are critical to "what-if" analysis. Scenarios are built using alternate versions of a database; each version shows, in detail, the result of a decision or a combination of decisions. Relational database management systems, despite their widespread use, lack the explicit capabilities for what-if analysis. We present a concept called independently updated views (IUVs) for creating multiple scenarios. An IUV corresponds to a version of the database. Each version is manipulated and updated as if it were the "real" database; however, only differences between the version and the real database are stored. This paper describes an experiment for measuring the overhead of using IUVs for supporting what-if analysis for a range of typical views and queries. Results indicate that the overhead is minimal for creating what-if scenarios based on views with aggregate functions (SUM, AVG) and on views that are small subsets of the database. These are the classes of views that are more often used in decision making. For views that require retrieval of entire or large portions of the database, the overhead can be high and special data structures may be required.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/565">hypothetical databases</a>,    <a href="/keywords/59">relational databases</a>,    <a href="/keywords/566">relational views</a>,    <a href="/keywords/567">view updates</a>,    <a href="/keywords/568">What if</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

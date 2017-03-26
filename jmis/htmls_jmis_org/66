@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/23">    Volume 18 Number 3 2001
+</a> pp. 259-282</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Effects of Decision Guidance and Problem Modeling on Group Decision-Making</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/143">Barkhi, Reza</a>    </div>
+
+<p>ABSTRACT: Despite the advances in group decision support system (GDSS) research, few GDSS studies concentrate on problem-modeling tools to support decisions that cross boundaries of functional areas within the business. These decisions have a substantial effect on the profitability of the firm and account for much time and effort of senior management. This research investigates the effect of problem structuring and modeling with a GDSS on coordinated decision-making of managers in a group faced with a mixed-motive production-planning task. In a laboratory experiment, a GDSS with features supporting problem modeling is contrasted with a GDSS without such features. The results indicate that the groups using a GDSS with a problem-modeling tool outperformed the groups using a GDSS without a problem-modeling tool, but they were less efficient with respect to the time and number of messages it takes the group to converge to a final solution. User confidence in the solution did not differ between the two groups. The results of this study indicate that the problem modeling feature of a GDSS significantly influences group decision process and outcomes.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/336">human-computer interaction</a>,    <a href="/keywords/1509">problem modeling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

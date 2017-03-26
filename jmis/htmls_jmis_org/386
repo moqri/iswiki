@@ -1,0 +1,88 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/56">    Volume 14 Number 1 1997
+</a> pp. 9-12</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: The Impacts of Business Process Change on Organizational Performance</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/195">Grover, Varun</a> and     <a href="/contributors/695">Kettinger, William J</a>    </div>
+
+<p><p>
+ HINDSIGHT is 20/20. NOW, WITH A CRITICAL MASS of business process change (BPC) projects concluded, it  is appropriate to take a retrospective look at the implications, prescriptions, or lessons we can extract from these  collective experiences. Assimilated in these experiences is the realization that reengineering's operative word is  not "radical" but "process," with the directive to create end-to-end value for the customer. In doing so, the  "obliterate and rebuild" mentality of earlier years is giving way to more sober, deliberate, and often moderate  approaches to BPC and process management.
+</p>
+<p>
+ More recently, there have been attempts to study the contingent nature of BPC and factors leading to its  success. Paramount among the emerging themes is the importance of change management, as contrasted with  earlier emphasis on technology management. Other lessons include strong top management sponsorship,  strategic alignment with corporate goals, sound methodology, and line ownership. Most of these factors are not  new and have been examined in prior studies of technology implementation, organizational change, and  innovation. What is new is the relevance and interaction of these among themselves and their influence on the  nature of BPC outcomes. To extract individual variables with generalizability across diverse contexts and examine  them in the positivist tradition of research is extremely challenging. However, to ignore the rich repository of  real-world experiences would be foolish.
+</p>
+<p>
+ This Special Section makes a significant attempt at leveraging organizational experiences with BPC and  translates them into actionable guides. It is evident that, while we are making progress, our tools are still blunt and  our conclusions are not as definitive as we would like. However. each paper included here focuses on aspects  of BPC that are critical and yet understudied. As such, they add to the collective wisdom of the "how," "when,"  "what," and "why" of BPC. The papers included in this Special Section were selected from a large number of  submissions from around the world and epitomize the study of global phenomenon in a global world.
+</p>
+<p>
+ Five aspects of BPC and its impact on organizational performance are examined:
+</p>
+<p>
+ 1. The virtualization of the physical;
+</p>
+<p>
+ 2. The reinvention of organizational control;
+</p>
+<p>
+ 3. The efficacy of empowerment and teams;
+</p>
+<p>
+ 4. The harmonization of change; and
+</p>
+<p>
+ 5. The facilitators of and inhibitors to major change initiatives.
+</p>
+<p>
+ In the first article, Akemi Takeoka Chatfield and Niels Bjorn-Andersen use a generic framework of BPC to  describe the successful transformation of Japanese Airlines (JAL) from a physical to a virtual value chain. The  impact of the interorganizational system on key business processes resulted in positive business outcomes  including growth, competitiveness, response time, and cycle time of joint product innovation. What is particularly  interesting is the ability of JAL to exploit the interaction between business processes and technology. The authors  conclude that the traditional keiretsu-based organizational form with the focal point of the firm at the center,  which has been a source of competitive advantage for Japanese industries, is not sufficient for today's  time-based competition. Instead, keiretsu-based interfirm collaboration has to be augmented with  interorganizational systems (IOS)-enabled virtual value chains to facilitate flexible, nonhierarchical communication  across network members.
+</p>
+<p>
+ In the next paper, Brian D. Janz, James C. Wetherbe, Gordon B. Davis, and Raymond A. Noe assess the  effects of empowered teams on BPC outcomes through an empirical assessment of 231 IS professionals from 27  IS professionals from 27 IS development projects. Using Kettinger and Grover's model of business process  change management as an overarching framework, these authors examine the extent to which reengineered ISD  organizations using autonomous teamwork, is organizations with higher capacities for learning and higher levels  of cultural readiness, result in greater improvements in process outcomes and Quality of Work Life (QWL). Like  the findings in Guha et al. (also in this issue), these findings reinforce the importance of double-loop learning and  of creating a "learning organization." It would be prudent for management to consider the multidimensional. nature  of BPR and stress the importance of, and provide ample opportunity for, cooperative learning while teams  address their work objectives.
+</p>
+<p>
+ Siew Kien Sia and Boon Siong Neo focus on a topic that has received little research attention--  organizational control in the context of major BPC. They argue that a lack of focus on control issues can expose  reengineered systems to excessive risks and long-term failure. The paper conceptualizes organizational control  and reports on an intensive case study of successful reengineering at the Inland Revenue Authority of Singapore  (IRAS). In addition to well-documented outcomes of this initiative, the IRAS's commissioner was presented the  Meritorious Service Medal, one of Singapore's highest honors, for his role in leading reengineering. Of particular  interest are the four stage so of evolution of control systems in IRAS ranging from "automated" control to  "humanistic" control. The challenge is one of implementing proper controls within the traditional control culture. The  authors suggest a risk-management approach for the assessment of control systems.
+</p>
+<p>
+ The notion of "fit" is very popular, particularly in strategic management studies. Ard Huizing, Esther  Koster, and Wim Bouman examine the fit among breadth, depth, planning, planning and coordination of business  reengineering efforts in thirty-three firms. They define three archetypes or ideal patterns of change based on their  level of ambition. Successful organizations are hypothesized to have fewer "misfits" within the archetype. Their  results indicate that organizations that achieved a fit generally outperformed those that changed in an unbalanced  way. They suggest that achieving fit is a fragile process that needs to be managed explicitly and constantly.
+</p>
+<p>
+ Finally, Subo Guha, Varun Grover, William J. Kettinger, and James T.C. Teng present a multicase  comparison of three BPC efforts ranging in success from high to low. A BPC management model was applied to  compare and contrast "facilitators" and "inhibitors" of the outcome. The successful project consistently showed  positive facilitators in all of the BPC management framework's dimensions. At the other extreme, the least  successful project had the greatest clustering of inhibitors in the areas of cultural readiness and change   management. Also, the often-stated position that IS should not drive major BPC projects, and that change  management requires effective consideration of balance, continuos learning, and consideration of  interdependencies, was reaffirmed.
+</p>
+<p>
+ The broad conclusions from these studies are that successful BPC requires explicit consideration of  virtualization of physical processes, careful redesign of organization control to manage the changed context,  creation of "learning-friendly" environments, a balance between aspirations and the conduct of change, and  recognition that change is complex, interdependent, and should not be promoted by a group with parochial  interests.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

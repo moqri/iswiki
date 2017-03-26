@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/1">    Volume 25 Number 1 2008
+</a> pp. 49-78</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Stylometric Identification in Electronic Markets: Scalability and Robustness</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1">Abbasi, Ahmed,</a>    <a href="/contributors/2">Hsinchun, Chen,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: Online reputation systems are intended to facilitate the propagation of word of mouth as a credibility scoring mechanism for improved trust in electronic marketplaces. However, they experience two problems attributable to anonymity abuse--easy identity changes and reputation manipulation. In this study, we propose the use of stylometric analysis to help identify online traders based on the writing style traces inherent in their posted feedback comments. We incorporated a rich stylistic feature set and developed the Writeprint technique for detection of anonymous trader identities. The technique and extended feature set were evaluated on a test bed encompassing thousands of feedback comments posted by 200 eBay traders. Experiments conducted to assess the scalability (number of traders) and robustness (against intentional obfuscation) of the proposed approach found it to significantly outperform benchmark stylometric techniques. The results indicate that the proposed method may help militate against easy identity changes and reputation manipulation in electronic markets.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2394">anti-aliasing</a>,    <a href="/keywords/486">electronic markets</a>,    <a href="/keywords/1577">online trust</a>,    <a href="/keywords/2395">similarity detection</a>,    <a href="/keywords/2396">stylometry</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

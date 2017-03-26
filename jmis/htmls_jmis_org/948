@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/103">    Volume 15 Number 4 1999
+</a> pp. 187-214</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Integrated Model of Information Systems Adoption in Small Businesses</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1235">Thong, James Y L</a>    </div>
+
+<p>ABSTRACT: Based on theories from the technological innovation literature, this study develops an integrated model of information systems (IS) adoption in small businesses. The model specifies contextual variables such as decision-maker characteristics, IS characteristics, organizational characteristics, and environmental characteristics as primary determinants of IS adoption in small businesses. A questionnaire survey was conducted in 166 small businesses. Data analysis shows that small businesses with certain CEO characteristics (innovativeness and level of IS knowledge), innovation characteristics (relative advantage, compatibility, and complexity of IS), and organizational characteristics (business size and level of employees' IS knowledge) are more likely to adopt IS. While CEO and innovation characteristics are important determinants of the decision to adopt, they do not affect the extent of IS adoption. The extent of IS adoption is mainly determined by organizational characteristics. Finally, the environmental characteristic of competition has no direct effect on small business adoption of IS.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/456">information systems</a>,    <a href="/keywords/1200">innovation theories</a>,    <a href="/keywords/781">small business</a>,    <a href="/keywords/1201">technological innovation</a>,    <a href="/keywords/1202">technology adoption</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

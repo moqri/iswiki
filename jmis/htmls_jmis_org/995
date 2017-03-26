@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/112">    Volume 23 Number 3 2006
+</a> pp. 163-207</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Using Enterprise Architecture Standards in Managing Information Technology</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1545">Wai Fong, Boh</a> and     <a href="/contributors/1546">Yellin, Daniel</a>    </div>
+
+<p>ABSTRACT: Organizations increasingly need to build an enterprise-wide capability to leverage technology that is distributed in different business units. Some organizations establish enterprise architecture (EA) standards to enable greater compatibility of information technology (IT) components and integration of applications and data across the enterprise. Through a firm-level survey, we sought to answer two key questions about the use of EA standards: (1) How do different governance mechanisms affect the use of EA standards? and (2) To what extent does the use of EA standards help organizations to improve the sharing and integration of IT resources across the enterprise? We identified four key governance mechanisms for EA standards management and examined how each mechanism affected the use of EA standards. We also examined how the use of EA standards affects the management of IT infrastructure, applications, and data resources across business units. Our empirical results showed that the use of EA standards is effective in helping organizations to better manage their IT resources. Our study also provides detailed insights into how organizations can set up governance mechanisms to facilitate the use of EA standards in achieving enterprise-wide goals.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2186">enterprise architecture</a>,    <a href="/keywords/1161">information systems governance</a>,    <a href="/keywords/2187">information technology architecture</a>,    <a href="/keywords/2188">organizational standards</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

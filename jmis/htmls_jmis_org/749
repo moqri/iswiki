@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/68">    Volume 23 Number 4 2007
+</a> pp. 29-51</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Interoperability of E-Government Information Systems: Issues of Identification and Data Sharing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1211">Otjacques, Benoît,</a>    <a href="/contributors/1212">Hitzelberger, Patrik,</a> and     <a href="/contributors/1213">Feltz, Fernand</a>    </div>
+
+<p>ABSTRACT: In business and government organizations, information systems often handle sensitive data about individuals and other organizations, using various kinds of identifiers. The growing cooperation of organizations results in the need to share and exchange such data. This collection and sharing, however, is affected by privacy concerns, and organizational and technical issues have to be solved and taken into account. This paper describes the results of an exploratory study in the government sector, focusing on the way public organizations manage identity-related data and the sharing of such data, either with other public agencies or with private organizations. Despite significant progress in harmonizing the legal and administrative provisions and technical standards in the European Union, there are still considerable cross-country differences regarding this subject. These differences--together with the growing mobility of goods, persons, and related data within the European Union--cause particular challenges for information systems in digital government in this region. After discussing and defining the key notions and methodology of the study, we present the status quo in 18 out of 25 EU member states and compare it to the results of a prior study by the same network done in 2001. Finally, we draw conclusions about identity management in cross-border contexts.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2202">data sharing</a>,    <a href="/keywords/2203">e-government</a>,    <a href="/keywords/2204">identifier</a>,    <a href="/keywords/2205">identity management</a>,    <a href="/keywords/528">information sharing</a>,    <a href="/keywords/2206">interoperability</a>,    <a href="/keywords/389">interorganizational information systems</a>,    <a href="/keywords/1355">privacy</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

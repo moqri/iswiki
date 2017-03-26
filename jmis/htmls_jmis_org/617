@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/44">    Volume 10 Number 1 1993
+</a> pp. 165-192</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Marketing Information Systems in the Fortune 500 Companies: Past, Present, and Future</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1033">Li, Eldon Y,</a>    <a href="/contributors/378">McLeod Jr, Raymond,</a> and     <a href="/contributors/1034">Rogers, John C</a>    </div>
+
+<p>ABSTRACT: Soon after the concept of a management information system was introduced in the mid-1960s, marketers tailored it to their own unique needs, naming it the marketing information system (MKIS). Several studies have been conducted of how MKISs are used in the Fortune 500 companies, and the authors compare their current findings to those of ten and eighteen years ago. It seems that both the MKIS support and the model use for the three levels of marketing management are more balanced today than ten years ago. Moreover, pricing decisions instead of product decisions are taking the lead in using the MKIS services today. Marketers have been taking advantage of developments in technology and methodology to increase the level of decision support since the 1960s. However, there is a lack of satisfaction with the MKIS among marketers today. Many firms are not linking their marketing plans with theft companywide information system plans to create competitive advantages. Under today's intense global competition, these situations must be rectified as soon as possible. Otherwise, they will definitely create pressures that could either increase the role of the marketing information system in these firms, or eliminate it entirely.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/663">computer usage</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/664">marketing functions</a>,    <a href="/keywords/66">marketing information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

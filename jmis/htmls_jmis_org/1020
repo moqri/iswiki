@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/68">    Volume 23 Number 4 2007
+</a> pp. 217-246</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Recommendation Agents for Electronic Commerce: Effects of Explanation Facilities on Trusting Beliefs</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1578">Weiquan, Wang</a> and     <a href="/contributors/157">Benbasat, Izak</a>    </div>
+
+<p>ABSTRACT: We empirically test the effects of explanation facilities on consumers' initial trusting beliefs concerning online recommendation agents (RAs). RAs provide online shopping advice based on user-specified needs and preferences. The characteristics of RAs that may hamper consumers' trust building in the RAs are identified, and the provision of explanation facilities is proposed as a knowledge-based approach to enhance consumers' trusting beliefs by dealing with these obstacles. This study examines the effects of three types of explanations about an RA and its use--how, why, and trade-off explanations--on consumers' trusting beliefs in an RA's competence, benevolence, and integrity. An RA was built as the experimental platform and a laboratory experiment was conducted. The results confirm the important role of explanation facilities in enhancing consumers' initial trusting beliefs and indicate that consumers' use of different types of explanations enhances different trusting beliefs: the use of how explanations increases their competence and benevolence beliefs, the use of why explanations increases their benevolence beliefs, and the use of trade-off explanations increases their integrity beliefs.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/7">decision support</a>,    <a href="/keywords/2227">decisional guidance</a>,    <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/1365">explanations</a>,    <a href="/keywords/2228">recommendation agents</a>,    <a href="/keywords/1108">trust</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

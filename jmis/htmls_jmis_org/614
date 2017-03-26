@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/52">    Volume 11 Number 3 1994
+</a> pp. 115-133</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Politics and the Function of Power in a Case Study of IT Implementation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1028">Levine, Harold G</a> and     <a href="/contributors/1029">Rossmoore, Don</a>    </div>
+
+<p>ABSTRACT: Viewing organizations as political coalitions has a long history in management studies and has generated a great deal of research on the roles of organizational politics and power in decision making. Information technology (IT) researchers generally have followed the general trend by providing structural-functional accounts of politics, power, and control strategies. Although such studies underscore the importance, nature, and complexity of politics in IT implementation, they are constrained by the lack of both a general theory of human behavior as well as a model of power that bridges the individual actor and the wider interpersonal/organizational setting. In this paper we present a case study of power and politics in a large financial transactions company, but seen through the lenses of the action science perspective of Argyris and his associates and the model of power developed by A.A. Berle. More specifically, we examine the power vacuum in the IT effort that resulted from the senior executive abrogating his power and failing to delegate it to his subordinates. The resulting political havoc, in turn, caused competition and confusion, wasted effort, and a significant lack of productivity with regard to the implementation of a multimillion-dollar IT effort. We conclude with several hypotheses about how principles of action science and interpersonal power must be used by executives to manage the politics of IT design and implementation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/792">organizational politics</a>,    <a href="/keywords/555">human factors</a>,    <a href="/keywords/547">implementation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

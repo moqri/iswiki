@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/123">    Volume 31 Number 2 2014
+</a> pp. 133-170</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Determinants of Mobile Apps’ Success: Evidence from the App Store Market</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1709">Lee, Gunwoong,</a>    <a href="/contributors/1710">Raghu, T S,</a> and     <a href="/contributors/1726">Raghu, TS</a>    </div>
+
+<p>ABSTRACT: Mobile applications markets with app stores have introduced a new approach to define and sell software applications with access to a large body of heterogeneous consumer population. This research examines key seller- and app-level characteristics that impact success in an app store market. We tracked individual apps and their presence in the top-grossing 300 chart in Apple’s App Store and examined how factors at different levels affect the apps’ survival in the top 300 chart. We used a generalized hierarchical modeling approach to measure sales performance, and confirmed the results with the use of a hazard model and a count regression model. We find that broadening app offerings across multiple categories is a key determinant that contributes to a higher probability of survival in the top charts. App-level attributes such as free app offers, high initial ranks, investment in less-popular (less-competitive) categories, continuous quality updates, and high-volume and high-user review scores have positive effects on apps’ sustainability. In general, each diversification decision across a category results in an approximately 15 percent increase in the presence of an app in the top charts. Survival rates for free apps are up to two times more than that for paid apps. Quality (feature) updates to apps can contribute up to a threefold improvement in survival rate as well. A key implication of the results of this study is that sellers must utilize the natural segmentation in consumer tastes offered by the different categories to improve sales performance.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3321">app markets</a>,    <a href="/keywords/3322">apps</a>,    <a href="/keywords/3323">m-commerce</a>,    <a href="/keywords/3324">mobile software sustainability</a>,    <a href="/keywords/3325">product portfolio management</a>,    <a href="/keywords/2934">survival analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

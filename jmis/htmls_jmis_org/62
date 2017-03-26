@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/47">    Volume 23 Number 2 2006
+</a> pp. 13-40</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Technology, Production Process Outsourcing, and Manufacturing Plant Performance</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/129">Bardhan, Indranil,</a>    <a href="/contributors/132">Whitaker, Jonathan,</a> and     <a href="/contributors/133">Mithas, Sunil</a>    </div>
+
+<p>ABSTRACT: What is the role of information technology (IT) in enabling the outsourcing of manufacturing plant production processes? Do plant strategies influence production outsourcing? Does production process outsourcing influence plant performance? This research addresses these questions by investigating the role of IT and plant strategies as antecedents of production outsourcing, and evaluating the impact of production outsourcing and IT investments on plant cost and quality. We develop a theoretical framework for the antecedents and performance outcomes of production outsourcing at the plant level. We validate this theoretical framework using cross-sectional survey data from U.S. manufacturing plants. Our analysis suggests that plants with greater IT investments are more likely to outsource their production processes, and that IT investments and production outsourcing are associated with lower plant cost of goods sold and higher product quality improvement. Our research provides an integrated model for studying the effects of IT and production outsourcing on plant performance.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1318">IT investment</a>,    <a href="/keywords/2126">manufacturing performance</a>,    <a href="/keywords/650">outsourcing</a>,    <a href="/keywords/2127">plant performance</a>,    <a href="/keywords/2128">plant strategy</a>,    <a href="/keywords/2129">production process outsourcing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

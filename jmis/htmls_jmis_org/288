@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/92">    Volume 17 Number 2 2000
+</a> pp. 9-28</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Adoption of Internet-Based Product Customization and Pricing Strategies</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/394">Dewan, Rajiv M,</a>    <a href="/contributors/509">Jing, Bing,</a> and     <a href="/contributors/83">Seidmann, Abraham</a>    </div>
+
+<p>ABSTRACT: The Internet commerce technologies have significantly reduced sellers' costs of collecting buyer preference information and managing multiple prices. Advanced manufacturing technologies have also improved sellers' manufacturing flexibility. These changes allow an online seller to offer custom products at discriminatory prices. We show that these technologies offer significant advantages to an early adopter who gains market share and profits at the expense of the conventional seller. Not only does the customizing seller charge more for customized products, it also provides standard products but charges more for them than in a conventional market. The benefits of customization disappear when both the competing sellers adopt customization. They now compete not just on prices but also on degree of customization. Consequently, we see that the sellers "over-customize," to the detriment of their profits. Both the sellers know this when choosing their customization strategies and yet they both end up choosing to customize. A seller that does not customize sees a sharp decrease in profits if its competitor customizes. This is an instance of the "Prisoner's Dilemma" type of situation in technology adoption. This confirms some key findings in IT productivity and strategic IT investments literature.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/753">adoption of information technology</a>,    <a href="/keywords/1349">customization</a>,    <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/1350">flexible manufacturing systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

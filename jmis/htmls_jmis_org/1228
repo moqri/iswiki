@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/125">    Volume 31 Number 4 2015
+</a> pp. 213-242</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Enticing and Engaging Consumers via Online Product Presentations: The Effects of Restricted Interaction Design</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1758">Yi, Cheng,</a>    <a href="/contributors/1759">Jiang, Zhenhui (Jack),</a> and     <a href="/contributors/157">Benbasat, Izak</a>    </div>
+
+<p>ABSTRACT: 
+<p>This work investigates the effects of three different online product presentation formats, namely, a noninteractive video presentation and two virtual product experience (VPE) presentations (full interaction and restricted interaction), on engaging users in online product experience as well as enticing users to try products offline. The experimental results show that restricted interaction, which deprives users of part of the interactive product experience, is more enticing than both the noninteractive and fully interactive design for users with more product-class knowledge. In addition, restricted interaction is generally as good as full interaction in engaging users. Both engagement and enticement positively affect users’ purchase intentions. This study contributes to the information systems literature by extending the theory in curiosity formation to the interaction design context and advocating designs for enticement. It contributes to design practice by revealing that less interactive and less costly presentations can be more effective in attracting consumers toward the products.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3430">virtual product experience (VPE)</a>,    <a href="/keywords/3431">restricted interaction</a>,    <a href="/keywords/3432">full interaction</a>,    <a href="/keywords/3433">enticement</a>,    <a href="/keywords/3434">engagement</a>,    <a href="/keywords/3435">purchase intention</a>,    <a href="/keywords/3436">online product presentation</a>,    <a href="/keywords/3437">online video</a>,    <a href="/keywords/3438">online selling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

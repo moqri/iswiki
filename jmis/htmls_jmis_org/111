@@ -1,0 +1,109 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/49">    Volume 18 Number 4 2002
+</a> pp. 5-9</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Issue: Decision-Making and a Hierarchy of Understanding</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/235">De Vreede, Gert-Jan,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/236">Sprague Jr, Ralph H</a>    </div>
+
+<p><p>
+ THE DISCIPLINE OF INFORMATION SYSTEMS (IS), in the past, focused on the delivery of information to  decision-makers in a timely, accurate, and complete manner with a minimum of cognitive and economic cost for  acquisition, processing, storage, and retrieval. Thirty years ago, when our discipline began, information was  deemed superior to data for decision-making, because information had meaning that was not inherent in raw  data. Over the intervening decades, our perspective has broadened. Decision-makers need more than  information, they need understanding at many levels of abstraction.
+</p>
+<p>
+ In the past, a number of authors have offered various insightful and useful definitions of the terms data,  information, knowledge, and wisdom. These different definitions illuminate the different perspectives in which  these terms may be considered. In the context of decision-making, it might be useful to think of them as a  hierarchy of understanding:
+</p>
+<p>
+ <b>
+  Data
+ </b>
+ : understanding symbols in the context where they were collected;
+ <br/>
+ <b>
+  Information
+ </b>
+ : understanding relationships among data in the context where they are presented;
+ <br/>
+ <b>
+  Knowledge
+ </b>
+ : understanding patterns that appear in information in the context of the task at hand;
+ <br/>
+ <b>
+  Wisdom
+ </b>
+ : understanding principles of cause and consequence that underlie emergent patterns.
+</p>
+<p>
+ The papers in this special issue address critical issues of knowledge as understanding by the  decision-maker. They focus variously on the creation of knowledge, the discovery of knowledge, and the  transmission of knowledge.
+</p>
+<p>
+ The papers were drawn from the best of those presented at the Thirty-fourth Hawaii International Conference  on System Sciences (HICSS). The paper by Massey, Montoya-Weiss, and O'Driscoll won the Best Paper award  in the Digital Technologies for Management Track. Of the 1,220 papers submitted to HICSS, 470 were accepted  to the conference. The coeditors of this special issue selected 62 papers that had been nominated for best  paper awards, and an additional 12 papers that they deemed meritorious, for an initial pool of 74 papers. Each of  these was read and rated by at least two of the coeditors, who then selected a pool of 15 finalists. At least three  of the coeditors and at least three outside reviewers then reviewed those 15 in detail. The top eight from that set  are included in this special issue.
+</p>
+<p>
+ The first paper in this issue addresses a number of topics centering on the creation, discovery, and  transmission of knowledge. A team of nine authors combined forces to present a visionary piece of work about  how technology could evolve to support communities around bodies of knowledge that change quickly. The paper  "Toward Virtual Community Knowledge Evolution" was written by Bieber, Engelbart, Furuta, Hiltz, Noll, Preece,  Stohr, Turoff, and Van de Walle. The vision is perhaps best expressed in their own words:
+</p>
+<p>
+ We propose augmenting a multimedia document repository (digital library) with innovative knowledge  evolution support, including computer-mediated communications, community process support, decision support,  advanced hypermedia features, and conceptual knowledge structures. These tools, and the techniques  developed around them, would enable members of a virtual community to learn from, contribute to, and  collectively build upon the community's knowledge and improve many member tasks.
+</p>
+<p>
+ This paper will no doubt become the foundation for a stream of research that will run through IS research for  many years to come. It draws on many existing disciplines, but reconceives them in a new, collaborative  knowledge evolution support system (CKESS).
+</p>
+<p>
+ The next two papers focus on knowledge creation. Massey, Montoya-Weiss, and O'Driscoll offer an  explanation of a performance-centered design methodology from bringing structure to ill-defined  knowledge-intensive processes. Their method provides the means to develop a holistic view of a performance  environment, and the complex interdependencies between the organizational context, business processes, and  individual performers. Having articulated the methodology, they present an insightful case study to demonstrate  how the model can be applied in the field, and the resulting gains that it can produce.
+</p>
+<p>
+ Hender, Dean, Rodgers, and Nunamaker address issues surrounding the creation of knowledge with a paper  that presents the results of an empirical test of the Cognitive Network Model, an emerging theory of creativity. In  their paper, "An Examination of the Impact of Stimuli Type and GSS Structure on Creativity: Brainstorming Versus  Non-Brainstorming Techniques in a GSS Environment," they present an experiment that compares the  emergence of creative ideas under three different groups support systems (GSS) creativity techniques: free  brainstorming, assumption reversals, and analogies. Their findings provide initial support for the theory, and  provide insights into the circumstances under which each of the three techniques might be useful.
+</p>
+<p>
+ The next pair of papers focuses on knowledge discovery. The paper, "Contents Matching Defined by  Prototypes-Methodology Verification with Books of the Bible," by Visa, Toivonen, Vanharanta, and Back reports  on an experiment that tested whether a prototype-matching algorithm could search massive document stores and  find documents that closely matched a prototype document in content and meaning. This experiment was  conducted by using several books of the Bible as prototypes, and using the other books of the Bible as the  document store. The Bible provided a useful test domain because (1) it is available in digital form, (2) its   meanings are widely known and agreed to, and (3) it is available in many languages, but meaning of the  passages has been rigorously preserved from translation to translation. By using multiple languages and  multiple translations in each language, the authors were able to tease out the effects of language, style, and  message on the accuracy and precision of retrieval.
+</p>
+<p>
+ Pomerol, Br&#233;zillon, and Pasquier, also focusing on knowledge discovery in their paper, "Operational  Knowledge Representation for Practical Decision-Making," relate a fascinating account of developing technology  to support decision-making when a crisis emerges in the Metro beneath the streets of Paris. Their system  models the know-how of their most experienced people and presents it to subway operators in a form they can  quickly perceive and use when a crisis emerges. Their approach overcomes some of the key limitations of  decision trees, whereas maintaining relevant knowledge in a hierarchical structure.
+</p>
+<p>
+ Papers in a third group take on issues of knowledge transmission. The paper by Bargeron, Grudin, Gupta,  Sanocki, Li, and LeeTiernan, "Asynchronous Collaboration Around Multimedia Applied to On-Demand  Education," is a fine example of the systems development research paradigm. This team moved through multiple  phases of technology development, informed variously by laboratory experiments, field studies, and theoretical  development. In the end they created a system that both provides support for theoretical propositions and  provides a useful, enduring artifact from which society already derives benefit. The team focused on the  challenges faced by asynchronous learning teams. They integrated the advantages of multimedia  computer-aided instruction with the advantages of collaborative learning, and appear to have created a system  that, to some extent, offsets the losses that might occur because learners are not working  same-place-same-time.
+</p>
+<p>
+ Sniezek, Wilkins, Wadlington, and Baumann deal with the transmission of knowledge as they make an  intriguing and persuasive case for an innovative approach to computer-based training for crisis response in their  paper, "Training for Crisis Decision-Making: Psychological Issues and Computer-Based Solutions." They present  a thorough argument about the cognitive foundations of decision-making when time is short and the stakes are  high. From there they argue for a technical approach, and describe an example training system that incorporates  the principles they propose. They reinforce their case by presenting empirical results of system uses.
+</p>
+<p>
+ Continuing a long history of research at NJIT on Asynchronous Learning Networks (ALN), Coppola, Hiltz, and  Rotter examine the changing role of the professor in their paper, "Becoming a Virtual Professor: Pedagogical  Roles and Asynchronous Learning Networks." The final paper of this special issue presents the results of  in-depth interviews with 20 faculty members who taught part or all of their courses asynchronously over the  Internet. The paper focuses on the changes they experienced from three perspectives: cognitive roles,  management roles, and affective roles. They describe changes in "teaching persona" and changes in  relationships with and among students. They address what went well, and what didn't, and suggest new  directions for ALN technology.
+</p>
+<p>
+ Each of these papers in some way creates knowledge for us to discover and transfer within and beyond our  discipline. The lessons that can be drawn from the authors' research are many, and apply to researchers and  practitioners alike. We commend these papers to your attention and hope that they will facilitate your own future  efforts of knowledge creation, discovery, and transmission.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

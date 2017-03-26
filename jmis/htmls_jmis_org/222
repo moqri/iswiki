@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/3">    Volume 9 Number 2 1992
+</a> pp. 9-28</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Technology and Industrial Cooperation: The Changing Economics of Coordination and Ownership</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/404">Row, Michael C</a>    </div>
+
+<p>ABSTRACT: Cooperation is becoming increasingly important in the modern business environment. The resulting emergence of new forms of organizational relationships is challenging managers to understand the fundamental dynamics of cooperation in order to evaluate and restructure their industrial relationships. This paper applies transactions cost economics toward understanding cooperative relationships. Cooperation is viewed as an effort to increase resource utilization and value through higher explicit coordination of economic activities. However, increasing explicit coordination can create transaction risks: exposure to opportunistic behavior by the other party. Transaction risk limits the level of coordination that is achievable. Information technology can reduce the costs of coordination while also reducing the transaction risks associated with increased coordination. These dual effects suggest a move toward tightly coupled, cooperative relationships.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/486">electronic markets</a>,    <a href="/keywords/488">intercorporate coordination</a>,    <a href="/keywords/389">interorganizational information systems</a>,    <a href="/keywords/178">strategic information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

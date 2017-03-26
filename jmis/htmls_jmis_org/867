@@ -1,0 +1,44 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/45">    Volume 25 Number 3 2008
+</a> pp. 207-239</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Determinants of the Choice of Open Source Software License</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1369">Sen, Ravi,</a>    <a href="/contributors/959">Subramaniam, Chandrasekar,</a> and     <a href="/contributors/1371">Nelson, Matthew L</a>    </div>
+
+<p>ABSTRACT: In this paper, we examine how the motivations and attitudes of open source software (OSS) developers affect their preference among the three common OSS license types--Strong-Copyleft, Weak-Copyleft, and Non-Copyleft. Despite the importance of the license type and developers to OSS projects, there is little understanding in open source literature of the license choice from a developer's perspective. The results from our empirical study of OSS developers reveal that the intrinsic motivation of challenge (problem solving) is associated with the developers' preference for licenses with moderate restrictions, while the extrinsic motivation of status (through peer recognition) is associated with developers' preference for licenses with least restrictions. We also find that when choosing an OSS license, a developer's attitude toward the software redistribution rights conflicts with his or her attitude toward preserving the social benefits of open source. A major implication of our findings is that OSS managers who want to attract a limited number of highly skilled programmers to their open source project should choose a restrictive OSS license. Similarly, managers of software projects for social programs could attract more developers by choosing a restrictive OSS license.</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

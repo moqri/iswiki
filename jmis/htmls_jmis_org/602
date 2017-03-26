@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/39">    Volume 20 Number 3 2003
+</a> pp. 13-39</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Knowing-Why About Data Processes and Data Quality</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1009">Lee, Yang W</a> and     <a href="/contributors/1010">Strong, Diane M</a>    </div>
+
+<p>ABSTRACT: Knowledge about work processes is a prerequisite for performing work. We investigate whether a certain mode of knowledge, knowing-why, affects work performance and whether the knowledge held by different work roles matters for work performance. We operationalize these questions in the specific domain of data production processes and data quality. We analyze responses from three roles within data production processes, data collectors, data custodians, and data consumers, to investigate the effects of different knowledge modes held by different work roles on data quality. We find that work roles and the mode of knowledge do matter. Specifically, data collectors with why-knowledge about the data production process contribute to producing better quality data. Overall, knowledge of data collectors is more critical than that of data custodians.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1713">data processes</a>,    <a href="/keywords/638">data quality</a>,    <a href="/keywords/1714">knowing why</a>,    <a href="/keywords/1285">knowledge</a>,    <a href="/keywords/1715">knowledge modes</a>,    <a href="/keywords/1716">work roles</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

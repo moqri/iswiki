@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/86">    Volume 22 Number 1 2005
+</a> pp. 257-294</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Processing View of Organizations: An Exploratory Examination of Fit in the Context of Interorganizational Relationships</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1274">Premkumar, G,</a>    <a href="/contributors/49">Ramamurthy, K,</a> and     <a href="/contributors/741">Saunders, Carol S</a>    </div>
+
+<p>ABSTRACT: This study uses Galbraith's information processing theory to examine the fit between information processing needs and information processing capability in an interorganizational supply chain context and to examine its effect on performance. Information processing needs are assessed based on various characteristics of the product and procurement environment and information processing capabilities are assessed by the level of information technology support for various activities in the procurement life cycle. A taxonomy of information processing needs and information processing capabilities is developed. The effect of the fit between information processing needs and capabilities on procurement performance is examined. The study collected data on 142 products through personal interviews and surveys, used cluster analytic techniques to develop taxonomies, and analysis of" variance (ANOVA) to test the fit between needs and capability, modeled as an interaction effect. The results reveal two clusters for information processing needs and three clusters for information processing capability. ANOVA results show that the interactive effect of information needs and capability has a significant effect on performance. supporting our fit theory.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1933">B2B</a>,    <a href="/keywords/1644">cluster analysis</a>,    <a href="/keywords/1934">information processing capability</a>,    <a href="/keywords/1935">information processing needs</a>,    <a href="/keywords/1936">information processing theory</a>,    <a href="/keywords/665">interorganizational systems</a>,    <a href="/keywords/1937">strategic fit</a>,    <a href="/keywords/1768">supply chains</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

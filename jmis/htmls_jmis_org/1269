@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/129">    Volume 32 Number 4 2015
+</a> pp. 78-108</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Two Formulas for Success in Social Media: Learning and Network Effects</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1661">Qiu, Liangfei,</a>    <a href="/contributors/356">Tang, Qian,</a> and     <a href="/contributors/154">Whinston, Andrew B</a>    </div>
+
+<p>ABSTRACT: 
+<p>Recent years have witnessed an unprecedented explosion in information technology that enables dynamic diffusion of user-generated content in social networks. Online videos, in particular, have changed the landscape of marketing and entertainment, competing with premium content and spurring business innovations. In the present study, we examine how learning and network effects drive the diffusion of online videos. While learning happens through informational externalities, network effects are direct payoff externalities. Using a unique data set from YouTube, we empirically identify learning and network effects separately, and find that both mechanisms have statistically and economically significant effects on video views; furthermore, the mechanism that dominates depends on the video type. Specifically, although learning primarily drives the popularity of quality-oriented content, network effects also make it possible for attention-grabbing content to go viral. Theoretically, we show that, unlike the diffusion of movies, it is the combination of both learning and network effects that generate the multiplier effect for the diffusion of online videos. From a managerial perspective, providers can adopt different strategies to promote their videos accordingly, that is, signaling the quality or featuring the viewer base depending on the video type. Our results also suggest that YouTube can play a much greater role in encouraging the creation of original content by leveraging the multiplier effect.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/689">learning</a>,    <a href="/keywords/3259">network effects</a>,    <a href="/keywords/3595">social contagion</a>,    <a href="/keywords/2912">social media</a>,    <a href="/keywords/2300">user-generated content</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

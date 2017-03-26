@@ -1,0 +1,82 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/71">    Volume 26 Number 1 2009
+</a> pp. 13-15</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Structure and Complexity in Sociotechnical Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/3">Nunamaker Jr, Jay F,</a>    <a href="/contributors/236">Sprague Jr, Ralph H,</a> and     <a href="/contributors/230">Briggs, Robert O</a>    </div>
+
+<p><p>
+ Jay F. Nunamaker Jr. is Regents and Soldwedel Professor of MIS, Computer Science and Communication, and Director of the Center for the Management of Information at the University of Arizona, Tucson. He received his Ph.D. in Systems Engineering and Operations Research from Case Institute of Technology, an M.S. and B.S. in Engineering from the University of Pittsburgh, and a B.S. from Carnegie Mellon University. Dr. Nunamaker received the LEO Award from the Association of Information Systems at ICIS in Barcelona, Spain, December 2002. This award is given for a lifetime of exceptional achievement in information systems. He was elected as a fellow of the Association of Information Systems in 2000. Dr. Nunamaker has over 40 years of experience in examining, analyzing, designing, testing, evaluating, and developing information systems. He served as a test engineer at the Shippingport Atomic Power facility, as a member of the ISDOS team at the University of Michigan, and as a member of the faculty at Purdue University prior to joining the faculty at the University of Arizona in 1974. His research on group support systems addresses behavioral as well as engineering issues and focuses on theory and implementation. He has been a licensed professional engineer since 1965.
+</p>
+<p>
+ Ralph H. Sprague is a Professor of Information Technology Management in the Shidler College of Business at the University of Hawaii. He has over 40 years of experience in teaching, research, and consulting in the use of computers and information technologies in organizations. His specialties are decision support systems, strategic systems planning, the management of information systems, and electronic document management. He has served as chairman or cochairman of the Hawaii International Conference on System Sciences for the past 30 years.
+</p>
+<p>
+ Robert O. Briggs is Director of Academic Affairs for the Institute for Collaboration Science and Professor of Marketing and Management at the University of Nebraska. He earned his Ph.D. in Management and Information Systems from the University of Arizona in 1994. He researches the theoretical foundations of collaboration and applies his findings to the design and deployment of new collaboration technologies and work practices. He is a codeveloper of the collaboration engineering discipline, and coinventor of the thinkLets design pattern language for collaboration processes. He has published more than 100 scholarly works on theoretical, experimental, and technical aspects of collaboration.
+</p>
+<p>
+ This Special Section focuses on the many roles of structure in the complex, sociotechnical milieu of the information systems (IS) domain. Complex objects and complex phenomena abound in the IS domain. From the myriad of relationships among data objects to the vast interdependencies among software requirements to the networks of knowledge and human relationships both engendered by and supported by IS, the complexity of the domain far exceeds the limited capacity of human cognition. Structures and approaches to structuring make it possible to comprehend, reason about, and use these complex concepts.
+</p>
+<p>
+ The eight papers in this Special Section illuminate approaches to bringing structure and order to the complexity of the domain. Indeed, the first of these articles tackles the complexity of the domain itself. In their paper "A Meta-Theory for Understanding Information Systems within Sociotechnical Systems," Robert P. Bostrom, Saurabh Gupta, and Dominic Thomas argue that adaptive structuration theory can serve as a meta-theory to organize and integrate many other theories in the IS literature into a comprehensive sociotechnical understanding of the field. They examine the nature and value of meta-theory, drawing insights and examples from many papers within and from outside the  domain in support of the position that a meta-theoretical perspective can deepen understandings of the domain, of phenomena that manifest in the domain, and of theories offered to explain these phenomena.
+</p>
+<p>
+ Andrea Forte, Vanessa Larco, and Amy Bruckman examine the emergence and nature of self-governance structures such as policies, norms, and ideals among developers in large-scale distributed voluntary knowledge-work projects in their paper, "Decentralization in Wikipedia Governance." They examine centralization and decentralization trends for self-governance in light of theories of commons-based governance developed for offline contexts, supporting their positions with examples from long-running projects from the field.
+</p>
+<p>
+ The paper "Engaging Group E-Learning in Virtual Worlds," by Katherine Franceschi, Ronald M. Lee, Stelios H. Zanakis, and David Hinds, addresses the question of the value that 3D virtual worlds can bring to the online learning experience beyond that which is already generated by more conventional approaches to computer-aided instruction. The authors argue that the strong sense of presence generated by these systems, the degree to which they afford naturalistic modes of conversation, and the degree to which they provide capabilities for joint manipulation of shared objects lead to more engaging online interactions, and therefore better learning. The paper discusses in detail the way the unique affordances of 3D immersive environments support new social structures for online learning experiences.
+</p>
+<p>
+ Xitong Guo, Doug Vogel, Zhongyun (Phil) Zhou, Xi Zhang, and Huaping Chen, in their paper, "Chaos Theory as a Lens for Interpreting Blogging," report on a method for discovering structure in large, seemingly chaotic patterns of communication among people and interconnections among the data objects they exchange. Using the blogo&#173;sphere as an example, the paper provides an overall view of blogging from micro (individual blog traffic dynamics) and macro (blogosphere structure) levels. Its findings may be extended to many other IS/information technology (IT) challenges where value could be derived by discovering the structure that underlies seeming chaos.
+</p>
+<p>
+ The paper "Managing Knowledge in Light of Its Evolution Process: An Empirical Study on Citation Network--Based Patent Classification," by Xin Li, Hsinchun Chen, Zhu Zhang, Jiexun Li, and Jay F. Nunamaker Jr., also addresses the discovery and use of relationship structures among large collections of data objects by focusing on networks of citations. The paper reports an experimental study on a longitudinal patent data set. The reported approach yielded an improvement of more than 30 percent in classification accuracy compared to conventional content-based methods, which could lead to significant reductions of information overload among people who must draw information from collections of objects that contain citations to one another.
+</p>
+<p>
+ Paul Benjamin Lowry, Nicholas C. Romano Jr., Jeffrey L. Jenkins, and Randy W. Guthrie examine a similar question from a different perspective in their paper, "The CMC Interactivity Model: How Interactivity Enhances Communication Quality and Process Satisfaction in Lean-Media Groups." This field study found that in very large groups, interactivity, communication quality, and satisfaction-with-process improved substantially when groups moved from face-to-face communication to lean computer-mediated communication channels. The authors discuss the implications of their findings for the continuance, satisfaction, and performance of large-scale global groups.
+</p>
+<p>
+ The paper "Leveraging Crowdsourcing---Activation-Supporting Components for IT-Based Ideas Competition," by Jan Marco Leimeister, Michael Huber, Ulrich Bretschneider, and Helmut Krcmar, examines a complex new social structure, crowdsourcing, and proposes a new structured procedure for harnessing the approach. It describes how activation-enabled functionalities can be systematically designed and implemented to support crowdsourced IT development using enterprise resource planning software as an example from the field. From this work, the authors derive a two-step model for the process  for motivating participation in such projects.
+</p>
+<p>
+ Gwendolyn L. Kolfschoten and Gert-Jan de Vreede also present a structured methodology in their paper, "A Design Approach for Collaboration Processes: A Multimethod Design Science Study in Collaboration Engineering." The paper reports a four-year field study during which they developed and deployed a multistep design process for collaborative work practices. This work provides insights that may generalize to other domains where designers use a design pattern language as a foundation of their approach.
+</p>
+<p>
+ Each of the papers in this Special Section builds on a paper that was nominated for a best-paper award at the Hawaii International Conference on System Sciences (HICSS). Each paper presents an important and thought-provoking perspective on complexity and structure in the IS/IT domain. We commend each of them to your reading.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

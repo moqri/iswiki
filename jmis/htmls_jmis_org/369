@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/74">    Volume 9 Number 3 1992
+</a> pp. 45-69</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Applying Adaptive Structuration Theory to Investigate the Process of Group Support Systems Use</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/673">Gopal, Abhijit,</a>    <a href="/contributors/224">Bostrom, Robert P,</a> and     <a href="/contributors/674">Chin, Wynne W</a>    </div>
+
+<p>ABSTRACT: Adaptive structuration theory (AST) provides a sound basis from which to study the use of group support systems (GSS). The need for a theoretical approach such as AST is especially urgent because it helps explain the process of GSS use, thereby providing insights into the reasons for inconsistent research results. This paper illustrates the development of a research model based on AST, and reports the results of a study conducted on the basis of this model. The independent variables in the study were task and technology. The model's process component was represented by the attitudes of group members toward the technology they used. The six attitude dimensions were obtained from AST as well as from other information technology researchers. The model was tested using the partial least squares (PLS) technique.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/593">adaptive structuration theory</a>,    <a href="/keywords/379">group decision processes</a>,    <a href="/keywords/135">group decision support systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

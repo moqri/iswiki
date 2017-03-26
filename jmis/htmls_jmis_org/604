@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/34">    Volume 10 Number 3 1993
+</a> pp. 139-135</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Executive Information Systems: Their Impact on Executive Decision Making</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/29">Leidner, Dorothy E</a> and     <a href="/contributors/1012">Elam, Joyce J</a>    </div>
+
+<p>ABSTRACT: An executive information system (ETS) is a computer-based information system designed to provide senior managers access to information relevant to their management activities. With such trends as globalization and intense competition increasing the importance of fast and accurate decision making, the use of these systems by executives may become a particularly important component of their decision-making behavior. Previous research on EIS has focused on descriptive studies of how and why EIS are used. This research empirically examines the effects of EIS use on aspects of the decision-making process by surveying 46 executive users of US. The frequency and duration of EIS use are shown to increase problem identification speed, decision-making speed, and the extent of analysis in decision making.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/195">decision making</a>,    <a href="/keywords/438">executive information systems</a>,    <a href="/keywords/216">executive support systems</a>,    <a href="/keywords/708">problem identification</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

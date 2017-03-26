@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/52">    Volume 11 Number 3 1994
+</a> pp. 87-114</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Structuring of Creative Processes using GSS: A Framework for Research</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1170">Nagasundaram, Murli</a> and     <a href="/contributors/224">Bostrom, Robert P</a>    </div>
+
+<p>ABSTRACT: Radical and discontinuous change is the order of the day in the 1990s. Organizations are seeking to improve their fit with a constantly changing environment through initiatives such as business process redesign (BPR) and total quality management (TQM). Getting people to think creatively is critical to the success of these change efforts. Group Support Systems (GSS) have emerged as a potential means of supporting and augmenting creativity in the modem team-based organization. GSS research, however, has largely ignored the nature (i.e., creativity) of ideas that are generated. This paper seeks to move GSS research on idea generation beyond its previously limited focus on the quantity of ideas generated when using GSS. Drawing on multiple theoretical perspectives and research streams--creativity and idea generation, Kirton's cognitive style, GSS, and adaptive structuration theory (AST)--we distinguish between two orthogonal dimensions for measuring creativity (of ideas, individuals, and creativity processes)--creativity level and paradigm-relatedness, identify and characterize fundamental structuring mechanisms present in creativity techniques and OSS that influence one or the other dimension; and explore the implications of the above for research, design, and the targeted deployment of GSS and creativity techniques in organizations. We develop a theoretical framework of creative processes that is independent of any available or yet unforeseen technologies and techniques. The framework allows researchers and designers to examine OSS and creativity techniques at a finer level of detail than before, thereby allowing a richer understanding of how they work. This improved understanding will help organizations develop and maintain environments that foster creativity in the work force.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/196">brainstorming</a>,    <a href="/keywords/198">creativity</a>,    <a href="/keywords/197">idea generation</a>,    <a href="/keywords/791">structuration</a>,    <a href="/keywords/135">group decision support systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/87">    Volume 16 Number 4 2000
+</a> pp. 225-261</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>IT Value: The Great Divide Between Qualitative and Quantitative and Individual and Organizational Measures</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/321">Chan, Yolande E</a>    </div>
+
+<p>ABSTRACT: A comprehensive review was conducted of information technology (IT) value articles in the "Communications of the ACM," "Information Systems Research," "Journal of Management Information Systems," and "MIS Quarterly" from 1993 to 1998. IT-value measures published during this period were documented, classified, analyzed, and reported. The review of these journal articles revealed a schism between the use of organization-level measures and other measures. "Communications of the ACM" and "Information Systems Research" also provided strong evidence of a schism between the use of quantitative and qualitative measures in IT-value research. The "Journal of Management Information Systems" and "MIS Quarterly" data provided more limited evidence of this schism as well. These schisms have become more pronounced over time. This may be due partly to an increasing reliance on secondary data set analyses that use only quantitative measures and organization-level analyses. The current research confirmed what many researchers suspect--schisms exist, and may be deepening, in IT-value research.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1299">information technology productivity</a>,    <a href="/keywords/1320">information technology investment value</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,88 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/18">    Volume 27 Number 1 2010
+</a> pp. 13-16</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Social Aspects of Sociotechnical Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/236">Sprague Jr, Ralph H</a>    </div>
+
+<p><p>
+ Robert O. Briggs is Director of Academic Affairs for the Center for Collaboration Science and Professor of Management in the College of Business Administration at the University of Nebraska at Omaha. He earned his Ph.D. in Management and Information Systems from the University of Arizona in 1994. He researches the cognitive and social foundations of collaboration and applies his findings to the design and deployment of new collaborative techniques, work practices, and technologies. He has published scholarly works on theoretical, empirical, and applied aspects of collaboration science.
+</p>
+<p>
+ Jay F. Nunamaker Jr. is Regents and Soldwedel Professor of MIS, Computer Science, and Communication and Director of the Center for the Management of Information at the University of Arizona, Tucson. He received his Ph.D. in Operations Research and Systems Engineering from Case Institute of Technology, an M.S. and B.S. in Engineering from the University of Pittsburgh, and a B.S. from Carnegie Mellon University. He received his professional engineer&#8217;s license in 1965. In a 2005 journal article in Communications of the AIS, he was recognized as the fourth- to the sixth- most-productive researcher for the 1991--2003 period. Dr. Nunamaker received the LEO Award from the Association of Information Systems (AIS) at the International Conference on Information Systems (ICIS) in Barcelona, Spain, December 2002, and he was elected a Fellow of the Association for Information Systems in 2000.
+</p>
+<p>
+ Ralph H. Sprague is Professor of Information Technology Management in the Shidler College of Business at the University of Hawaii. He has over 40 years of experience in teaching, research, and consulting in the use of computers and information technologies in organizations. His specialties are decision support systems, strategic systems planning, the management of information systems, and electronic document management. He has published widely in these areas. In 2006 he was elected Fellow of the Association for Information Systems. He has served as chairman or cochairman of the Hawaii International Conference on System Sciences for the past 33 years.
+</p>
+<p>
+ The purpose of information systems (IS) is to provide information to people who must make choices about the disposition of scarce resources. One goal of IS research is, therefore, to improve those choices by finding ways to increase the timeliness, accuracy, and completeness of information at a minimum of costs---economic, cognitive, political, social, affective, and physical. At the heart of IS research, then, is a complex optimization problem. Information can be made timelier, for example, by making it less accurate and less complete. Less accurate, less complete information, however, may yield a lower likelihood of useful choices and a higher likelihood of unintended consequences, with a  potential for negative economic, political, and social outcomes. Complete information, on the other hand, may impose untenably high cognitive load, which may engender negative affect, which in turn may have political, social, and economic implications. IS optimized along several dimensions---say, economic, cognitive, and social---may nonetheless invoke negative value along another dimension---for example, political---and so fail at great expense. IS research, therefore, finds itself at the crossroads of many social and technical disciplines, drawing insights from each and returning scientific contributions to each. The unique contribution of IS research, however, is an understanding of these many concepts as systems to inform choice. IS/IT (information technology) artifacts are central to the IS we create and study. IS are, however, more than their hardware, software, and data. IS also encompass the people and the work practices needed to produce the information the system yields. They are, therefore, characterized not as technical, but as sociotechnical.
+</p>
+<p>
+ Another goal of IS research is to find ways to develop and deploy systems so as to maximize utility and acceptability for users while minimizing cost, development time, and system defects. Systems developers must design and create IS/IT artifacts and work practices and transfer them to users and decision makers. Those they serve, IS professionals, also use structured work practices supported by IS/IT artifacts, and so the IS/IT artifact is also central to systems development research. As with IS, however, IS development is a sociotechnical endeavor.
+</p>
+<p>
+ It is important, therefore, that the IS research community focus not only on the technical issues but also on the human issues of IS. Toward that end, in this Special Section of JMIS, we focus on the social aspects of sociotechnical systems. The issue presents eight papers drawn from the best-paper nominees of the 2009 Hawaii International Conference on System Sciences. Each paper addresses a topic pertaining to the people and work practices involved in designing, developing, and deriving value from IS.
+</p>
+<p>
+ In the first paper of the Special Section, "&#8216;Follow the Sun&#8217; Workflow in Global Software Development," Erran Carmel, J.&#160;Alberto Espinosa, and Yael Dubinsky draw on the literature and field experience to derive the logic for predicting and explaining the efficiency of work practices for follow-the-sun software development. In follow-the-sun projects, subteams in different geographical locations hand off development tasks at the end of each day to another subteam in an earlier time zone. The authors present arguments for 12 propositions pertaining to the duration and efficiency of follow the sun and derive simple formulas for calculating several aspects of efficiency and for predicting the effects of changes in efficiencies on the duration of projects. The arguments advanced in the paper provide a foundation for much future academic inquiry and provide useful guidelines for IS professionals about when to choose a follow-the-sun approach and how to conduct it so as to derive its potential benefits.
+</p>
+<p>
+ In their paper, "Perpetual Versus Subscription Licensing Under Quality Uncertainty and Network Externality Effects," Jie (Jennifer) Zhang and Abraham Seidmann address optimizing the value realized by software developers from the software they create. The authors examine issues pertaining to network effects, quality uncertainty, upgrade compatibility, and vendor ability to commit to future prices in a dynamic environment and demonstrate how a software vendor can manage the trade-offs of perpetual licensing and subscription to optimize profit and the welfare of consumers. The insights in the paper will be useful not only for making specific decisions but also for those forming a longer-term strategy of licensing vendor software.
+</p>
+<p>
+ In "The Power of Patterns and Pattern Recognition When Developing Information-Based Strategy," Eric K. Clemons discusses six patterns pertaining to competitive advantage, profitability, and the changing nature of the organization. These patterns are derived from a 20&#8209;year research stream on strategic use of IS. The research began with a focus on the effects of information on business practices and drew on interviews with leaders in many industries. At the nexus of three domains---information, strategy, and economics---this work has implications for all three fields and should be useful to future researchers and organizational leaders who seek to deploy information and technology to strategic advantage.
+</p>
+<p>
+ Steven Poltrock and Mark Handel compare and contrast eight different  approaches to modeling collaborative work practices and discuss their value for designers and users of collaboration technologies in their paper, "Models of  Collaboration as the Foundation for Collaboration Technologies." The authors organize the modeling conventions into two categories: (1)&#160;ostensive models that define how a collaborative work practice should be executed and (2)&#160;performative models that capture the ways that collaborative work is actually conducted. They argue that ostensive models are useful for documenting, planning, analyzing, simulating, and automating collaborative work practices, whereas performative models are useful for discovering deviations from normative practices, for discovering new ways that people use existing systems, and for discovering and nurturing important relationships. The paper posits that no single modeling convention provides a complete understanding of a system and that each is useful to creating a whole understanding.
+</p>
+<p>
+ In their paper, "Bounded Ideation Theory," Robert O. Briggs and Bruce A. Reinig advance a theory to explain the relationship between the number of ideas a group produces and the number of good ideas that emerge from an ideation session. Bounded ideation theory (BIT) posits that boundaries of understanding, attention resources, goal congruence, mental and physical stamina, and the solution space moderate a primary relationship between individual ability and idea quality, yielding an ideation function with an inflected curve. Drawing on the logic of the theory, the paper proposes six strategies for improving ideation. It challenges Alex&#160;F. Osborn&#8217;s often-cited conjecture that the more ideas a group produces, the more good ideas will result. The authors suggest that two widely used measurement approaches for comparing the merits of ideation techniques are flawed and advocate the use of a third approach. They question the value of the quantity focus of ideation research in the IS/IT literature and argue that a quality focus would be more useful. The paper provides researchers with new ways to approach ideation research and may provide practitioners with ways to gain more value from their ideation sessions.
+</p>
+<p>
+ In "Network Externalities and Technology Use: A Quantitative Analysis of Intraorganizational Blogs," Sunil Wattal, Pradeep Racherla, and Munir Mandviwalla explore the degree to which an individual&#8217;s system usage can be predicted by a network effect---system usage by others in one&#8217;s social network, and by the degree to which others provide positive or negative feedback about the system. The researchers also study the degree to which these effects may be moderated by age and gender. They find that network effects are more pronounced among men than women, and they report a nonlinear effect for age. They find that positive responses to a user&#8217;s blog postings correlate with higher blog usage and that people whose managers blog are more likely to blog themselves. Their paper describes phenomena that bear further theoretical and experimental research and may be useful to managers who wish to implement blogs in service of organizational goals.
+</p>
+<p>
+ The paper "Technology Dominance in Complex Decision Making: The Case  of Aided Credibility Assessment," by Matthew L. Jensen, Paul Benjamin Lowry, Judee K. Burgoon, and Jay F. Nunamaker Jr., examines the use of decision aids for developing solutions to complex problems, focusing in particular on the challenge of assessing the credibility of others with whom one interacts. Drawing on the theory of technological dominance, the paper presents findings of an experiment that provided both novices and experts with a decision aid for detecting deception in a high-stakes scenario. Both professionals and novices improved their assessment accuracy using the decision aid, although they tended to discount the aid&#8217;s recommendations when the aid contradicted their assessments. This research should be useful in a wide range of high-stakes scenarios where the credibility of one&#8217;s interaction partners is crucial. The paper suggests new research directions both for credibility assessment and for improving the theory of technological dominance.
+</p>
+<p>
+ Finally, in their paper, "Team Size, Dispersion, and Social Loafing  in Technology-Supported Teams: A Perspective on the Theory of Moral  Disengagement," Omar Alnuaimi, Lionel P. Robert Jr., and Likoebe M. Maruping report on a study of factors that influence social loafing in a team setting. Building on the foundation of moral disengagement theory, the authors posit three cognitive mechanisms to explain observed correlations of team size and dispersion with social loafing---diffusion of responsibility, attribution of blame, and dehumanization. In a study of 32 student teams, they found that  diffusion of responsibility, attribution of blame, and dehumanization partially mediate the effects of team size on social loafing, while only dehumanization fully mediates the effects of dispersion on social loafing.
+</p>
+<p>
+ Each of the papers in this issue examines a different social aspect of IS. These papers bring together a diversity of theoretical perspectives and a variety of methodological approaches. We commend them to your reading.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

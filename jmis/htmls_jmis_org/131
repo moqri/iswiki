@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/76">    Volume 20 Number 4 2004
+</a> pp. 115-137</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Interpersonal Traits, Complementarity, and Trust in Virtual Collaboration</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/254">Brown, Houghton G,</a>    <a href="/contributors/255">Scott Poole, Marshall,</a> and     <a href="/contributors/256">Rodgers, Thomas L</a>    </div>
+
+<p>ABSTRACT: Trust has been a focus of research on virtual collaboration in distributed teams, e-commerce, e-learning, and telemedicine. Central to several models of trust and virtual collaboration is user's disposition to trust. This construct, however, has generally been conceptualized in as a stand-alone trait without a substantive theoretical background in personality theory. This paper advances the interpersonal circumplex model (ICM) as a theoretical framework for understanding the role of personal traits in collaboration in virtual contexts. The ICM posits that tendencies in interpersonal interaction stem from personal dispositions that can be understood in terms of dimensions of power and affiliation, fundamental constituents of user's personality. We develop a model that proposes that interpersonal traits, specifically, personality type as defined by the circumplex, affect the individual's disposition to trust, perceived trustworthiness, communication, and thereby affects willingness to collaborate and the sustainability and productivity of the collaboration. The model enables us to unpack the black box concepts of disposition to trust, faith in others, and trusting stance that are currently incorporated in theories of trust in information systems. The theory also enables explanation of trust dynamics at the dyadic and group levels. We develop propositions positing that individual's traits and dyadic complementarity are mediating factors in interpersonal trust and willingness to use new technologies and significantly affect the initiation, duration, and productivity of computer-mediated collaboration.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/812">collaboration</a>,    <a href="/keywords/1749">computer-mediated collaboration</a>,    <a href="/keywords/1750">interpersonal traits</a>,    <a href="/keywords/1180">technology acceptance</a>,    <a href="/keywords/1261">telemedicine</a>,    <a href="/keywords/1108">trust</a>,    <a href="/keywords/1751">virtual collaboration</a>,    <a href="/keywords/1109">virtual teams</a>,    <a href="/keywords/1752">virtual trust</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

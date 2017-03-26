@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/86">    Volume 22 Number 1 2005
+</a> pp. 321-353</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Effects of Relational Factors and Channel Climate on EDI Usage in the Customer-Supplier Relationship</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/841">Jai-Yeol, Son,</a>    <a href="/contributors/429">Narasimhan, Sridhar,</a> and     <a href="/contributors/842">Riggins, Frederick J</a>    </div>
+
+<p>ABSTRACT: Managing electronic trading partner relationships is a key to successful development of an interorganizational systems (IOS) network. Firms often exercise their power and offer reciprocal investments to their trading partners in developing an IOS network. However, limited effort has been made to empirically validate their effects on increasing IOS usage between trading partners. This paper gauges the effects of these two relational factors--power and reciprocal investments--within the context of an electronic data interchange (EDI) network development. Moreover, the role of channel climate in increasing EDI usage is explicated with a particular focus on its determinants and impacts. With insights obtained from social exchange and transaction cost theories, a research model is developed and tested with data collected from 233 suppliers with electronic linkages via EDI with a nationally recognized retailer of home improvement supplies and materials in the United States. The customer's reciprocal investments in the form of BDI-related support are proven to be effective in increasing EDI volume and diversity. However, power exercised is found to be not effective. Suppliers' cooperation with the customer, which is influenced by perceived uncertainty, trust, and transaction-specific investments, is found to have strong effects on EDI volume and diversity. Finally, the reciprocal investments are found to be an even more effective strategy when suppliers desire to keep a more cooperative relationship with the customer.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1938">buyer-seller relationships</a>,    <a href="/keywords/1012">electronic data interchange</a>,    <a href="/keywords/929">information technology use</a>,    <a href="/keywords/1939">interorganizational relations and cooperation</a>,    <a href="/keywords/665">interorganizational systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

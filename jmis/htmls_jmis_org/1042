@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/40">    Volume 26 Number 3 2009
+</a> pp. 135-173</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Role of Push--Pull Technology in Privacy Calculus: The Case of Location-Based Services</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1611">Xu, Heng,</a>    <a href="/contributors/1612">Teo, Hock-Hai,</a>    <a href="/contributors/771">Tan, Bernard C Y,</a> and     <a href="/contributors/14">Agarwal, Ritu</a>    </div>
+
+<p>ABSTRACT: Location-based services (LBS) use positioning technologies to provide individual users with reachability and accessibility that would otherwise not be available in the conventional commercial realm. While LBS confer greater connectivity and personalization on consumers, they also threaten users' information privacy through granular tracking of their preferences, behaviors, and identity. To address privacy concerns in the LBS context, this study extends the privacy calculus model to explore the role of information delivery mechanisms (pull and push) in the efficacy of three privacy intervention approaches (compensation, industry self-regulation, and government regulation) in influencing individual privacy decision making. The research model was tested using data gathered from 528 respondents through a quasi-experimental survey method. Structural equations modeling using partial least squares validated the instrument and the proposed model. Results suggest that the effects of the three privacy intervention approaches on an individual's privacy calculus vary based on the type of information delivery mechanism (pull and push). Results suggest that providing financial compensation for push-based LBS is more important than it is for pull-based LBS. Moreover, this study shows that privacy advocates and government legislators should not treat all types of LBS as undifferentiated but could instead specifically target certain types of services.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2577">compensation</a>,    <a href="/keywords/2578">distributive justice</a>,    <a href="/keywords/2579">government regulation</a>,    <a href="/keywords/2580">industry self-regulation</a>,    <a href="/keywords/2581">information delivery mechanisms</a>,    <a href="/keywords/2223">location-based services</a>,    <a href="/keywords/2582">privacy calculus</a>,    <a href="/keywords/2583">procedural justice</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/91">    Volume 7 Number 3 1990
+</a> pp. 41-65</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Object-Oriented Entity-Relationship Model (OOERM)</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/675">Gorman, Kevin</a> and     <a href="/contributors/375">Choobineh, Joobin</a>    </div>
+
+<p>ABSTRACT: The Object-Oriented Entity-Relationship Model (OOERM) and its associated diagramming technique (OOERD) are presented as a natural extension to the ER approach for modeling the dynamics of entity classes. In addition to modeling static properties, OOERM incorporates concepts from the object-oriented programming (OOP) paradigm to model operational properties of entities. Relationships among entities are used in message passing to allow an entity to access the attributes and operations of other related entities. An OOERD is a graphical abstraction of an underlying OOERM scheme description that is used to depict the dynamics of message passing among entities. The synergy between OOP and ER concepts is also discussed. The syntax and semantics of the OOERM language are informally presented, along with the graphic notations and icons of the OOERD. Structural and operational modeling in OOERM is illustrated through examples.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/439">entity-relationship model</a>,    <a href="/keywords/440">object-oriented programming</a>,    <a href="/keywords/441">structure and dynamic modeling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/48">    Volume 26 Number 4 2010
+</a> pp. 119-143</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Coordination Strategies in an SaaS Supply Chain</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/135">Demirkan, Haluk,</a>    <a href="/contributors/357">Cheng, Hsing K,</a> and     <a href="/contributors/111">Bandyopadhyay, Subhajyoti</a>    </div>
+
+<p>ABSTRACT: The computing industry is gradually evolving to cater to the demand for software-as-a-service (SaaS). Two core competencies that have emerged over the past few years are that of the application service providers (ASPs) and the application infrastructure providers (AIPs). The arrangements between them result in system dynamics that is typical in supply chain networks. We examine the performance of an SaaS set up under different coordination strategies between these two players. Our analysis indicates that coordination between the monopoly ASP and the AIP can result in an outcome with the same overall surplus as can be achieved by a central planner. Even though the players have an incentive to deviate, it is possible to create the right incentives so that the economically efficient outcome is also the Nash equilibrium. The results of the analysis have significant implications for the coordination strategies for providers in the burgeoning business model of delivering software services over the Internet.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2601">cloud computing</a>,    <a href="/keywords/1667">economic analysis</a>,    <a href="/keywords/528">information sharing</a>,    <a href="/keywords/2616">infrastructure-as-a-service</a>,    <a href="/keywords/2290">services science</a>,    <a href="/keywords/2284">services</a>,    <a href="/keywords/2606">services management</a>,    <a href="/keywords/2294">software as a service</a>,    <a href="/keywords/194">strategy</a>,    <a href="/keywords/2617">supply chain coordination</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/9">    Volume 7 Number 1 1990
+</a> pp. 5-25</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>MAC--Philadelphia National Bank&#039;s Strategic Venture in Shared ATM Networks</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a>    </div>
+
+<p>ABSTRACT: Philadelphia National Bank (PNB) lunched MAC, its shared Automatic Teller Machine (ATM) network service, in response to a threat from Girard. Girard had introduced George, the first major ATM offering in Philadelphia, and hoped it would provide competitive advantage in retail banking; PNB used MAC to counter this threat. Despite Girard's scale advantage and first-mover effects, PNB was able to attract enough banks to MAC for MAC to dominate and eventually merge with or acquire all other ATM networks in Pennsylvania. Several factors explain why PNB succeeded with MAC, and why the ownership structure of MAC is unique among the major shared ATM networks in the U.S. Among these, timing is keyâ€”MAC emerged before the other shared ATM networks, and before the critical importance of ATM service was evident. Contrasting the structure of ATM networks with other electronic distribution channels, and comparing the profitability of providing each, offers valuable insight into the power associated with the channel provider under different conditions.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/38">information systems for competitive advantage</a>,    <a href="/keywords/407">information technology in banking</a>,    <a href="/keywords/408">automatic teller machine (ATM) networks</a>,    <a href="/keywords/399">case study</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

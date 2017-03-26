@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/44">    Volume 10 Number 1 1993
+</a> pp. 97-122</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Measuring the Organizational Impact of Information Technology Investment: An Exploratory Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1089">Mahmood, M Adam</a> and     <a href="/contributors/1091">Mann, Gary J</a>    </div>
+
+<p>ABSTRACT: Organizations are investing ever-increasing amounts in information technology (IT). However, the existing literature provides little evidence of a relationship between IT investment and organizational strategic and economic performance. The exploratory research reported here appears to be the first to relate comprehensive sets of IT investment measures to organizational strategic and economic performance measures. Although the individual IT investment variables were found to be only weakly related to organizational strategic and economic performance, they were significantly related to performance when grouped and analyzed by means of canonical correlation. More specifically, canonical results suggest that organizational strategic and economic performance measures such as sales by employee, return on sales, sales by total assets, return on investment, and market to book value are affected by IT investment measures such as IT budget as percentage of revenue, the percentage of IT budget spent on training of employees, number of PCs per employee, and IT value as a percentage of revenue. The organizational performance measure growth in revenue and IT investment measure percentage of IT budget spent on staff were not significantly related to other measures and therefore were not indicated to be useful for investigating possible effects of IT investment on organizational strategic and economic performance. Finally, a model based on these results is suggested. The model depicts a framework for management evaluation of the relationship between IT investment and organizational performance.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/654">information technology investment</a>,    <a href="/keywords/655">investment-performance analysis</a>,    <a href="/keywords/656">organizational strategic and economic performance</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/74">    Volume 9 Number 3 1992
+</a> pp. 27-44</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Theoretical Perspective of Negotiation Support Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/977">Lai-Huat, Lim</a> and     <a href="/contributors/157">Benbasat, Izak</a>    </div>
+
+<p>ABSTRACT: This paper provides an overview of the existing negotiation literature under the headings of game theory, economic models, political models, and social-psychological models. Inferring from the review the need for computer support for negotiation, the paper then proposes a theory for understanding the effects due to a support system in a two-party, monolithic, and multiple-issue setting. The theory conceptualizes a negotiation support system as consisting of individual decision support systems interconnected with an electronic communication channel; accordingly, it postulates two sets of effects, one owing to the decision aid, and the other to the communication support.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/415">electronic meeting systems</a>,    <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/592">negotiation support systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

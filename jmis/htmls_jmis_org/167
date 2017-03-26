@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/31">    Volume 20 Number 2 2003
+</a> pp. 137-168</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Economic Implications of Variable Technology Standards for Movie Piracy in a Global Context</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/334">Chellappa, Ramnath K</a> and     <a href="/contributors/336">Shivendu, Shivendu</a>    </div>
+
+<p>ABSTRACT: Even if bandwidth on the Internet is limited, compression technologies have made online music piracy a foremost problem in intellectual copyright protection. However, due to significantly larger sizes of video files, movies are still largely pirated by duplicating DVDs, VCDs, and other physical media. In the case of DVDs, movie studios have historically maintained different technology codes or formats across various regions of the world, primarily to control the timing of theatrical releases in these parts of the world. This paper formulates an analytical model to study the implications of maintaining different or incompatible technology standards in DVD and other optical disc players on global pricing and piracy of movie discs. Our formulation develops two distinct piracy types, namely, regional and global piracy, signifying if consumers will pirate movies released for their own region or those meant for other regions. Our results find that maintaining separate technology standards is very critical when there is piracy, as losses from global piracy can be higher than when only regional piracy exists. Further, we observe that piracy is not a victimless crime, in that not only do producers suffer losses but consumers in regions with high willingness to pay for quality also stand to lose. In addition, we find that increasing homogeneity in consumer preferences for quality across regions may not be beneficial to digital product vendors unless there is also uniformity in copyright protection laws. We conclude with recommendations for research and practice for movie studios as well as producers for other goods that are dependent on copyright protection such as books and pharmaceuticals.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1705">contract theory</a>,    <a href="/keywords/1571">digital products</a>,    <a href="/keywords/1334">information goods</a>,    <a href="/keywords/1706">moral rent</a>,    <a href="/keywords/1707">movie piracy</a>,    <a href="/keywords/1708">pricing</a>,    <a href="/keywords/1709">technology standards</a>,    <a href="/keywords/1710">vertical segmentation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

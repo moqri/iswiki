@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/101">    Volume 12 Number 3 1995
+</a> pp. 65-80</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Applying Group Support Systems to Classroom Settings: A Social Cognitive Learning Theory Explanation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1147">Money, William H</a>    </div>
+
+<p>ABSTRACT: This paper utilizes social cognitive learning theory to guide and explain the development of prototype educational experiences for information systems concepts. The paper applies the major framework of social cognitive learning theory, its recognition of the reciprocity and interaction among cognitive, behavioral, environmental, and physiological/affective influences. In this learning process, it is argued that people learn from a variety of experiences and from the observation of the actions of others. This paper uses social cognitive learning theory to explain the structure for an MIS educational experience, and applies a group support system (GSS) in a course module with specific learning objectives. Finally, the paper describes an MIS classroom experience (a module covering systems analysis [SA] methodology) which has been used to apply the GSS to prototype MIS problems (working scenarios with questions and organizational data).</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/693">group support systems</a>,    <a href="/keywords/112">MIS education</a>,    <a href="/keywords/881">social cognitive learning theory</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/46">    Volume 21 Number 2 2004
+</a> pp. 11-32</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Framework for Assessing the Business Value of Information Technology Infrastructures</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/530">Kumar, Ram L</a>    </div>
+
+<p>Information technology (IT) infrastructure investments are an extremely important part of e-business and constitute a major portion of IT investments in many organizations. IT infrastructure investments include investments in connectivity, systems integration, and data storage that may be used by multiple applications. Prior research has recognized the importance of a flexible IT infrastructure as a source of competitive advantage. Evidence regarding the value of IT infrastructures is anecdotal, and there is a realization that large investments in IT infrastructures are often difficult to justify. This paper expands on the idea that the value of an IT infrastructure depends on its use in an organizational context, and presents a relatively simple approach to understanding and assessing the value of IT infrastructure investments. This approach is based on the asset valuation literature in finance. An example is provided to illustrate the proposed approach, and managerial implications are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1791">asset valuation</a>,    <a href="/keywords/1309">business value</a>,    <a href="/keywords/1667">economic analysis</a>,    <a href="/keywords/1792">IT infrastructure</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

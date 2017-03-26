@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/39">    Volume 20 Number 3 2003
+</a> pp. 257-281</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Longitudinal Field Study of Training Practices in a Collaborative Application Environment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/895">Kang, David</a> and     <a href="/contributors/896">Santhanam, Radhika</a>    </div>
+
+<p>ABSTRACT: Researchers have emphasized that existing training strategies must be modified in order to adequately prepare users to employ collaborative applications. We utilize findings from the vast amount of training research conducted thus far and point to some problems that might occur when existing strategies are applied to train users of collaborative applications. We test our ideas by conducting a longitudinal field study of a collaborative work flow application. As proposed in a recent knowledge-level framework, our findings indicate that training programs must not solely focus on developing users' system proficiency skills but must also educate users about the business processes that the collaborative application will support. This additional knowledge will enable users to deal with technology-induced changes in the business processes due to the deployment of the collaborative application. Furthermore, we find that training programs should sensitize users to the interdependencies that exist among their tasks and make them aware of the collective consequences of their individual actions. We also found that users have to engage in collective problem solving efforts and continuously learn new knowledge during the process of appropriation of the collaborative application. We propose a training framework that integrates these ideas to prepare users to make effective use of collaborative applications. The proposed framework calls for trainers to be continuously engaged with users and help refine their knowledge during the process of appropriation. We suggest that theoretical foundations rooted in collective learning be adopted to guide training research in collaborative applications.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1742">collaborative applications</a>,    <a href="/keywords/365">end-user computing</a>,    <a href="/keywords/432">end-user training</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

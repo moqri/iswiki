@@ -1,0 +1,979 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/82">    Volume 17 Number 1 2000
+</a> pp. 3-8</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ INFORMATION SYSTEMS RESEARCHERS HAVE DEVOTED MOST OF THEIR EFFORTS to the hierarchy end of  the hierarchy-markets spectrum of business governance. Having contributed significantly to our understanding of  organizational management information systems, this work has more recently resulted also in a firmer  conceptualization of the interorganizational systems that combine firms in supply and cooperation networks. This  direction is and will remain vital to our field. Yet, the time has come to devote greater attention to the relationships  between information systems and markets. There are many sides to these relationships. Information systems are  deployed to create marketplaces with the desired participation and characteristics; Web auctions are probably the  best example for today. Marketplaces for information goods are another area now being subjected to  investigation. These markets have distinct properties, flowing, inter alia, from the near-zero marginal cost of the  product and of its distribution. They are also subject to more or less subtle manipulation, both by illegal and legal  means. In order to ensure efficient resource allocation in these markets, it is important to structure them with  incentive compatibility in mind. Several papers that open the present issue of the journal do indeed address nodal  issues at the intersection of information systems and marketplaces. The variety of methodologies that aim at the  target is highly notable.
+</p>
+<p>
+ In the first article, Alok Gupta, Boris Jukic, Dale O. Stahl, and Andrew B. Whinston develop an  incentive-compatible mechanism for pricing Internet services. Although until now the Internet operation has been  relying on fixed-fee pricing for a relatively uniform service quality, it is widely expected that  pay-for-service-quality regimes will be established in the very near future. It then becomes important to establish  price levels that would allocate the scarce resource of higher-priority treatment to the users who value it highest.  It is also necessary to design a value-revelation mechanism that would not provide an incentive for the users to  "game" the system. Most of the Internet pricing mechanisms currently put forward assume that the users state the  urgency of their demand, which is, of course, not incentive-compatible. It is the highly original contribution of the  present paper to offer a method for estimating the cost of delay to a user from the actual on-line behavior of the  user. This work can be expected to generate both scholarly and practical interest. It can also be applied in  environments other than the Internet.
+</p>
+<p>
+ Using the approach of experimental economics, Y. Alex Tung and James R. Marsden study the impact of  inside information on trading volumes in securities markets. Beyond that, the authors are able to design  experiments that analyze the outcomes of potential regulatory changes. Since information systems are a principal  means of market surveillance, this contribution presents, in effect, a workstation for developing regulatory and  punitive mechanisms in security marketplaces.
+</p>
+<p>
+ Lawrence A. West Jr. investigates pricing policies that have been used by on-line database vendors. As  purveyors of what economists call public goods, they need to develop efficient markets for the product that can  be widely copied and circulated, for example, over the Internet. West finds that by adopting a combination of  pricing strategies, the industry has been able to create a well-functioning market for computer-readable  information. With service enhancements, incentives have been created to protect products from unauthorized  reuse. Moreover, market participants have been continuously adapting their behavior to drastic technological  change, with mutual benefit: The invisible hand has been guided properly.
+</p>
+<p>
+ Another aspect of creating a market for information goods is studied by Srinivasan Raghunathan. The author  investigates the profitability of introducing simultaneous multiple software editions, as well as upgrades, to serve  the needs of multiple market segments. The near-zero marginal production cost results in specificities here as  compared to the well-established segmentation strategies in the markets for physical goods. Some of the results  are quite surprising. The author is able to make definite recommendations to the managers responsible for  marketing software packages. The work is capable of extension in several directions, including the provision of  application services on a rental basis.
+</p>
+<p>
+ A related, if largely nefarious, software marketing practice is investigated with the use of an entirely different  methodology by John A. Hoxmeier. Product preannouncements long before the ship date, or in lieu of shipments  that never take place, have been an industry practice for decades. Are they a breach of trust, or is a long lead  time to delivery a helpful means of signaling to the potential customer and other vendors meant to enable them to  prepare for the release? It appears that the specificity of software as a product asserts itself again. In the  perceptions of the managers surveyed, it is only the final functionality that counts-another guideline to the  marketers.
+</p>
+<p>
+ The distribution of multimedia objects, such as high-resolution images, video, audio, and various combinations  thereof, over computer networks is what we see ever more of. Sandeep Purao and Tae-Dong Han present here  a formal model and a more pragmatic approach to the distribution of multimedia content over intranets. The  approach taken by the authors makes it possible to offer a spectrum of service quality at a corresponding cost for  the initial distribution of multimedia content. A prototype design is offered as a proof of concept.
+</p>
+<p>
+ It has been widely argued that a flexible information technology infrastructure, from which new business  initiatives can be launched, is strategically important to organizations. However, no method to measure the  flexibility construct has been available-until now. Here, Terry Anthony Byrd and Douglas E. Turner operationalize  the construct and present a validated instrument for its measurement. This work is of obvious importance to the  practitioners, who will be able to root their infrastructure claims in measurable dimensions. No doubt, it will also  stimulate the interest of researchers in refining the factors presented by the authors.
+</p>
+<p>
+ Business-to-business (B2B) commerce dominates the present electronic commerce. This is well known. It is  not equally well known that Electronic Data Interchange (EDI), and private-network EDI in particular, dominates  B2B e-commerce. The ubiquity of EDI in business practices leads Gregory E. Truman to conclude that its  organizational disposition has moved from the strategic to the tactical level. Accordingly, he studies how the  integration of EDI with other corporate systems affects corporate performance. In addition, Truman finds the  influence of integration among the internal systems themselves to be salient to the way EDI deployment influences  financial outcomes.
+</p>
+<p>
+ Management information systems in the public sector are a weighty component of the overall MIS  engagement. It is also a vastly understudied one. Here, James Y.L. Thong, Chee-Sing Yap, and Kin-Lee Seah  present a case study of business process reengineering (BPR) in a large public organization in Singapore.  Relative absence of market pressures, combined with more elaborate internal processes, distinguishes public  organizations from private firms and affects organizational change. Although some of the findings apply to both  private and public companies, the authors are able to offer detailed guidelines for conducting public-sphere BPR,  which cannot be easy, even in Singapore. Of particular interest is the role of an information system pilot in  promoting the goals of the reengineering effort.
+</p>
+<p>
+ This issue opens our seventeenth year of publication. It has become customary to thank at such time our  readers, members of our Editorial Board and, crucially, the JMIS referees, who all collaborate in the success of  the Journal. Here are our reviewers, the primary guarantors of the quality of our papers:
+</p>
+<p>
+ William Acar
+</p>
+<p>
+ Dennis A. Adams
+</p>
+<p>
+ Niv Ahituv
+</p>
+<p>
+ Murugan Anandarajan
+</p>
+<p>
+ Lynda M. Applegate
+</p>
+<p>
+ Paul Attewell
+</p>
+<p>
+ Sulin Ba
+</p>
+<p>
+ Barbro Back
+</p>
+<p>
+ Yannis Bakos
+</p>
+<p>
+ P.R. Balasubramanian
+</p>
+<p>
+ Dirk Baldwin
+</p>
+<p>
+ Dinesh Batra
+</p>
+<p>
+ Salvatore Belardo
+</p>
+<p>
+ Michael Benaroch
+</p>
+<p>
+ Francois Bergeron
+</p>
+<p>
+ Sudip Bhattacherjee
+</p>
+<p>
+ Bijoy Bordoloi
+</p>
+<p>
+ Carol V. Brown
+</p>
+<p>
+ Jeffrey Butterfield
+</p>
+<p>
+ Terry A. Byrd
+</p>
+<p>
+ Edward G. Cale, Jr.
+</p>
+<p>
+ Judith Carlisle
+</p>
+<p>
+ Sven Carlsson
+</p>
+<p>
+ Erran Carmel
+</p>
+<p>
+ Houston H. Carr
+</p>
+<p>
+ William J. Carroll
+</p>
+<p>
+ Robert P. Cerveny
+</p>
+<p>
+ Namsik Chang
+</p>
+<p>
+ Patrick Chau
+</p>
+<p>
+ Hong-Mei Chen
+</p>
+<p>
+ Hsing Kenneth Cheng
+</p>
+<p>
+ Robert T.H. Chi
+</p>
+<p>
+ Roger Chiang
+</p>
+<p>
+ William C. Chismar
+</p>
+<p>
+ Jong-min Choe
+</p>
+<p>
+ H. Michael Chung
+</p>
+<p>
+ Roger Clarke
+</p>
+<p>
+ Sue Conger
+</p>
+<p>
+ Randy Cooper
+</p>
+<p>
+ Timothy P. Cronan
+</p>
+<p>
+ David C. Croson
+</p>
+<p>
+ Paul Cule
+</p>
+<p>
+ Ronald Dattero
+</p>
+<p>
+ Michael J. Davern
+</p>
+<p>
+ Donald L. Davis
+</p>
+<p>
+ Sarv Devaraj
+</p>
+<p>
+ Ali Dogramaci
+</p>
+<p>
+ Peter Duchessi
+</p>
+<p>
+ Omar A. El Sawy
+</p>
+<p>
+ Hyun B. Eom
+</p>
+<p>
+ Gerald E. Evans
+</p>
+<p>
+ Steven Feiner
+</p>
+<p>
+ Kirk Fiedler
+</p>
+<p>
+ Edmond P. Fitzgerald
+</p>
+<p>
+ Jerry Fjermestad
+</p>
+<p>
+ Steven W. Floyd
+</p>
+<p>
+ Edward Fox
+</p>
+<p>
+ Dennis Galletta
+</p>
+<p>
+ Edward J. Garrity
+</p>
+<p>
+ Bezalel Gavish
+</p>
+<p>
+ Erol Gelenbe
+</p>
+<p>
+ Mark Ginsburg
+</p>
+<p>
+ Janis L. Gogan
+</p>
+<p>
+ Dale Goodhue
+</p>
+<p>
+ Sanjay Gosain
+</p>
+<p>
+ Martin D. Goslar
+</p>
+<p>
+ Paul Gray
+</p>
+<p>
+ Saul Greenberg
+</p>
+<p>
+ Robert K. Griffin
+</p>
+<p>
+ Michael D. Grigoriades
+</p>
+<p>
+ Mary-Liz Grise
+</p>
+<p>
+ Tor Guimaraes
+</p>
+<p>
+ Alok Gupta
+</p>
+<p>
+ Barbara Haley
+</p>
+<p>
+ Bill C. Hardgrave
+</p>
+<p>
+ Il-Horn Hann
+</p>
+<p>
+ Paul Hart
+</p>
+<p>
+ Stephen Hayne
+</p>
+<p>
+ Roxanne Starr Hiltz
+</p>
+<p>
+ Rudy Hirschheim
+</p>
+<p>
+ Lorin M. Hitt
+</p>
+<p>
+ Richard Hoffman
+</p>
+<p>
+ John A. Hoxmeier
+</p>
+<p>
+ Qing Hu
+</p>
+<p>
+ Cary T. Hughes
+</p>
+<p>
+ Ard Huizing
+</p>
+<p>
+ E. Gerald Hurst
+</p>
+<p>
+ Gretchen I. Irwin
+</p>
+<p>
+ Tomas Isakowitz
+</p>
+<p>
+ Bharat A. Jain
+</p>
+<p>
+ Sirkka L. Jarvenpaa
+</p>
+<p>
+ Murray E. Jennex
+</p>
+<p>
+ Per V. Jenster
+</p>
+<p>
+ Linda Ellis Johnson
+</p>
+<p>
+ Kailash Joshi
+</p>
+<p>
+ Charles Kacmar
+</p>
+<p>
+ Surinder Kahai
+</p>
+<p>
+ Timo Kakola
+</p>
+<p>
+ Ajit Kambil
+</p>
+<p>
+ P.K. Kannan
+</p>
+<p>
+ Jahangir Karimi
+</p>
+<p>
+ Michael Kattan
+</p>
+<p>
+ Mark Keil
+</p>
+<p>
+ Robert T. Keim
+</p>
+<p>
+ Chris Kemerer
+</p>
+<p>
+ Julie E. Kendall
+</p>
+<p>
+ William J. Kettinger
+</p>
+<p>
+ Omar E.M. Khalil
+</p>
+<p>
+ Melody Y. Kiang
+</p>
+<p>
+ Gary Klein
+</p>
+<p>
+ Stefan Koch
+</p>
+<p>
+ Esther Koster
+</p>
+<p>
+ Kenneth A. Kozar
+</p>
+<p>
+ Kenneth L. Kraemer
+</p>
+<p>
+ Ramayya Krishnan
+</p>
+<p>
+ Uday Kulkarni
+</p>
+<p>
+ Ram Kumar
+</p>
+<p>
+ Mary C. Lacity
+</p>
+<p>
+ Simon S.K. Lam
+</p>
+<p>
+ Gwynne Larsen
+</p>
+<p>
+ Tor J. Larsen
+</p>
+<p>
+ Kathy S. Lassila
+</p>
+<p>
+ Heeseok Lee
+</p>
+<p>
+ Ho Geun Lee
+</p>
+<p>
+ Jungwoo Lee
+</p>
+<p>
+ Dorothy Leidner
+</p>
+<p>
+ Richard Leifer
+</p>
+<p>
+ Mary Jane Lenard
+</p>
+<p>
+ Hugo Levecq
+</p>
+<p>
+ Ting-Peng Liang
+</p>
+<p>
+ Nancy Lightner
+</p>
+<p>
+ Yihwa Irene Liou
+</p>
+<p>
+ Astrid Lipp
+</p>
+<p>
+ Paulo J.G. Lisboa
+</p>
+<p>
+ Henry C. Lucas, Jr.
+</p>
+<p>
+ Kalle Lyytinen
+</p>
+<p>
+ William McCarthy
+</p>
+<p>
+ Jane M. Mackay
+</p>
+<p>
+ Roy McKelvey
+</p>
+<p>
+ Ephraim R. McLean
+</p>
+<p>
+ Poppy L. McLeod
+</p>
+<p>
+ Gregory Madey
+</p>
+<p>
+ Simha R. Magal
+</p>
+<p>
+ Mo A. Mahmood
+</p>
+<p>
+ David Maier
+</p>
+<p>
+ Ji-Ye Mao
+</p>
+<p>
+ Salvatore T. March
+</p>
+<p>
+ Anne P. Massey
+</p>
+<p>
+ Charles H. Mawhinney
+</p>
+<p>
+ Jerrold H. May
+</p>
+<p>
+ Karon Meehan
+</p>
+<p>
+ Roberto J. Mejias
+</p>
+<p>
+ Shaila Miranda
+</p>
+<p>
+ Rajesh Mirani
+</p>
+<p>
+ William H. Money
+</p>
+<p>
+ Ali R. Montazemi
+</p>
+<p>
+ Ramiro Montealegre
+</p>
+<p>
+ Janette Moody
+</p>
+<p>
+ Ajay S. Mookerjee
+</p>
+<p>
+ Scott Moore
+</p>
+<p>
+ Jolene Morrison
+</p>
+<p>
+ Michael D. Myers
+</p>
+<p>
+ Kathleen Mykytyn
+</p>
+<p>
+ Peter P. Mykytyn, Jr.
+</p>
+<p>
+ Barin N. Nag
+</p>
+<p>
+ Murli Nagasundaram
+</p>
+<p>
+ R. Ryan Nelson
+</p>
+<p>
+ Boon Siong Neo
+</p>
+<p>
+ Fred Niederman
+</p>
+<p>
+ Rosalie Ocker
+</p>
+<p>
+ Lorne Olfman
+</p>
+<p>
+ James Oliver
+</p>
+<p>
+ Levent Orman
+</p>
+<p>
+ Richard Orwig
+</p>
+<p>
+ Jonathan W. Palmer
+</p>
+<p>
+ Raymond R. Panko
+</p>
+<p>
+ Lee Papayanopoulos
+</p>
+<p>
+ Michael Parent
+</p>
+<p>
+ Diane Parente
+</p>
+<p>
+ Kenneth Peffers
+</p>
+<p>
+ Norman Pendegraft
+</p>
+<p>
+ Mark Pendergast
+</p>
+<p>
+ Roger A. Pick
+</p>
+<p>
+ Leo L. Pipino
+</p>
+<p>
+ Robert Plant
+</p>
+<p>
+ Steven Poltrock
+</p>
+<p>
+ Gerald Post
+</p>
+<p>
+ John H. Prager
+</p>
+<p>
+ Jayesh Prasad
+</p>
+<p>
+ G. Premkumar
+</p>
+<p>
+ Sandeep Purao
+</p>
+<p>
+ S. Raghunathan
+</p>
+<p>
+ Arik Ragowsky
+</p>
+<p>
+ T.S. Ragu-Nathan
+</p>
+<p>
+ Arun Rai
+</p>
+<p>
+ Rex Kelly Rainer, Jr.
+</p>
+<p>
+ K.S. Raman
+</p>
+<p>
+ B. Ramesh
+</p>
+<p>
+ Richard G. Ramirez
+</p>
+<p>
+ H.R. Rao
+</p>
+<p>
+ R. Ravichandran
+</p>
+<p>
+ T. Ravichandran
+</p>
+<p>
+ Sury Ravindran
+</p>
+<p>
+ Amy W. Ray
+</p>
+<p>
+ Louis Raymond
+</p>
+<p>
+ Paul Resnick
+</p>
+<p>
+ William B. Richmond
+</p>
+<p>
+ Frederick Riggins
+</p>
+<p>
+ Daniel Robey
+</p>
+<p>
+ Michael C. Row
+</p>
+<p>
+ Young U. Ryu
+</p>
+<p>
+ Sherry D. Ryan
+</p>
+<p>
+ Timo Saarinen
+</p>
+<p>
+ Rajiv Sabherwal
+</p>
+<p>
+ Sharon Salveter
+</p>
+<p>
+ G. Lawrence Sanders
+</p>
+<p>
+ Tuomas Sandholm
+</p>
+<p>
+ Radhika Santhanam
+</p>
+<p>
+ John Satzinger
+</p>
+<p>
+ Carol Saunders
+</p>
+<p>
+ Naveed Saleem
+</p>
+<p>
+ George Schell
+</p>
+<p>
+ K.D. Schenk
+</p>
+<p>
+ Irmtraud S. Seeborg
+</p>
+<p>
+ Kishore Sengupta
+</p>
+<p>
+ Vikram Sethi
+</p>
+<p>
+ Kenneth C. Sevcik
+</p>
+<p>
+ Dennis G. Severance
+</p>
+<p>
+ Theresa M. Shaft
+</p>
+<p>
+ Steven Sheetz
+</p>
+<p>
+ Jim Sheffield
+</p>
+<p>
+ Olivia Sheng
+</p>
+<p>
+ Michael Shields
+</p>
+<p>
+ J.P. Shim
+</p>
+<p>
+ Siew Kien Sia
+</p>
+<p>
+ Mark S. Silver
+</p>
+<p>
+ Atish P. Sinha
+</p>
+<p>
+ Sumit Sircar
+</p>
+<p>
+ Charles A. Snyder
+</p>
+<p>
+ William E. Spangler
+</p>
+<p>
+ Rajendra P. Srivastava
+</p>
+<p>
+ Eric W. Stein
+</p>
+<p>
+ John M. Stevens
+</p>
+<p>
+ Veda Storey
+</p>
+<p>
+ Girish Subramanian
+</p>
+<p>
+ Ramesh Subramanian
+</p>
+<p>
+ Ephraim Sudit
+</p>
+<p>
+ Robert T. Sumichrast
+</p>
+<p>
+ Shankar Sunarajan
+</p>
+<p>
+ Arun Sundararajan
+</p>
+<p>
+ Tae Kyung Sung
+</p>
+<p>
+ Edward J. Szewczak
+</p>
+<p>
+ Paul P. Tallon
+</p>
+<p>
+ Kar Yan Tam
+</p>
+<p>
+ Bernard C.Y. Tan
+</p>
+<p>
+ Mohan R. Tanniru
+</p>
+<p>
+ Alfred Taudes
+</p>
+<p>
+ David P. Tegarden
+</p>
+<p>
+ James T.C. Teng
+</p>
+<p>
+ Hock-Hai Teo
+</p>
+<p>
+ Thompson Teo
+</p>
+<p>
+ Matthew Thatcher
+</p>
+<p>
+ Ron Thompson
+</p>
+<p>
+ James Y.L. Thong
+</p>
+<p>
+ John Tillquist
+</p>
+<p>
+ Leon van der Torre
+</p>
+<p>
+ Jonathan K. Trower
+</p>
+<p>
+ Duane Truex
+</p>
+<p>
+ Gregory E. Truman
+</p>
+<p>
+ Ilkka Tuomi
+</p>
+<p>
+ Jon A. Turner
+</p>
+<p>
+ Brad Tuttle
+</p>
+<p>
+ Craig K. Tyran
+</p>
+<p>
+ N.S. Umanath
+</p>
+<p>
+ Yaniv Vakrat
+</p>
+<p>
+ Alfredo Vellido
+</p>
+<p>
+ Boris S. Verkhovsky
+</p>
+<p>
+ Ajay Vinze
+</p>
+<p>
+ Steven Walczak
+</p>
+<p>
+ Michael S. Wang
+</p>
+<p>
+ Shouhong Wang
+</p>
+<p>
+ Y. Richard Wang
+</p>
+<p>
+ Carol Watson
+</p>
+<p>
+ Richard Watson
+</p>
+<p>
+ Mary Beth Watson-Manheim
+</p>
+<p>
+ Bruce Weber
+</p>
+<p>
+ Chih-Ping Wei
+</p>
+<p>
+ Peter Weill
+</p>
+<p>
+ Charles E. Wells
+</p>
+<p>
+ Larry West
+</p>
+<p>
+ J. Christopher Westland
+</p>
+<p>
+ Seungjin Whang
+</p>
+<p>
+ Michael E. Whitman
+</p>
+<p>
+ George Widmeyer
+</p>
+<p>
+ Fons Wijnhoven
+</p>
+<p>
+ Kristoff K. Wolyniec
+</p>
+<p>
+ Hans Wortmann
+</p>
+<p>
+ Chee Sing Yap
+</p>
+<p>
+ Evangelos Yfantis
+</p>
+<p>
+ Ilze Zigurs
+</p>
+<p>
+ Moshe Zviran
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

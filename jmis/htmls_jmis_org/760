@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/77">    Volume 22 Number 4 2006
+</a> pp. 143-176</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Collaborative Activities in Virtual Settings: A Knowledge Management Perspective of Telemedicine</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1228">Paul, David L</a>    </div>
+
+<p>ABSTRACT: Advances in information and communications technology have made possible collaborative activities in virtual settings. Virtual settings can significantly expand the knowledge resources available, yet they also create additional challenges to the already difficult activities of collaborating. The purpose of this research is to provide a better understanding of how collaborative activities in virtual settings enable the different parties to achieve their desired objectives by examining them from a knowledge management perspective. Three aspects of knowledge managementâ€”knowledge transfer, knowledge discovery, and knowledge creationâ€”are examined in the context of telemedicine projects. The findings indicate that an association exists between the types of collaborative activities engaged in virtual settings and the effects such projects are perceived as having. While this research focuses only on virtual collaborative activities in health care, it is likely that these findings are applicable to other industries engaged in such activities in virtual settings.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/812">collaboration</a>,    <a href="/keywords/202">knowledge management</a>,    <a href="/keywords/1261">telemedicine</a>,    <a href="/keywords/1109">virtual teams</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

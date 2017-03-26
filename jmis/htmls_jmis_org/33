@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/20">    Volume 27 Number 4 2011
+</a> pp. 71-98</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Quality in Wikipedia: The Effects of Group Composition and Task Conflict</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/61">Arazy, Ofer,</a>    <a href="/contributors/63">Nov, Oded,</a>    <a href="/contributors/64">Patterson, Raymond,</a> and     <a href="/contributors/65">Yeo, Lisa</a>    </div>
+
+<p>ABSTRACT: The success of Wikipedia demonstrates that self-organizing production communities can produce high-quality information-based products. Research on Wikipedia has proceeded largely atheoretically, focusing on (1) the diversity in membersâ€™ knowledge bases as a determinant of Wikipediaâ€™s content quality, (2) the task-related conflicts that occur during the collaborative authoring process, and (3) the different roles members play in Wikipedia. We develop a theoretical model that explains how these three factors interact to determine the quality of Wikipedia articles. The results from the empirical study of 96 Wikipedia articles suggest that (1) diversity should be encouraged, as the creative abrasion that is generated when cognitively diverse members engage in task-related conflict leads to higher-quality articles, (2) task conflict should be managed, as conflict â€”notwithstanding its contribution to creative abrasionâ€”can negatively affect group output, and (3) groups should maintain a balance of both administrative- and content-oriented members, as both contribute to the collaborative process.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2565">co-creation</a>,    <a href="/keywords/2753">cognitive diversity</a>,    <a href="/keywords/812">collaboration</a>,    <a href="/keywords/2754">community-based production</a>,    <a href="/keywords/2755">group composition</a>,    <a href="/keywords/1632">information quality</a>,    <a href="/keywords/2756">task conflict</a>,    <a href="/keywords/2498">Wikipedia</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

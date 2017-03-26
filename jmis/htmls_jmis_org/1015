@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/47">    Volume 23 Number 2 2006
+</a> pp. 173-201</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Accommodating Individual Preferences in the Categorization of Documents: A Personalized Clustering Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1567">Wei, Chih-Ping,</a>    <a href="/contributors/1568">Chiang, Roger H L,</a> and     <a href="/contributors/1569">Wu, Chia-Chen</a>    </div>
+
+<p>ABSTRACT: As electronic commerce and knowledge economy environments proliferate, both individuals and organizations increasingly generate and consume large amounts of online information, typically available as textual documents. To manage this ever-increasing volume of documents, individuals and organizations frequently organize their documents into categories that facilitate document management and subsequent access and browsing. Document clustering is an intentional act that should reflect individual preferences with regard to the semantic coherency and relevant categorization of documents. Hence, effective document clustering must consider individual preferences and needs to support personalization in document categorization. In this paper, we present an automatic document-clustering approach that incorporates an individual's partial clustering as preferential information. Combining two document representation methods, feature refinement and feature weighting, with two clustering methods, precluster-based hierarchical agglomerative clustering (HAC) and atomic-based HAC, we establish four personalized document-clustering techniques. Using a traditional content-based document-clustering technique as a performance benchmark, we find that the proposed personalized document-clustering techniques improve clustering effectiveness, as measured by cluster precision and cluster recall.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2152">cognitive overload</a>,    <a href="/keywords/2153">document clustering</a>,    <a href="/keywords/2154">hierarchical agglomerative clustering</a>,    <a href="/keywords/2155">personalization</a>,    <a href="/keywords/2156">personalized document clustering</a>,    <a href="/keywords/2157">supervised document clustering</a>,    <a href="/keywords/1533">text mining</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

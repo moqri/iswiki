@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/87">    Volume 16 Number 4 2000
+</a> pp. 121-143</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Discovering Potential and Realizing Value from Information Technology Investments</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/441">Davern, Michael J</a> and     <a href="/contributors/79">Kauffman, Robert J</a>    </div>
+
+<p>ABSTRACT: Information technology (IT) value has been measured at various levels of analysis, yet few authors would contend that the search for value has reached a point where practitioners and theoreticians are satisfied with its outcomes. The authors present a new perspective that emphasizes the importance of understanding where potential value lies and how best to relate it contextually to the measurement of the firm's realized value across multiple levels of analysis. They develop the idea that complementary assets (especially business process design and human capital) influence the firm's realization of value, using concepts such as locus of value and value conversion contingencies. Expanding beyond earlier process models of IT value, which begin with IT expenditure, their analysis of IT value emphasizes the consideration of potential value for an IT investment both in ex ante project selection, and ex post investment evaluation. They illustrate and validate the application of our framework using IT investments in a variety of business domains.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1304">business-process design</a>,    <a href="/keywords/637">business value of information technology</a>,    <a href="/keywords/1305">conversion contingencies</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/1306">IT value</a>,    <a href="/keywords/1307">potential value</a>,    <a href="/keywords/1308">realized value</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

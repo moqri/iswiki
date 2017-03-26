@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/4">    Volume 6 Number 4 1990
+</a> pp. 103-122</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Problem-solving Perspective on Systems Development</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/310">Cerveny, Robert P,</a>    <a href="/contributors/311">Garrity, Edward J,</a> and     <a href="/contributors/312">Sanders, G Lawrence</a>    </div>
+
+<p>ABSTRACT: This paper discusses systems development in the context of problem solving strategies. A theoretical basis for the two dominant problem-solving approaches (SDLC and prototyping) is presented along with the results of a field study of the effectiveness of the strategies in fourth-generation language environments. Results from the study indicate the appropriateness of a mixed development strategy contingent on system type. Implications for future research on systems development are also presented.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/49">systems development</a>,    <a href="/keywords/170">prototyping</a>,    <a href="/keywords/402">problem solving</a>,    <a href="/keywords/403">cognitive science</a>,    <a href="/keywords/47">fourth generation languages</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

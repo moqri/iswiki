@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/41">    Volume 30 Number 2 2013
+</a> pp. 213-238</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>How Do Consumer Buzz and Traffic in Social Media Marketing Predict the Value of the Firm?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1077">Luo, Xueming</a> and     <a href="/contributors/1078">Zhang, Jie</a>    </div>
+
+<p>ABSTRACT: Consumer buzz in the form of user-generated reviews, recommendations, and blogs signals that consumer attitude and advocacy can influence firm value. Web traffic also affects brand awareness and customer acquisition, and is a predictor of the performance of a firm's stock in the market. The information systems and accounting literature have treated buzz and traffic separately in studying their relationships with firm performance. We consider the interactions between buzz and traffic as well as competitive effects that have been overlooked heretofore. To study the relationship between user-initiated Web activities and firm performance, we collected a unique data set with metrics for consumer buzz, Web traffic, and firm value. We employed a vector autoregression with exogenous variables model that captures the evolution and interdependence between the time series of dependent variables. This model enables us to examine a series of questions that have been raised but not fully explored to date, such as dynamic effects, interaction effects, and market competition effects. Our results support the dynamic relationships of buzz and traffic with firm value as well as the related mediation effects of buzz and traffic. They also reveal significant market competition effects, including effects of both a firm's own and its rivals' buzz and traffic. The findings also provide insights for e-commerce managers regarding Web site design, customer relation management, and how to best respond to competitors' strategic moves.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3163">consumer buzz</a>,    <a href="/keywords/3164">firm value</a>,    <a href="/keywords/2148">online reviews</a>,    <a href="/keywords/2912">social media</a>,    <a href="/keywords/3165">stock market performance</a>,    <a href="/keywords/3150">vector autoregression</a>,    <a href="/keywords/1617">Web traffic</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

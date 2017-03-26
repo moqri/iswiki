@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/75">    Volume 16 Number 3 1999
+</a> pp. 119-155</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Total Quality Management in Information Systems Development: Key Constructs and Relationships</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/731">Ravichandran, T</a> and     <a href="/contributors/1226">Rai, Arun</a>    </div>
+
+<p>ABSTRACT: The availability of high-quality software is critical for the effective use of information technology in organizations. Research in software quality has focused largely on the technical aspects of quality improvement, while limited attention has been paid to the organizational and sociobehavioral aspects of quality management. This study represents one effort at addressing this void in the information systems literature. The quality and systems development literatures are synthesized to develop eleven quality management constructs and two quality performance constructs. Scales for these constructs are empirically validated using data collected from a national survey of IS organizations. A LISREL framework is used to test the reliability and validity of the thirteen constructs. The results provide support for the reliability and validity of the constructs. A cluster analysis of the data was conducted to examine patterns of association between quality management practices and quality performance. The results suggest that higher levels of institutionalization of all quality management practices are associated with higher levels of quality performance. The results also suggest that key factors that differentiated high- and low-quality performing IS units include senior management leadership, mechanisms to promote learning and the management infrastructure of the IS unit. Future research efforts directed at causally interrelating the quality management practices should lead to the development of a theory of quality management in systems development.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/676">information system managerial roles</a>,    <a href="/keywords/1286">software quality</a>,    <a href="/keywords/49">systems development</a>,    <a href="/keywords/1287">total quality management theory</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

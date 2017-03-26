@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/4">    Volume 6 Number 4 1990
+</a> pp. 5-20</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Organizational Context and Information Systems Success: A Contingency Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1310">Raymond, Louis</a>    </div>
+
+<p>ABSTRACT: Previous research suggests that organizational factors can be as important as individual factors for the success of information systems. This paper proposes a contingency approach relating selected organizational factors, namely organizational size, maturity, resources, time frame, and IS sophistication to user satisfaction and system usage. The model is tested through an empirical investigation of 34 small and medium-sized manufacturing firms. Data analysis results indicate that while organizational time frame and IS sophistication have a direct effect upon satisfaction and usage, the effect of size, maturity, and resources is mediated by IS sophistication.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/391">organizational context of MIS</a>,    <a href="/keywords/392">information systems success</a>,    <a href="/keywords/393">organization size</a>,    <a href="/keywords/394">IS sophistication</a>,    <a href="/keywords/395">organizational success factors</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

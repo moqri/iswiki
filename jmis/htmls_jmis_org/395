@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/80">    Volume 27 Number 2 2010
+</a> pp. 243-275</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Net Neutrality and Vertical Integration of Content and Broadband Services</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/709">Guo, Hong,</a>    <a href="/contributors/111">Bandyopadhyay, Subhajyoti,</a>    <a href="/contributors/357">Cheng, Hsing K,</a> and     <a href="/contributors/710">Yang, Yu-Chen</a>    </div>
+
+<p>ABSTRACT: Whether broadband service providers (BSPs) should be allowed to vertically integrate with content providers is a contentious issue. This is even more so when viewed through the lens of the net neutrality debate, since the vertically integrated firm can prioritize the delivery of its own content at the expense of that of its competitors if net neutrality is not enforced. Using a game-theoretic model, we analyze the issues of vertical integration of content and broadband services surrounding this debate from an economic perspective. Our analysis establishes the various equilibria in the game and shows that the vertically integrated BSP does not have any incentive to abide by the principles of net neutrality. If net neutrality is not enforced, social welfare might, in certain cases, decrease with vertical integration, and in such cases, the BSP's objectives are at odds with that of the social planner. With other ranges of parameter values, social welfare increases with vertical integration at the expense of the competing pure-play content provider. Interestingly, we find that it is not always true that the BSP will always degrade the delivery of the competing content, and in fact will sometimes have the incentive to prioritize the latter over its own. The analysis thus provides crucial inputs to policymakers as they decide on whether to allow vertical integration between a BSP and a content provider in the absence of net neutrality.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2701">broadband service providers</a>,    <a href="/keywords/2370">consumer surplus</a>,    <a href="/keywords/2702">content providers</a>,    <a href="/keywords/2703">economics of net neutrality</a>,    <a href="/keywords/2704">net neutrality</a>,    <a href="/keywords/2328">social welfare</a>,    <a href="/keywords/2705">vertical integration</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

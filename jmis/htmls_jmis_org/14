@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/12">    Volume 2 Number 1 1985
+</a> pp. 18-32</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Conceptual Perspectives on Key Factors in DSS Development: A Systems Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/23">Ahn, Taesik</a> and     <a href="/contributors/24">Grudnitski, Gary</a>    </div>
+
+<p>ABSTRACT: It is a mistake to categorize decision support systems (DSS) as just another recent variant of traditional computer-based information systems. While traditional computer-based information systems are oriented toward performing structured processing tasks and producing regular reports, DSS have the purpose of supporting nonroutine activities and evolving in response to user learning. Thus a different subset of factors should be considered when developing a decision support system. This paper proposes and defines a conceptual model of DSS development whose origins are based on an open systems approach and whose components capture technical, behavioral, and organizational aspects of the development process.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/49">systems development</a>,    <a href="/keywords/84">system approach</a>,    <a href="/keywords/43">user-system interface</a>,    <a href="/keywords/85">learning-oriented systems</a>,    <a href="/keywords/86">redistribution of power</a>,    <a href="/keywords/87">feedback</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

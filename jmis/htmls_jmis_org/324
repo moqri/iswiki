@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/108">    Volume 24 Number 1 2007
+</a> pp. 135-169</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Team Knowledge and Coordination in Geographically Distributed Software Development</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/294">Espinosa, J Alberto,</a>    <a href="/contributors/581">Slaughter, Sandra A,</a>    <a href="/contributors/582">Kraut, Robert E,</a> and     <a href="/contributors/583">Herbsleb, James D</a>    </div>
+
+<p>ABSTRACT: Coordination is important in software development because it leads to benefits such as cost savings, shorter development cycles, and better-integrated products. Team cognition research suggests that members coordinate through team knowledge, but this perspective has only been investigated in real-time collocated tasks and we know little about which types of team knowledge best help coordination in the most geographically distributed software work. In this field study, we investigate the coordination needs of software teams, how team knowledge affects coordination, and how this effect is influenced by geographic dispersion. Our findings show that software teams have three distinct types of coordination needs--technical, temporal, and process--and that these needs vary with the members' role; geographic distance has a negative effect on coordination, but is mitigated by shared knowledge of the team and presence awareness; and shared task knowledge is more important for coordination among collocated members. We articulate propositions for future research in this area based on our analysis.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/692">coordination</a>,    <a href="/keywords/2247">global software development</a>,    <a href="/keywords/2248">management of the information technology function</a>,    <a href="/keywords/2249">team knowledge</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/1">    Volume 25 Number 1 2008
+</a> pp. 79-103</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Mining Trading Partners&#039; Preferences for Efficient Multi-Issue Bargaining in E-Business</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/990">Lau, Raymond Y K,</a>    <a href="/contributors/991">On, Wong,</a>    <a href="/contributors/992">Yuefeng, Li,</a> and     <a href="/contributors/993">Ma, Louis C K</a>    </div>
+
+<p>ABSTRACT: Classical negotiation models are weak in supporting real-world business negotiations because these models often assume that the preference information of each negotiator is made public. Although parametric learning methods have been proposed for acquiring the preference information of negotiation opponents, these methods suffer from the strong assumptions about the specific utility function and negotiation mechanism employed by the opponents. Consequently, it is difficult to apply these learning methods to the heterogeneous negotiation agents participating in e-marketplaces. This paper illustrates the design, development, and evaluation of a nonparametric negotiation knowledge discovery method which is underpinned by the well-known Bayesian learning paradigm. According to our empirical testing, the novel knowledge discovery method can speed up the negotiation processes while maintaining negotiation effectiveness. To the best of our knowledge, this is the first nonparametric negotiation knowledge discovery method developed and evaluated in the context of multi-issue bargaining over e-marketplaces.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2397">Bayesian learning</a>,    <a href="/keywords/1762">electronic business</a>,    <a href="/keywords/1530">knowledge discovery</a>,    <a href="/keywords/2398">multi-issue bargaining</a>,    <a href="/keywords/1889">negotiation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,44 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/91">    Volume 7 Number 3 1990
+</a> pp. 3-5</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Issue: Management Support Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>This section introduces a series of articles related to research topics in management information systems. Articles discussed include "A Longitudinal Study of the Impact of Group Decision Support Systems on Group Development," by Laku Chidambaram, Robert P. Bostrom, and Bayard E. Wynne, "The Strategic Business Objectives Method for Guiding Executive Information Systems Development," by Linda Volonino and Hugh J. Watson, and "The Object-Oriented Entity-Relationship Model (OOERM)," by Kevin Gorman and Joobin Choobineh.</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

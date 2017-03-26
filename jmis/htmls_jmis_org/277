@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/103">    Volume 15 Number 4 1999
+</a> pp. 115-142</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Business Process Modeling with Group Support Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/239">Dennis, Alan R,</a>    <a href="/contributors/489">Hayes, Glenda S,</a> and     <a href="/contributors/488">Daniels Jr, Robert M</a>    </div>
+
+<p>ABSTRACT: Much process modeling research has focused on the development of new modeling languages, but very little research has examined the process by which model information is collected from subject-matter experts. The goal of this research was to develop and evaluate an alternative process to the traditional sequence of interviews or the increasingly common use of JAD (Joint Application Design) meetings run by professional facilitators/modelers. The authors began by selecting one commonly used modeling technique (IDEF0) and adapting its traditional modeling process to use an enabling technology of a group support system (GSS). They developed a special-purpose GSS tool to support the process and tested it through a series of eight field trials over a sixteen-month period. They then compared the new GSS-based technique with the traditional JAD technique in an additional series of eighteen field studies (nine JAD, nine GSS) over a two-year period. The results indicate that the GSS technique reduced the time required to build models by about 75 percent. Models built using GSS and the traditional JAD approach had similar numbers of syntax errors. Project managers perceived the GSS models to be as good as or better than the traditional JAD models in accurately defining the business process.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/693">group support systems</a>,    <a href="/keywords/1193">GSS</a>,    <a href="/keywords/1095">JAD</a>,    <a href="/keywords/1194">process modeling</a>,    <a href="/keywords/636">requirements analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,61 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/83">    Volume 19 Number 3 2002
+</a> pp. 5-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ OVER THE RECENT DECADE, ELECTRONIC COMMERCE has been changing the way business is done.  It has not brought along a hallowed &#8220;New Economy,&#8221; with virtuality miraculously replacing the &#8220;old&#8221; economy as  we had come to know it. E-commerce, understood as the sharing of business information, maintaining  business relationships, and conducting business transactions by means of telecommunications networks, has  been steadily transforming organizational strategies, structures, management, and operations. The advent of  the Internet-based World Wide Web has been the potent stimulus for the transformation. Even in these days  of lean information-systems budgets very few firms can afford not to relate their strategy to the incursion of  the e-commerce-based intra-organizational and interorganizational processes, the e-commerce-based  transformation of the marketplaces&#8212;and all need to act accordingly. It is not surprising that our annual Special  Section on competitive strategy and information technology is titled &#8220;Competitive Strategy, Economics, and  the Internet.&#8221; The Guest Editors, Robert J. Kauffman and Alina M. Chircu, will introduce to you the five papers  of the Special Section. Taken together, they offer a broad view of strategic concerns related to the embedding  of e-commerce, and of the research methods in the domain.
+</p>
+<p>
+ Two papers that open the general section of the issue address conceptual aspects of database organization. In  the first work, Andrew N.K. Chen, Paulo B. Goes, and James R. Marsden present a novel architecture for a  flexible database system that would be considerably faster in query processing than the traditional databases.  Motivated by the need for massive read-only processing, the proposed architecture divorces the update  component of the database proper from the multiple read-only components, designed to respond to different  categories of queries. Query mining (an analog of data mining) is proposed as an approach to categorizing the  queries to be served by these components. The authors validate their approach by experimenting with a  prototype. We can expect further development of this innovative idea.
+</p>
+<p>
+ As an organization&#8217;s information systems are being developed, conceptual data modeling is conducted during  the crucial initial database development. At some point, the local schemas of various user groups are  integrated into a global conceptual schema. Will the local schemas better support the verification of the  resulting database structures by user groups and the future communication among these groups, or will the  global schema be superior in that regard? Jeffrey Parsons uses classification theory to offer an empirical  answer to the question. Implications for the use of the schemas during the lifetime of the database follow.
+</p>
+<p>
+ In the Web-driven environment, there is a growing interest in the use of group support systems (GSS) for  individual learning. As we know full well, the multiple facets of the technology and of its deployment processes  significantly condition the effects achieved during the GSS use for a given task. Here, Ron Chi-Wai Kwok,  Jian Ma, and Douglas R. Vogel empirically study how the use of a GSS and content facilitation (that is, an  instructor&#8217;s ongoing guidance) affect knowledge acquisition by individuals in a group. Among several  organizationally relevant results, it is interesting to note how collective group knowledge emerges in the  process of a GSS-supported individual learning.
+</p>
+<p>
+ The turnover of information-technology workers is a continuing concern to the organizations that incur related  expenses and lose a component of their collective memory. In many cases, this phenomenon also represents  a preventable human cost to the workers themselves. Jason Bennett Thatcher, Lee P. Stepina, and Randall J.  Boyle present a turnover model that turns on the organizational commitment of the workers, as related to the  job alternatives they perceive outside their firm. Stemming from the model is the guidance for the managers  on enhancing the commitment and the positive perceptions of the current workplace.
+</p>
+<p>
+ During the recent months, the Journal of Management Information Systems, and the MIS community at large,  have coped with the grievous loss of one of our outstanding&#8212;and much beloved&#8212;members, Magid Igbaria. A  scholar of surpassing accomplishment and, considering his age, much promise, Magid has left a void all of us  perceive. Lorne Olfman gives us a remembrance of Magid as a scholar. So many of us remember him as an  individual who worked with us closely, who was always there for a meaningful discussion in which he had  something valuable to say, who offered help to those who needed it&#8212;all of it with grace and with a shining  mind. Magid&#8217;s name is included on the page that lists the Associate Editors of this JMIS issue&#8212;because he  has worked on it, until the last days of his life. The remembrance of Magid Igbaria opens the issue&#8212;and we will  always remember him.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

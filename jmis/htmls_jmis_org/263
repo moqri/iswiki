@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/52">    Volume 11 Number 3 1994
+</a> pp. 43-63</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Technological Support for Group Process Modeling</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/456">Dean, Douglas L,</a>    <a href="/contributors/457">Lee, James D,</a>    <a href="/contributors/458">Orwig, Richard E,</a> and     <a href="/contributors/459">Vogel, Douglas R</a>    </div>
+
+<p>ABSTRACT: During business analysis, business activities are modeled and analyzed. Redefined models become the blueprints for improved business activities. The cost to produce models of the organization is high and model accuracy is important. Involvement from knowledgeable participants and stakeholders is desirable during business modeling and analysis. Traditional modeling approaches limit direct participation to a small handful of participants. This paper discusses the development and evaluation of an electronic meeting system (EMS) based activity modeling tool. Modeling efforts supported by this new approach are compared with modeling efforts supported by analysts with a single-user tool. The results of this comparison reveal that the EMS-based modeling tool allows a greater number of individuals to participate efficiently in model development. Models are developed between 175 percent and 251 percent faster with the new approach than with the traditional approach. Specific features are discussed that help relatively novice modelers work with analysts to develop models of reasonable quality. Measures are set forth that can be used to assess modeling efficiency and quality.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/783">business process improvement</a>,    <a href="/keywords/705">business process modeling</a>,    <a href="/keywords/415">electronic meeting systems</a>,    <a href="/keywords/784">group modeling</a>,    <a href="/keywords/785">IDEF modeling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

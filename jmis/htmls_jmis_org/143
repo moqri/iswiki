@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/21">    Volume 8 Number 1 1991
+</a> pp. 167-181</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Implications of Declining Enrollments in Undergraduate CIS Programs in the United States</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/282">Cale Jr, Edward G,</a>    <a href="/contributors/283">Mawhinney, Charles H,</a> and     <a href="/contributors/284">Callaghan, David R</a>    </div>
+
+<p>ABSTRACT: A shortage of qualified entry-level computer information systems (CIS) personnel is beginning to occur as a result of the recent decline in student interest in computer-related careers. This paper discusses the impending shortage, its implications, and actions that can be taken to reverse this development.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/112">MIS education</a>,    <a href="/keywords/482">MIS employment projections</a>,    <a href="/keywords/483">MIS careers</a>,    <a href="/keywords/484">computer personnel</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

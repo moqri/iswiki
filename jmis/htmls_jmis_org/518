@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/110">    Volume 9 Number 4 1993
+</a> pp. 37-57</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Comparison of Machine Learning with Human Judgment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/904">Kattan, Michael W,</a>    <a href="/contributors/905">Adams, Dennis A,</a> and     <a href="/contributors/906">Parks, Michael S</a>    </div>
+
+<p>ABSTRACT: This paper compares human judgment with machine learning in a check processing context. An experiment was conducted comparing teams of subjects with three commercially available machine learning algorithms: recursive partitioning, ID3, and a back-propagation neural network. Also, the statistical technique discriminant analysis was compared. The subjects were allowed to induce rules from historical data under ideal human conditions, such as adequate time and opportunity to sort the data as desired. The results on multiple holdout samples indicate that human judgment, recursive partitioning, and the ID3 algorithm were equally accurate and more accurate than a back-propagation neural network. Subjects who chose mixed strategies of judgment were more accurate than those using noncompensatory strategies, while no subjects chose compensatory strategies. Large decision trees were not more accurate than smaller ones. There appeared to be a time threshold for humans to form accurate decision rules. Holdout sample accuracy tended to increase with primary sample accuracy. ID3 built larger trees than did either humans or recursive partitioning. The conclusion of this research is that the knowledge engineer faced with available historical data concerning a classification problem should not waste his time discerning rules, since he will only take longer and be no more accurate than a good learning tool. Knowledge of these tools will be the requisite skill for the knowledge engineer of the 1990s. Implications for IS design and further research are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/616">artificial neural networks</a>,    <a href="/keywords/617">discriminant analysis</a>,    <a href="/keywords/156">expert systems</a>,    <a href="/keywords/618">ID3</a>,    <a href="/keywords/611">machine learning</a>,    <a href="/keywords/619">policy capture</a>,    <a href="/keywords/620">recursive partitioning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

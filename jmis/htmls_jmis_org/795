@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/39">    Volume 20 Number 3 2003
+</a> pp. 121-158</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Technology Investments and Firms&#039; Performance--A Duopoly Perspective</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1286">Quan, Jing Jim,</a>    <a href="/contributors/1281">Qing, Hu,</a> and     <a href="/contributors/740">Hart, Paul J</a>    </div>
+
+<p>ABSTRACT: Over the past two decades, numerous empirical studies have been conducted on the contribution of information technology (IT) to productivity and other measures of firm performance. However, few theoretical studies have attempted to explain the contingencies under which IT investments may or may not be valuable to a firm in a competitive market. This research proposes a duopoly competition model to study the impacts of IT investments on firm performance and productivity. We show that the extent to which a profit-maximizing firm benefits from IT investments is a function of, among other things, market sensitivities to the price and quality of the products and services offered by the firm and its competitor. We demonstrate that, under duopolistic competition, the effects of IT investments are not as deterministic as under monopolistic competition. We further show that the effect of IT investments on productivity, in a duopoly market, are contingent on market sensitivities to changes in the price and quality of products and services offered by the firm and its competitor, as well as on fixed and overhead costs being sufficiently large in relation to market size--an important condition in a monopoly market. Especially, the price sensitivity has a positive effect on the impact of IT investments on productivity and quality sensitivity has a negative effect. We submit that firms are better off making efficiency-enhancing IT investments if the market in which they operate is more price sensitive than quality sensitive.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/115">competitive strategy</a>,    <a href="/keywords/1730">duopoly</a>,    <a href="/keywords/874">game theory</a>,    <a href="/keywords/1408">information technology impact</a>,    <a href="/keywords/654">information technology investment</a>,    <a href="/keywords/1731">information technology productivity paradox</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

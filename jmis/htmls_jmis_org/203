@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/31">    Volume 20 Number 2 2003
+</a> pp. 11-48</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Justifying Contingent Information Technology Investments: Balancing the Need for Speed of Action with Certainty Before Action</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/391">Bin, G U</a>    </div>
+
+<p>ABSTRACT: Executives need to master different mechanisms for analyzing their firms' investment opportunities in uncertain, difficult times. Rapidly changing business conditions require firms to move quickly, with total commitment and the rapid deployment of capital, resources, and management attention, often in several directions at the same time. However, high levels of strategic uncertainty and environmental risk, combined with limits on available funding, require firms to limit their commitment. In brief, we require high levels of strategic commitment to numerous projects, while simultaneously preserving our flexibility and withholding commitment. Whereas achieving both is clearly impossible, techniques exist that enable executives (1) to identify and to delimit their range of investment alternatives that must be considered, and to do so rapidly and reliably, (2) to divide investments into discrete stages that can be implemented sequentially, (3) to determine which chunks can safely and profitably be developed as strategic options, with value that can be captured when subsequent stage investments are made later; and (4) to quantify and to estimate the value of these strategic options with a significant degree of accuracy, so that selections can be made from a portfolio of investment alternatives. This paper also avoids restrictions of common option valuation models by providing a technique that is general enough to be used when the data required by common models are not available or the assumptions are not satisfied.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/654">information technology investment</a>,    <a href="/keywords/1685">option valuation</a>,    <a href="/keywords/1686">strategic investments</a>,    <a href="/keywords/1687">strategic options</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

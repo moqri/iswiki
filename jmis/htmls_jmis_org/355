@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/43">    Volume 28 Number 2 2011
+</a> pp. 11-38</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Measuring Information Diffusion in an Online Community</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/654">Garg, Rajiv,</a>    <a href="/contributors/655">Smith, Michael D,</a> and     <a href="/contributors/656">Telang, Rahul</a>    </div>
+
+<p>ABSTRACT: Measuring peer influence in social networks is an important business and policy question that has become increasingly salient with the development of globally interconnected information and communication technology networks. However, in spite of the new data sources available today, researchers still face many of the same measurement challenges that have been present in the literature for over four decades: homophily, reflection and selection problems, identifying the source of influence, and determining preexisting knowledge. The goal of this paper is to develop an empirical approach for measuring information diffusion and discovery in online social networks that have these measurement challenges. We develop such an approach and apply it to data collected from 4,000 users of an online music community. We show that peers on such networks significantly increase music discovery. Moreover, we demonstrate how future research can use this method to measure information discovery and diffusion using data from other online social networks.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1207">data mining</a>,    <a href="/keywords/1955">empirical research</a>,    <a href="/keywords/2824">information diffusion</a>,    <a href="/keywords/2825">new content discovery</a>,    <a href="/keywords/2826">online music community</a>,    <a href="/keywords/2827">peer influence</a>,    <a href="/keywords/1924">social influence</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

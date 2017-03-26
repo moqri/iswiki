@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/127">    Volume 32 Number 2 2015
+</a> pp. 40-70</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Family Preferences Concerning Online Privacy, Data Mining, and Targeted Ads: Regulatory Implications</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/1773">Wilson, Joshua S</a>    </div>
+
+<p>ABSTRACT: 
+<p>Young Internet users engage in risky or inappropriate behavior online that could either be embarrassing or harmful to their future. As importantly, young Internet users engage in online activities that reveal a great deal about the cost to serve them and their willingness to pay for goods and services, which could be used against them by well-informed sellers. Educational applications that collect users’ information are becoming ubiquitous in the classroom, presenting the opportunity for students’ data to be mined. We are not aware of prior studies that examine parental or students’ attitudes and preferences toward data mining of educational application accounts, and how these attitudes differ across several countries. We used three survey instruments to measure parents’ and students’ attitudes toward data mining of educational applications. Parents in all countries studied prefer far less data mining of students’ online activities than seems to be the current practice. Most importantly, aversion to data mining does not seem to be correlated with awareness of current practices of data mining of teens’ activities. This study highlights regulatory alternatives and suggests future research and future data requirements for designing appropriate regulatory interventions. The nature of the intervention will be guided by the nature of the causes of inappropriate online behavior and inappropriate selection of educational software. Intervention could range from no regulation needed, through providing greater transparency, to new and detailed legal requirements that software providers must meet.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1207">data mining</a>,    <a href="/keywords/3506">educational software</a>,    <a href="/keywords/3507">online behavior</a>,    <a href="/keywords/3508">online teen behavior</a>,    <a href="/keywords/1355">privacy</a>,    <a href="/keywords/3509">privacy regulation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

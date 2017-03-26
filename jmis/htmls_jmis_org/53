@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/40">    Volume 26 Number 3 2009
+</a> pp. 275-301</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Estimating Time Required to Reach Bid Levels in Online Auctions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/111">Bandyopadhyay, Subhajyoti</a> and     <a href="/contributors/112">Bandyopadhyay, Seema</a>    </div>
+
+<p>ABSTRACT: Sellers in eBay are often small-business owners whose livelihood depends on fast turnaround of their cash flows. Unlike in traditional auctions, these sellers are content to sell as soon as some target price is reached. While a wealth of literature exists on the final rent of the various stakeholders in a traditional auction setting, what is of interest here is to estimate the time required to reach a certain bid level in ongoing auctions. This paper introduces an analytical model to estimate the time it takes an online auction to reach a prespecified price threshold. The motivation for the research is to avoid unnecessary delays in conducting the transaction. Specifying the right duration would benefit small sellers who would realize the revenue proceeds from the sale faster. To this end, we model the bidding process as an infinite quasi-birth-death process, characterized by bursts of rapid bidding and subsequent lulls. We obtain closed-form solutions for the transient probability distribution in the frequency domain of the bid prices in an ongoing auction, which are then used to compute the transient probability distributions in the time domain. Experienced auctioneers can use these results to estimate expected ending times for their auctions. Sample observations from online auctions indicate that there may be potential room for improvement for sellers in setting their auction ending times. Simulations of the quasi-birth-death processes back up the theoretical observations.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2594">auction bid price</a>,    <a href="/keywords/2595">auction cash turnaround time</a>,    <a href="/keywords/2596">auctions</a>,    <a href="/keywords/2597">buy-it-now price</a>,    <a href="/keywords/2598">correlated random walk</a>,    <a href="/keywords/1817">electronic auctions</a>,    <a href="/keywords/2599">quasi-birth-death process</a>,    <a href="/keywords/781">small business</a>,    <a href="/keywords/2600">transient analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

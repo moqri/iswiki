@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/38">    Volume 16 Number 1 1999
+</a> pp. 63-85</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Dynamics of Modeling in Data Mining: Interpretive Approach to Bankruptcy Prediction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1461">Tae Kyung, Sung,</a>    <a href="/contributors/1462">Namsik, Chang,</a> and     <a href="/contributors/1463">Gunhee, Lee</a>    </div>
+
+<p>ABSTRACT: This paper uses a data-mining approach to develop bankruptcy prediction models suitable for normal and crisis economic conditions. It observes the dynamics of model change from normal to crisis conditions and provides interpretation of bankruptcy classifications. The bankruptcy prediction model revealed that the major variables in predicting bankruptcy were "cash flow to total assets" and "productivity of capital" under normal conditions and "cash flow to liabilities," "productivity of capital," and "fixed assets to stockholders equity and long-term liabilities" under crisis conditions. The accuracy rates of final prediction models in normal conditions and in crisis conditions were found to be 83.3 percent and 81.0 percent, respectively. When the normal model was applied in crisis situations, prediction accuracy dropped significantly in the case of bankruptcy classification (from 66.7 percent to 36.7 percent) to the level of a blind guess (35.71 percent). Therefore, the need for a different model in crisis economic conditions is justified.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1215">bankruptcy prediction</a>,    <a href="/keywords/1216">crisis management</a>,    <a href="/keywords/1207">data mining</a>,    <a href="/keywords/1217">dynamics of modeling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

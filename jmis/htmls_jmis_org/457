@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/111">    Volume 17 Number 3 2000
+</a> pp. 179-218</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Dynamic Framework for Classifying Information Systems Development Methodologies and Approaches</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/821">Iivari, Juhani,</a>    <a href="/contributors/802">Hirschheim, Rudy,</a> and     <a href="/contributors/822">Klein, Heinz K</a>    </div>
+
+<p>ABSTRACT: This paper proposes a four-tiered framework for classifying and understanding the myriad of information systems development methodologies that have been proposed in the literature. The framework is divided into four levels: paradigms, approaches, methodologies, and techniques. This paper primarily focuses on the two intermediate levels: approaches and methodologies. The principal contribution of the framework is in providing a new kind of "deep structure" for better understanding the intellectual core of methodologies and approaches and their interrelationships. It achieves this goal by articulating a parsimonious set of foundational features that are shared by subsets of methodologies and approaches. To illustrate how the framework's deep structure provides a better understanding of methodologies' intellectual core, it is applied to eleven examples. The paper also introduces and illustrates a procedure for "accommodating" and "assimilating" new information systems development methodologies in addition to the eleven already discussed. This procedure provides the framework with the necessary flexibility for handling the continuing proliferation of new methodologies.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1392">deep structures</a>,    <a href="/keywords/1190">information system development</a>,    <a href="/keywords/1393">systems development methodologies</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

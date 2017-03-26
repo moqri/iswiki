@@ -1,0 +1,76 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/80">    Volume 27 Number 2 2010
+</a> pp. 5-7</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ The two papers opening this issue of JMIS present studies of collaboration enabled by information technology (IT). While their  perspectives and specific subjects differ diametrically, taken together they advance our theoretical knowledge of the domain. Susan A.  Brown, Alan R. Dennis, and Viswanath Venkatesh propose an integrated model of the adoption and continuing use of collaboration  technology, combining the constructs from the unified theory of acceptance and use of technology with those of several theories of  collaboration. The model has been validated in two field study settings with two collaboration technologies. Considering the explanatory and  predictive promise of the unified model, it deserves extensive validation in future work.
+</p>
+<p>
+ In the second paper, Ann Majchrzak and Sirkka L. Jarvenpaa study a very specific, and vital, collaboration context, that of ad hoc and  temporary collaboration, based on rapid common sense-making among numerous organizational entities, typified by the handling of  homeland security threats. A so-called safe context is needed to contain the access to and the use of information in such a setting. The  authors use an information-processing model to explore the relationships between the factors ensuring a safe context and the participants'  perception of the collaboration's success. The results indicate that the factors conditioning the safe context, such as the restrictions on the  information use, do not have a uniform effect on the perceived success of the collaboration effort. The researchers discuss the revealed  contingencies and offer practical suggestions on adjusting the information safety factors to the context of their application.
+</p>
+<p>
+ Systems development projects can be governed by formal or informal control mechanisms, and they need simultaneously to aim at their  planned targets and to be flexible enough to accommodate changing requirements. In his empirical study of outsourced projects, Amrit  Tiwana argues that in the pursuit of this ambidexterity, the governance should employ a combination of the formal and informal controls,  acting as complements and substitutes. The nuanced study, adapting several theoretical perspectives, explores the interaction among  these control types and produces actionable guidelines on how to combine the achievement of a project's goals with the flexibility of the  development process. Since the interorganizational project control is a vexed issue, the results offered here go well beyond a contribution  to theory.
+</p>
+<p>
+ Five subsequent papers contribute to our understanding and practice of e-commerce at various conceptual levels of that enterprise.  Chrysanthos Dellarocas, Guodong (Gordon) Gao, and Ritu Narayan enhance our knowledge of the product-related consumer articulations  on the Web. Product reviews, aggregated in various ways, are a vital component of co-creation, the creation of value by consumers. This  value, generally freely offered, benefits the aggregators and the producers (as a collective entity). The research question here is: Do the  consumers have the propensity to contribute reviews of already successful products (the Matthew effect) or those of niche products (the  long tail)? Interestingly, the authors find, in the context of movie reviews, that the volume of electronic word of mouth (eWOM) is U-shaped,  with the greater consequence, naturally, for the niche products. Although the overall economics of the long tail have been questioned  recently, there is no doubt that the advice the authors are able to offer to the aggregators and other parties interested in the promotion of  niche products is valuable.
+</p>
+<p>
+ Along with eWOM, recommender systems are the principal native tools of consumer-oriented e-commerce. How do the recommenders  affect sales? This is the question addressed by Bhavik Pathak, Robert Garfinkel, Ram D. Gopal, Rajkumar Venkatesan, and Fang Yin, who  present an empirically grounded model that surfaces the power of these systems. Applying the model to the data sets of two e-tailers, the  authors find that the strength of the recommendations positively affects sales and prices. Echoing the results reported for eWOM in the  preceding paper, the present authors report that the use of recommenders reinforces the long-tail phenomenon. The results are important  in showing that, far from racing to the price bottom predicted by the early analysts of electronic marketplaces, e-tailers have powerful tools  at their disposal in controlling their markets. Another potential source of higher prices is analyzed by Bin Mai, Nirup M. Menon, and Sumit  Sarkar in the next paper. These researchers show empirically that the display of a privacy seal by an e-tailer is correlated with charging  higher prices as compared to the competitors without such a seal. Thus, the privacy evidence perceived by consumers has become another  source of friction in the electronic marketplaces.
+</p>
+<p>
+ A special type of online marketplace is the subject of research by Zafer D. Ozdemir, Kemal Altinkemer, Prabuddha De, and Yasin Ozcelik.  The authors define and formally analyze the donor-to-nonprofit marketplaces as infomediaries that provide two-sided services: they offer to  donors the data-based services that help them find the nonprofit with a desired mission while offering to nonprofits the fee-based  accreditation and seal services (along with the access to donors). In other words, these intermediaries create a fund-raising marketplace.  Their game-theoretic analysis leads the authors to the important conclusion that these marketplaces may lower the funds raised,  accompanied by the formal results that surface a variety of incentives affecting the actors in these marketplaces.
+</p>
+<p>
+ The rules of the game imposed on the infrastructure of e-commerce affect, most naturally, its economic outcomes. The preeminent rule is  that of net neutrality, hotly contested by many infrastructure providers. Another---and related---contentious issue is that of the possibility of  vertical integration of the broadband service providers (BSPs), that is, the actual providers of the Internet infrastructure, with content  providers. It would appear obvious that, absent the mandatory net neutrality, an integrated service provider would have the incentive to favor  its own traffic. Employing a game-theoretic analysis, the authors of the next paper offer a more textured view of the incentives that would  prevail. Hong Guo, Subhajyoti Bandyopadhyay, Hsing K. Cheng, and Yu?Chen Yang show that the social welfare would decrease in the  absence of net neutrality combined with the presence of such vertical integration. What is truly interesting, they also show that the  integrated service provider may have an incentive to prioritize the traffic of a competing content provider. These results will certainly  contribute to the thinking of Internet policymakers.
+</p>
+<p>
+ The methods of open source software (OSS) development have affected many aspects of organizational software development. According  to the authors of the next paper in this issue, the internal open source (IOS), as the adoption of the OSS principles within a firm is called,  can affect software reuse, an objective long sought. In a case study, Padmal Vitharana, Julie King, and Helena Shih Chapman examine an  IBM program of participatory reuse, that is, a development process fully involving the potential reusers from the start. The program's  effects are salutary and worthy of emulation. The authors induce a theoretical model explaining how IOS affects reuse, which will be of value  to the future adopters of IOS---and to the future researchers who would want to generalize these results.
+</p>
+<p>
+ The final paper in this issue offers an inclusive model of IT diffusion considered an innovation process. The inclusiveness of the model is in  the fact that it considers three types of actors: the influentials (adopting autonomously), the opponents (inhibitors of adoption), and the   imitators (whose behavior is affected by the other two groups). Thus, the authors, Hasan Cavusoglu, Nan Hu, Yingjiu Li, and Dan Ma,  extend previously reported analyses that did not include the opponents. The opponents have the ability to stop the diffusion of innovation, slow  the adoption process, or decrease the maximum rate of adoption. The authors show that this broader model has a much stronger power in  explaining the path of an innovation as it more closely fits the empirical data. This model is an important generalized contribution---and a  worthy closure for the issue.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

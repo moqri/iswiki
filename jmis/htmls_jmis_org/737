@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/119">    Volume 15 Number 1 1998
+</a> pp. 99-118</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Effects of Four Modes of Group Communication on the Outcomes of Software Requirements Determination</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1200">Ocker, Rosalie,</a>    <a href="/contributors/613">Fjermestdad, Jerry,</a>    <a href="/contributors/204">Hiltz, Starr Roxanne,</a> and     <a href="/contributors/762">Johnson, Kenneth</a>    </div>
+
+<p>ABSTRACT: Research on computer-mediated communication and group support systems has focused on the study of a single mode of communication technology in comparison to unsupported face-to-face (FtF) groups. However, as organizations combine traditional FtF meetings with a variety of anytime/anyplace communication technologies to support collaborative work, the need to study these new forms of interaction grows greater. This experiment builds on prior work by comparing the effectiveness of four modes of communication for groups working on the upstream phases of software development: (1) face-to-face, (2) synchronous computer conferencing, (3) asynchronous computer conferencing, and (4) combined FtF and asynchronous computer conferencing. Teams of graduate students determined the requirements for an automated post office as a course assignment over a period of two weeks. The creativity and quality of solutions produced by groups in the combined condition were higher than those in the remaining three communication modes. Combined groups were generally more satisfied with their solutions, although no differences among conditions were found regarding satisfaction with the process used to accomplish work.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/283">computer conferencing</a>,    <a href="/keywords/1138">computer-mediated communication (CMC)</a>,    <a href="/keywords/198">creativity</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/636">requirements analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/66">    Volume 29 Number 1 2012
+</a> pp. 15-52</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Novelty-Knowledge Alignment: A Theory of Design Convergence in Systems Development</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1498">Tiwana, Amrit</a>    </div>
+
+<p>ABSTRACT: Recent research emphasizing the need for more business knowledge in information technology (IT) units and more technical knowledge in line functions largely overlooks the question of when maintaining either form of such "peripheral" knowledge-a costly endeavor-is valuable. Further application and process novelty are increasingly unavoidable in systems development projects but remain largely overlooked in theory. It is plausible that one type of peripheral knowledge is valuable under one type of novelty but not the other.I develop the idea that discriminating alignment between project novelty and peripheral knowledge is needed for them to enhance systems development performance. Thus, the valuable type of peripheral knowledge depends on whether a project involves novelty in the project concept or in its development processes. Further, we lack an explanation for how such discriminating alignment translates into improved project performance. I develop and test a middle-range theory built around two ideas to address these gaps. First, alignment between project novelty and peripheral knowledge must be discriminating to enhance systems development performance. Second, such discriminating alignment accelerates design convergence, which in turn enhances systems development performance. Tests using data from 159 projects support the proposed ideas. The primary contribution of this paper is therefore explaining when and how alignment between project novelty and peripheral knowledge in IT and client departments enhances systems development performance. The key implication is that greater application domain knowledge in the IT unit (technical knowledge in the client department) enhances performance in projects involving greater application novelty (process novelty).</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2935">design convergence</a>,    <a href="/keywords/2936">iteration</a>,    <a href="/keywords/2937">novelty</a>,    <a href="/keywords/2938">oscillations</a>,    <a href="/keywords/2939">peripheral knowledge</a>,    <a href="/keywords/49">systems development</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

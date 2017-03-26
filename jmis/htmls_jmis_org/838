@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/73">    Volume 19 Number 4 2003
+</a> pp. 213-246</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Methodology for Analyzing Web-Based Qualitative Data</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1070">Romano Jr, Nicholas C,</a>    <a href="/contributors/1334">Donovan, Christina,</a>    <a href="/contributors/2">Hsinchun, Chen,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: The volume of qualitative data (QD) available via the Internet is growing at an increasing pace and firms are anxious to extract and understand users' thought processes, wants and needs, attitudes, and purchase intentions contained therein. An information systems (IS) methodology to meaningfully analyze this vast resource of QD could provide useful information, knowledge, or wisdom firms could use for a number of purposes including new product development and quality improvement, target marketing, accurate 'user-focused' profiling, and future sales prediction. In this paper, we present an IS methodology for analysis of Internet-based QD consisting of three steps: elicitation, reduction through IS-facilitated selection, coding, and clustering; and visualization to provide at-a-glance understanding. Outcomes include information (relationships), knowledge (patterns), and wisdom (principles) explained through visualizations and drill-down capabilities. First we present the generic methodology and then discuss an example employing it to analyze free-form comments from potential consumers who viewed soon-to-be-released film trailers provided that illustrates how the methodology and tools can provide rich and meaningful affective, cognitive, contextual, and evaluative information, knowledge, and wisdom. The example revealed that qualitative data analysis (QDA) accurately reflected film popularity. A finding is that QDA also provided a predictive measure of relative magnitude of film popularity between the most popular film and the least popular one, based on actual first week box office sales. The methodology and tools used in this preliminary study illustrate that value can be derived from analysis of Internet-based QD and suggest that further research in this area is warranted.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1650">attitudes and purchase intentions</a>,    <a href="/keywords/1651">clustering</a>,    <a href="/keywords/1652">coding</a>,    <a href="/keywords/1653">elicitation</a>,    <a href="/keywords/1654">future sales predictions</a>,    <a href="/keywords/456">information systems</a>,    <a href="/keywords/1655">qualitative data analysis (QDA) methodology</a>,    <a href="/keywords/1656">reduction</a>,    <a href="/keywords/1657">selection</a>,    <a href="/keywords/1381">visualization</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

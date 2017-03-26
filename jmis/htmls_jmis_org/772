@@ -1,0 +1,139 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/15">    Volume 22 Number 3 2005
+</a> pp. 9-14</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Human-Computer Interaction Research in Management Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1253">Ping, Zhang,</a>    <a href="/contributors/1254">Fui-Hoon Nah, Fiona,</a> and     <a href="/contributors/157">Benbasat, Izak</a>    </div>
+
+<p><p>
+ Ping Zhang is an Associate Professor at the School of Information Studies, Syracuse University. She is interested in the broadly defined area of human&#8211;computer interaction (HCI) in the organizational and business contexts, and has published in journals such as Behaviour &amp; Information Technology, Communications of the ACM, Communications of the AIS, Computers in Human Behavior, Decision Support Systems, International Journal of Electronic Commerce, International Journal of Human&#8211;Computer Studies, Journal of America Society for Information Science and Technology, Journal of the AIS, among others. Her current research interests include intellectual development of HCI research; motivation, flow, affect and emotion in IT use; human-centered IT design and development; and animation and online advertising. She is coeditor (with Dennis Galletta) of two volumes on HCI in MIS in the Advances in Management Information Systems series edited by Vladimir Zwass, and is coauthor (with Dov Te&#8217;eni and Jane Carey) of the first HCI textbook for noncomputer science students (Wiley, 2006). Dr. Zhang has received three Best Paper awards (1997, 2001, and 2004), an Excellence in Teaching award (University of Texas at Austin, 1994), and an Outstanding Service award (Association for Information Systems Special Interest Group on Human&#8211;Computer Interaction [AIS SIGHCI], 2004). She is an Associate Editor of International Journal of Human&#8211;Computer Studies and Communications of the AIS, and a guest coeditor for Journal of Management Information Systems, Journal of the AIS, International Journal of Human&#8211;Computer Studies, International Journal of Human&#8211;Computer Interaction, and  Behaviour &amp; Information Technology. Dr. Zhang is cofounder and the first chair (2001&#8211;2004) of AIS SIGHCI. She received her Ph.D. in MIS from the University of Texas at Austin, and M.Sc. and B.Sc. in Computer Science from Peking University, Beijing, China.
+</p>
+<p>
+ Fiona Fui-Hoon Nah is an Associate Professor at the College of Business Administration, University of Nebraska&#8211;Lincoln. Her research interests include human&#8211;computer interaction, computer-supported collaborative work, knowledge-based and decision support systems, enterprise resource planning, and mobile and ubiquitous commerce. She has published her research in journals such as Communications of the ACM, Journal of the AIS, Communications of the AIS, Behaviour &amp; Information Technology, International Journal of Human&#8211;Computer Interaction, Journal of Electronic Commerce Research, Journal of Computer Information Systems, Information Resources Management Journal, among others. Dr. Nah received the University of Nebraska&#8211;Lincoln College of Business Administration Distinguished Teaching award in 2001, the Best Paper award at the 2003 Pre-ICIS Workshop on Human&#8211;Computer Interactions (HCI) Research in MIS, and the Maude Hammond Fling Faculty Research Fellowship in 2004. She is an associate editor of Journal of Electronic Commerce Research, an editorial board member of seven other MIS journals, and a guest coeditor for Journal of Management Information Systems, International Journal of Human&#8211;Computer Studies, International Journal of Human&#8211;Computer Interaction, Behaviour &amp; Information Technology, Information Resources Management Journal, Business Process Management Journal, Journal of Electronic Commerce Research, and IEEE Transaction on Eduction. Dr. Nah is cofounder and chair (2004&#8211;2005) of AIS SIGHCI. She received her Ph.D. in MIS from the University of British Columbia, and M.Sc. and B.Sc. (Honors) in Computer and Information Sciences from National University of Singapore. She was previously on the faculty of the School of Computing, National University of Singapore, and the Krannert School of Management, Purdue University.
+</p>
+<p>
+ Izak Benbasat is CANADA Research Chair in Information Technology Management at the Faculty of Commerce and Business Administration, University of British Columbia, Vancouver, Canada. He received his Ph.D. in Management Information Systems from the University of Minnesota. Professor Benbasat is a former editor-in-chief of Information Systems Research and, at present, serves as a senior editor of the Journal  of the AIS. His current research interests include evaluating user interfaces and Web-based recommendation agents to facilitate business-to-consumer electronic commerce.
+</p>
+<p>
+ Human&#8211;computer interaction (HCI), or human factors, studies in management information systems (MIS) are concerned with the ways humans interact with information, technologies, and tasks, especially in business, managerial, organizational, and cultural contexts [15]. Although HCI studies in MIS share common interests and concerns with HCI studies in other disciplines, such as computer science, psychology, and ergonomics [11], HCI studies in MIS are also distinctive. An MIS researcher&#8217;s perspective affords emphasis and special importance to managerial and organizational contexts by focusing on the analysis of tasks and outcomes at a level that is relevant to organizational performance and effectiveness. The two main distinctive features of MIS when compared to other &#8220;homes&#8221; of HCI are business application and management orientation [9, 14].
+</p>
+<p>
+ MIS-oriented HCI issues have been addressed since the earliest studies in the MIS discipline. Culnan [4] identified nine factors or subfields in early MIS publications (1972&#8211;82). Of these nine, three are related to issues in humans interacting with computers. In a second study of a later period of MIS publications (1980&#8211;85), Culnan [5] found the MIS field to be composed of five areas of study, one of which, individual (micro) approaches to MIS design and use, is closely related to HCI. After surveying 50 years of MIS publications in the Management Science journal, Banker and Kauffman [1] identified HCI as one of five main research streams in MIS and predicted that interest in HCI research will resurge.
+</p>
+<p>
+ The prediction of the resurgence has already taken place. MIS scholars&#8217; interest in HCI has greatly increased in recent years and HCI has been gaining importance in the MIS discipline. For example, a large number of MIS scholars have self-reported their research interests in HCI-related issues and in teaching HCI-related topics [15]. HCI courses are also offered in many MIS programs [2, 3, 8]. HCI is recognized as an important topic in the most recent model curriculum for the Master in Information Systems majors [7]. Both the total numbers and percentages of HCI studies published in primary MIS journals have increased over recent years [13]. There are two forthcoming volumes on HCI research in MIS [6, 12] that are a part of the Advances in Management Information Systems series (mesharpe.com/amis.htm). Major MIS conferences, such as the International Conference on Information Systems (ICIS), Hawaii International Conference on System Sciences (HICSS), Americas Conferences on Information Systems (AMCIS), Pacific Asia Conferences on Information Systems (PACIS), and European Conferences on Information Systems (ECIS), have been paying attention to HCI studies for many years. Most of them have started to set up specifically designated HCI tracks (ICIS started this in 2004, AMCIS in 2002, PACIS in 2005, ECIS in 2006, and HICSS is targeting 2007). There is a workshop devoted to HCI research in the MIS discipline that started in 2002&#8212;the Pre-ICIS annual Workshop on HCI Research in MIS. Finally, an official organization of HCI in MIS, the AIS Special Interest Group on HCI (SIGHCI), was established in 2001 to promote and support HCI research, teaching, and practice in MIS [10].
+</p>
+<p>
+ Manuscript Selection Process for Special Section
+</p>
+<p>
+ This Special Section is  the fifth in a series of special sections or issues resulting from meetings organized and sponsored by AIS SIGHCI, including HCI tracks/minitracks at AMCIS and the Pre-ICIS workshops on HCI research in MIS. The earlier four special issues include International Journal of Human&#8211;Computer Studies (Vol. 59, No. 4, October 2003, based on AMCIS 2002), Journal of Association for Information Systems (January and March, 2004, based on the first and Pre-ICIS HCI in MIS Workshop 2002), Behaviour &amp; Information Technology (Vol. 23, No. 3, May&#8211;June 2004, based on AMCIS 2003), and International Journal of Human Computer Interaction (Vol. 19, No. 1, 2005, based on AMCIS 2004). Future foreseeable special issues include those in the Journal of the AIS (to be published in 2006 and 2007, based on the third and fourth Pre-ICIS workshops on HCI research in MIS in 2004 and 2004, respectively) and in the International Journal of Human&#8211;Computer Studies (forthcoming in 2006, based on AMCIS 2005 and PACIS 2005).
+</p>
+<p>
+ The papers for this Special Section are the expanded and revised versions of the best papers from the Second Pre-ICIS Workshop on HCI Research in MIS, December 2003, Seattle, Washington. A total of 42 papers were submitted to the workshop, of which 17 were accepted for presentations. Nine of the 17 papers were selected for consideration in this Special Section. The authors of these nine papers expanded their manuscripts based on feedback from the workshop reviews and comments from the participants, and enhanced the theoretical, conceptual, and empirical content of their papers. Each of the resulting manuscripts was then reviewed by one original reviewer from the workshop and two or three new reviewers. After three rounds of rigorous peer review and editorial feedback from the Special Section Guest Editors, four papers were accepted for this Special Section of JMIS.
+</p>
+<p>
+ Preview of the Papers in the Special Section
+</p>
+<p>
+ The Special Section contains four papers that illustrate some of the many interesting current HCI issues and concerns within the MIS discipline. The papers evolve around the theme of decision making in information technology (IT) use and adoption. The first three papers examine interface issues and their impact on decision making and problem solving. The last paper examines the impact of task type on decision making relating to adoption of mobile technology for commerce.
+</p>
+<p>
+ The first paper, entitled &#8220;Involvement and Decision-Making Performance with a Decision Aid: The Influence of Social Multimedia, Gender, and Playfulness,&#8221; is coauthored by Traci J. Hess, Mark A. Fuller, and John Mathew. The study explored how multimedia vividness and the use of computer-based social cues can influence involvement with technology and decision-making outcomes by taking into account two individual differences&#8212;gender and computer playfulness. Findings indicate that personality similarity between the user and the decision aid as well as computer playfulness result in increased involvement with the decision aid. In addition, women reported higher levels of involvement with the decision aid. Increased levels of multimedia vividness are found to have a contradictory effect, with animation actually reducing involvement with the decision aid.
+</p>
+<p>
+ In the second paper, entitled &#8220;How Presentation Flaws Affect Perceived Site Quality, Trust, and Intention to Purchase from an Online Store,&#8221; Andrea Everard and Dennis F. Galletta studied the impact of three types of presentation flaws (errors, poor style, and incompleteness) on users&#8217; perceived quality of and trust in e-commerce Web sites, as well as their intentions to purchase from the sites. The highest perceived quality was reported for Web sites without flaws, and a pattern of diminishing returns was observed with each subsequent flaw perceived. The findings indicate that errors, poor style, and incompleteness influence perceived quality via the perception of these flaws, and perceived quality influences trust, which, in turn, affects purchase intentions. Because it is the perception of flaws on Web sites rather than the actual presence of flaws that affects users&#8217; quality assessments, it is important for Web stores to pay attention to how the features of Web sites are  perceived by consumers.
+</p>
+<p>
+ In the paper &#8220;Investigating Coherence and Multimedia Effects of a Technology-Mediated Collaborative Environment,&#8221; Andrew Gemino, Drew Parker, and Adrienne Olnick Kutzschan applied the cognitive theory of multimedia learning to assess the coherence and multimedia design principles of a technology-mediated collaborative environment. The study examined the impact of the context relevance of graphics embedded into the background of a collaborative interface. The results indicate that including context-relevant graphics can enhance knowledge acquisition, whereas including irrelevant graphical information neither adversely affects nor fosters acquisition. The results support the coherence and multimedia principles of the cognitive theory of multimedia learning in the technology-mediated collaborative environment.
+</p>
+<p>
+ Despite the many information systems studies on user acceptance of various technologies, few studies emphasized the role and impact of task types on user acceptance. Xiaowen Fang, Susy Chan, Jacek Brzezinski, and Shuang Xu addressed just such an issue in their paper &#8220;Moderating Effects of Task Type on Wireless Technology Acceptance.&#8221; Three task categories were identified in the wireless context: (1)&#160;general tasks that do not involve transactions and gaming, (2) gaming tasks, and (3)&#160;transactional tasks. A validated conceptual model for wireless technology adoption indicates that task type moderates the effects of four possible determinants: perceived usefulness, perceived ease of use, perceived playfulness, and perceived security. User intention to perform general tasks that do not involve transactions and gaming is influenced by perceived usefulness and perceived ease of use, user intention to play games is affected by perceived playfulness, and user intention to carry out transactions is influenced by perceived usefulness and perceived security. The study results have practical implications to designing wireless devices to better suit specific task types.
+</p>
+<p>
+ Acknowledgments: The Guest Editors thank the Editor-in-Chief, Vladimir Zwass, for his support in bringing this Special Section to fruition. They appreciate the cooperation of the authors who worked so diligently to produce their best work. They are indebted to the reviewers who helped to develop these manuscripts into their best form. The reviewers were Henri Barki, Dinesh Batra, Traci Carte, Ron Cenfetell, Patrick Chau, Jane Gravill, Zhenghui Jiang, Paul Lowry, Jiye Mao, Lorne Olfman, Judy Olson, Jonathan Palmer, Jeff Parson, Tom Roberts, Terry Shaft, Mark Silver, Diane Strong, James Teng, Peter Todd, Lai Lai Tung, Viswanath Venkatesh, Susan Wiedenbeck, Wei Zhang, and Ilze Zigurs.
+</p>
+<p>
+ References
+</p>
+<p>
+ 1. Banker, R.D., and Kauffman, R.J. The evolution of research on information systems: A fiftieth-year survey of the literature in management science. Management Science, 50, 3 (2004), 281&#8211;298.
+</p>
+<p>
+ 2. Carey, J.; Galletta, D.; Kim, J.; Te&#8217;eni, D.; Wildermuth, B.; and Zhang, P. The role of HCI in IS curricula: A call to action. Communications of the AIS, 13, 23 (2004), 357&#8211;379.
+</p>
+<p>
+ 3. Chan, S.S.; Wolfe, R.J.; and Fang, X. Issues and strategies for integrating HCI in masters level MIS and e-commerce programs. International Journal of Human&#8211;Computer Studies, 59, 4 (2003), 497&#8211;520.
+</p>
+<p>
+ 4. Culnan, M.J. The intellectual development of management information systems, 1972&#8211;1982: A co-citation analysis. Management Science,   32, 2 (1986), 156&#8211;172.
+</p>
+<p>
+ 5. Culnan, M.J. Mapping the intellectual structure of MIS 1980&#8211;1985: A co-citation analysis. MIS Quarterly, 11, 3 (1987), 341&#8211;353.
+</p>
+<p>
+ 6. Galletta, D., and Zhang, P. (eds.). Human&#8211;Computer Interaction and Management Information Systems&#8212;Applications. Advances in Management Information Systems, vol. 5. Armonk, NY: M.E. Sharpe, 2006.
+</p>
+<p>
+ 7. Gorgone, J.T.; Gray, P.; Stohr, E.A.; Valacich, J.S.; and Wigand, R.T. MSIS 2006 curriculum review. Communications of the AIS, 15, Article 30 (2005), 544&#8211;554.
+</p>
+<p>
+ 8. Kutzschan, A.O., and Webster, J. HCI as MIS. In P. Zhang and D. Galletta (eds.), Human&#8211;Computer Interaction and Management Information Systems&#8212;Foundations. Advances in Management Information Systems, vol. 4. Armonk, NY: M.E. Sharpe, 2006.
+</p>
+<p>
+ 9. Nah, F.F.-H.; Zhang, P.; and McCoy, S. Editorial introduction: HCI in MIS. International Journal of Human&#8211;Computer Interaction, 19, 1 (2005), 3&#8211;6.
+</p>
+<p>
+ 10. Zhang, P. AIS SIGHCI three-year report. AIS SIGHCI Newsletter, 3, 1 (July 2004), 2&#8211;6 (available at sigs.aisnet.org/sighci/).
+</p>
+<p>
+ 11. Zhang, P., and Dillon, A. HCI and MIS: Shared concerns. International Journal of Human&#8211;Computer Studies, 59, 4 (2003), 397&#8211;402.
+</p>
+<p>
+ 12. Zhang, P., and Galletta, D. (eds.). Human&#8211;Computer Interaction and Management Information Systems&#8212;Foundations. Advances in Management Information Systems, vol. 4. Armonk, NY: M.E. Sharpe, 2006.
+</p>
+<p>
+ 13. Zhang, P., and Li, N. The intellectual development of human&#8211;computer interaction research: A critical assessment of the MIS literature (1990&#8211;2002). Journal of the AIS, 6, 11 (November 2005), 227&#8211;292.
+</p>
+<p>
+ 14. Zhang, P.; Nah, F.F.-H.; and Preece, J. HCI studies in MIS. Behaviour &amp; Information Technology, 23, 3 (2004), 147&#8211;151.
+</p>
+<p>
+ 15. Zhang, P.; Benbasat, I.; Carey, J.; Davis, F.; Galletta, D.; and Strong, D. Human&#8211;computer interaction research in the MIS discipline. Communications of the AIS, 9, 20 (2002), 334&#8211;355.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

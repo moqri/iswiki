@@ -1,0 +1,67 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/68">    Volume 23 Number 4 2007
+</a> pp. 5-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ Information systems are embedded in every aspect of work, from the operation of the ever more widespread virtual teams to generating new ideas, from the coordination of global corporate operations to managing identities while ensuring privacy across national borders. The Special Section on Global Perspectives on Information, Communication, and E-Commerce, guest-edited by Robert O. Briggs, Jay F. Nunamaker Jr., and Ralph H. Sprague, offers indeed a broad perspective on these subjects. The papers illustrate the broad spectrum of methodological approaches that our field can uniquely and effectively bring to bear on the deployment of information technologies in organizational settings.
+</p>
+<p>
+ With the global division of labor progressing apace, proper supply-chain management (SCM) is frequently the key to a firm&#8217;s success. The interorganizational information systems (IOS) for SCM  underpin this initiative and are, in turn, germane to its success. Tighter IOS integration is frequently assumed to be an unchallenged good. In the first paper of the Journal&#8217;s general section, Varun Grover and Khawaja A. Saeed construct a theory-grounded and empirically exercised argument that does challenge it. The researchers are able to tease out the circumstances in which the nature of the product or of the marketplace militates for an IOS-based integration and those in which tight integration should be eschewed. They are consequently in a position to offer fruitful practical advice.
+</p>
+<p>
+ Two very different papers address the domain of e-commerce. Weiquan Wang and Izak Benbasat analyze the impact of online recommenders. Recommenders assist e-shoppers with selection among the great variety of alternative products on offer. The deployment and the design options of intelligent recommenders have expanded significantly since their introduction over a decade ago [1]. Through a dialog with the shopper, they have an important role to play in enhancing the capabilities of the selling sites and their customer abilities to navigate the multitude of confusing choices. The present authors focus on the impact of the explanation facilities offered by the recommenders. Their empirical research shows how different types of explanation facilities enhance the different aspects of the potential customers&#8217; trust in the e-tail site. This fine-grained understanding of the role of recommenders can lead to the understanding of the nature of knowledge to be stored in e-commerce systems. As e-commerce grows and options proliferate, recommender systems are certain to assume an expanded role.
+</p>
+<p>
+ It is readily apparent that ever more standards are necessary for the flourishing of business-to-business e-commerce. Consortia of leading firms are the frequent source of such standards. The role a consortium plays in the development and adoption of a standard may differ, however. Kexin Zhao, Mu Xia, and Michael J. Shaw use game-theoretic analysis to model and analyze the payoffs to the participating firms from exercising various options. Among the results are the optimal strategic choices for the participant firms under a variety of circumstances, as well as the desirable strategies for the consortia they form. Practical advice follows from the theoretical analysis.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p>
+<p>
+ Reference
+</p>
+<p>
+ 1. Ricci, F., and Werthner, H. Introduction to special issue: recommender systems. International Journal of Electronic Commerce, 11, 1 (Winter 2006-7), 5-9.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

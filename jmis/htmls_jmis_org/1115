@@ -1,0 +1,1012 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/56">    Volume 14 Number 1 1997
+</a> pp. 3-7</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ BUSINESS REENGINEERING, AND BUSINESS PROCESS REDESIGN AND IMPROVEMENT are, respectively, more  or less radical elements of business process change enabled by information technology. Two years ago, Varun  Grover and William Kettinger guest-edited a Special Section of this Journal, investigating the theory of business  process change. Fittingly, they now present a Special Section of five papers that analyze the actual impact of the  change as experienced by the changing organizations. I will not try to preempt here the Guest Editors and the  authors in presenting to you the many lessons they will help you learn.
+</p>
+<p>
+ In the first paper of the general section, Alan R. Dennis, Craig K. Tyran, Douglas R. Vogel, and Jay F.  Nunamaker, Jr., examine the application of a widely used group support system (GSS) to strategic planning,  based on the first-use experience by thirty firms. The authors study the impact of four GSS dimensions, two of  them task-related and two process-related, on the three sets of capabilities germane to the success of strategic  planning. The authors report the success factors in the use of GSS for strategic planning, which will serve the  many firms that will no doubt pursue such use in the future. They also outline the emerging research issues,  notably stemming from the mutual influences between the evolving managerial processes and the evolution of  information technology that supports communications and organizational memory.
+</p>
+<p>
+ The next paper addresses strategic planning issues as well. Thompson S.H. Teo and William R. King study the  characteristics of the four types of integration between business planning and information systems planning. The  model the authors propose and investigate demonstrates an evolution through these types as the stages on the  road to full integration. The authors also identify the contingency factors of the progress, with the business savvy  of the top MIS executive heading the list.
+</p>
+<p>
+ Two subsequent papers concentrate on information technology. Data modeling, or logical design, with existing  methods (such as entity-relationship diagramming) presents difficulties to less experienced designers. Dinesh  Batra offers a method for data modeling based on the set of the application's user views, readily available from its  inputs (e.g., forms) and outputs (e.g., reports). A theoretical foundation for the relatively simple yet rigorous  method is offered, showing that it leads to a normalized solution.
+</p>
+<p>
+ Information systems would appear to be ideally suited to assist an organization during a crisis, when a prompt  and informed response is of the utmost importance and when the entire organization needs to speak in a single  voice. Yet such systems are not available. Joanne Hale, in the final paper in this issue, offers a layered  architecture for a distributed crisis-response information system. The system makes it possible to bring to bear  the organizational memory of previous relevant experiences and enables the appropriate group processes within  the firm.
+</p>
+<p>
+ As we enter the fourteenth year of this Journal's publication, I once again thank the Editorial Board, authors,  readers, and the entire MIS community for their contributions and support. As always, it is a special privilege and  pleasure to thank the Journal's reviewers, the primary guarantors of its quality.
+</p>
+<p>
+ These are the reviewers of the Journal of Management Information Systems:
+</p>
+<p>
+ Tarek K. Abdel-Hamid
+</p>
+<p>
+ Mark Ackerman
+</p>
+<p>
+ Ritu Agarwal
+</p>
+<p>
+ Rakesh Agrawal
+</p>
+<p>
+ Pervaiz Alam
+</p>
+<p>
+ Donald L. Amoroso
+</p>
+<p>
+ Joon An
+</p>
+<p>
+ Urton Anderson
+</p>
+<p>
+ Lynda M. Applegate
+</p>
+<p>
+ Gad Ariav
+</p>
+<p>
+ Yiorgos D. Athanassatos
+</p>
+<p>
+ Paul Attewell
+</p>
+<p>
+ Barbro Back
+</p>
+<p>
+ Yannis Bakos
+</p>
+<p>
+ P.R. Balasubramanian
+</p>
+<p>
+ Dirk Baldwin
+</p>
+<p>
+ Rajiv D. Banker
+</p>
+<p>
+ A. James Baroody, Jr.
+</p>
+<p>
+ Dinesh Batra
+</p>
+<p>
+ Salvatore Belardo
+</p>
+<p>
+ Michael Benaroch
+</p>
+<p>
+ Francois Bergeron
+</p>
+<p>
+ David Bodoff
+</p>
+<p>
+ Bijoy Bordoloi
+</p>
+<p>
+ Bruce E. Breeding
+</p>
+<p>
+ Carol V. Brown
+</p>
+<p>
+ Robert M. Brown
+</p>
+<p>
+ Terry A. Byrd
+</p>
+<p>
+ Anthony G. Cahill
+</p>
+<p>
+ Edward G. Cale, Jr.
+</p>
+<p>
+ John V. Carlis
+</p>
+<p>
+ Judith Carlisle
+</p>
+<p>
+ Erran Carmel
+</p>
+<p>
+ Houston H. Carr
+</p>
+<p>
+ William J. Carroll
+</p>
+<p>
+ Robert P. Cerveny
+</p>
+<p>
+ Patrick Chau
+</p>
+<p>
+ Hong-Mei Chen
+</p>
+<p>
+ Minder Chen
+</p>
+<p>
+ Ye-Sho Chen
+</p>
+<p>
+ Hsing Kenneth Cheng
+</p>
+<p>
+ Robert T.H. Chi
+</p>
+<p>
+ Roger Chiang
+</p>
+<p>
+ William C. Chismar
+</p>
+<p>
+ Jong-min Choe
+</p>
+<p>
+ Joobin Choobineh
+</p>
+<p>
+ Danial Clapper
+</p>
+<p>
+ Jon D. Clark
+</p>
+<p>
+ Roger Clarke
+</p>
+<p>
+ Sue Conger
+</p>
+<p>
+ Timothy P. Cronan
+</p>
+<p>
+ David C. Croson
+</p>
+<p>
+ Paul Cule
+</p>
+<p>
+ Robert M. Daniels, Jr.
+</p>
+<p>
+ Ronald Dattero
+</p>
+<p>
+ Prabu Davamanirajan
+</p>
+<p>
+ Donald L. Davis
+</p>
+<p>
+ Sandra Dewitz
+</p>
+<p>
+ Ali Dogramaci
+</p>
+<p>
+ Brian L. Dos Santos
+</p>
+<p>
+ Peter Duchessi
+</p>
+<p>
+ Kathie Duliba
+</p>
+<p>
+ Omar A. El Sawy
+</p>
+<p>
+ Gregg Elofson
+</p>
+<p>
+ Hyun B. Eom
+</p>
+<p>
+ Mary Helen Fagan
+</p>
+<p>
+ Jesus Favela
+</p>
+<p>
+ Steven Feiner
+</p>
+<p>
+ Frederick Ferront
+</p>
+<p>
+ Kirk Fiedler
+</p>
+<p>
+ Michael Flam
+</p>
+<p>
+ Steven W. Floyd
+</p>
+<p>
+ Peter Foltz
+</p>
+<p>
+ Edward Fox
+</p>
+<p>
+ Nelson Fraiman
+</p>
+<p>
+ Richard Furuta
+</p>
+<p>
+ Michael J. Gallivan
+</p>
+<p>
+ Edward J. Garrity
+</p>
+<p>
+ Amy W. Gatian
+</p>
+<p>
+ Bezalel Gavish
+</p>
+<p>
+ Erol Gelenbe
+</p>
+<p>
+ Mark Ginsburg
+</p>
+<p>
+ Bonnie Glassberg
+</p>
+<p>
+ Janis L. Gogan
+</p>
+<p>
+ David K. Goldstein
+</p>
+<p>
+ Jerry Golub
+</p>
+<p>
+ Martin D. Goslar
+</p>
+<p>
+ Michael Goul
+</p>
+<p>
+ Paul Gray
+</p>
+<p>
+ Gary I. Green
+</p>
+<p>
+ Saul Greenberg
+</p>
+<p>
+ Robert K. Griffin
+</p>
+<p>
+ Michael D. Grigoriades
+</p>
+<p>
+ Varun Grover
+</p>
+<p>
+ Tor Guimaraes
+</p>
+<p>
+ Jatinder N.D. Gupta
+</p>
+<p>
+ Gary Hackbarth
+</p>
+<p>
+ Joanne E. Hale
+</p>
+<p>
+ Jacob Hagouel
+</p>
+<p>
+ Il-Horn Hann
+</p>
+<p>
+ Warren Harrison
+</p>
+<p>
+ Glenda Hayes
+</p>
+<p>
+ Stephen Hayne
+</p>
+<p>
+ Krishna Hegde
+</p>
+<p>
+ James O. Hicks, Jr.
+</p>
+<p>
+ Lorin Hitt
+</p>
+<p>
+ Richard Hoffman
+</p>
+<p>
+ Tony Holden
+</p>
+<p>
+ Cary T. Hughes
+</p>
+<p>
+ E. Gerald Hurst
+</p>
+<p>
+ Tomasz Imielinski
+</p>
+<p>
+ Gretchen I. Irwin
+</p>
+<p>
+ Thomas Isakowitz
+</p>
+<p>
+ Bharat A. Jain
+</p>
+<p>
+ Marius A. Janson
+</p>
+<p>
+ Matthias Jarke
+</p>
+<p>
+ Per V. Jenster
+</p>
+<p>
+ Hardeep Johar
+</p>
+<p>
+ Linda Ellis Johnson
+</p>
+<p>
+ Stef Joosten
+</p>
+<p>
+ Kailash Joshi
+</p>
+<p>
+ Charles Kacmar
+</p>
+<p>
+ Ajit Kambil
+</p>
+<p>
+ Jahangir Karimi
+</p>
+<p>
+ Michael Kattan
+</p>
+<p>
+ Robert J. Kauffman
+</p>
+<p>
+ Mark Keil
+</p>
+<p>
+ Robert T. Keim
+</p>
+<p>
+ Chris Kemerer
+</p>
+<p>
+ Julie E. Kendall
+</p>
+<p>
+ Omar E.M. Khalil
+</p>
+<p>
+ Melody Y. Kiang
+</p>
+<p>
+ Gary Klein
+</p>
+<p>
+ Henry Kon
+</p>
+<p>
+ Kenneth A. Kozar
+</p>
+<p>
+ Uday Kulkarni
+</p>
+<p>
+ Rachna Kumar
+</p>
+<p>
+ Ram Kumar
+</p>
+<p>
+ Mary C. Lacity
+</p>
+<p>
+ Laura Lally
+</p>
+<p>
+ Gwynne Larsen
+</p>
+<p>
+ Tor J. Larsen
+</p>
+<p>
+ Steven M. Lathrop
+</p>
+<p>
+ Hon-Shiang Lau
+</p>
+<p>
+ Ho Geun Lee
+</p>
+<p>
+ Jungwoo Lee
+</p>
+<p>
+ Ronald M. Lee
+</p>
+<p>
+ Dorothy Leidner
+</p>
+<p>
+ Richard Leifer
+</p>
+<p>
+ Mary Jane Lenard
+</p>
+<p>
+ Hugo Levecq
+</p>
+<p>
+ Ting-Peng Liang
+</p>
+<p>
+ Paul S. Licker
+</p>
+<p>
+ Jack M. Ligon
+</p>
+<p>
+ Yihwa Irene Liou
+</p>
+<p>
+ Astrid Lipp
+</p>
+<p>
+ Geoffrey Liu
+</p>
+<p>
+ Gary A. Lombardo
+</p>
+<p>
+ Henry Lucas
+</p>
+<p>
+ William McCarthy
+</p>
+<p>
+ Roy McKelvey
+</p>
+<p>
+ Ephraim R. McLean
+</p>
+<p>
+ Poppy L. McLeod
+</p>
+<p>
+ R. Madhavan
+</p>
+<p>
+ Simha R. Magal
+</p>
+<p>
+ Radha K. Mahapatra
+</p>
+<p>
+ Mo A. Mahmood
+</p>
+<p>
+ David Maier
+</p>
+<p>
+ Michael Mannino
+</p>
+<p>
+ Ji-Ye Mao
+</p>
+<p>
+ Salvatore T. March
+</p>
+<p>
+ Anne P. Massey
+</p>
+<p>
+ Charles H. Mawhinney
+</p>
+<p>
+ Roberto J. Mejias
+</p>
+<p>
+ Robert Minch
+</p>
+<p>
+ Shaila Miranda
+</p>
+<p>
+ Rajesh Mirani
+</p>
+<p>
+ William H. Money
+</p>
+<p>
+ Ali R. Montazemi
+</p>
+<p>
+ Ajay S. Mookerjee
+</p>
+<p>
+ Scott Moore
+</p>
+<p>
+ Kathleen Mykytyn
+</p>
+<p>
+ Peter P. Mykytyn, Jr.
+</p>
+<p>
+ Barin N. Nag
+</p>
+<p>
+ Murli Nagasundaram
+</p>
+<p>
+ R. Ryan Nelson
+</p>
+<p>
+ Sarma Nidumolu
+</p>
+<p>
+ Rosalie Ocker
+</p>
+<p>
+ Lorne Olfman
+</p>
+<p>
+ James Oliver
+</p>
+<p>
+ Levent Orman
+</p>
+<p>
+ Richard Orwig
+</p>
+<p>
+ Lee Papayanopoulos
+</p>
+<p>
+ Diane Parente
+</p>
+<p>
+ Kenneth Peffers
+</p>
+<p>
+ Norman Pendegraft
+</p>
+<p>
+ Mark Pendergast
+</p>
+<p>
+ Roger A. Pick
+</p>
+<p>
+ Alain Pinsonneault
+</p>
+<p>
+ Leo L. Pipino
+</p>
+<p>
+ Steven Poltrock
+</p>
+<p>
+ Gerald Post
+</p>
+<p>
+ Jayesh Prasad
+</p>
+<p>
+ G. Premkumar
+</p>
+<p>
+ Sandeep Purao
+</p>
+<p>
+ S. Raghunathan
+</p>
+<p>
+ T.S. Raghunathan
+</p>
+<p>
+ Arik Ragowsky
+</p>
+<p>
+ Arun Rai
+</p>
+<p>
+ Rex Kelly Rainer, Jr.
+</p>
+<p>
+ Sudha Ram
+</p>
+<p>
+ K.S. Raman
+</p>
+<p>
+ B. Ramesh
+</p>
+<p>
+ Richard G. Ramirez
+</p>
+<p>
+ Renu Ramnarayanan
+</p>
+<p>
+ H.R. Rao
+</p>
+<p>
+ R. Ravichandran
+</p>
+<p>
+ Sury Ravindran
+</p>
+<p>
+ Louis Raymond
+</p>
+<p>
+ Paul Resnick
+</p>
+<p>
+ William B. Richmond
+</p>
+<p>
+ Frederick Riggins
+</p>
+<p>
+ Daniel Robey
+</p>
+<p>
+ Michael C. Row
+</p>
+<p>
+ David Rozenshtein
+</p>
+<p>
+ David L. Russell
+</p>
+<p>
+ Young U. Ryu
+</p>
+<p>
+ Timo Saarinen
+</p>
+<p>
+ Rajiv Sabherwal
+</p>
+<p>
+ Sharon Salveter
+</p>
+<p>
+ G. Lawrence Sanders
+</p>
+<p>
+ Radhika Santhanam
+</p>
+<p>
+ John Satzinger
+</p>
+<p>
+ Carol Saunders
+</p>
+<p>
+ Naveed Saleem
+</p>
+<p>
+ George Schell
+</p>
+<p>
+ Irmtraud S. Seeborg
+</p>
+<p>
+ Arie Segev
+</p>
+<p>
+ Arun Sen
+</p>
+<p>
+ Kenneth C. Sevcik
+</p>
+<p>
+ Dennis G. Severance
+</p>
+<p>
+ Theresa M. Shaft
+</p>
+<p>
+ Barry Shane
+</p>
+<p>
+ Ben Shao
+</p>
+<p>
+ Steven Sheetz
+</p>
+<p>
+ Jim Sheffield
+</p>
+<p>
+ Olivia Sheng
+</p>
+<p>
+ Michael Shields
+</p>
+<p>
+ J.P. Shim
+</p>
+<p>
+ Chris Shull
+</p>
+<p>
+ Mark S. Silver
+</p>
+<p>
+ Atish P. Sinha
+</p>
+<p>
+ Peggy C. Smith
+</p>
+<p>
+ Charles A. Snyder
+</p>
+<p>
+ Eric W. Stein
+</p>
+<p>
+ John M. Stevens
+</p>
+<p>
+ Veda Storey
+</p>
+<p>
+ Ashok Subramanian
+</p>
+<p>
+ Girish Subramanian
+</p>
+<p>
+ Ramesh Subramanian
+</p>
+<p>
+ Ephraim Sudit
+</p>
+<p>
+ Robert T. Sumichrast
+</p>
+<p>
+ Shankar Sunarajan
+</p>
+<p>
+ Julius Surkis
+</p>
+<p>
+ Edward J. Szewczak
+</p>
+<p>
+ Kar Yan Tam
+</p>
+<p>
+ Bernard C.Y. Tan
+</p>
+<p>
+ Mohan R. Tanniru
+</p>
+<p>
+ David P. Tegarden
+</p>
+<p>
+ James T.C. Teng
+</p>
+<p>
+ Hock-Hai Teo
+</p>
+<p>
+ Thompson Teo
+</p>
+<p>
+ Matthew Thatcher
+</p>
+<p>
+ Ron Thompson
+</p>
+<p>
+ James Y.L. Thong
+</p>
+<p>
+ John Tillquist
+</p>
+<p>
+ Leon van der Torre
+</p>
+<p>
+ Jonathan K. Trower
+</p>
+<p>
+ Duane Truex
+</p>
+<p>
+ Jon A. Turner
+</p>
+<p>
+ Brad Tuttle
+</p>
+<p>
+ N.S. Umanath
+</p>
+<p>
+ Ari Vepsalainen
+</p>
+<p>
+ Boris S. Veroy
+</p>
+<p>
+ Iris Vessey
+</p>
+<p>
+ Ajay Vinze
+</p>
+<p>
+ Eric Wang
+</p>
+<p>
+ Jason Wang
+</p>
+<p>
+ Michael S. Wang
+</p>
+<p>
+ Y. Richard Wang
+</p>
+<p>
+ Yu-ming Wang
+</p>
+<p>
+ Carol Watson
+</p>
+<p>
+ Richard Watson
+</p>
+<p>
+ Aaron Watters
+</p>
+<p>
+ Bruce Weber
+</p>
+<p>
+ Peter Weill
+</p>
+<p>
+ Jay-Louise Weldon
+</p>
+<p>
+ Charles E. Wells
+</p>
+<p>
+ Larry West
+</p>
+<p>
+ J. Christopher Westland
+</p>
+<p>
+ Seungjin Whang
+</p>
+<p>
+ Michael E. Whitman
+</p>
+<p>
+ George Widmeyer
+</p>
+<p>
+ Uffe Wiil
+</p>
+<p>
+ Kristoff K. Wolyniec
+</p>
+<p>
+ Bill Wooldridge
+</p>
+<p>
+ Hans Wortmann
+</p>
+<p>
+ Hao Xialong
+</p>
+<p>
+ Surya B. Yadav
+</p>
+<p>
+ Beck Yang
+</p>
+<p>
+ Chee Sing Yap
+</p>
+<p>
+ Evangelos Yfantis
+</p>
+<p>
+ Ilze Zigurs
+</p>
+<p>
+ Moshe Zviran
+</p>
+<p>
+ VLADIMIR ZWASS
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

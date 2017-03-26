@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/42">    Volume 8 Number 3 1991
+</a> pp. 151-169</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>GOST: An Active Modeling System for Costing and Planning NASA Space Programs</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/300">Castillo, David G,</a>    <a href="/contributors/301">Dolk, Daniel R,</a> and     <a href="/contributors/302">Kridel, Donald J</a>    </div>
+
+<p>ABSTRACT: This paper describes an active, or symbiotic, decision support system developed for the National Aeronautics and Space Administration called the Generic Operations Simulation Technique (GOST). GOST combines parametric modeling techniques (regression) with discrete-event simulation to cost and plan future space programs. GOST differs from previous process modeling approaches by providing an "artificially intelligent modeling expert" and an "artificially intelligent domain expert" for assisting the user in developing and analyzing process models. An object oriented knowledge representation system provides the foundation for the GOST environment. A taxonomy of Computer Directed Process Managers, implemented within the representation system, controls the appropriate processes responsible for delivering active modeling support. An earlier version of this paper was originally published in the Proceedings of the TwentyFourth Hawaii International Conference on System Sciences (IEEE Computer Society Press, 1991).</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/521">active DSS</a>,    <a href="/keywords/522">modeling environment</a>,    <a href="/keywords/523">econometrics</a>,    <a href="/keywords/524">hierarchical knowledge system</a>,    <a href="/keywords/39">decision support systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

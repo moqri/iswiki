@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/76">    Volume 20 Number 4 2004
+</a> pp. 9-29</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Integrating Collaborative Processes and Quality Assurance Techniques: Experiences from Requirements Negotiation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/701">GrÃœNbacher, Paul,</a>    <a href="/contributors/702">Halling, Michael,</a>    <a href="/contributors/703">Biffl, Stefan,</a>    <a href="/contributors/704">Kitapci, Hasan,</a> and     <a href="/contributors/705">Boehm, Barry W</a>    </div>
+
+<p>ABSTRACT: Collaboration is essential in many mission-critical activities. Consequently, numerous methods and tools are available supporting collaborative processes such as strategic planning, risk management, requirements definition, and so on. These methods typically emphasize the collaborative, value-creating activities, but there is often less emphasis on quality aspects. Quality assurance (QA) techniques have been well-known in engineering for a long time, and their effectiveness and efficiency has been empirically evaluated in many domains. In this paper, we propose to integrate repeatable QA techniques and collaborative processes. We evaluate our idea in the context of a collaborative process for requirements negotiation. We propose pre-process techniques to be used before the actual negotiation, in-process techniques for checking quality during a negotiation, as well as post-process inspection techniques. These techniques help a project team reduce unnecessary complexity and to mitigate risks stemming from defects in requirements negotiation results. We present the results of a feasibility study we conducted to test our approach.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1635">collaboration engineering</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/1743">quality assurance techniques</a>,    <a href="/keywords/1744">requirements negotiation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

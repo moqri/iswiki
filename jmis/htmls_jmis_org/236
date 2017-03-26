@@ -1,0 +1,64 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/94">    Volume 16 Number 2 1999
+</a> pp. 5-7</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Strategic and Competitive Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/393">Weber, Bruce W</a>    </div>
+
+<p><p>
+ THIS TENTH ANNUAL JMIS SPECIAL SECTION ON STRATEGIC AND COMPETITIVE  information technology  reflects a growing understanding of the relationship among advances in information systems and critical issues in  distribution, disintermediation, and electronic commerce. The three papers selected represent a wide range of  research methods, including intensive case study in a single organization, computer simulation, and closed-form  analysis. They address very different questions, including successful leadership of a company threatened by  disintermediation, simulation analysis of the performance of alternative trading systems, and financial analysis of  the optimal use of portfolio balancing systems. All, however, compare the performance of attackers and  defenders in industries faced with profound transformation due to the introduction of electronic alternatives to  established markets.
+</p>
+<p>
+ The first paper,  Rosenbluth International: Strategic Transformation of a Successful Enterprise,  by Eric K.  Clemons and Il-Horn Hann, is a case study of a successful travel agency under assault from airlines and  electronic Web-based ticketing services. The company first had to understand and accept the seriousness of the  threat; it had to acknowledge that it no longer represented the airlines' lowest-cost distribution system, and thus  that airlines would do everything they could either to slash its commissions or to disintermediate it entirely. The  firm next had to accept that its corporate customers the source of the bulk of their profits would not remain loyal  unless Rosenbluth remained the best available alternative and the highest source of value. Rosenbluth, as the  most successful of the traditional corporate agencies, might experience the greatest reluctance to reject its past  and might experience the greatest difficulty in achieving a strategic transformation. In brief, the firm would have to  accept that their fees were too high, the value they added was too low, and their suppliers and customers were  prepared to abandon them. This case study examines how a successful transformation was indeed  achieved.
+</p>
+<p>
+ The second paper, Next-Generation Trading in Futures Markets: A Comparison of Open Outcry and Order  Matching Systems, by Bruce W. Weber, compares the performance of traditional futures trading systems (open  outcry markets in circular tiered pits) with alternative systems based on electronic order matching.  Simulation  modeling and analysis, as used in the paper, enable objective comparisons between trading mechanisms.  Ultimately, through enhancements, and the design and tuning of screen-based market alternatives make them  significant threats to established markets.
+</p>
+<p>
+ The third paper, Information Systems for Optimal Transaction Implementation, by John T. Rickard and Nicolo G.  Torre, shows how an alternative electronic equities market, by allowing fully accounted trading costs to approach  zero, allows optimal portfolio trading strategies to be implemented for the first time. Since trading costs can by  definition never approach zero in labor-intensive floor-based markets, with intermediaries risking capital in order to  earn returns, such alternative trading systems once again represent a threat to traditional established markets.  Unlike in the paper by Weber, however, here the threat comes less from the design of the market and more from  the alternative trading strategy that the model allows to be fully implemented for the first time.
+</p>
+<p>
+ All three papers are substantial modifications and extensions of work originally presented at the  Thirty-Second Annual Hawaii International Conference on System Sciences in January of 1999. All of them have  been informed by discussion during HICSS sessions.
+</p>
+<p>
+ <b>
+  Key words and  phrases
+ </b>
+ :
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

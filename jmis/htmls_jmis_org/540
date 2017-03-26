@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/3">    Volume 9 Number 2 1992
+</a> pp. 29-52</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Message Management Systems: Concepts, Motivations, and Strategic Effects</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/105">Kimbrough, Steven O</a> and     <a href="/contributors/927">Moore, Scott A</a>    </div>
+
+<p>ABSTRACT: This paper motivates the need for system-level message management software. It begins by considering information flows in the workplace as a source of potential gains in efficiency. We next investigate work-flow automation and electronic data interchange (EDI) as indicative of current technologies applied to work processes and message management. Having described current technology and our vision of work processes, we propose an alternative, general-purpose, software technology for supporting application-to-application communication. Problems of EDI, of process-to-process communication, and of describing information items are discussed in terms of the communication problems they present. We then justify the need for this kind of software and lay out the criteria (or plausibility conditions) for evaluating a proposal for this sort of system software. The use of a formal communication language is proposed as a common solution to these problems. This proposal is examined in the context of the EDI problem, in order to demonstrate how the proposal might work in practice. Practical benefits of the proposal are discussed that highlight the impact such a technology might have on business practices. The proposed solution is measured against the plausibility conditions presented earlier in the paper; it is found to be sufficient in some cases and in need of further investigation in others. We then discuss the industrial-organizational implications of the availability of such a technology, and hypothesize that it would affect the number and form of cooperative business relationships as well as their scope and depth. We also hypothesize that it would provide advantages to those firms that quickly adopt the technology.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/569">electronic data interchange (EDI)</a>,    <a href="/keywords/486">electronic markets</a>,    <a href="/keywords/389">interorganizational information systems</a>,    <a href="/keywords/570">message management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/88">    Volume 12 Number 2 1995
+</a> pp. 189-202</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Empirical Study of the Relationships among End-User Information Systems Acceptance, Training, and Effectiveness</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/575">Lee, Sang M,</a>    <a href="/contributors/1005">Kim, Yeong R,</a> and     <a href="/contributors/1006">Lee, Jaejung</a>    </div>
+
+<p>ABSTRACT: With the advent of powerful microcomputers and software, end-user computing has become an important competitive weapon for organizations. However, little is known about what factors should be considered in designing end-user training programs. This empirical study investigates the factors that are essential for successful end-user training. The study results indicate both the importance of end-user information system (IS) acceptance and the strong relationships among end-user IS acceptance, end-user IS satisfaction, and end-user job satisfaction.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/116">human information processing</a>,    <a href="/keywords/432">end-user training</a>,    <a href="/keywords/123">user satisfaction</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

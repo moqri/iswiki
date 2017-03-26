@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/21">    Volume 8 Number 1 1991
+</a> pp. 149-166</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Contingency Model of DSS Development Methodology</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/67">Arinzn, Bay</a>    </div>
+
+<p>ABSTRACT: Decision Support Systems (DSS) are now an established part of the information systems mainstream, both in research and in practice. The DSS development approach differs from traditional systems development not only with regard to its associated paradigms and orientation, but also in the methods of requirements analysis it employs. This paper surveys the major methodologies used for DSS development. It analyzes them by structure, paradigm, and orientation, and discusses their underlying assumptions. A research model is then developed and used to relate the functions of DSS methodology to decision-making environments and the relevant processes within them. Finally, a contingency theory is presented to show how each of the surveyed methodologies reduces the lack of structure in the decision-making environment, and bow this may be used by DSS developers for selecting a DSS methodology. Other components of the research model are discussed, to identify further prerequisites for improved understanding of the DSS role and application.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/480">DSS development methodologies</a>,    <a href="/keywords/481">DSS requirements analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

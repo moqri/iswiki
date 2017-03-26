@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/13">    Volume 19 Number 1 2002
+</a> pp. 47-69</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Implementation Team Responsiveness and User Evaluation of Customer Relationship Management: A Quasi-Experimental Design Study of Social Exchange Theory</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/175">Gefen, David</a> and     <a href="/contributors/657">Ridings, Catherine M</a>    </div>
+
+<p>ABSTRACT: Customer Relationship Management (CRM) systems require extensive configuration during which users come into extensive contact with the technical implementation team. Previous research examining other Enterprise Resource Planning (ERP) modules has shown that user perception of the responsiveness of such teams, as an indicator of a possible social exchange, is significantly associated with an increased favorable assessment of the new system and ultimately its adoption, the reason being that perceived responsiveness creates a constructive social exchange. However, previous research, using survey data alone, did not examine causation. The objective of this study is to examine, using a quasi-experimental design, whether different degrees of actual responsiveness in different sites during CRM implementation result in significant differences in the users' favorable assessment of the correctness and ultimately their approval of a new CRM. The data support these hypotheses, but show that the downstream effects of actual responsiveness are mediated by perceived responsiveness. Implications concerning the social exchange relationship during CRM adoption are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1406">customer relationship management</a>,    <a href="/keywords/1555">Enterprise Resource Planning</a>,    <a href="/keywords/1558">social exchange theory</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

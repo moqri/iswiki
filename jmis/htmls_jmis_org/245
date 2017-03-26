@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/4">    Volume 6 Number 4 1990
+</a> pp. 21-39</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>End-user Training and Computing Effectiveness in Public Agencies: An Empirical Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/422">Cronan, Timothy Paul</a> and     <a href="/contributors/423">Douglas, David E</a>    </div>
+
+<p>ABSTRACT: This study reports on the effectiveness of end-user computing (EUC) following an end-user training program in a public agency. An end-user training model based on research in EUC, information centers, and end-user training, was used as part of the EUC program. Over a two-year horizon, more than one hundred employees participated in the training program. As a result, approximately 90 application systems were developed with some 40 currently under development. Effectiveness measures resulting from an evaluation by end users and supervisors indicated that the training program and EUC strategy were effective. A 24 percent increase in productivity, a savings of approximately 7.6 hours per week, and a high degree of satisfaction resulted from the EUC program.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/365">end-user computing</a>,    <a href="/keywords/242">information center</a>,    <a href="/keywords/396">effectiveness of MIS</a>,    <a href="/keywords/174">training</a>,    <a href="/keywords/224">management of information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

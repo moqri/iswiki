@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/95">    Volume 14 Number 2 1997
+</a> pp. 151-176</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Destination Information Systems: Design Issues and Directions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/780">Hong-Mei, Chen</a> and     <a href="/contributors/781">Sheldon, Pauline J</a>    </div>
+
+<p>ABSTRACT: A destination information system (DIS) is defined as an interorganizational system (lOS) that provides travelers and travel counselors with easy access to comprehensive, timely and accurate information on a destination's faculties, and the option of making reservations. Its development requires extensive cooperation by competing tourism product suppliers and destination promoters in both the public and private sectors. This paper identifies challenges encountered in the design of a DIS such as: (1) comprehensive information content from multiple data sources, (2) multimedia data management, (3) interfacing with global electronic markets, and (4) resolving problems arising from different data formats and standards. Technical design options are examined to address these design challenges. A proposed system conditions architecture, called VIDIS, integrating viable design options is then presented. The VIDIS architecture exploits current technological advances in heterogeneous distributed databases, intelligent multimedia communication, and global electronic commerce. Implementation strategies of a DES that adapt to organizational changes and rapid technological advances arc suggested. Finally, design tasks and related organizational issues are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1067">cooperative interorganizational systems</a>,    <a href="/keywords/1068">destination information systems</a>,    <a href="/keywords/1069">heterogeneous distributed databases</a>,    <a href="/keywords/1070">IS design issues</a>,    <a href="/keywords/1071">metadatabase</a>,    <a href="/keywords/1072">multimedia information management</a>,    <a href="/keywords/178">strategic information systems</a>,    <a href="/keywords/490">travel industry</a>,    <a href="/keywords/1073">tourism</a>,    <a href="/keywords/1074">virtual integration</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

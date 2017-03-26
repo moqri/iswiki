@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/29">    Volume 22 Number 2 2005
+</a> pp. 193-226</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Person-Job Cognitive Style Fit for Software Developers: The Effect on Strain and Performance</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/368">Chilton, Michael A,</a>    <a href="/contributors/369">Hardgrave, Bill C,</a> and     <a href="/contributors/370">Armstrong, Deborah J</a>    </div>
+
+<p>ABSTRACT: Software developers face a constant barrage of innovations designed to improve the development environment. Yet stress/strain among software developers has been steadily increasing and is at an all-time high, while their productivity is often questioned. Why, if these innovations are meant to improve the environment, are developers more stressed and less productive than they should be? Using a combination of cognitive style and person-environment fit theories as the theoretical lens. this study examines one potential source of stress/strain and productivity impediment among software developers. Specifically, this paper examines the fit between the preferred cognitive style of a software developer and his or her perception of the cognitive style required by the job environment, and the effect of that fit on stress/strain and performance. Data collected from a field study of 123 (object-oriented) software developers suggest that performance decreases and stress increases as this gap between cognitive styles becomes wider. Using surface response methodology, the precise fit relationship is modeled. The interaction of the developer and the environment provides explanatory power above and beyond either of the factors separately, suggesting that studies examining strain and performance of developers should explicitly consider and measure the cognitive style fit between the software developer and the software development environment. In practice, managers can use the results to help recognize misfit, its consequences, and the appropriate interventions (such as training or person/task matching).</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1979">adaption–innovation theory</a>,    <a href="/keywords/1980">job performance</a>,    <a href="/keywords/1981">person–job fit</a>,    <a href="/keywords/1982">software developers</a>,    <a href="/keywords/339">software development</a>,    <a href="/keywords/1983">strain</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

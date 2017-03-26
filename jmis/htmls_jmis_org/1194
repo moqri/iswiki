@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/122">    Volume 31 Number 1 2014
+</a> pp. 273-308</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>User Roles and Contributions in Innovation-Contest Communities</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/632">Füller, Johann,</a>    <a href="/contributors/1700">Hutter, Katja,</a>    <a href="/contributors/1701">Hautz, Julia,</a> and     <a href="/contributors/634">Matzler, Kurt</a>    </div>
+
+<p>ABSTRACT: Organizations increasingly initiate Internet-based innovation-contest communities through which individuals can interact and contribute to the innovation process. To successfully manage these communities, organizations need to understand what roles members assume, how they communicate and vary in their contribution behavior. In this exploratory study, we investigate the heterogeneous roles of contest participants based on an international innovation-contest community. We identify six user types associated with various behavioral contribution patterns by using cluster and social network analysis. The six user types further differ in their communicative content and contribution quality. Our paper contributes to a better theoretical understanding of distinctive user types in innovation-contest communities, their role in the community, and their contribution to the success of innovation contests in the era of social software. From a managerial perspective, the study provides guidance for contest platform design and appropriate reward structures.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2565">co-creation</a>,    <a href="/keywords/3290">innovation contests</a>,    <a href="/keywords/3121">online communities</a>,    <a href="/keywords/3291">user contribution</a>,    <a href="/keywords/3292">user roles</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

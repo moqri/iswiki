@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/69">    Volume 6 Number 3 1989
+</a> pp. 99-117</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Motivating Strategic Alliance for Composite Information Systems: The Case of a Major Regional Hospital</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1206">Osborn, Charles S,</a>    <a href="/contributors/783">Madnick, Stuart E,</a> and     <a href="/contributors/1086">Wang, Y Richard</a>    </div>
+
+<p>ABSTRACT: This paper explores the nature of strategic goals underlying composite information systems (CIS) and ways to increase their likelihood of success. It studies a major regional hospital and its relationship with its physicians as part of a case study for providing physicians and staff convenient interface to disparate hospital departments. This situation is a particularly appropriate as example, involving loosely coupled and interdependent relationships (e.g., the physicians can affiliate with any hospital they want). Three approaches to motivating strategic alliances are identified: bidirectional benefits, cooperative payoffs, and asymmetrical control. Examples illustrate how these approaches were used in the design and implementation of the hospital's CIS.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/387">strategic alliances</a>,    <a href="/keywords/388">composite information systems</a>,    <a href="/keywords/389">interorganizational information systems</a>,    <a href="/keywords/38">information systems for competitive advantage</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/37">    Volume 25 Number 2 2008
+</a> pp. 241-279</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Understanding the Value of Countermeasure Portfolios in Information Systems Security</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/530">Kumar, Ram L,</a>    <a href="/contributors/919">Park, Sungjune,</a> and     <a href="/contributors/959">Subramaniam, Chandrasekar</a>    </div>
+
+<p>ABSTRACT: Organizations are faced with a variety of information security threats and implement several information system security countermeasures (ISSCs) to mitigate possible damage due to security attacks. These security countermeasures vary in their ability to deal with different types of security attacks and, hence, are implemented as a portfolio of ISSCs. A key challenge for organizations is to understand the economic consequences of security attacks relative to the ISSC portfolio implemented. This paper combines the risk analysis and disaster recovery perspectives to build an integrated simulation model of ISSC portfolio value. The model incorporates the characteristics of an ISSC portfolio relative to the threat and business environments and includes the type of attack, frequency of attacks, possible damage, and the extent and time of recovery from damage. The simulation experiments provide interesting insights into the interactions between ISSC portfolio components and characteristics of business and threat environments in determining portfolio value.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/637">business value of information technology</a>,    <a href="/keywords/2453">economics of IS security</a>,    <a href="/keywords/1197">information system security</a>,    <a href="/keywords/2454">IT asset valuation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

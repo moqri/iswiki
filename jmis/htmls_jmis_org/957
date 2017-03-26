@@ -1,0 +1,181 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/112">    Volume 23 Number 3 2006
+</a> pp. 9-15</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Customer-Centric Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1494">Ting-Peng, Liang</a> and     <a href="/contributors/17">Tanniru, Mohan R</a>    </div>
+
+<p><p>
+ Ting-Peng Liang is National Chair Professor in Information Systems and Director of the Electronic Commerce Research Center of National Sun Yat-sen University in Taiwan. He received his Ph.D. from the Wharton School of the University  of Pennsylvania. Prior to joining his current university in 1993, he taught at the University of Illinois and Purdue University. At National Sun Yat-sen University, he has served as the Dean of the College of Management (1994&#8211;97) and University Provost (1999&#8211;2002). His research has been published in Journal of Management Information Systems, MIS Quarterly, Management Science, Operations Research, Decision Support Systems, Information and Management, and many other academic journals. Professor Liang&#8217;s primary research interests include electronic commerce, knowledge management, intelligent systems, and strategic applications of information systems. He has served on the editorial boards of several journals, including Decision Support Systems, International Journal of Electronic Commerce, Industrial Management and Data Systems, and Electronic Commerce Research and Applications, among others. He is a fellow of the AIS and a member of ACM, INFORMS, and IEEE Computer Society.
+</p>
+<p>
+ Mohan Tanniru is Salter Distinguished Professor of Management and Technology and the MIS Department Head in the Eller College of Management at the University of Arizona. He received his Ph.D. in MIS from Northwestern  University in 1978. He taught at the University of Wisconsin&#8211;Madison, Syracuse University, and Oakland University before joining the University of Arizona in 2003. He has published over 75 articles in various journals, books, and conference proceedings. His research articles have appeared in Communications of the ACM, Journal of Management Information Systems, MIS Quarterly, Decision Sciences, Information Systems Research, Decision Support Systems, Information &amp; Management, IEEE Transactions on Engineering Management, International Journal of Human&#8211;Machine Interaction, Expert Systems with Applications, and Australian Journal of Information Systems. He has coordinated over 400 projects with 45 companies such as GM, DaimlerChrysler, EDS, Lear, Comerica, Compuware, Carrier-UTC, MONY, and Bristol Myers Squibb in areas related to IT management in a global arena, business process reengineering, learning organization, object-oriented development, computer-aided software engineering, expert systems, IS benchmarking, sales force automation, and decision modeling. He was a consultant to Procter &amp; Gamble Pharmaceuticals, Carrier-UTC, Bristol-Myers Squibb, and Tata Consultancy Services of India and Tata Infotech. He is a member of ACM and AIS.
+</p>
+<p>
+ Need for New Generation Information Systems
+</p>
+<p>
+ The rapid proliferation of the Internet has drastically changed the nature of business information systems (ISs). The World Wide Web has become the new paradigm for information capture and delivery. In addition, it has started to revolutionize many aspects of IS development and utilization. For example, wikipedia.com has generated eight times more information content than the Encyclopaedia Britannica. This would not have been possible without a system development philosophy and flexible architecture that are customer-centric. Obviously, such a customer-centric approach to meet the dynamic customer-driven information capture and dissemination puts enormous pressure on both the demand and supply side of the systems development equation, and this has not been studied adequately by academia.
+</p>
+<p>
+ On the on-demand side of development, customers are asking for a rapid response to their changing information needs during the purchase of a product or service or a resolution of a problem after sale. Because satisfying these informational needs, often in the form of customized products or services, requires interaction across intra- as well as interorganizational boundaries, organizations are forced to build agility into their process and technical infrastructure. Ultimately, the agility with which on-demand information has to meet the needs of a customer using an organization&#8217;s internal process and technology architecture places an enormous challenge before those who develop IS (i.e., the supply side).
+</p>
+<p>
+ The development of IS, for the most part, has focused on the operational efficiency of business processes, while indirectly meeting on-demand customer needs. More recently, customer relationship management (CRM) systems have been used to gather frequently changing customer preference information, and service-oriented architectures (SOAs) are being developed to provide certain architectural flexibility.
+</p>
+<p>
+ While CRMs help capture customer needs on the demand side and SOAs support agility on the supply side, many of these efforts remain somewhat disconnected. The wave of customization and personalization, however, requires a new way of thinking. At the same time, IS development has to take an integrated view of linking various components of the customer-driven value chain; that is, customer needs, customized products/services that serve these needs, business processes that produced these products/services, and technology that enables these  processes.
+</p>
+<p>
+ In other words, while current enterprise-wide process-oriented IS development is looking out to support customer needs, the new customer-centric systems development has to be looking in to configure the value-chain components appropriately to meet changing customer needs.
+</p>
+<p>
+ Customer-Centricity Defined
+</p>
+<p>
+ Reflecting on the history of IS development, the first-generation systems have often focused on technology utilization. For example, evolution of modeling tools has made designers develop decision support systems and advances in multimedia technologies that enhance users&#8217; interfaces. These systems were usually proprietary and targeted to meet the needs of a specific application while meeting the internal requirements of an organization (e.g., cost reduction, productivity improvement, etc.).
+</p>
+<p>
+ The second-generation systems were process-oriented (e.g., SAP&#8217;s enterprise resource planning [ERP] system) and they were built to support a set of general-purpose processes for adaptation through configuration and reusability. They forced successful decomposition of large-scale enterprise systems into modules, thus simplifying system development and deployment. Yet their primary focus is still internal to a business (e.g., productivity) and organization specific (e.g., cost reduction), albeit these demands for improvement were customer driven (i.e., faster response time to customer order or inquiry).
+</p>
+<p>
+ The customer-centric ISs, we believe, are of the third generation, where the business driver is customer value (and business competitiveness), and the focus of system development is to configure various components of the customer driven value chain to meet the ever-changing customer value proposition.
+</p>
+<p>
+ A customer-centric IS is designed with customer preference and needs in mind, which makes the system development a dynamic process. Again, wikipedia.com provides an architectural platform on which customers work together to determine the final product, and the organizational processes are set up to support the development of such a product. Here, customers are an integral and critical component of the IS  development and their involvement and satisfaction enables the system to derive its value. Another example is the category of the increasingly popular online recommender systems (e.g., book recommendations at Amazon.com and news recommendations at Google news), where customer engagement and architectural flexibility allow the system to react quickly to discovered customer preferences.
+</p>
+<p>
+ Framework for Customer-Centric Information Systems
+</p>
+<p>
+ A customer-centric IS can be viewed as one that is able to configure four major components&#8212;customer, process, technology, and product/service&#8212;to satisfy a customer need. The customer is the kernel and the driving force behind the system.
+</p>
+<p>
+ Customer profiles are analyzed to identify their needs and develop information requirements (often through customized products or services). These customized products or services then determine the manner in which business processes are configured (i.e., designed, assembled, or adapted). Finally, flexible information technology and system architecture are used to support process configuration in product/service delivery. Note that this is a variation of the process, people, and technology model traditionally used in IS development.
+</p>
+<p>
+ Here, the three organizational components (process, technology, and product/service) are intended to serve a fourth component&#8212;the customer. Note that such a customer-centric view also makes the systems development &#8220;value driven&#8221; as opposed to cost driven, an important ingredient in making IS development business-centric or supportive of competitive strategy. Figure 1 illustrates the relationships of these components.
+</p>
+<p>
+ While customer needs typically drive the nature of the products/services produced, which in turn influences the process and technology architecture, the reality is that all four factors influence each other. For example, advanced technologies can create opportunities to make processes service enabled (e.g., SOA), which can enhance the bundling of products and services and provide competitive value in customer offerings.
+</p>
+<p>
+ Innovative process improvements (e.g., collaborative product design and global supply-chain processes) can speed up the development of new products/services to satisfy customer needs as well as influence the development of new technologies.
+</p>
+<p>
+ Similarly, new customer products/services (e.g., enabling a customer to track orders online) may drive process and technology innovation using radio frequency identification (RFID) technology. Because of such interplay, the components are shown to be interdependent on each other, all ultimately driven by a customer need.
+</p>
+<p>
+ Major Components of a Customer-Centric Information System
+</p>
+<p>
+ Customers
+</p>
+<p>
+ In a customer-centric IS, the role of customers can be either active or passive. Active customers are involved in the operation of a system and are an integral part of its development. Both wikipedia.com and blogs are examples of customer-centric ISs in which customers influence the way the system is conceived, developed, and disseminated. The critical issue in such systems is the effectiveness with which customers are integrated into the evolution of the system [4].
+</p>
+<p>
+ The passive role of customers is more traditional. Customers use a system to accomplish their goals and leave certain clues for the system to capture their implicit preferences and needs. The system can then tailor its internal processes to meet these evolving customer needs. A key issue here is the effectiveness with which one can develop customer profiles and use them to adapt the system. Research in this area includes information filtering, customer profiling, personalization, and recommendation systems [1, 5].
+</p>
+<p>
+ Processes
+</p>
+<p>
+ In order to meet customers&#8217; changing needs, the processes in the organization, embedded within the IS or outside the system, must be flexible enough for easy configuration. The critical issue here is one of developing architectures that can support on-demand configuration. The internal process architectures have to be service enabled(akin to SOA), so they can be configured and integrated on demand flexibly across the value chain.
+</p>
+<p>
+ Products and Services
+</p>
+<p>
+ Especially critical in the case of passive customers is a customer-centric IS with process configurability that can provide customized or personalized products and services. Customization and personalization are similar and yet distinct. Customization often relies on customer segmentation based on customer preference information.
+</p>
+<p>
+ Personalization is a special case, or the ultimate goal of, customization, where products and services are customized for each individual customer. The critical issues here are the extraction of customer profiles that can be used to develop products/services and satisfy customer needs as well as increase their loyalty and retention [1,&#160;2].
+</p>
+<p>
+ Technologies
+</p>
+<p>
+ In order to use process configuration to develop customized or personalized products/services, innovative information-gathering and -processing technologies are essential. For example, SOA technology allows various processes to be implemented as Web services and can be integrated at the run-time to meet changing needs. User profiling technologies are essential to collect usage behavior of customers over time to predict their future behavior. Technologies such as content-based filtering and collaborative filtering enable many online bookstores and movie rentals to support internal processing of dynamic information [1, 2].
+</p>
+<p>
+ Another powerful technology is the Web 2.0 framework [3]. This technology enables integration of many factors in the customer-centric value chain through user participation, decentralized control, and collective intelligence [4].
+</p>
+<p>
+ Dimensions of Customer-Centricity as Presented in the Special Section
+</p>
+<p>
+ We have selected four papers to represent various dimensions of customer-centricity in IS development in this Special Section.
+</p>
+<p>
+ The paper by Christian Wagner and Ann Majchrzak compares three applications of the wiki technology for peer production of Web content. Their study indicates that the customer-centric technology that works well on wikipedia.com may not work in other domains such as editorial comments. They suggest a model of six characteristics that affect customer engagement&#8212;community custodianship, goal alignment among contributors, value-adding processes, emerging layers of participation, critical mass of management, and monitoring activities.
+</p>
+<p>
+ Ting-Peng Liang, Hung-Jen Lai, and Yi-Cheng Ku&#8217;s paper studies the relationship between personalized content services and user satisfaction. They review theories related to personalized information services to build an integrated framework and then use it to study online news. Two experiments were designed to examine whether personalized content services could accurately predict user profiles and the relationship between personalized services and user satisfaction. They find that personalized services can indeed provide accurate news recommendation and increase user satisfaction. User satisfaction is affected more by the accuracy of recommendation and the items shown to the user. User motivation has a moderating effect on recommendation accuracy and user satisfaction.
+</p>
+<p>
+ The paper by Jie &#8220;Jennifer&#8221; Zhang, Xiao Fang, and Olivia R. Liu Sheng investigates the issue of depth of customer search. They build a theoretical model and use clickstream data from 26 music retailer Web sites, 24 computer hardware Web sites, and 29 air travel Web sites to analyze consumers&#8217; search depth. The model suggests that search cost is inversely correlated with search depth, while consumers&#8217; quality preference is positively correlated with search depth. Implications for Web site design to meet customer needs are discussed.
+</p>
+<p>
+ Sunil Mithas, Narayan Ramasubbu, M.S. Krishnan, and Claes Fornell study the issue of how Web sites can be designed to increase customer loyalty. Based on more than 12,000 online customer surveys for 43 Web sites, their research reveals that Web site domain and features can affect customer loyalty. The relationship between Web site features and customer loyalty is stronger for transaction Web sites than for information Web sites.
+</p>
+<p>
+ Concluding Remarks
+</p>
+<p>
+ As research trends evolve with technology and application  innovation, this paper has outlined a customer-centric framework for future IS development. Customer profiles should be the key component of IS. The papers included in this Special Section have investigated several aspects of customer-centric IS and can be good pointers to future research in this direction.
+</p>
+<p>
+ References
+</p>
+<p>
+ 1. Liang, T.-P.; Lai, H.-J.; and Ku, Y.-C. Personalized content recommendation and user satisfaction: Theoretical synthesis and empirical findings. Journal of Management Information Systems, 23, 3 (Winter 2006&#8211;7), 45&#8211;70.
+</p>
+<p>
+ 2. Mithas, S.; Ramasubbu, N.; Krishnan, M.S.; and Fornell, C. Designing Web sites for customer loyalty across business domains: A multilevel analysis. Journal of Management Information Systems, 23, 3 (Winter 2006&#8211;7), 97&#8211;128.
+</p>
+<p>
+ 3. O&#8217;Reilly, T. What Is Web 2.0? Design patterns and business models for the next generation of software. O&#8217;Reilly Media, Sebastopol,  CA, September 30, 2005 (available at www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web- 20.html).
+</p>
+<p>
+ 4. Wagner, C., and Majchrzak, A. Enabling customer-centricity using wikis and the wiki way. Journal of Management Information Systems, 23, 3 (Winter 2006&#8211;7), 17&#8211;44.
+</p>
+<p>
+ 5. Zhang, J.; Fang, X.; and Sheng, O.R.L. Online customer search depth: Theories and new findings. Journal of Management Information Systems, 23, 3 (Winter 2006&#8211;7), 71&#8211;95.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

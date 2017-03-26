@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/103">    Volume 15 Number 4 1999
+</a> pp. 7-28</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Empirical Assessment of the Organization of Transnational Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/320">King, William R</a> and     <a href="/contributors/929">Sethi, Vikram</a>    </div>
+
+<p>ABSTRACT: The objective of this study is to aid our understanding of the organization of information systems in organizations whose activities cross national boundaries. The increasing globalization of business has led firms to seek new, and more appropriate, organizational structures, processes, and cultures. This has required the establishment of appropriate information technology platforms to coordinate business processes and to provide coalition mechanisms. This study is based on five important dimensions of transnational strategy--the configuration of value chain activities, the coordination of value chain activities, centralization, strategic alliances, and market integration--that define a comprehensive taxonomy of transnational strategy. A basic proposition is that a firm's transnational strategy will be reflected in the design of its information systems. To address this proposition, a two-stage questionnaire study was conducted. Respondents included 150 multinational corporations from 20 countries and 25 industries. The five dimensions of transnational strategy were operationalized, and the analysis established the validity of a taxonomy that is better suited to the study of systems-related issues in MNCs. This taxonomy was used to test hypotheses related to the organization of transnational systems. These hypotheses were stated in terms of IS organizational, strategic, architectural, and personnel dimensions. The results of the study support the proposition that the organizational characteristics of centralization, dispersal, and coordination are differentially reflected in the IT configurations of various kinds of MNCs. In a centrally coordinated business structure, IT is also globally centralized. In addition, local autonomy was shown to affect the deployment of IT in global firms.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/450">global information systems management</a>,    <a href="/keywords/260">multinational corporations</a>,    <a href="/keywords/178">strategic information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

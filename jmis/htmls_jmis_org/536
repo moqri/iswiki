@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/77">    Volume 22 Number 4 2006
+</a> pp. 69-108</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Evaluating the Adoption of Enterprise Application Integration in Health-Care Organizations</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/920">Khoumbati, Khalil,</a>    <a href="/contributors/921">Themistocleous, Marinos,</a> and     <a href="/contributors/827">Irani, Zahir</a>    </div>
+
+<p>ABSTRACT: The integration of heterogeneous information systems has always been problematic in health-care organizations, as it is associated with the delivery of key services and has high operational costs. Therefore, health-care organizations are looking for new means to increase their functional capabilities and reduce integration cost. In addressing this need, enterprise application integration (EAI) technology has emerged to facilitate systems integration, enhance the quality of services, and reduce integration costs. Despite the application of EAI in other sectors, its adoption in health care is slow. In seeking to build on the limited normative research surrounding EAI, the authors of this paper focus on the evaluation of factors that influence EAI adoption in the health-care sector. In doing so, using fuzzy cognitive mapping as a technique to identify causal interrelationships among the EAI adoption factors. This approach will enhance the quality of the evaluation process and emphasizes the importance of each factor and its interrelationship with other factors. The outcomes shown in this paper will support health-care organizations' decision makers in exploring the implications surrounding EAI adoption.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2051">enterprise application integration</a>,    <a href="/keywords/2052">health-care organization</a>,    <a href="/keywords/2053">information system adoption</a>,    <a href="/keywords/2054">information system evaluation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

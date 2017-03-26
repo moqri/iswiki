@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/5">    Volume 4 Number 2 1987
+</a> pp. 113-133</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Performance Comparison of Optimistic versus Conservative Strategies during Partition Failures in Distributed Databases</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/444">Davison, Susan B</a> and     <a href="/contributors/445">Winkler, Mark M</a>    </div>
+
+<p>ABSTRACT: Two strategies for processing transactions during partition failures in distributed databases are reviewed: the optimistic protocol and conservative class conflict graph analysis. Both use graph techniques for detecting and resolving conflicts, although one is "optimistic," detecting and resolving conflict after the failure is repaired, while the other is "conservative," detecting and preventing potential conflicts when the failure occurs. A simulation comparing the two approaches with respect to the cost of missed opportunity, the cost of repair, and overhead cost is presented, along with sample results. The optimistic protocol generally minimizes missed opportunity, while conservative class conflict graph analysis requires less overhead and no repair. The applicability of these approaches to fractured networks involving more than two partitions is also discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/240">distributed databases</a>,    <a href="/keywords/241">network partitioning</a>,    <a href="/keywords/236">database design</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

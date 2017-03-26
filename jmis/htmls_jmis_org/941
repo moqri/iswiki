@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/110">    Volume 9 Number 4 1993
+</a> pp. 17-36</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Inductive Learning for International Financial Analysis: A Layered Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1482">Tessmer, Antoinette C,</a>    <a href="/contributors/1370">Shaw, Michael J,</a> and     <a href="/contributors/1483">Gentry, James A</a>    </div>
+
+<p>ABSTRACT: This paper presents a layered approach to inductive learning that improves the stability and accuracy of the knowledge acquisition method. The methodology is applied to international financial analysis where the comparison of risk structures of different economic environments is critical. The results demonstrate the efficacy of the learning approach for financial decision support. The highly explicit decision structures are especially useful for comparing national differences. The method's utility for decision integration is also discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/613">inductive learning</a>,    <a href="/keywords/614">international financial analysis</a>,    <a href="/keywords/615">layered learning</a>,    <a href="/keywords/271">knowledge acquisition</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

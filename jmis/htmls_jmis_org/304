@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/106">    Volume 25 Number 4 2009
+</a> pp. 81-107</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>How Knowledge Validation Processes Affect Knowledge Contribution</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/539">Durcikova, Alexandra</a> and     <a href="/contributors/684">Gray, Peter H</a>    </div>
+
+<p>ABSTRACT: To ensure that knowledge repositories contain high-quality knowledge, knowledge management research recommends that contributions to a repository undergo stringent validation processes. To date, however, no research has studied the impact of such processes on contributors' repository-related perceptions or behaviors. To address this gap, we develop a model based on signaling theory and reinforcement theory to explain how individuals' perceptions of three primary validation process characteristics (duration, transparency, and restrictiveness) impact their perceptions of repository knowledge quality and their contribution behaviors. Our empirical results confirm the importance of implementing review processes that are transparent and developmentally oriented as a way of encouraging knowledge contribution. More broadly, this study underscores the need to develop integrated theoretical models that draw from a variety of reference theories when attempting to explain knowledge-related behaviors.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2464">knowledge contribution processes</a>,    <a href="/keywords/202">knowledge management</a>,    <a href="/keywords/1427">knowledge repositories</a>,    <a href="/keywords/2004">knowledge sharing</a>,    <a href="/keywords/2014">knowledge sourcing</a>,    <a href="/keywords/2465">reinforcement theory</a>,    <a href="/keywords/2447">signaling theory</a>,    <a href="/keywords/2466">validation processes</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

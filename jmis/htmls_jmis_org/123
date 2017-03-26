@@ -1,0 +1,87 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/22">    Volume 28 Number 1 2011
+</a> pp. 13-16</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Applied Science Research in Information Systems: The Last Research Mile</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/236">Sprague Jr, Ralph H</a>    </div>
+
+<p><p>
+ Special Section
+ <br/>
+ Applied Science Research in Information Systems: The Last Research Mile
+</p>
+<p>
+ Robert O. Briggs, Jay F. Nunamaker Jr., and Ralph Sprague, Guest Editors
+</p>
+<p>
+ Robert O. Briggs is director of academic affairs for the University of Nebraska at Omaha&#8217;s Center for Collaboration Science and an associate professor of management in its College of Business Administration. He earned his Ph.D. in management and information systems from the University of Arizona in 1994. He researches the cognitive and social foundations of collaboration and applies his findings to the design and deployment of new collaborative techniques, work practices, and technologies. He has published scholarly works on theoretical, empirical, and applied aspects of collaboration science.
+</p>
+<p>
+ Jay F. Nunamaker Jr. is Regents and Soldwedel Professor of MIS, Computer Science, and Communication and director of the Center for the Management of Information at the University of Arizona, Tucson. He received his Ph.D. in operations research and systems engineering from Case Institute of Technology, an M.S. and B.S. in engineering from the University of Pittsburgh, and a B.S. from Carnegie Mellon University. He received his professional engineer&#8217;s license in 1965. In a 2005 journal article in Communications of the AIS, he was recognized as the fourth to the sixth most productive researcher for the period 1991-2003. Dr. Nunamaker received the LEO Award from the Association for Information Systems (AIS) at the International Conference on Information Systems in Barcelona, Spain, December 2002, and was elected as a fellow of the AIS in 2000.
+</p>
+<p>
+ Ralph Sprague is a professor of information technology management in the Shidler College of Business at the University of Hawaii. He has over 40 years of experience in teaching, research, and consulting in the use of computers and information technologies in organizations. His fields of expertise are decision support systems, strategic systems planning, management of information systems, and electronic document management. He has published widely in these areas. In 2006, he was elected Fellow of the Association for Information Systems. He has served as chairman or co-chairman of the Hawaii International Conference on System Sciences for the past 33 years.
+</p>
+<p>
+ On any given day, an experienced information systems (IS) researcher can map out a new 25-year research stream in under an hour. Little academic credit is therefore warranted for conceiving an idea and writing it up. Full marks are due, however, for shepherding a technical innovation through the last research mile from inspiration to implementation in the workplace. The last research mile means using academic knowledge to solve real problems for real people with a real stake in the outcome. This is the definition of applied science/engineering. The last research mile is where academia creates value for society. It leads through rich country that can yield exciting exploratory, theoretical, experimental, and technical contributions.
+</p>
+<p>
+ The goal of IS research is to provide optimally relevant, timely, accurate, and complete information to decision makers at minimal cost. Cost, in this context, signifies more than just money. People ascribe value along a number of dimensions, among them economic, political, social, cognitive, emotional, and physical. IS solutions must therefore be not only technically feasible but also economically, politically, socially, cognitively, emotionally, and physically acceptable to stakeholders. These aspects of feasibility and value interact in complex ways. Moving a technological innovation from conception to adoption is therefore a task of such complexity that it is not possible to anticipate from the desk chair how a technology will  have to be realized so it can diffuse into common use. Because of this complexity, there may be many more ways to implement a technically sound solution than to implement an acceptable solution. To discover and address these issues, we must travel the last research mile.
+</p>
+<p>
+ The last research mile begins when a research team finds real people with a real problem in a real organization. They explore the problem, learn about stakeholder goals, and seek to discover drivers and constraints in the problem environment. They propose possible solutions to stakeholders and listen carefully to their responses. Eventually, they build a proof of concept prototype that may not be scalable, and may not be full featured, but is sufficiently robust that stakeholders can try it out with sample tasks so both the researchers and the stakeholders can learn more about the challenges they face. A proof of concept prototype demonstrates that a solution may be technically possible. Proof of concept researchers begin to stumble upon nuggets of knowledge that give them a better sense of the issues at hand. However, proof of concept is the beginning, not the end, of the last research mile. Research that ends with proof of concept is impoverished compared to that which carries forward to the second step---proof of value.
+</p>
+<p>
+ In the proof of value step, researchers design a prototype with sufficient robustness and functionality to solve at least one important real-world problem. They take the proof of value prototype into the lab and out to the field so stakeholders can try to use it for real work, with the support of the research team if necessary. The pace of academic discovery accelerates as political, social, cognitive, and emotional factors surrounding the problem and the solution interact in unexpected ways. Unexamined assumptions surface and unanticipated requirements emerge as the research team gains technical and domain expertise while trying to determine whether the solution achieves its design objectives and creates value for its users. New phenomena are discovered, described, and classified. Deeper understandings of the problem space may be synthesized into correlative grounded models. Theoretical insights may be derived to explain effects that only emerge when people try to do real work. If proof of value studies show the new technology to be superior to prior solutions, then the technology itself may become a contribution to applied science. There is still much more to be learned, however, in the third and final step of the last research mile---proof of use.
+</p>
+<p>
+ In the proof of use step, a research team creates a full-featured, robust proof of use prototype than can be deployed to user environments to address not just one specific problem, but a class of problems. Researchers turn the technology over to stakeholders to see whether it is possible to create a self-sustaining and growing community of users around the solution. The lack of a thriving user community is prima facie evidence that the positive findings from proof of value studies are being overwhelmed by other, previously unsuspected issues. Further exploratory, experimental, and theoretical research may be required to discover and explain these issues. Nuggets of knowledge from earlier work may integrate into a unified understanding of the problem domain. Further applied research may draw on these new understandings to produce a system that delivers the potential value of the technology in a form that users can accept and use.
+</p>
+<p>
+ This Special Section includes three papers pertaining to the last research mile. The paper &#8216;Embodied Conversational Agent-Based Kiosk for Automated Interviewing,&#8217; by Jay F. Nunamaker Jr., Douglas C. Derrick, Aaron C. Elkins, Judee K. Burgoon, and Mark W. Patton, presents work that is entering the proof of value stage. The team has created an automated kiosk that uses an embodied intelligent agent---an animated human face backed by biometric sensors and intelligent agents---to interview people at national borders and to detect changes in arousal, behavior, and cognitive effort that may signal deception or malevolent intent. The paper reports three studies that evaluate separate aspects of the system and explains how findings were used as foundational research for the development of the automated kiosk that can be tested in the field.
+</p>
+<p>
+ In their paper, &#8216;A Global Model of Technological Utilization Based on Governmental, Business-Investment, Social, and Economic Factors,&#8217; James B. Pick and Rasool Azari  use inductive logic to derive a conceptual model of the factors of governmental support and openness, business and technology investment, and socioeconomic levels that are posited to influence technological utilization. This model is of particular interest to researchers working on proof of use challenges. They use the model to guide an exploratory test of the model on a large sample of country data from the World Bank and World Economic Forum. Based on their findings, the authors propose policy steps for the governments of developed and developing countries.
+</p>
+<p>
+ Finally, Stefan Werner Knoll and Graham Horton address specific proof of use challenges in the arena of collaboration engineering in their paper, &#8216;Changing the Perspective: Using a Cognitive Model to Improve thinkLets for Ideation.&#8217; The collaboration engineering research community has been working to codify collaboration expertise in a form that nonexperts can reuse without extensive training, and so derive benefits from collaboration technology that were previously only available to those supported by a professional facilitator. This paper focuses on making improvements to idea generation and sharing techniques. It uses a cognitive model to analyze 101 idea generation techniques with regard to the underlying mental principles that stimulate the ideation process. The authors identify three changes of perspective based on these principles and demonstrate how these principles can be used to improve the applicability of information technology to group processes.
+</p>
+<p>
+ An earlier version of each of the papers in the Special Section earned a best paper award at the Hawaii International Conference on System Sciences. Each represents a challenging and interesting perspective. We commend them to your reading.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

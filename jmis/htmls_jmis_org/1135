@@ -1,0 +1,79 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/15">    Volume 22 Number 3 2005
+</a> pp. 5-7</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ The research domain of management information systems (MIS) centers on the development, use, and effects of organizational information systems. The scope of systems under study spans a spectrum extending from those that support a small firm or community to those that enable the functioning of multinational corporations, industry supply webs, and national governments. The effects of the systems and of the information technologies they are based on are exerted on individuals, groups, organizations, industries, economies, and supranational entities. Consequently, the units of analysis in the domain run an equally wide span. The virtuous spiral of heightened performance does indeed lead from the study of the effects to the development of future systems, and to the organizational and institutional changes that would render the societal entities and the information systems effective.
+</p>
+<p>
+ It is vital to appreciate the fact that the discipline of MIS studies information systems. These systems include information technologies-but also, and crucially, they include people who work with them. The broad transdiciplinary area of human-computer interaction (HCI) focuses on human interaction with information technologies and with the information they produce. In a nutshell, this is why HCI is organic to MIS.
+</p>
+<p>
+ The field of HCI has been the subject of study in computer science, the discipline centering on computer technologies; notably, the design of user interfaces has been studied there. Cognitive science has focused, among other issues, on the study of apportioning the cognitive task between the person and the machine. Other scholarly disciplines, including psychology and anthropology, supplied methods of HCI research. In the MIS domain, we address  the complex set of issues involving human interaction with information technologies in an organizational context or for an organization&#8217;s benefit. In any direct sense, organizations do not develop or use systems-people do. We need to know how to make them ever better at it-recursively, with information systems. The Guest Editors of the Special Section on Human-Computer Interaction Research in Management Information Systems, Ping Zhang, Fiona Fui-Hoon Nah, and Izak Benbasat, do our field-and the field of HCI-a great service by working tirelessly to establish the work on HCI on a firm footing within our discipline. The Special Section that opens this issue of the Journal is a prominent effort among several they have undertaken with this goal in mind. In their introduction to the Special Section, the Guest Editors will not only discuss the four papers they have selected for publication after an extensive editorial process but also inform you about the state and the prospects of HCI research in MIS.
+</p>
+<p>
+ Four papers in the general section of the Journal address very different aspects of knowledge, of its creation and utilization, and of information systems-based knowledge management. In the first of these works, Peter H. Gray and Alexandra Durcikova, empirically study the deployment of one of the types of knowledge repositories, those used by technical support analysts. In pursuing the well-known issue of exploitation versus exploration, the authors find-rather distressingly-a dichotomy, rather than a unity. Against the expectations of knowledge management theorists, the knowledge repositories studied here are used just for expediency, rather than for the speed of current performance accompanied by learning for the improvement of future performance. The extensive discussion of the results in the paper will repay those who would change this state of affairs by altering organizational environments and knowledge management systems.
+</p>
+<p>
+ The analysis is continued in the next paper, which focuses on the role of organizational culture in knowledge management. Concentrating on the deepest cultural phenomena, the organizational values, Maryam Alavi, Timothy R. Kayworth, and Dorothy E. Leidner choose the case study method for its contextual embededdness. The authors establish a complex set of influences exerted by organizational culture on the firm&#8217;s knowledge management practices and on their outcomes. Beyond that, the researchers find the feedback from these practices to the value set. It is quite clear that the two papers just discussed, when taken together, offer a rich narrative to those who wish to make organizational information systems-supported knowledge management truly effective.
+</p>
+<p>
+ A different aspect of organizational knowledge management is studied by Mark E. Nissen. Rather than researching the use of the organizations&#8217; knowledge stocks, the author addresses the need to enhance their knowledge flows using information systems. A multidimensional model of organizational knowledge dynamics is presented, along with its visualization. The author proceeds to apply this model in a field study, which serves, in turn, to elaborate the model itself. The high-level study of the overall organizational knowledge flows becomes necessary as the complexity of the knowledge work increases, particularly in the organizations whose effectiveness depends on these flows-and these are legion.
+</p>
+<p>
+ The paper by Wonseok Oh, Jin Nam Choi, and Kimin Kim brings theory-based study of knowledge creation into our own bailiwick. In an original approach, based on the social network perspective, the authors study the creation of knowledge capital in the field of MIS. Specifically, they study the collaboration among the researchers representing four subfields of our domain, based on the publications in our leading journals. The paper offers important insights about the patterns of our discipline&#8217;s development over a quarter of a century. It also brings within our compass a knowledge analysis methodology that is certain to be used more broadly in our epistemics.
+</p>
+<p>
+ Tight electronic integration of supply channels and supply networks has been generally considered of advantage to the participant firms. In their empirical study of a large number of multinational enterprises, Kyung Kyu Kim, Narayan S. Umanath, and Bum Hun Kim tell us that this integration can reach the point of negative returns. In other words, the authors find that there is a best level of integration to be achieved in a given business context. The authors operationalize the determinants of the fit between the factors that describe the channels&#8217; information processing needs and those that determine  the channel&#8217;s information-processing capabilities. That fit is to be sought in defining the volume of information transfer in the channel.
+</p>
+<p>
+ By all measures, firms continue to invest heavily in information technologies, with the larger investments performed on the strategic level. The costs of the technologies continue to decline over time. The natural conclusion is that, ceteris paribus, the earlier investment in the same technology labors under a disadvantage. Here, Didem Demirhan, Varghese S. Jacob, and Srinivasan Raghunathan apply formal economic analysis to relate such an investment decision to the nature of the marketplace addressed by the investing firms. More specifically, the IT investment decisions of the firms addressing the price-sensitive market should differ from those addressing the markets where product attributes are of a greater moment. Several other results obtained by the authors surface practical guidelines for the organizational decision makers.
+</p>
+<p>
+ Christopher J. Wolfe and Uday S. Murthy use a laboratory setting to study the comparative advantages and drawbacks of deploying negotiation support systems (NSS) in budget negotiations. Face-to-face budget negotiations are notoriously difficult, often resulting in an impasse. Yet the prevailing prescription for this type of a single-issue distributive negotiation is indeed the reliance on the richness of a face-to-face communication. The present work shows the need to revisit, and perhaps revise, that prescription. The authors empirically find the deployment of NSS to be of a potential advantage in budget negotiations. Considering the ever-increasing global distribution of work and of organizational structures, this is an important result that certainly merits further research.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/59">    Volume 2 Number 2 1985
+</a> pp. 40-54</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Linear Representation for Model Management in a DDS</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/860">Klein, Gary,</a>    <a href="/contributors/573">Konsynski, Benn,</a> and     <a href="/contributors/933">Beck, Philip O</a>    </div>
+
+<p>ABSTRACT: Models are a key component in most decision making processes. Systems developed to effectively support the decision making process must accommodate multiple, alternative models that support alternative views of the decision making environment. An effective model management environment must facilitate the definition and maintenance of models and deal with the complex issue of selection from among the collection of alternative, feasible models. A linear programming approach to model selection is presented. The LP formulation works on historical information regarding model usage. A stepwise heuristic for model selection using the linear program is presented and extensions to the model are introduced.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/108">model management systems</a>,    <a href="/keywords/109">linear programming</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/70">    Volume 12 Number 4 1996
+</a> pp. 215-239</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Relationships among Performance of Accounting Information Systems, Influence Factors, and Evolution Level of Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/877">Jong-Min, Choe</a>    </div>
+
+<p>ABSTRACT: In previous implementation studies, the relationships between influence factors and information systems (IS) performance under the level of IS evolution were not empirically examined. The studies did not consider the evolution level of IS in examining influence factors of IS performance. They have tried to identify critical influence factors without considering the state of the IS and the IS department, that is, the levels of IS evolution. The objectives of this study are to examine the direct relationships between influence factors and performance of accounting information systems (AIS), and to identify the moderating effect of evolution level of IS on the relationships. In this study, the direct relationships and the moderating effect of evolution level of IS were hypothesized. The results of the empirical test suggested that there are significant positive correlations between the performance of an AIS and the influence factors such as user involvement, capability of IS personnel and organization size. It was also proved that the relationships between performance of AIS and influence factors are significantly influenced by the evolution level of IS. Hence, for the success of AIS, each influence factor should be considered differently in the degree of importance according to the level of IS evolution.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/919">accounting information systems</a>,    <a href="/keywords/920">evolution level of information systems</a>,    <a href="/keywords/921">user satisfaction with accounting IS</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

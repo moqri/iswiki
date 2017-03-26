@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/42">    Volume 8 Number 3 1991
+</a> pp. 87-107</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Building an Electronic Community System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1359">Schatz, Bruce R</a>    </div>
+
+<p>ABSTRACT: An electronic community system encodes and manipulates the range of knowledge and values necessary to function effectively in a community or organization. The knowledge includes both formal data and literature and informal results and news. The manipulation includes both browsing through the available knowledge, and recording and sharing interrelationships between the items. A large-scale experiment is underway to build an electronic community system for the community of scientists studying the nematode worm C. elegans, a model organism in molecular biology. This paper discusses a model for community systems and previous such systems in science, the biology experiment and a previous system, the enabling technology for handling the knowledge, the enabling mechanisms for handling the values, the state of the prototype, and speculations on future applications in supporting organizational memory.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/506">electronic community systems</a>,    <a href="/keywords/507">electronic communities</a>,    <a href="/keywords/508">scientific applications</a>,    <a href="/keywords/509">information spaces</a>,    <a href="/keywords/510">telesophy</a>,    <a href="/keywords/511">organizational memory</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

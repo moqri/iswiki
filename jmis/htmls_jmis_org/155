@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/33">    Volume 26 Number 2 2009
+</a> pp. 147-176</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Learning Model of Information Technology Outsourcing: Normative Implications</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/313">Cha, Hoon S,</a>    <a href="/contributors/314">Pingry, David E,</a> and     <a href="/contributors/315">Thatcher, Matt E</a>    </div>
+
+<p>ABSTRACT: We use an economic learning model to examine how knowledge parameters characterizing a sourcing relationship between a vendor and a client interact with production costs and coordination costs to affect the business value of alternative outsourcing strategies. This information is then used to determine a firm's optimal rate of information technology (IT) outsourcing. We find that the optimal outsourcing rate is dependent on the ability of the outsourcing client to acquire production knowledge from its outsourcing vendor and to retain its internal coordination knowledge despite losses of fundamental production skills due to outsourcing. Specifically, when the client is unable to acquire sufficient production knowledge from the external vendor, the client's optimal outsourcing decision is to engage in either one of two extreme strategies--total insourcing or total outsourcing--depending on the rate at which the client's coordination knowledge depreciates. On the other hand, when the client is able to acquire a substantial amount of production knowledge from the external vendor, the firm's optimal decision is to outsource only a portion of its IT services, where the proportion depends on the rate at which the client's coordination knowledge depreciates.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/692">coordination</a>,    <a href="/keywords/1667">economic analysis</a>,    <a href="/keywords/543">information technology outsourcing</a>,    <a href="/keywords/1285">knowledge</a>,    <a href="/keywords/746">modeling</a>,    <a href="/keywords/313">organizational learning</a>,    <a href="/keywords/650">outsourcing</a>,    <a href="/keywords/2542">production costs</a>,    <a href="/keywords/2543">vendor-client relationship</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

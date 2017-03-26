@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/46">    Volume 21 Number 2 2004
+</a> pp. 181-199</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Web Portals: Evidence and Analysis of Media Concentration</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/394">Dewan, Rajiv M,</a>    <a href="/contributors/510">Freimer, Marshall L,</a>    <a href="/contributors/83">Seidmann, Abraham,</a> and     <a href="/contributors/511">Jie, Zhang</a>    </div>
+
+<p>ABSTRACT: Although the Web has grown to several billion pages over the past few years, just a few of the Web sites get most of the visits. Such sites, called portals, attract visitors and advertisers and provide a lot of valuable content at no charge to the visitors. The portals attract a disproportionate amount of the Internet advertising dollars and have the ability to influence the success of new electronic commerce ventures. Using monthly audience data, we examine relative market shares of Web sites in search engines, travel, financial, news, and other categories. We find clear evidence of increasing disparity in page views, with the top Web sites getting an increasing share of the market. Using economic modeling, we show that this disparity is a result of a development externality that exists in this industry: the sites that have more viewers get more revenues; this in turn allows them to develop more content and attract an even greater number of viewers.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1614">advertising policy</a>,    <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/1811">media concentration</a>,    <a href="/keywords/1812">page views</a>,    <a href="/keywords/1813">portals</a>,    <a href="/keywords/1814">value index</a>,    <a href="/keywords/1815">World Wide Web</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

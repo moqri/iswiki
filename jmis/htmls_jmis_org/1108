@@ -1,0 +1,71 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/88">    Volume 12 Number 2 1995
+</a> pp. 3-4</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ The three papers in the special section on Strategic and Competitive Information Systems that opens this issue have a broad common theme.  Their concern is the management of several classes of risks accompanying the implementation of major information system platforms expected to support organizations in reaching for categorically new levels of performance.  Eric K. Clemons and Michael C. Row, the Guest Editors of the Special Section, will introduce the papers in more detail.
+</p>
+<p>
+ Two papers that open the general section of this issue probe the factors that lead to successful executive information (or support) system (EIS).  A comprehensive study of the key factors of EIS success is offered by R. Kelly Rainer, Jr., and Hugh J. Watson.  The authors interviewed representatives of three principal EIS constituencies: executive users, professional developers, and vendors.  The factors are divided into those that contribute to successful development and those that underlie successful operation of EIS.  Indeed, a number of successfully developed EIS have been have been abandoned early in their operations, often because they satisfied the needs of an individual, which turned out to be idiosyncratic after the executive has left the company.  The issues of the information quality are right on top of the list of the keys to EIS success.
+</p>
+<p>
+ Betty Vandenbosch and Christopher A. Higgin stake a learning perspective on executive support systems (ESS) to probe deeper into their success factors.  This perspective does not lead them to the quality of delivered information as the top success factor, but rather to the capabilities for re-visioning the busi-ness, to borrow a phrase from the Guest Editors of the Special Section.  ESS are generally understood to provide more extensive analysis capability than EIS - they combine the easy access to timely and relevant information, furnished by EIS, with some of the analytical capabilities of decision support systems.  The latter features prove crucial to the point being made in this work.  The authors find that ESS are perceived to contribute more to the competitive performance of the owner firm when they enable their users to build new mental models - to see the business opportunities and threats differently - than to simply use the existing mental models.  To use March's [1] words, ESS are perceived to be of much higher value when they help in the exploration of new possibilities than when they assist in the exploration of old certainties.  The work argues, in effect, for the inclusion of analysis capabilities in EIS - and thus for true ESS.
+</p>
+<p>
+ The following two papers apply economic theory to obtain prescriptive results for information systems governance.  The first of them, by A. Chaudhury, Kichan Nam, and H. Raghav Rao, addresses contracting for outsourcing services.  Enthusiasm and extreme caution are the succeeding tides of the dominant opinion on outsourcing of information systems.  The facts remain in plain sight: outsourcing has become a major avenue to the acquisition of information services.  The authors formulate an economic model leading them to a bidding mechanism that would induce the offerors of outsourcing services to reveal their bottom-line prices.  The results are helpful to the buyers of outsourcing services who aim at cost minimization.
+</p>
+<p>
+ Gerald V. Post, Albert Kagan, and Kim-Nam Lau develop an economic model that should help managers to determine the best time implementing a strategic information system.  Using the model, the managers would be able to select a favorable tradeoff between an early move into a new strategic system, with the attendant benefits and high costs, on the one hand, and a delayed implementation, with attenuated gains, but significantly lower costs, on the other.  The authors illustrate how their approach might be used in the banking business.
+</p>
+<p>
+ In the coda to the issue, Sang M. Lee, Yeong R. Kim, and Jaejung Lee turn to the factors that lead to successful training programs for the end users of information systems and to end-user satisfaction.  The authors find that simply increasing the users' proficiency  with new systems through training programs is not enough.  Rather, it is necessary to ensure that the end users understand how the information system can best contribute to its users' enhanced job performance.  System training is no substitute for an organizational change process.
+</p>
+<p>
+ We invite all of you to read the papers and always welcome your comments and contributions.
+</p>
+<p>
+ VLADIMIR ZWASS
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/178">strategic information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

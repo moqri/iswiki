@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/79">    Volume 6 Number 2 1989
+</a> pp. 5-19</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Coordination of Information Systems Plans with Business Plans</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/170">Lederer, Albert L</a> and     <a href="/contributors/994">Mendelow, Aubrey L</a>    </div>
+
+<p>ABSTRACT: </p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/36">information systems planning</a>,    <a href="/keywords/362">alignment of MIS plans with business plans</a>,    <a href="/keywords/35">strategic planning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

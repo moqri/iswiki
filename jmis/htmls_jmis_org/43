@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/33">    Volume 26 Number 2 2009
+</a> pp. 43-68</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Empirical Investigation of the Value of Integrating Enterprise Information Systems: The Case of Medical Imaging Informatics</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/82">Ayal, Moshe</a> and     <a href="/contributors/83">Seidmann, Abraham</a>    </div>
+
+<p>ABSTRACT: This paper identifies and measures the various business value benefits that accrue as a result of implementing and integrating large-scale enterprise information systems. Specifically, we look at the integration of electronic medical records for all patients with the radiology information system and a picture archiving and communication system at a regional medical center. Our work is among the first to carefully study and analyze the impact of enterprise information systems at a large-scale service organization that produces intangible outputs--health. It extends the literature on information economics by quantifying the benefits in process dynamics as a source of ongoing firm-level performance improvements. The key dimensions of measurements include financial revenues, operating lead times, and subjective satisfaction levels by the clinical staff and by the referring physicians. Analyses of longitudinal data suggest that performance levels along a key metric--clinical process lead time--showed a significant improvement immediately after the deployment and integration of the systems. The evidence reveals that performance kept improving for the following 12 months at an impressive learning rate of 63 percent. Moreover, the reported satisfaction level after installation was higher among referring physicians who actively used the full spectrum of technological functionalities at their own clinics or at the hospital's site. Finally, we present a general framework for capturing the actual tangible and intangible benefits of enterprise information systems installation and integration in a clinical context.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1309">business value</a>,    <a href="/keywords/2532">electronic medical research</a>,    <a href="/keywords/1956">empirical regularities</a>,    <a href="/keywords/1955">empirical research</a>,    <a href="/keywords/2533">enterprise information systems</a>,    <a href="/keywords/1881">healthcare</a>,    <a href="/keywords/2534">radiology information systems</a>,    <a href="/keywords/2355">satisfaction</a>,    <a href="/keywords/2431">systems integration</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

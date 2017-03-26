@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/46">    Volume 21 Number 2 2004
+</a> pp. 61-85</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Understanding the Business Value of Information Technology Investments: Theoretical Evidence from Alternative Market and Cost Structures</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/315">Thatcher, Matt E</a> and     <a href="/contributors/314">Pingry, David E</a>    </div>
+
+<p>ABSTRACT: This paper develops a series of two-stage duopoly models of quality-price competition and a series of monopoly models of quality-price choice in order to examine the impact of information technology (IT) investments on firm profit, firm productivity, and consumer welfare. We solve the duopoly and monopoly models for four cost functions, where each function makes a different assumption about the form of the marginal cost of production. These models are used to conduct a two-by-four comparison [(monopoly, duopoly) x (four cost functions)] of the impact of IT investments on economic performance. The analysis reveals that together market structure and cost structure play a critical role in determining the form of the relationship between IT investment and economic measures. Specifically, moving from monopoly to duopoly and moving from zero marginal cost to marginal cost as a function of quality increase the number of economic measures for which the directional effects of IT investment are ambiguous, or depend on model parameter values.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1309">business value</a>,    <a href="/keywords/1698">consumer welfare</a>,    <a href="/keywords/1667">economic analysis</a>,    <a href="/keywords/654">information technology investment</a>,    <a href="/keywords/1311">information technology value</a>,    <a href="/keywords/74">productivity</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

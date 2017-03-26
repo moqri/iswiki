@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/75">    Volume 16 Number 3 1999
+</a> pp. 71-101</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Linguini: Language Identification for Multilingual Documents</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1273">Prager, John M</a>    </div>
+
+<p>ABSTRACT: Given the vast and still growing availability of electronic documents from around the world, it is becoming increasingly important for managers of the information systems on which these documents are stored to sort or tag these documents so that their end users can most readily access those documents that are of most interest and use to them, which in our context means in a language they can understand. Linguini is a vectorspace-based categorizer tailored for high-precision language identification. This paper determines the functional dependencies of Linguini's performance and demonstrates that it can identify the language of documents as short as 5 to 10 percent of the size of average Web documents with 100 percent accuracy. It also describes how to determine if a document is in two or more languages, without incurring any appreciable extra computational overhead. This approach can be applied equally to subject-categorization systems to distinguish between cases where, when the system recommends two or more categories, the document belongs strongly to all or really to none.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1281">categorization</a>,    <a href="/keywords/1282">information retrieval</a>,    <a href="/keywords/1283">language identification</a>,    <a href="/keywords/1284">vector-space models</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

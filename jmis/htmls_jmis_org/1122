@@ -1,0 +1,1033 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/38">    Volume 16 Number 1 1999
+</a> pp. 3-9</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ SEVERAL PAPERS OPENING THE PRESENT ISSUE RELATE TO ORGANIZATIONAL knowledge management.  Information systems that offer support in this area, known as knowledge management systems, have become  possible with the growing capabilities of computer systems and, in particular, with exponentially expanding  connectivity among them. This support has become necessary as organizational knowledge has been recognized  to be a principal source of competitive advantage. A broad organizational initiative is called for in leveraging  knowledge to achieve strategic goals. Knowledge management has been defined as the development and  operation of organizational methods, procedures, and information systems that are used to collect and share the  knowledge and experience of the members of the organization, as well as to elaborate and disseminate external  knowledge, and to bring this knowledge to bear on problems and opportunities [5].
+</p>
+<p>
+ Corporate knowledge spans a vast area that covers, among other things, know-how, much of it in the realm  of tacit knowledge, the distributed stores of electronic documents, and intellectual property. Companies in  different lines of business, such as Arthur Andersen, Monsanto, and Buckman Labs, have become exemplars in  strategically deploying knowledge management with extensive information system support. A vast array of  software products for the purpose have come to the market. Various products in this category enable corporate  knowledge portals, tap into the enterprise resource planning (ERP) systems to provide the knowledge needed to  carry out business processes, provide access to firms' experts by expertise profiling, automatically tag, classify,  and index electronic documents to make them available over intranets, organize group memories, and serve  myriad other tasks that integrate the networks of organizational knowledge. Yet software products do not  knowledge management make, as our definition given above will tell you. Much thinking about organizational  knowledge as a resource, possibly reflected on balance sheets [2], and much system thinking and information  system building needs to be done.
+</p>
+<p>
+ The Special Section devoted to data mining, whose Guest Editors are H. Michael Chung and Paul Gray,  highlights the techniques that can lead to the discovery of new elements of organizational knowledge from  databases. The three papers included in the Special Section make distinct contributions here. The first of them  offers a prototype system that assists users in hypothesizing relationships among data in databases and in  obtaining an initial indication of the hypotheses validity, and thus in potentially expanding the organizational store  of knowledge if the hypotheses are later verified. The second paper studies the adequacy of the well-known  data-classification methods for the data that belong to multiple categories. The final paper of the section uses a  data-mining approach to develop bankruptcy prediction models suitable, respectively, for a normally operating  economy and for crisis conditions prevailing recently in some parts of the world; the predictions are accompanied  by an explanation of conclusions, which knowledge is highly useful to financing institutions. In their introduction,  the Special Section Guest Editors offer a fine introduction indeed both to the data mining and to the research on  the subject. Recent market valuation of companies with vast data warehouses available for data mining tells us  about its strategic importance [1].
+</p>
+<p>
+ In the paper that opens the general section of the issue, Timo K. K&#8222;k"l&#8222; and Kalle I. Koota present a  conceptual design and a prototype of an information system expressly developed from the standpoint of  supporting the creation of organizational knowledge and fostering double-loop learning. The paper is deeply  rooted in philosophical and other theoretical work that it invokes-it is indeed a paper with a point of view. The  work specifies and exemplifies with a prototype the design principles of an information system that would  facilitate the sharing of organizational knowledge about work processes and refining it during the reflective  practice with the use of the system. This raises the bar for higher-level performance in the future. The authors  also discuss the tenets of a knowledge-based organization that would benefit most from such an information  system and of the methods for work-process benchmarking that would serve to continually ratchet up the  organization's performance.
+</p>
+<p>
+ The work in the area of knowledge management overlaps with that on the information system support for  organizational memory. An organization may develop an Organizational Memory Information System (OMIS) to  manage its own appropriated knowledge effectively in all its aspects. The underpinning of an OMIS is a broad  design theory, grounded in the competing values model of organizational effectiveness, within which many  contingency-dependent implementations are possible [4]. The process of an OMIS development can take many  paths; indeed, considering the nature of the system and the fact that it emerges over a long period of time, it  would be surprising if any two such trajectories coincided. Nevertheless, in his paper, Fons Wijnhoven is able to  identify several variables that form an origin of a contingency-based theory of OMIS development. He partly  induces this contingency framework from the analysis of three cases. Wijnhoven also discusses the relationships  between the support of organizational memory and knowledge management.
+</p>
+<p>
+ Taken together, the above papers make a collective contribution to help us think about the information system  support for organizational knowledge management more conceptually, yet without departing from the  organizational realities.
+</p>
+<p>
+ In the next paper, Magid Igbaria and Tor Guimaraes empirically compare the intentions of telecommuters and  those of office dwellers to quit their job. The authors develop a research model that relates job stressors to the  overall satisfaction levels, and thus to the turnover intention. With information technology the essential enabler in  telecommuting, the results the authors obtain are both interesting theoretically and highly relevant to MIS  managers' thinking.
+</p>
+<p>
+ Surinder S. Kahai and Randolph B. Cooper study the effect of the use of computer-mediated communication  systems, a class of information systems that includes group support systems, on the outcome of a group  process. More specifically, they study the effect of the aspects surrounding the problem-solving communication  on the agreement ("yes, I want this") or acceptance ("OK, I will go along for now") by  participants. The difference between the two attitudes with respect to the implementation of a decision is clear.  This work helps us draw certain conclusions as to how to promote a true agreement rather than end up with  acquiescence and possible subversion of a decision through counterimplemention.
+</p>
+<p>
+ The paper by Choong Nyoung Kim and Raymond McLeod, Jr., makes a contribution to the area of expert   modeling, that is, modeling how decisions are made by a human expert. The authors compare the performance of  several models with that of human experts and analyze the results with respect to predictive validity innovatively  using a concept of the validity of the decision strategy. This work can lead to a further refinement of  expert-system performance.
+</p>
+<p>
+ The adoption of technologies in less-developed countries (LDCs) is heavily dependent on the role that these  countries' institutions, as well as the international community, play-or fail to play. Ramiro Montealegre empirically  validates a temporal model of institutional intervention in the adoption of information technologies in LDCs derived  from [3]. Montealegre analyzes the process of the adoption of the Internet in four Latin American countries. He  introduces a convincing argument that a number of deficiencies that would appear inevitably to delay such an  adoption can in fact be overcome if a number of right institutional actions are undertaken. This is certainly a word  to the wise.
+</p>
+<p>
+ As the Journal enters its sixteenth year of publication, which will bring us into a new millenium to boot, it is my  pleasure and privilege to uphold our tradition and thank the Editorial Board, authors, readers, and technical editors  of JMIS for their contribution. As always, particular thanks are offered to the Journal's reviewers, who are the  primary guarantors of its quality.
+</p>
+<p>
+ These are the referees of the Journal of Management Information Systems:
+</p>
+<p>
+ Tarek K. Abdel-Hamid
+</p>
+<p>
+ Ritu Agarwal
+</p>
+<p>
+ Pervaiz Alam
+</p>
+<p>
+ Murugan Anandarajan
+</p>
+<p>
+ Urton Anderson
+</p>
+<p>
+ Lynda M. Applegate
+</p>
+<p>
+ Gad Ariav
+</p>
+<p>
+ Yiorgos D. Athanassatos
+</p>
+<p>
+ Paul Attewell
+</p>
+<p>
+ Barbro Back
+</p>
+<p>
+ Yannis Bakos
+</p>
+<p>
+ P.R. Balasubramanian
+</p>
+<p>
+ Dirk Baldwin
+</p>
+<p>
+ Dinesh Batra
+</p>
+<p>
+ Salvatore Belardo
+</p>
+<p>
+ Michael Benaroch
+</p>
+<p>
+ Francois Bergeron
+</p>
+<p>
+ Bijoy Bordoloi
+</p>
+<p>
+ Bruce E. Breeding
+</p>
+<p>
+ Carol V. Brown
+</p>
+<p>
+ Robert M. Brown
+</p>
+<p>
+ Terry A. Byrd
+</p>
+<p>
+ Anthony G. Cahill
+</p>
+<p>
+ Edward G. Cale, Jr.
+</p>
+<p>
+ John V. Carlis
+</p>
+<p>
+ Judith Carlisle
+</p>
+<p>
+ Sven Carlsson
+</p>
+<p>
+ Erran Carmel
+</p>
+<p>
+ Houston H. Carr
+</p>
+<p>
+ William J. Carroll
+</p>
+<p>
+ Robert P. Cerveny
+</p>
+<p>
+ Patrick Chau
+</p>
+<p>
+ Hong-Mei Chen
+</p>
+<p>
+ Minder Chen
+</p>
+<p>
+ Hsing Kenneth Cheng
+</p>
+<p>
+ Robert T.H. Chi
+</p>
+<p>
+ Roger Chiang
+</p>
+<p>
+ William C. Chismar
+</p>
+<p>
+ Jong-min Choe
+</p>
+<p>
+ Joobin Choobineh
+</p>
+<p>
+ H. Michael Chung
+</p>
+<p>
+ Jon D. Clark
+</p>
+<p>
+ Roger Clarke
+</p>
+<p>
+ Sue Conger
+</p>
+<p>
+ Randy Cooper
+</p>
+<p>
+ Timothy P. Cronan
+</p>
+<p>
+ David C. Croson
+</p>
+<p>
+ Paul Cule
+</p>
+<p>
+ Ronald Dattero
+</p>
+<p>
+ Donald L. Davis
+</p>
+<p>
+ Alan Dennis
+</p>
+<p>
+ Sandra Dewitz
+</p>
+<p>
+ Ali Dogramaci
+</p>
+<p>
+ Brian L. Dos Santos
+</p>
+<p>
+ Peter Duchessi
+</p>
+<p>
+ Phillip Ein-Dor
+</p>
+<p>
+ Omar A. El Sawy
+</p>
+<p>
+ Gregg Elofson
+</p>
+<p>
+ Hyun B. Eom
+</p>
+<p>
+ Steven Feiner
+</p>
+<p>
+ Kirk Fiedler
+</p>
+<p>
+ Jerry Fjermestad
+</p>
+<p>
+ Michael Flam
+</p>
+<p>
+ Steven W. Floyd
+</p>
+<p>
+ Edward Fox
+</p>
+<p>
+ Nelson Fraiman
+</p>
+<p>
+ Richard Furuta
+</p>
+<p>
+ Michael J. Gallivan
+</p>
+<p>
+ Edward J. Garrity
+</p>
+<p>
+ Bezalel Gavish
+</p>
+<p>
+ Erol Gelenbe
+</p>
+<p>
+ Mark Ginsburg
+</p>
+<p>
+ Janis L. Gogan
+</p>
+<p>
+ Jerry Golub
+</p>
+<p>
+ Martin D. Goslar
+</p>
+<p>
+ Paul Gray
+</p>
+<p>
+ Gary I. Green
+</p>
+<p>
+ Saul Greenberg
+</p>
+<p>
+ Robert K. Griffin
+</p>
+<p>
+ Michael D. Grigoriades
+</p>
+<p>
+ Varun Grover
+</p>
+<p>
+ Tor Guimaraes
+</p>
+<p>
+ Jatinder N.D. Gupta
+</p>
+<p>
+ Joanne E. Hale
+</p>
+<p>
+ Jacob Hagouel
+</p>
+<p>
+ Il-Horn Hann
+</p>
+<p>
+ Paul Hart
+</p>
+<p>
+ Stephen Hayne
+</p>
+<p>
+ Roxanne Starr Hiltz
+</p>
+<p>
+ Rudy Hirschheim
+</p>
+<p>
+ Lorin M. Hitt
+</p>
+<p>
+ Richard Hoffman
+</p>
+<p>
+ Qing Hu
+</p>
+<p>
+ Cary T. Hughes
+</p>
+<p>
+ Ard Huizing
+</p>
+<p>
+ E. Gerald Hurst
+</p>
+<p>
+ Tomasz Imielinski
+</p>
+<p>
+ Gretchen I. Irwin
+</p>
+<p>
+ Tomas Isakowitz
+</p>
+<p>
+ Bharat A. Jain
+</p>
+<p>
+ Marius A. Janson
+</p>
+<p>
+ Matthias Jarke
+</p>
+<p>
+ Sirkka L. Jarvenpaa
+</p>
+<p>
+ Per V. Jenster
+</p>
+<p>
+ Linda Ellis Johnson
+</p>
+<p>
+ Roy Jones
+</p>
+<p>
+ Stef Joosten
+</p>
+<p>
+ Kailash Joshi
+</p>
+<p>
+ Charles Kacmar
+</p>
+<p>
+ Surinder Kahai
+</p>
+<p>
+ Timo Kakola
+</p>
+<p>
+ Ajit Kambil
+</p>
+<p>
+ P.K. Kannan
+</p>
+<p>
+ Jahangir Karimi
+</p>
+<p>
+ Michael Kattan
+</p>
+<p>
+ Mark Keil
+</p>
+<p>
+ Robert T. Keim
+</p>
+<p>
+ Chris Kemerer
+</p>
+<p>
+ Julie E. Kendall
+</p>
+<p>
+ William J. Kettinger
+</p>
+<p>
+ Omar E.M. Khalil
+</p>
+<p>
+ Melody Y. Kiang
+</p>
+<p>
+ Ruth C. King
+</p>
+<p>
+ Gary Klein
+</p>
+<p>
+ Esther Koster
+</p>
+<p>
+ Kenneth A. Kozar
+</p>
+<p>
+ Ramayya Krishnan
+</p>
+<p>
+ Uday Kulkarni
+</p>
+<p>
+ Ram Kumar
+</p>
+<p>
+ Mary C. Lacity
+</p>
+<p>
+ Simon S.K. Lam
+</p>
+<p>
+ Gwynne Larsen
+</p>
+<p>
+ Tor J. Larsen
+</p>
+<p>
+ Heeseok Lee
+</p>
+<p>
+ Ho Geun Lee
+</p>
+<p>
+ Jungwoo Lee
+</p>
+<p>
+ Dorothy Leidner
+</p>
+<p>
+ Richard Leifer
+</p>
+<p>
+ Mary Jane Lenard
+</p>
+<p>
+ Hugo Levecq
+</p>
+<p>
+ Ting-Peng Liang
+</p>
+<p>
+ Jack M. Ligon
+</p>
+<p>
+ Yihwa Irene Liou
+</p>
+<p>
+ Astrid Lipp
+</p>
+<p>
+ Henry C. Lucas, Jr.
+</p>
+<p>
+ Kalle Lyytinen
+</p>
+<p>
+ William McCarthy
+</p>
+<p>
+ Jane M. Mackay
+</p>
+<p>
+ Roy McKelvey
+</p>
+<p>
+ Ephraim R. McLean
+</p>
+<p>
+ Poppy L. McLeod
+</p>
+<p>
+ Gregory Madey
+</p>
+<p>
+ Simha R. Magal
+</p>
+<p>
+ Mo A. Mahmood
+</p>
+<p>
+ David Maier
+</p>
+<p>
+ Ji-Ye Mao
+</p>
+<p>
+ Salvatore T. March
+</p>
+<p>
+ Anne P. Massey
+</p>
+<p>
+ Charles H. Mawhinney
+</p>
+<p>
+ Roberto J. Mejias
+</p>
+<p>
+ Robert Minch
+</p>
+<p>
+ Shaila Miranda
+</p>
+<p>
+ Rajesh Mirani
+</p>
+<p>
+ William H. Money
+</p>
+<p>
+ Ali R. Montazemi
+</p>
+<p>
+ Janette Moody
+</p>
+<p>
+ Ajay S. Mookerjee
+</p>
+<p>
+ Scott Moore
+</p>
+<p>
+ Michael D. Myers
+</p>
+<p>
+ Kathleen Mykytyn
+</p>
+<p>
+ Peter P. Mykytyn, Jr.
+</p>
+<p>
+ Barin N. Nag
+</p>
+<p>
+ Murli Nagasundaram
+</p>
+<p>
+ R. Ryan Nelson
+</p>
+<p>
+ Boon Siong Neo
+</p>
+<p>
+ Rosalie Ocker
+</p>
+<p>
+ Lorne Olfman
+</p>
+<p>
+ James Oliver
+</p>
+<p>
+ Levent Orman
+</p>
+<p>
+ Richard Orwig
+</p>
+<p>
+ Jonathan W. Palmer
+</p>
+<p>
+ Raymond R. Panko
+</p>
+<p>
+ Lee Papayanopoulos
+</p>
+<p>
+ Michael Parent
+</p>
+<p>
+ Diane Parente
+</p>
+<p>
+ Daniel Pariveni
+</p>
+<p>
+ Kenneth Peffers
+</p>
+<p>
+ Norman Pendegraft
+</p>
+<p>
+ Mark Pendergast
+</p>
+<p>
+ Roger A. Pick
+</p>
+<p>
+ Leo L. Pipino
+</p>
+<p>
+ Robert Plant
+</p>
+<p>
+ Steven Poltrock
+</p>
+<p>
+ Gerald Post
+</p>
+<p>
+ Jayesh Prasad
+</p>
+<p>
+ G. Premkumar
+</p>
+<p>
+ Sandeep Purao
+</p>
+<p>
+ S. Raghunathan
+</p>
+<p>
+ T.S. Raghunathan
+</p>
+<p>
+ Arik Ragowsky
+</p>
+<p>
+ Arun Rai
+</p>
+<p>
+ Rex Kelly Rainer, Jr.
+</p>
+<p>
+ Sudha Ram
+</p>
+<p>
+ K.S. Raman
+</p>
+<p>
+ B. Ramesh
+</p>
+<p>
+ Richard G. Ramirez
+</p>
+<p>
+ Renu Ramnarayanan
+</p>
+<p>
+ H.R. Rao
+</p>
+<p>
+ R. Ravichandran
+</p>
+<p>
+ T. Ravichandran
+</p>
+<p>
+ Sury Ravindran
+</p>
+<p>
+ Amy W.Ray
+</p>
+<p>
+ Louis Raymond
+</p>
+<p>
+ Paul Resnick
+</p>
+<p>
+ William B. Richmond
+</p>
+<p>
+ Frederick Riggins
+</p>
+<p>
+ Daniel Robey
+</p>
+<p>
+ Michael C. Row
+</p>
+<p>
+ David L. Russell
+</p>
+<p>
+ Young U. Ryu
+</p>
+<p>
+ Timo Saarinen
+</p>
+<p>
+ Rajiv Sabherwal
+</p>
+<p>
+ Sharon Salveter
+</p>
+<p>
+ G. Lawrence Sanders
+</p>
+<p>
+ Radhika Santhanam
+</p>
+<p>
+ John Satzinger
+</p>
+<p>
+ Carol Saunders
+</p>
+<p>
+ Naveed Saleem
+</p>
+<p>
+ George Schell
+</p>
+<p>
+ K.D. Schenk
+</p>
+<p>
+ Irmtraud S. Seeborg
+</p>
+<p>
+ Arie Segev
+</p>
+<p>
+ Kishore Sengupta
+</p>
+<p>
+ Vikram Sethi
+</p>
+<p>
+ Kenneth C. Sevcik
+</p>
+<p>
+ Dennis G. Severance
+</p>
+<p>
+ Theresa M. Shaft
+</p>
+<p>
+ Steven Sheetz
+</p>
+<p>
+ Jim Sheffield
+</p>
+<p>
+ Olivia Sheng
+</p>
+<p>
+ Michael Shields
+</p>
+<p>
+ J.P. Shim
+</p>
+<p>
+ Siew Kien Sia
+</p>
+<p>
+ Mark S. Silver
+</p>
+<p>
+ Atish P. Sinha
+</p>
+<p>
+ Peggy C. Smith
+</p>
+<p>
+ Charles A. Snyder
+</p>
+<p>
+ Eric W. Stein
+</p>
+<p>
+ John M. Stevens
+</p>
+<p>
+ Veda Storey
+</p>
+<p>
+ Ashok Subramanian
+</p>
+<p>
+ Girish Subramanian
+</p>
+<p>
+ Ramesh Subramanian
+</p>
+<p>
+ Ephraim Sudit
+</p>
+<p>
+ Robert T. Sumichrast
+</p>
+<p>
+ Shankar Sunarajan
+</p>
+<p>
+ Arun Sundararajan
+</p>
+<p>
+ Julius Surkis
+</p>
+<p>
+ Edward J. Szewczak
+</p>
+<p>
+ Kar Yan Tam
+</p>
+<p>
+ Bernard C.Y. Tan
+</p>
+<p>
+ Mohan R. Tanniru
+</p>
+<p>
+ Alfred Taudes
+</p>
+<p>
+ David P. Tegarden
+</p>
+<p>
+ James T.C. Teng
+</p>
+<p>
+ Hock-Hai Teo
+</p>
+<p>
+ Thompson Teo
+</p>
+<p>
+ Matthew Thatcher
+</p>
+<p>
+ Ron Thompson
+</p>
+<p>
+ James Y.L. Thong
+</p>
+<p>
+ John Tillquist
+</p>
+<p>
+ Leon van der Torre
+</p>
+<p>
+ Jonathan K. Trower
+</p>
+<p>
+ Duane Truex
+</p>
+<p>
+ Jon A. Turner
+</p>
+<p>
+ Brad Tuttle
+</p>
+<p>
+ Craig K. Tyran
+</p>
+<p>
+ N.S. Umanath
+</p>
+<p>
+ Ari Vepsalainen
+</p>
+<p>
+ Boris S. Verkhovsky
+</p>
+<p>
+ Iris Vessey
+</p>
+<p>
+ Ajay Vinze
+</p>
+<p>
+ Jason Wang
+</p>
+<p>
+ Michael S. Wang
+</p>
+<p>
+ Shouhong Wang
+</p>
+<p>
+ Y. Richard Wang
+</p>
+<p>
+ Yu-ming Wang
+</p>
+<p>
+ Carol Watson
+</p>
+<p>
+ Richard Watson
+</p>
+<p>
+ Mary Beth Watson-Manheim
+</p>
+<p>
+ Aaron Watters
+</p>
+<p>
+ Bruce Weber
+</p>
+<p>
+ Peter Weill
+</p>
+<p>
+ Charles E. Wells
+</p>
+<p>
+ Larry West
+</p>
+<p>
+ J. Christopher Westland
+</p>
+<p>
+ Seungjin Whang
+</p>
+<p>
+ Michael E. Whitman
+</p>
+<p>
+ George Widmeyer
+</p>
+<p>
+ Kristoff K. Wolyniec
+</p>
+<p>
+ Hans Wortmann
+</p>
+<p>
+ Surya B. Yadav
+</p>
+<p>
+ Beck Yang
+</p>
+<p>
+ Chee Sing Yap
+</p>
+<p>
+ Evangelos Yfantis
+</p>
+<p>
+ Ilze Zigurs
+</p>
+<p>
+ Moshe Zviran
+</p>
+<p>
+ I trust you will find the papers interesting.
+</p>
+<p>
+ VLADIMIR ZWASS
+</p>
+<p>
+ Editor-in-Chief
+</p>
+<p>
+ REFERENCES
+</p>
+<p>
+ 1. Brannigan, M. Quintiles seeks mother lode in health "data mining." Wall Street Journal  (March 2, 1999), B4.
+</p>
+<p>
+ 2. Edvinson, L., and Malone, M.S. Intellectual Capital: Realizing Your Company's True Value by Finding Its  Hidden Brainpower. New York: HarperBusiness, 1997.
+</p>
+<p>
+ 3. King, J.L.; Gurbaxani, V.; Kraemer, K.L.; McFarlan, F.W.; Raman, K.S.; and Yap, C.S. Institutional factors in  information technology innovation. Information Systems Research, 5, 2 (June 1994), 139-169.
+</p>
+<p>
+ 4. Stein, E.W., and Zwass, V. Actualizing organizational memory with information systems. Information  Systems Research, 6, 2 (June 1995), 85-117.
+</p>
+<p>
+ 5. Zwass, V. Foundations of Information Systems. Boston: Irwin/McGraw-Hill, 1998.
+</p>
+<p>
+ <b>
+  Key words and  phrases
+ </b>
+ :
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

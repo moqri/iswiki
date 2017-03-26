@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/5">    Volume 4 Number 2 1987
+</a> pp. 8-33</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Issues in the Design of a Distributed Testbed for Multimedia Information Systems (MINOS)</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/380">Christodoulakis, Stavros</a> and     <a href="/contributors/381">Velissaroupoulos, Theodora</a>    </div>
+
+<p>ABSTRACT: Multimedia INfOrmation Systems (MINOS) manage largely unformatted data such as text, image, voice, attributes, and programs. This paper presents the motivation, the hardware tools, the important issues, and the problems involved in the design and implementation of a multimedia object server testbed. The testbed will allow us to study the impact of various design decisions and algorithms on system performance, the most successful of which will be integrated in the final implementation of distributed MINOS. The distributed architecture proposed is based on the client server model, where an optical disk-based subsystem serves as the archival component and where the presentation manager of the client subsystem includes handling of the internal structure, external logical organization, and browsing through multimedia objects.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/225">multimedia information systems</a>,    <a href="/keywords/226">unformatted data types</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

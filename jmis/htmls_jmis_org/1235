@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/126">    Volume 32 Number 1 2015
+</a> pp. 82-115</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Knowledge Integration in Outsourced Software Development: The Role of Sentry and Guard Processes</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1767">Mehta, Nikhil</a> and     <a href="/contributors/1768">Bharadwaj, Anandhi</a>    </div>
+
+<p>ABSTRACT: 
+<p>We examine the role of sentry and guard activities in outsourced software development. Sentry activities are designed to regulate the inflow of external information to the project teams and guard activities are designed to manage the outflow of teams’ information and resources to external sources. The use of sentry and guard activities has been examined in teams in other contexts such as new product development, but their role and relationship to performance in software development teams is not well understood. We hypothesize and test curvilinear relationships between these activities and knowledge integration in vendor development teams. We also examine how these effects vary under conditions of greater project uncertainty. We tested the hypotheses using data from 139 vendor development teams drawn from sixteen Indian software companies. Results highlight complex curvilinear associations among sentry and guard activities, and knowledge integration, which are further impacted by the level of uncertainty that the project team faces. We recommend that carefully calibrating sentry and guard processes will help vendor development teams enhance project outcomes.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3472">guard processes</a>,    <a href="/keywords/1443">knowledge integration</a>,    <a href="/keywords/3473">project uncertainty</a>,    <a href="/keywords/3474">sentry processes</a>,    <a href="/keywords/339">software development</a>,    <a href="/keywords/3475">software development teams</a>,    <a href="/keywords/2315">software projects</a>,    <a href="/keywords/3476">team boundary</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/55">    Volume 13 Number 4 1997
+</a> pp. 7-27</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Moral Hazard, Ethical Considerations, and the Decision to Implement an Information System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1511">Tuttle, Brad,</a>    <a href="/contributors/1512">Harrell, Adrian,</a> and     <a href="/contributors/1513">Harrison, Paul</a>    </div>
+
+<p>ABSTRACT: A decision-making study was conducted to examine the effects of moral hazard on information systems (IS) professionals' decisions whether or not to implement a system with quality problems. Moral hazard was defined as an incentive to act in one's self-interest in conflict with the organization's overall goals while being able to hide those actions through privately held information. Highly experienced IS professionals provided responses to a hypothetical decision case that revealed a tendency to implement a project with quality problems in a moral hazard situation. Their decisions, however, were strongly influenced by ethical considerations. These findings suggest that key economic constructs, such as moral hazard, apply to system implementation contexts. They also suggest that organizations can significantly moderate self-interested behavior by fostering an ethical climate.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/991">agency theory</a>,    <a href="/keywords/992">computer ethics</a>,    <a href="/keywords/993">incentives</a>,    <a href="/keywords/542">information systems implementation</a>,    <a href="/keywords/994">information system quality</a>,    <a href="/keywords/995">moral hazard</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/30">    Volume 30 Number 3 2013
+</a> pp. 179-212</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Centralizing Data Management with Considerations of Uncertainty and Information-Based Flexibility</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1523">Velu, Chander K,</a>    <a href="/contributors/783">Madnick, Stuart E,</a> and     <a href="/contributors/1524">Van Alstyne, Marshall W</a>    </div>
+
+<p>ABSTRACT: This paper applies the theory of real options to analyze how the value of information-based flexibility should affect the decision to centralize or decentralize data management under low and high uncertainty. This study makes two main contributions. First, we show that in the presence of low uncertainty, centralization of data management decisions creates more total surplus for the firm as the similarity of business units increases. In contrast, in the presence of high uncertainty, centralization creates more total surplus as the dissimilarity of business units increases. The pivoting distinction trades the benefit of reduction of uncertainty from dissimilar businesses for centralization (with cost saving) against the benefit of flexibility from decentralization. Second, the framework helps senior management evaluate the trade-offs in data centralization that drive different business models of the firm. We illustrate the application of these propositions formally using an analytical model and informally using case vignettes and simulation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3203">economics of IS</a>,    <a href="/keywords/3204">flexibility and information systems decentralization</a>,    <a href="/keywords/942">real options</a>,    <a href="/keywords/3205">uncertainty</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

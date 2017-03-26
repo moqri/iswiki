@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/3">    Volume 9 Number 2 1992
+</a> pp. 127-144</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Investigating the Impacts of Managerial Turnover/Succession on Software Project Performance</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/4">Abdel-Hamid, Tarek K</a>    </div>
+
+<p>ABSTRACT: The persistent turnover problem in the software field combined with the tendency of managerial succession to promote instability make this phenomenon of crucial importance to the student as well as the practitioner of software project management. The focus of most studies to date has been on the use of aggregated statistical data to answer macro questions regarding aggregates of organizations. On the other hand, there is a serious lack of micro-empirical analysis of turnover/succession and its impacts on managerial performance. This paper reports the results of a simulation-based laboratory study to investigate the impacts of managerial turnover/succession on software project performance. Specifically, the study examines the staffing and cost/schedule trade-off choices of successor project managers, and compares them with the choices made by managers who run their projects from start to finish without interruption. The results indicate that managerial turnover/succession can lead to a discernible (albeit unintended) shift in cost/schedule trade-off choices, affecting staff allocations and ultimately project performance in terms of both cost and duration.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/581">managerial succession</a>,    <a href="/keywords/582">managerial turnover</a>,    <a href="/keywords/342">software project management</a>,    <a href="/keywords/583">software project staffing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/51">    Volume 10 Number 4 1994
+</a> pp. 111-133</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Self-Management Information System for the Service Industry: A Conceptual Model</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/690">Griffin, Robert K,</a>    <a href="/contributors/691">Baldwin, Dirk,</a> and     <a href="/contributors/692">Sumichrast, Robert T</a>    </div>
+
+<p>ABSTRACT: Research suggests the practice of self-management can be beneficial to service operations. However, the self-management concept has received relatively little use in the service industry. This article discusses the concept of self-management in the service environment, identifies some of the critical information requirements unique to this environment, and proposes a conceptual model of an information system that supports the developmental functions and business activities of the self-managed, working in the service industry. The proposed self-management information system (SMIS) promotes self-managed behavior by facilitating: scanning and analyzing the environment, setting and contracting goals, monitoring and evaluating work, rewarding or punishing performance, learning new skills, and system maintenance. The SMIS also mitigates some of the bathers to self-management by providing executive management with a control system and by helping to improve the decision-making process of line workers.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/722">decision support in service industry</a>,    <a href="/keywords/527">organizational support systems</a>,    <a href="/keywords/723">self-management</a>,    <a href="/keywords/724">self-management information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

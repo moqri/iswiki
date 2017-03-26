@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/41">    Volume 30 Number 2 2013
+</a> pp. 269-299</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Reducing Buyers&#039; Uncertainty About Taste-Related Product Attributes</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1107">Markopoulos, Panos M</a> and     <a href="/contributors/69">Clemons, Eric K</a>    </div>
+
+<p>ABSTRACT: It is becoming increasingly important for firms to know when to take steps to reduce buyers' uncertainty about products and services. This paper focuses on investments that firms can make to reduce buyers' uncertainty about taste-related product attributes. Using an analytical model, we show that firms should disclose more taste-related information when the customer segment they directly target represents a larger share of the overall market. We further show that there are practical ways by which managers can decide if such disclosure investments are financially beneficial to their firms. Specifically, we show that the variance of consumer reviews can guide such decisions. The paper's main contribution to the extant literature is to show that firms must consider the variance, but not the mean, of buyer reviews, to determine the need to invest in reducing consumer uncertainty about taste-related attributes. The papers's findings are managerially important due to the ubiquity of consumer reviews. They are novel because most of the previous literature views the mean of the review as the key indicator. Finally, they are general in their applicability since they are independent of any assumptions about heuristics that buyers may use to ascertain product quality from the reviews of previous buyers.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3170">consumer uncertainty reduction</a>,    <a href="/keywords/3171">information dissemination</a>,    <a href="/keywords/3172">product ratings</a>,    <a href="/keywords/3173">product review variance</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

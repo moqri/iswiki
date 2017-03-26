@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/80">    Volume 27 Number 2 2010
+</a> pp. 189-212</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>No Free Lunch: Price Premium for Privacy Seal--Bearing Vendors</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1094">Mai, Bin,</a>    <a href="/contributors/998">Menon, Nirup M,</a> and     <a href="/contributors/862">Sarkar, Sumit</a>    </div>
+
+<p>ABSTRACT: Privacy is a significant concern of customers in the business-to-consumer online environment. Several technical, economic, and regulatory mechanisms have been proposed to address online privacy. A current market-based mechanism is the privacy seal, under which a third party assures adherence by a vendor to its posted privacy policy. In this paper, we present empirical evidence of the effect of displaying a privacy seal on the product prices of online vendors of electronic books, downloadable audiobooks, and textbooks. Using data collected on these relatively homogeneous products sold by online vendors, we find that while controlling for vendor-specific characteristics, vendors bearing privacy seals charge a premium for such products compared to vendors not bearing a seal. The paper provides empirical evidence of the economic value of privacy assurance from the customers' perspective as measured by the price premium charged for products. The research has implications for researchers and policymakers by providing evidence that privacy is another factor that creates friction in e-commerce, and that prices on the Internet for homogeneous products need not converge.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/474">partial least squares (PLS) modeling</a>,    <a href="/keywords/2693">price dispersion</a>,    <a href="/keywords/2694">privacy assurance</a>,    <a href="/keywords/2695">risk premium</a>,    <a href="/keywords/1108">trust</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

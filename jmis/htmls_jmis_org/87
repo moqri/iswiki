@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/62">    Volume 21 Number 4 2005
+</a> pp. 137-172</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Negotiation in Technology Landscapes: An Actor-Issue Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/177">Bendahan, Samuel,</a>    <a href="/contributors/178">Camponovo, Giovanni,</a>    <a href="/contributors/179">Monzani, Jean-Sébastien ,</a> and     <a href="/contributors/180">Pigneur, Yves</a>    </div>
+
+<p>ABSTRACT: In large-scale negotiation problems and in assessments of complex and uncertain environments, it is vital to analyze the different stakeholders involved and to evaluate their positions in the negotiations. This paper extends a model, which merges previous multi-issue and actor-focused methods, based on power relationships between stakeholders and their ability to bargain in order to increase their utility. The model has already used for assessing a public WLAN landscape. The paper emphasizes the dynamic application of the model we developed for experimenting the negotiation evolution, shifting positions on some issues, and exchanging positions between actors. We also claim that such forecasting analyses of negotiation landscapes can be significantly improved using more appropriate visualization support. We propose new visualization tools for analyzing negotiation outcomes, representing negotiation landscapes, and applying what-if simulations, using passive influence, expected outcome and dissatisfaction, power distribution, proximity, and negotiation maps.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1887">actor-issue analysis</a>,    <a href="/keywords/1888">collective decision-making</a>,    <a href="/keywords/639">forecasting</a>,    <a href="/keywords/1889">negotiation</a>,    <a href="/keywords/1890">scenario planning</a>,    <a href="/keywords/1381">visualization</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

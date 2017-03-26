@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/51">    Volume 10 Number 4 1994
+</a> pp. 135-157</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Strategic Decision Support System at Orell Fussli</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/165">Belardo, Salvatore,</a>    <a href="/contributors/166">Duchessi, Peter,</a> and     <a href="/contributors/167">Coleman, John R</a>    </div>
+
+<p>ABSTRACT: Strategic decision support systems (strategic DSS) are one means of helping managers understand strategy and its implications. Strategic DSS contain many general decision support system (DSS) features, and are intended for senior managers. This article discusses the ongoing development of a strategic DSS for the Banknotes and Securities Division of Orell Fussli, a Swiss printing company. The system incorporates conceptual models, and provides explanations, cases, and guidance on how to use the models effectively. It helps train managers in strategic concepts and facilitates strategic thinking, and has been used to help develop and validate product/market strategies. We also provide several practical guidelines, including use of multiple conceptual models to present different perspectives and provision of a strategic management framework to organize those models. The system's features and guidelines add to our growing knowledge of how to electronically support strategic thinking.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/725">conceptual models</a>,    <a href="/keywords/726">intrinsic analysis</a>,    <a href="/keywords/727">strategic decision support systems</a>,    <a href="/keywords/728">strategic thinking</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

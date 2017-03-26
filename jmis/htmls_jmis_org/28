@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/23">    Volume 18 Number 3 2001
+</a> pp. 41-70</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Contingency Approach to Software Project Coordination</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/51">Andres, Hayward P</a> and     <a href="/contributors/52">Zmud, Robert W</a>    </div>
+
+<p>ABSTRACT: Before software project managers can enhance productivity and satisfaction of the software project team member, the effect of task characteristics, goal orientations, and coordination strategies on design and coding-task outcomes must be understood. A research model, which suggests that task interdependence, goal conflict, and coordination strategies significantly affect productivity and satisfaction associated with software design and coding activities, is presented. Issues such as contingency/design misfit, conflicting contingencies, and the extent of deviation to theoretically prescribed coordination mechanisms applied to contingencies are used to make predictions on productivity and process satisfaction. A 2x2x2 factorial experiment was utilized. Overall, projects characterized by low task interdependence exhibited greater productivity than projects with high task interdependence. Also, in general, organic coordination was more productive than mechanistic coordination. There was also a significant interaction between task interdependence and coordination strategy. Low goal conflict and organic coordination each lead to greater process satisfaction. Productivity results for the goal conflict manipulation was opposite to the hypothesized direction. Unconflicted contingencies addressed with consistent coordination and partially conflicted contingencies, regardless of the coordination used, exhibited significant gains in productivity. In comparison, unconflicted contingencies with inconsistent coordination and conflicted contingencies, regardless of the coordination applied, resulted in lower productivity. This suggests that there are instances where multiple contingencies, which warrant the use of different coordination strategies, can be adequately addressed with a specific coordination strategy.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/692">coordination</a>,    <a href="/keywords/348">contingency theory</a>,    <a href="/keywords/1486">goal interdependence</a>,    <a href="/keywords/1487">goal conflict</a>,    <a href="/keywords/1488">multiple contingencies</a>,    <a href="/keywords/1489">process satisfaction</a>,    <a href="/keywords/342">software project management</a>,    <a href="/keywords/1490">task interdependence</a>,    <a href="/keywords/1491">team productivity</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

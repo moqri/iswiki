@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/19">    Volume 7 Number 2 1990
+</a> pp. 111-138</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Maintaining Remote Decision Support Databases</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/520">Diehr, George,</a>    <a href="/contributors/521">Saharia, Aditya N,</a> and     <a href="/contributors/522">Chao, David</a>    </div>
+
+<p>ABSTRACT: This research describes and analyzes schemes for managing decision support databases that are extracted from a central database and "downloaded" to personal workstations. Unlike a (true) distributed database system, where updates are propagated to maintain consistency, these remote "snapshots" are updated only periodically ("refreshed") upon command of the remote workstation user. This approach to data management has many of the same advantages of a distributed database over a centralized database (e.g., reduced communication costs, improved response time for retrievals, and reduction in contention), but it avoids the high overhead for concurrency control associated with updating in a distributed database. The added cost is in reduced data consistency. The schemes analyzed include full regeneration, the scheme used by System R*, and two new schemes. One new scheme--called modified regeneration--is a variation on simple full regeneration of the snapshot, but transmits only relevant changes to the snapshot. The other new scheme uses a difference table of relevant updates. Algorithm descriptions, models of processing and communication costs, analytical and numerical comparison of performance, and qualitative evaluation are included. Our conclusions are that the difference-table approach is the most robust scheme; the System R* scheme has lowest cost for only rather limited environments; and the modified-regeneration scheme is attractive due to its simplicity and flexibility. The results and models presented here could be used by a DBMS "refresh optimizer" to determine the best scheme to employ as a function of refresh frequency, update rate, and various processing and communication cost parameters.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/240">distributed databases</a>,    <a href="/keywords/434">database snapshots</a>,    <a href="/keywords/435">consistency in distributed databases</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

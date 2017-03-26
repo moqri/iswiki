@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/107">    Volume 13 Number 1 1996
+</a> pp. 89-105</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Empirical Study of Factors Affecting Software Package Selection</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1148">Montazemi, Ali R,</a>    <a href="/contributors/1149">Cameron, David A,</a> and     <a href="/contributors/1150">Gupta, Kalyan Moy</a>    </div>
+
+<p>ABSTRACT: Evidence suggests that information centers (ICs) have significantly more interest in evaluating software packages and assisting in the selection of software packages than end users have. However, the selection of software packages by the information center product specialists (ICPSs) can compromise their usage. Ease of use and usefulness are believed to be fundamental predictors of usage. The question of whether ICPSs are able to correctly evaluate ease of use and usefulness of software packages for end users is posed. An insight into this issue could enhance end-user computing (EUC) policy and lead to a more effective partnership between end users and information systems (IS) professionals. A search for this insight provided the motivation for our empirical investigation of the perception of ICPSs and end users in assessing the ease of use and usefulness of thirty different software packages. Our investigation was performed in an organization with an IC that had evolved to the formalization stage. The findings show that the perceptions of the end users and ICPSs were similar in terms of assessing the ease of use of software packages. However, end users found the software packages less useful than did IC product specialists. Therefore, in sophisticated environments, end users should be empowered to develop their own user groups and suggest to IC personnel which useful software packages to acquire. Otherwise, selection of software packages without end-user participation could have an adverse effect on their usage.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/116">human information processing</a>,    <a href="/keywords/242">information center</a>,    <a href="/keywords/927">software selection criteria</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

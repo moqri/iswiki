@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/37">    Volume 25 Number 2 2008
+</a> pp. 145-169</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Does Competition Promote Trust and Trustworthiness in Online Trading?: An Experimental Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/218">Bolton, Gary,</a>    <a href="/contributors/219">Loebecke, Claudia,</a> and     <a href="/contributors/220">Ockenfels, Axel</a>    </div>
+
+<p>ABSTRACT: We investigate whether greater market competition improves or inhibits the ability of feedback systems in Internet markets to deliver trust and trustworthiness to the marketplace. Our investigation is grounded in the theory of signaling from information economics. Using methods from experimental economics, we create a laboratory online market where sellers face a moral hazard. We manipulate the level of market competition and the nature of the social network behind the feedback system and study the affect on trust, trustworthiness, and market efficiency. We find that competition in strangers networks, where market encounters are one-shot and reputation information is communicated through outside parties, improves trust, trustworthiness, and market efficiency. The efficiency advantage that partners networks, where a buyer can maintain a repeated relationship with a seller, have over strangers networks largely vanishes with the introduction of competition. This is because the difference in the pattern of social networking largely disappears. Overall, encouraging competition leads to more effective feedback systems in Internet markets. We discuss implications for trader strategy and Internet market design.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2443">competitive markets</a>,    <a href="/keywords/2444">experimental economics</a>,    <a href="/keywords/2445">feedback systems</a>,    <a href="/keywords/640">information economics</a>,    <a href="/keywords/995">moral hazard</a>,    <a href="/keywords/2446">online markets</a>,    <a href="/keywords/2111">reputation</a>,    <a href="/keywords/2447">signaling theory</a>,    <a href="/keywords/1379">social networks</a>,    <a href="/keywords/1108">trust</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

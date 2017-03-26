@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/57">    Volume 11 Number 4 1995
+</a> pp. 115-148</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Computer Support for Group Work: Perceptions of the Usefulness of Support Scenarios and End-User Tools</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1356">Satzinger, John W</a> and     <a href="/contributors/1202">Olfman, Lorne</a>    </div>
+
+<p>ABSTRACT: Computer support for group work-often called "groupware"--is receiving considerable attention from researchers and system developers. Despite these efforts, not much is really known about user-perceived needs for group support. This study surveyed professional employees and managers about their perceived needs for various types of group work support technologies--support for face-to-face meetings, support for electronic meetings, and support for group work between meetings. One hundred and fifty-three respondents in thirty-four organizations assessed the usefulness of the three support scenarios and a variety of associated software tools to one of their specific work groups. Generally, potential users were quite receptive, although a number of respondents were rather skeptical about computer support for meetings. Overall, support for group work between meetings was perceived to be more useful than either support for face-to-face or electronic meetings, and traditional single-user tools were perceived to be more useful than multiuser group tools. Respondent assessments of the usefulness of support scenarios and tools were partially explained by variables such as attitude toward computers, computer usage intensity, attitude toward group work, number of work groups, and time spent in meetings. Variables related to the specific work group described by the respondent also explained differences respondents in a group with multidepartment membership, multilocation membership, larger size, more formal meetings, and higher between-meeting communication intensity perceived computer support to be more useful. Even though the assessments were based on written descriptions, these results indicate that respondents generally understood the support scenarios and tools. Implications for researchers, system developers, and groupware implementers are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/821">end-user perceived needs</a>,    <a href="/keywords/698">groupware</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/499">group work</a>,    <a href="/keywords/820">technology acceptance model</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

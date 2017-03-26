@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/28">    Volume 18 Number 2 2001
+</a> pp. 107-131</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Forward Versus Spot Buying of Information Goods</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/707">Gundepudi, Pavan,</a>    <a href="/contributors/708">Rudi, Nils,</a> and     <a href="/contributors/83">Seidmann, Abraham</a>    </div>
+
+<p>ABSTRACT: Several information goods, such as movie distribution rights or newspapers, are sold either at spot prices, or through forward subscription buying. Our paper considers a firm that offers an information good through spot buying, forward buying at a reduced price, or a combination of the two. The time lag between forward buying and spot buying brings about an uncertainty in a consumer's reservation price for the good at the time of advance purchase. We propose a consumer decision-making model that captures this fundamental feature and provides interesting insights into the key elements of consumer behavior. We establish that a consumer offered the choice between forward buying and waiting to (possibly) buy the good on spot faces the trade-off between a lower unit price and the value of updated preferences. We also establish that consumers preferring forward buying have a relatively high expectation and low uncertainty in their reservation prices for the good at the time of advance purchase, while those preferring spot buying have a relatively low expectation and high uncertainty in their reservation prices for the good. We apply the model to formulate and analyze the firm's problem when it is either a price taker or a price setter. When the firm is a price taker, the choice is whether to offer the good for only forward buying, only spot buying, or a combination of the two. With an example, we show that when both the spot price and the discount on forward buying are moderate in values, the seller chooses the mixed strategy of offering both forward and spot buying simultaneously. When the firm is a price setter, the goal is to choose the offering(s) and the price level(s). With the example, we show how firms selling information goods can increase their revenues by using a mixed offering strategy with both spot and forward offerings. This strategy lends itself to second-degree price discrimination by the seller when there are groups of customers potentially heterogeneous</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1465">forward buying</a>,    <a href="/keywords/1334">information goods</a>,    <a href="/keywords/1466">spot buying</a>,    <a href="/keywords/1467">subscription</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

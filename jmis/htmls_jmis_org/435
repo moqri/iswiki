@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/1">    Volume 25 Number 1 2008
+</a> pp. 199-232</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Economic Analysis of Policies for the Protection and Reuse of Noncopyrightable Database Contents</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/782">Hongwei, Zhu,</a>    <a href="/contributors/783">Madnick, Stuart E,</a> and     <a href="/contributors/784">Siegel, Michael D</a>    </div>
+
+<p>ABSTRACT: The availability of data on the Web and new data extraction technologies have made it increasingly easy to reuse existing data to create new databases and provide value-added services. Meanwhile, database creators have been seeking legal protection for their data, such as the European Union's Database Directive. The legislative development shows that there is significant difficulty in finding the right balance between protecting the incentives of creating publicly accessible databases (including semistructured Web sites) and preserving adequate access to factual data for value-creating activities. We address this issue using an extended spatial competition model that explicitly considers licensing provisions and inefficiencies in policy administration. The results show that, depending on the cost level of database creation, the degree of differentiation of the reuser database, and the efficiency of policy administration, there are different socially beneficial policy choices, such as protecting a legal monopoly, encouraging competition via compulsory licensing, discouraging voluntary licensing, or even allowing free riding. With the appropriate policy in place, both the creators and the reusers should focus on innovation that can increase the variety of databases and create value from database contents.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2408">database protection</a>,    <a href="/keywords/2409">data reuse</a>,    <a href="/keywords/1799">intellectual property</a>,    <a href="/keywords/2410">noncopyrightable data</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

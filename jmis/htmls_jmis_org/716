@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/8">    Volume 13 Number 2 1996
+</a> pp. 77-113</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Comparison of the Structural Contingency and Risk-Based Perspectives on Coordination in Software-Development Projects</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1182">Nidumolu, Sarma R</a>    </div>
+
+<p>ABSTRACT: This study compares the structural contingency and risk-based perspectives regarding the effects of project coordination and requirements uncertainty on performance dimensions such as process control and product flexibility. The structural contingency perspective suggests that the fit between coordination and requirements uncertainty influences performance, where fit is conceptualized in three ways: mediation, interaction, and profile deviation. The risk-based perspective suggests that performance risk is an alternative mechanism that explains the effect of coordination and uncertainty on process control and product flexibility. A survey methodology based on sixty-four projects from banking and other industries was used to test the two perspectives and their relevant hypotheses. The results suggest lack of support for any of the three approaches to the structural contingency perspective, but some support for the role of software performance risk in explaining performance. In particular, software performance risk seems to mediate the effect of vertical coordination and requirements uncertainty on process control. Horizontal coordination appears to have a direct and unmediated positive effect on product flexibility but is unrelated to either software performance risk or process control. The findings suggest that practitioners could benefit from awareness of the different capabilities provided by the two coordination mechanisms: Vertical coordination enables project managers to bring projects to closure by reducing performance risks and increasing control over the process, whereas horizontal coordination leads to flexible software applications because it allows exploration of ideas and issues.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/955">requirements uncertainty</a>,    <a href="/keywords/956">software project coordination</a>,    <a href="/keywords/957">software project performance</a>,    <a href="/keywords/958">software performance risk</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

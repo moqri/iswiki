@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/7">    Volume 28 Number 4 2012
+</a> pp. 99-128</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Theory-Informed Design and Evaluation of an Advanced Search and Knowledge Mapping System in Nanotechnology</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/431">Dang, Yan,</a>    <a href="/contributors/432">Zhang, Yulei,</a>    <a href="/contributors/433">Chen, Hsinchun,</a>    <a href="/contributors/260">Brown, Susan A,</a>    <a href="/contributors/434">Hu, Paul Jen-Hwa,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: Effective search support is an important tool for helping individuals deal with the problem of information overload. This is particularly true in the field of nanotechnology, where information from patents, grants, and research papers is growing rapidly. Guided by cognitive fit and cognitive load theories, we develop an advanced Web-based system, Nano Mapper, to support users' search and analysis of nanotechnology developments. We perform controlled experiments to evaluate the functions of Nano Mapper. We examine users' search effectiveness, efficiency, and evaluations of system usefulness, ease of use, and satisfaction. Our results demonstrate that Nano Mapper enables more effective and efficient searching, and users consider it to be more useful and easier to use than the benchmark systems. Users are also more satisfied with Nano Mapper and have higher intention to use it in the future. User evaluations of the analysis functions are equally positive.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/961">cognitive fit</a>,    <a href="/keywords/2914">cognitive load</a>,    <a href="/keywords/2054">information system evaluation</a>,    <a href="/keywords/2915">knowledge mapping</a>,    <a href="/keywords/2107">search</a>,    <a href="/keywords/1381">visualization</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

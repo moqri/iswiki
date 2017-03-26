@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/59">    Volume 2 Number 2 1985
+</a> pp. 5-25</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>User Leadership in the Systems Development Life Cycle: A Contingency Model</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/622">Franz, Charles R</a>    </div>
+
+<p>ABSTRACT: The development of an information system requires four main activities that must be carried out during the systems development life cycle (SDLC): feasibility study/analysis, design, technical construction, and implementation. This paper examines the conditions under which information systems (IS) specialists and users should assume responsibility and decision-making authority during the SDLC. A contingency model is presented that recommends the type of responsibility and authority roles that users should assume during the SDLC to minimize the risk and uncertainty inherent in developing computer-based systems. The contingency model developed in this paper builds upon the situational characteristics of information system complexity, is department experience, and user past experience in system development. According to the model, certain system factors and systems development experiences require that the user become involved by exercising heavy responsibility and authority roles, while other situational factors suggest light user leadership. The concept of SDLC leadership as responsibility and authority is developed and its meaning for users during each state of the SDLC is discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/103">systems development life cycle</a>,    <a href="/keywords/104">contingency models</a>,    <a href="/keywords/105">user participation in systems development</a>,    <a href="/keywords/106">MIS management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

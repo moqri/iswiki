@@ -1,0 +1,1107 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/66">    Volume 29 Number 1 2012
+</a> pp. 5-14</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ THE PERFORMANCE OF TEAMS AND PROJECTS is the key to organizational performance. Three papers that open this new volume  of JMIS present the investigations conducted at that level. In the first, Amrit Tiwana studies the effects of peripheral knowledge by the  information technology (IT) and business units on the performance of systems development projects. The first question being asked is:  Under what circumstances do the knowledge of the business domain by the IT unit and the knowledge of IT by the business unit, both costly  to maintain, return the value during projects? The second principal research question is: Through what mechanism does this value return  occur? This theoretically rich work offers nuanced insights into both questions.
+</p>
+<p>
+ The escalation of software projects is, regrettably, not uncommon. Various means are sought to fight the phenomenon. Here, Jong  Seok Lee, Mark Keil, and Vijay Kasi present a study of the effects of the initial budget and schedule on project escalation. The work is rooted  in the goal-setting theory and in the sunk-cost and mental budgeting perspectives, and makes a contribution to these. Both the difficulty and  the specificity of the set out budget and schedule are found to have a significant impact on the ultimate project escalation. Pragmatic  takeaways follow from the well-defined theoretical contribution.
+</p>
+<p>
+ Likoebe M. Maruping and Massimo Magni turn to the user side of work units, to investigate the role of the learning and empowerment  climates in the technology exploration by team members. The authors also pursue an investigation of the gender role in this exploration.  Rather surprisingly, the empirics presented by the authors show that the two types of team climate in their study have opposite effects. The  work clearly opens a new research avenue, as the operative mechanisms and the influence on the team performance need to be further  investigated.
+</p>
+<p>
+ Offshore outsourcing of information systems development is well established both as a common practice and as a research area. And  yet these projects still endemically suffer from underperformance. Improved contracting and project control are therefore sought. To do  that, we need to understand better where this improvement may lie. In the next paper of the issue, Shirish C. Srivastava and Thomson S.H.  Teo offer a theoretically grounded and discriminating study of a large part of the issue. These authors show empirically the joint importance  of contract specificity and the application of an appropriate control governance mechanisms, with both relational and mechanistic  governance being effective under appropriate circumstances.
+</p>
+<p>
+ Occasioned by the events of the recent years, risk studies have gained in stature. A new perspective on the value of IT investment is  gained by taking up this lens. Conducting an event study, Samual Otim, Kevin Dow, Varun Grover, and Jeffrey A. Wong find an association  between the reduction of a firm&#8217;s downside risk and its announcement of a strategic IT investment. Guided by the resource-based view and  real options perspectives, the authors develop a typology of strategic IT investments, and hypothesize their differential effects primarily on  the competitive risk. This important new direction in the IT value studies deserves further and extensive elaboration.
+</p>
+<p>
+ Three further papers in the issue take up e-commerce, using different research methodologies. In the first of these, Mei Lin, Xuqing  Ke, and Andrew B. Whinston apply game-theoretic analysis to determine the role of alternative advertising revenue models in the firms&#8217;  business models. The authors show how the ad-based support of a lower, or zero, price can serve to successfully differentiate a business  model. Moreover, the impressions-based revenue models are found to have a stronger effect than the click-based ones. Aside from their  contribution to theory, the findings have direct implications for the firms seeking to monetize their online offerings.
+</p>
+<p>
+ Co-creation of value by consumers in e-commerce often takes the form of product reviews. Their effects on the transactions and loyalty  of consumers are studied intensely. On the Web, these reviews coexist with the recommendations and representations made by the vendors.  What are the comparative effects of these two sources of recommendations on the purchase intentions? This research question is  addressed by Alexander Benlian, Ryad Titah, and Thomas Hess, who use a survey-based methodology. The authors find that the effects of  the two types of reviews are different---and largely complementary. They affect the consumers&#8217; decisions to buy through different factors,  and their coexistence thus intensifies the impressive inroads of e-tail.
+</p>
+<p>
+ Online virtual worlds, or metaverses, are another emblematic example of co-creation. Their success lies in their continuing use by the  participants. The factors in the intention to continue the use of such a service are therefore worthy of close scrutiny. They receive such an  examination from Zhongyun Zhou, Yulin Fang, Doug Vogel, Xiao-Ling Jin, and Xi Zhang in the context of the prime examplar, Second Life.  These authors find that the intention to continue is based on the combination of affective commitment, as the participants enjoy the play and  the company of other avatars, and of the lock-in effect, as the participants are loath to leave the avatars of others and the world they live in, as  well as their own personalization investment. We may find it pleasing that the present authors find the former factor to be more dispositive.
+</p>
+<p>
+ Zeying Wan, Deborah Compeau, and Nicole Haggerty study empirically the factors that lead to the various positive outcomes of e- learning in organizations. The authors propose a novel dichotomization of self-regulated learning processes and proceed to develop the  measurement scales. In their analysis of the empirics, the researchers show that various factors condition differently the acquisition of  declarative knowledge versus skill development, and the learner satisfaction. Aside from a clear practical value of the results obtained here,  the work contributes to the theory of self-regulation.
+</p>
+<p>
+ The analytic components of customer relationship management (CRM) are an important application of decision support systems  (DSS). The effectiveness of these CRM subsystems in addressing the marketplace rests in the classification of potential customers into  the categories worth addressing with marketing messages. The effectiveness and efficiency combined rest on doing so cost-effectively. In  particular, the customers of high potential lifetime value are to be preferred.The customers likely to reject the offer are to be undersampled.  In the concluding paper of the issue, Geng Cui, Man Leung Wong, and Xiang Wan present a learning algorithm for the DSS that offers  these properties. The authors compare its performance with the other currently available solutions and find it superior.The cost-sensitive  learning algorithm proposed here has the potential to be useful in other contexts as well.
+</p>
+<p>
+ As we start this twenty-ninth JMIS volume, it is my duty and privilege to acknowledge the contribution of our referees, the primary  guarantors of Journal &#8217;s quality. On behalf of our Editorial Board, the thanks go to:
+</p>
+<p>
+ Hyung Jun Ahn
+ <br/>
+ Manju Ahuja
+ <br/>
+ Pervaiz Alam
+ <br/>
+ Muhammad Aljukhadar
+ <br/>
+ Gove Allen
+ <br/>
+ Omar Alnuaimi
+ <br/>
+ Paul Alpar
+ <br/>
+ Kemal Altinkemer
+ <br/>
+ Naveen Amblee
+ <br/>
+ Hayward P. Andres
+ <br/>
+ Corey Angst
+ <br/>
+ Ofer Arazy
+ <br/>
+ Kursad Asdemir
+ <br/>
+ Norman Au
+ <br/>
+ Yoris Au
+ <br/>
+ Benoit A. Aubert
+ <br/>
+ Peter van Baalen
+ <br/>
+ Barbro Back
+ <br/>
+ Akhilesh Bajaj
+ <br/>
+ Dirk Baldwin
+ <br/>
+ Subhajyoti Bandyopadhyay
+ <br/>
+ Gaurav Bansal
+ <br/>
+ Ravi Bapna
+ <br/>
+ Indranil R. Bardhan
+ <br/>
+ Reza Barkhi
+ <br/>
+ Henri Barki
+ <br/>
+ Stuart J. Barnes
+ <br/>
+ Richard Baskerville
+ <br/>
+ Dinesh Batra
+ <br/>
+ Skip Benamati
+ <br/>
+ Michel Benaroch
+ <br/>
+ Raquel Benbunan-Fich
+ <br/>
+ Fran&#231;ois Bergeron
+ <br/>
+ Ganesh Bhatt
+ <br/>
+ Anol Bhattacherjee
+ <br/>
+ Sudip Bhattacharjee
+ <br/>
+ Jesse Bockstedt
+ <br/>
+ Wai Fong Boh
+ <br/>
+ Indranil Bose
+ <br/>
+ Nicola Breugst
+ <br/>
+ Glenn J. Browne
+ <br/>
+ Sebastian Bruque
+ <br/>
+ Scott Buffett
+ <br/>
+ Judee Burgoon
+ <br/>
+ Andrew Burton-Jones
+ <br/>
+ Ashley Bush
+ <br/>
+ Terry A. Byrd
+ <br/>
+ Jinwei Cao
+ <br/>
+ Erran Carmel
+ <br/>
+ Susy Chan
+ <br/>
+ Yolande E. Chan
+ <br/>
+ Hsin-Lu Chang
+ <br/>
+ Mohamed H&#233;di Charki
+ <br/>
+ Patrick Chau
+ <br/>
+ Andrew Chen
+ <br/>
+ Daniel Chen
+ <br/>
+ Hong-Mei Chen
+ <br/>
+ Hsinchun Chen
+ <br/>
+ Jianqing Chen
+ <br/>
+ Jin Chen
+ <br/>
+ Kay-Yut Chen
+ <br/>
+ Kuan Chen
+ <br/>
+ Li Chen
+ <br/>
+ Yuanyuan Chen
+ <br/>
+ Hsing Kenneth Cheng
+ <br/>
+ Mike Cheung
+ <br/>
+ Lei Chi
+ <br/>
+ Robert T.H. Chi
+ <br/>
+ Roger Chiang
+ <br/>
+ Benjamin Chiao
+ <br/>
+ Ananth Chiravuri
+ <br/>
+ Alina M. Chircu
+ <br/>
+ Jong-min Choe
+ <br/>
+ H. Michael Chung
+ <br/>
+ Wingyan Chung
+ <br/>
+ Theodore H. Clark
+ <br/>
+ Randolph Cooper
+ <br/>
+ Kevin Crowston
+ <br/>
+ Dianne Cyr
+ <br/>
+ Qizhi Dai
+ <br/>
+ Yan Dang
+ <br/>
+ Ronald Dattero
+ <br/>
+ Gregory Dawson
+ <br/>
+ Sergio De Cesare
+ <br/>
+ Jason Dedrick
+ <br/>
+ Chrysanthos Dellarocas
+ <br/>
+ Didem Demirhan
+ <br/>
+ Sarv Devaraj
+ <br/>
+ Rajiv M. Dewan
+ <br/>
+ Soussan Djamasbi
+ <br/>
+ Su Dong
+ <br/>
+ Wenjing Duan
+ <br/>
+ Peter Duchessi
+ <br/>
+ Deborah E. Dunkle
+ <br/>
+ Alexandra Durcikova
+ <br/>
+ Kaushik Dutta
+ <br/>
+ Robert Easley
+ <br/>
+ Christophe Elie-Dit-Cosaque
+ <br/>
+ Omar A. El Sawy
+ <br/>
+ Mike Eom
+ <br/>
+ Sean B. Eom
+ <br/>
+ J. Alberto Espinosa
+ <br/>
+ Andrea Everard
+ <br/>
+ Ming Fan
+ <br/>
+ Patrick Fan
+ <br/>
+ Xiaofen Fang
+ <br/>
+ Yulin Fang
+ <br/>
+ Steven Feiner
+ <br/>
+ Jane Feng
+ <br/>
+ Daniel R. Fesenmaier
+ <br/>
+ Eliezer M. Fich
+ <br/>
+ Jerry Fjermestad
+ <br/>
+ Chris Forman
+ <br/>
+ Chiara Francalanci
+ <br/>
+ Mark Fuller
+ <br/>
+ Brent Furneaux
+ <br/>
+ John Gallaugher
+ <br/>
+ Dale Ganley
+ <br/>
+ Gordon Gao
+ <br/>
+ Edward J. Garrity
+ <br/>
+ Judith Gebauer
+ <br/>
+ Andrew Gemino
+ <br/>
+ Michiel van Genuchten
+ <br/>
+ Joey George
+ <br/>
+ Anindya Ghose
+ <br/>
+ Janis L. Gogan
+ <br/>
+ Kim Huat Goh
+ <br/>
+ Thomas Goh
+ <br/>
+ Jahyun Goo
+ <br/>
+ Dale Goodhue
+ <br/>
+ Anand Gopal
+ <br/>
+ Ram D. Gopal
+ <br/>
+ Nelson Granados
+ <br/>
+ Dawn G. Gregg
+ <br/>
+ Ulrike Gretzel
+ <br/>
+ Robert K. Griffin
+ <br/>
+ Michael D. Grigoriades
+ <br/>
+ Bin Gu
+ <br/>
+ Kemal Guler
+ <br/>
+ Ken Guo
+ <br/>
+ Zhiling Guo
+ <br/>
+ Saurabh Gupta
+ <br/>
+ Nicole Haggerty
+ <br/>
+ Jungpil Hahn
+ <br/>
+ Ingoo Han
+ <br/>
+ Kunsoo Han
+ <br/>
+ Paul Hart
+ <br/>
+ Matthias H&#228;sel
+ <br/>
+ Khaled Hassenein
+ <br/>
+ Jun He
+ <br/>
+ Hemantha Herath
+ <br/>
+ Tejaswini Herath
+ <br/>
+ Traci Hess
+ <br/>
+ Alan R. Hevner
+ <br/>
+ Starr Roxanne Hiltz
+ <br/>
+ Oliver Hinz
+ <br/>
+ Richard Hoffman
+ <br/>
+ Weiyin Hong
+ <br/>
+ John A. Hoxmeier
+ <br/>
+ Pei-fang Hsu
+ <br/>
+ Jeffrey Hu
+ <br/>
+ Nan Hu
+ <br/>
+ Paul Hu
+ <br/>
+ Qing Hu
+ <br/>
+ Ming-Hui Huang
+ <br/>
+ Wayne Huang
+ <br/>
+ Kai Lung Hui
+ <br/>
+ Wendy Hui
+ <br/>
+ Ard Huizing
+ <br/>
+ Yujong Hwang
+ <br/>
+ Ghiyong Im
+ <br/>
+ Gretchen I. Irwin
+ <br/>
+ Varghese Jacob
+ <br/>
+ Bharat A. Jain
+ <br/>
+ Radhika Jain
+ <br/>
+ Jeevan Jaisingh
+ <br/>
+ Dietmar Jannach
+ <br/>
+ Matthew Jensen
+ <br/>
+ Anand Jeyaraj
+ <br/>
+ Bao-Jun Jiang
+ <br/>
+ James J. Jiang
+ <br/>
+ Zhengrui Jiang
+ <br/>
+ Alice Johnson
+ <br/>
+ Eric Johnson
+ <br/>
+ Emmanuel Josserand
+ <br/>
+ Surinder Kahai
+ <br/>
+ Ajit Kambil
+ <br/>
+ Arnold Kamis
+ <br/>
+ Atreyi Kankanhalli
+ <br/>
+ Karthik Kannan
+ <br/>
+ P.K. Kannan
+ <br/>
+ Jahangir Karimi
+ <br/>
+ Evangelos Katsamakas
+ <br/>
+ Michael Kattan
+ <br/>
+ Timothy Kayworth
+ <br/>
+ Weiling Ke
+ <br/>
+ William J. Kettinger
+ <br/>
+ Moutaz Khouja
+ <br/>
+ Melody Y. Kiang
+ <br/>
+ SiaSiew Kien
+ <br/>
+ Byung Cho Kim
+ <br/>
+ Young-Gul Kim
+ <br/>
+ Dan J. Kim
+ <br/>
+ Dongmin Kim
+ <br/>
+ Seung Hyun Kim
+ <br/>
+ Ruth King
+ <br/>
+ Rajiv Kishore
+ <br/>
+ Gary Klein
+ <br/>
+ Richard Klein
+ <br/>
+ Cenk Kocas
+ <br/>
+ Chang Koh
+ <br/>
+ Rajiv Kohli
+ <br/>
+ Tobias Kollman
+ <br/>
+ Sherrie Komiak
+ <br/>
+ Praveen K. Kopalle
+ <br/>
+ Marios Koufaris
+ <br/>
+ Kenneth A. Kozar
+ <br/>
+ Ramayya Krishnan
+ <br/>
+ Gillian Ku
+ <br/>
+ Uday Kulkarni
+ <br/>
+ Akhil Kumar
+ <br/>
+ Ram Kumar
+ <br/>
+ Jason Kuruzovich
+ <br/>
+ Atanu Lahiri
+ <br/>
+ Simon S.K. Lam
+ <br/>
+ Guido Lang
+ <br/>
+ Karl R. Lang
+ <br/>
+ Nancy Lankton
+ <br/>
+ Kai R. Larsen
+ <br/>
+ Gwanhoo Lee
+ <br/>
+ Heeseok Lee
+ <br/>
+ Ho Geun Lee
+ <br/>
+ Jungwoo Lee
+ <br/>
+ Matthew Lee
+ <br/>
+ Thomas Lee
+ <br/>
+ Yang Lee
+ <br/>
+ Yen-Hsien Lee
+ <br/>
+ Younghwa (Gabe) Lee
+ <br/>
+ Christine Legner
+ <br/>
+ Jan Marco Leimeister
+ <br/>
+ Natalia Levina
+ <br/>
+ Chen Li
+ <br/>
+ Dahui Li
+ <br/>
+ Jiexun Li
+ <br/>
+ Na Li
+ <br/>
+ Ting Li
+ <br/>
+ Xiaotong Li
+ <br/>
+ Xin Li
+ <br/>
+ XinXin Li
+ <br/>
+ Ting-Peng Liang
+ <br/>
+ Paul Licker
+ <br/>
+ John Lim
+ <br/>
+ Fu-ren Lin
+ <br/>
+ Lihui Lin
+ <br/>
+ Ming Lin
+ <br/>
+ Yihwa Irene Liou
+ <br/>
+ Ying Liu
+ <br/>
+ Yipeng Liu
+ <br/>
+ Alexandre Lopes
+ <br/>
+ Paul B. Lowry
+ <br/>
+ Henry C. Lucas Jr.
+ <br/>
+ Mark Lycett
+ <br/>
+ Jane M. Mackay
+ <br/>
+ Simha R. Magal
+ <br/>
+ Pruthikrai Mahatanankoon
+ <br/>
+ M. Adam Mahmood
+ <br/>
+ Bin Mai
+ <br/>
+ Yogesh Malhotra
+ <br/>
+ Arti Mann
+ <br/>
+ Michael V. Mannino
+ <br/>
+ Ji-Ye Mao
+ <br/>
+ Salvatore T. March
+ <br/>
+ Kent Marett
+ <br/>
+ Likoebe M. Maruping
+ <br/>
+ Jerrold H. May
+ <br/>
+ William McCarthy
+ <br/>
+ Roy McKelvey
+ <br/>
+ Harrison McKnight
+ <br/>
+ Ephraim R. McLean
+ <br/>
+ Nirup Menon
+ <br/>
+ Shaila Miranda
+ <br/>
+ Dinesh Mirchandani
+ <br/>
+ AbhayNath Mishra
+ <br/>
+ Sunil Mithas
+ <br/>
+ Prasenjit Mitra
+ <br/>
+ William Money
+ <br/>
+ Ali R. Montazemi
+ <br/>
+ Ramiro Montealegre
+ <br/>
+ Jolene Morrison
+ <br/>
+ Benjamin Mueller
+ <br/>
+ Michael D. Myers
+ <br/>
+ Peter P. Mykytyn Jr.
+ <br/>
+ Barin N. Nag
+ <br/>
+ Fiona Nah
+ <br/>
+ Derek Nazareth
+ <br/>
+ Matthew Nelson
+ <br/>
+ R. Ryan Nelson
+ <br/>
+ Boon Siong Neo
+ <br/>
+ Derrick Neufeld
+ <br/>
+ Michael Newman
+ <br/>
+ Andreas I. Nicolaou
+ <br/>
+ Ralitza Nikolaeva
+ <br/>
+ Mark Nissen
+ <br/>
+ Dmitri Nizovtsev
+ <br/>
+ Oded Nov
+ <br/>
+ Lih-Bin Oh
+ <br/>
+ Wonseok Oh
+ <br/>
+ Bob O&#8217;Keefe
+ <br/>
+ Lorne Olfman
+ <br/>
+ James Oliver
+ <br/>
+ Benoit Otjacques
+ <br/>
+ Peter Otto
+ <br/>
+ Yasin Ozcelik
+ <br/>
+ Zafer D. Ozdemir
+ <br/>
+ Carl Pacini
+ <br/>
+ Raymond R. Panko
+ <br/>
+ Gautam Pant
+ <br/>
+ Manoj Parameswaran
+ <br/>
+ Michael Parent
+ <br/>
+ Insu Park
+ <br/>
+ Sungjune Park
+ <br/>
+ Craig Parker
+ <br/>
+ Bhavik K. Pathak
+ <br/>
+ Ravi Patnayakuni
+ <br/>
+ Souren Paul
+ <br/>
+ David J. Pauleen
+ <br/>
+ Paul A. Pavlou
+ <br/>
+ Kenneth Peffers
+ <br/>
+ Robin Pennington
+ <br/>
+ Roger A. Pick
+ <br/>
+ Selwyn Piramuthu
+ <br/>
+ Huseyin Polat
+ <br/>
+ Jean-Charles Pomerol
+ <br/>
+ Jaana Porra
+ <br/>
+ Gerald Post
+ <br/>
+ John H. Prager
+ <br/>
+ David Preston
+ <br/>
+ Sandeep Purao
+ <br/>
+ WenGuang Qu
+ <br/>
+ Arik Ragowsky
+ <br/>
+ Rex Kelly Rainer Jr.
+ <br/>
+ Vandana Ramachandran
+ <br/>
+ K. Ramamurthy
+ <br/>
+ Arkalgud Ramaprasad
+ <br/>
+ B. Ramesh
+ <br/>
+ Richard G. Ramirez
+ <br/>
+ H.R. Rao
+ <br/>
+ R. Ravichandran
+ <br/>
+ Gautam Ray
+ <br/>
+ Louis Raymond
+ <br/>
+ Blaize Horner Reich
+ <br/>
+ Bruce Reinig
+ <br/>
+ Yuqing Ren
+ <br/>
+ Paul Resnick
+ <br/>
+ Hyuen-Suk Rhee
+ <br/>
+ William B. Richmond
+ <br/>
+ Christoph Riedl
+ <br/>
+ Lionel Robert
+ <br/>
+ Nicholas Roberts
+ <br/>
+ Daniel Robey
+ <br/>
+ Michael Rogich
+ <br/>
+ Nicholas C. Romano Jr.
+ <br/>
+ Sherry D. Ryan
+ <br/>
+ Young U. Ryu
+ <br/>
+ Khawaja Saeed
+ <br/>
+ Otavio Sanchez
+ <br/>
+ G. Lawrence Sanders
+ <br/>
+ Radhika Santhanam
+ <br/>
+ Pallab Sanyal
+ <br/>
+ Nilesh Saraf
+ <br/>
+ Saonee Sarker
+ <br/>
+ Surendra Sarnikar
+ <br/>
+ Carol Saunders
+ <br/>
+ George Schell
+ <br/>
+ Petra Schubert
+ <br/>
+ Judy Scott
+ <br/>
+ Ravi Sen
+ <br/>
+ Sagnika Sen
+ <br/>
+ Sylvain S&#233;n&#233;cal
+ <br/>
+ Nainika Seth
+ <br/>
+ Vikram Sethi
+ <br/>
+ Theresa M. Shaft
+ <br/>
+ Michael Shaw
+ <br/>
+ Jim Sheffield
+ <br/>
+ Hong Sheng
+ <br/>
+ Morgan M. Shepherd
+ <br/>
+ Michael Shields
+ <br/>
+ Choon Ling Sia
+ <br/>
+ Siew Kien Sia
+ <br/>
+ Keng Siau
+ <br/>
+ Mark Silver
+ <br/>
+ Param Vir Singh
+ <br/>
+ Atish P. Sinha
+ <br/>
+ Sumit Sircar
+ <br/>
+ H. Jeff Smith
+ <br/>
+ Jai-Yeol Son
+ <br/>
+ Jaeki Song
+ <br/>
+ Ryan Sougstad
+ <br/>
+ Scott Spangler
+ <br/>
+ William E. Spangler
+ <br/>
+ Rajendra P. Srivastava
+ <br/>
+ Thomas F. Stafford
+ <br/>
+ Stephen Standifird
+ <br/>
+ Sandy Staples
+ <br/>
+ Eric W. Stein
+ <br/>
+ Dick Stenmark
+ <br/>
+ Theofanis C. Stratopoulos
+ <br/>
+ Diane M. Strong
+ <br/>
+ Besiki Stvilia
+ <br/>
+ Mani Subramani
+ <br/>
+ Chandra Subramaniam
+ <br/>
+ Heshan Sun
+ <br/>
+ Arun Sundararajan
+ <br/>
+ Shankar Sundaresan
+ <br/>
+ Tae Kyung Sung
+ <br/>
+ Ali Tafti
+ <br/>
+ Paul P. Tallon
+ <br/>
+ Vaughn Tan
+ <br/>
+ Yao-Hua Tan
+ <br/>
+ Xinlin Tang
+ <br/>
+ Mohan R. Tanniru
+ <br/>
+ Monideepa Tarafdar
+ <br/>
+ Nolan Taylor
+ <br/>
+ Gary F. Templeton
+ <br/>
+ Hock Hai Teo
+ <br/>
+ Thompson Teo
+ <br/>
+ Jason B. Thatcher
+ <br/>
+ Matthew Thatcher
+ <br/>
+ Dominic Thomas
+ <br/>
+ Ron Thompson
+ <br/>
+ James Y.L. Thong
+ <br/>
+ Leon van der Torre
+ <br/>
+ Gregory E. Truman
+ <br/>
+ Yanbin Tu
+ <br/>
+ Ilkka Tuomi
+ <br/>
+ Ofir Turel
+ <br/>
+ Tuure Tuunanen
+ <br/>
+ N.S. Umanath
+ <br/>
+ Andrew Urbaczewski
+ <br/>
+ Rustam Vahidov
+ <br/>
+ Ganesan Vaidyanathan
+ <br/>
+ Anthony Vance
+ <br/>
+ Viswanath Venkatesh
+ <br/>
+ Goetz Viering
+ <br/>
+ Padmal Vitharana
+ <br/>
+ Radu Vlas
+ <br/>
+ Douglas Vogel
+ <br/>
+ Steven Walczak
+ <br/>
+ Zhiping Walter
+ <br/>
+ Bin Wang
+ <br/>
+ Eric T.G. Wang
+ <br/>
+ Jingguo Wang
+ <br/>
+ Michael S. Wang
+ <br/>
+ Qiu-Hong Wang
+ <br/>
+ Shouhong Wang
+ <br/>
+ Sophia Wang
+ <br/>
+ Weiquan Wang
+ <br/>
+ Yinglei Wang
+ <br/>
+ Y. Richard Wang
+ <br/>
+ Molly Wasko
+ <br/>
+ Mary Beth Watson-Manheim
+ <br/>
+ Sunil Wattal
+ <br/>
+ Thomas Weber
+ <br/>
+ Chih-Ping Wei
+ <br/>
+ Charles E. Wells
+ <br/>
+ John Wells
+ <br/>
+ Larry West
+ <br/>
+ J. Christopher Westland
+ <br/>
+ Jonathan Whitaker
+ <br/>
+ Michael E. Whitman
+ <br/>
+ Jeffrey L. Whitten
+ <br/>
+ George Widmeyer
+ <br/>
+ Rolf Wigand
+ <br/>
+ Fons Wijnhoven
+ <br/>
+ Christopher Wolfe
+ <br/>
+ Charles A. Wood
+ <br/>
+ Hans Wortmann
+ <br/>
+ Ryan Wright
+ <br/>
+ Dazhong Wu
+ <br/>
+ Mu Xia
+ <br/>
+ Weidong Xia
+ <br/>
+ Mingdi Xin
+ <br/>
+ Heng Xu
+ <br/>
+ Hongjiang Xu
+ <br/>
+ Lizhen Xu
+ <br/>
+ Peng Xu
+ <br/>
+ Zhiyong Yang
+ <br/>
+ Oliver Yao
+ <br/>
+ Ulku Yaylacicegi
+ <br/>
+ Byungjoon Yoo
+ <br/>
+ Yufei Yuan
+ <br/>
+ Fatemeh Zahedi
+ <br/>
+ Chun Zeng
+ <br/>
+ Dongsong Zhang
+ <br/>
+ Han Zhang
+ <br/>
+ Jennifer Zhang
+ <br/>
+ John Zhang
+ <br/>
+ Michael Zhang
+ <br/>
+ Ping Zhang
+ <br/>
+ Zuopeng Zhang
+ <br/>
+ Huimin Zhao
+ <br/>
+ Kexin Zhao
+ <br/>
+ J. Leon Zhao
+ <br/>
+ Dmitry Zhdanov
+ <br/>
+ Lina Zhou
+ <br/>
+ Yilu Zhou
+ <br/>
+ Zhongyun Zhou
+ <br/>
+ Hongwei Zhu
+ <br/>
+ Youlong Zhuang
+ <br/>
+ J. Christopher Zimmer
+ <br/>
+ Moshe Zviran
+</p>
+<p>
+ Just as I finished writing this, the sad news of the passing of Paul Gray reached me. I am sure all of us in information systems  share this sadness. Paul was one of the founders and sustainers of our field. His lasting contributions as a scholar, editor, teacher, mentor,  and builder of academic institutions, are manifold and profound. He has made a foundational contribution to the area of decision support.  He founded International Information Systems, a pioneering journal in the recognition of the global aspects of IS; he later led for several  years, with great commitment and success, Communications of the AIS. He established the IS program at Claremont Graduate University,  which flourished into its own school. Beyond and above, Paul was a wonderful man whom very many of us are proud to call a friend. Paul and  Muriel graced our conferences and made them joy and fun. We will always remember Paul Gray. We will have the many fruits of his labor  Paul bequeathed us.
+</p>
+<p>
+ Vladimir Zwass
+ <br/>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

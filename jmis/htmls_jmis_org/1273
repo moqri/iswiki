@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/129">    Volume 32 Number 4 2015
+</a> pp. 215-245</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Robustness of Multiple Indicators in Automated Screening Systems for Deception Detection</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1691">Twyman, Nathan W,</a>    <a href="/contributors/1810">Proudfoot, Jeffrey Gainer,</a>    <a href="/contributors/1811">Schuetzler, Ryan M,</a>    <a href="/contributors/567">Elkins, Aaron C,</a> and     <a href="/contributors/1194">Derrick, Douglas C</a>    </div>
+
+<p>ABSTRACT: 
+<p>This study investigates the effectiveness of an automatic system for detection of deception by individuals with the use of multiple indicators of such potential deception. Deception detection research in the information systems discipline has postulated increased accuracy through a new class of screening systems that automatically conduct interviews and track multiple indicators of deception simultaneously. Understanding the robustness of this new class of systems and the limitations of its theoretical improved performance is important for refinement of the conceptual design. The design science proof-of-concept study presented here implemented and evaluated the robustness of these systems for automated screening for deception detection. A large experiment was used to evaluate the effectiveness of a constructed multiple-indicator system, both under normal conditions and with the presence of common types of countermeasures (mental and physical). The results shed light on the relative strength and robustness of various types of deception indicators within this new context. The findings further suggest the possibility of increased accuracy through the measurement of multiple indicators if classification algorithms can compensate for human attempts to counter effectiveness.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3610">automated screening systems</a>,    <a href="/keywords/3611">deception countermeasures</a>,    <a href="/keywords/1755">deception detection</a>,    <a href="/keywords/2317">design science</a>,    <a href="/keywords/3483">human–computer interaction</a>,    <a href="/keywords/3612">human risk assessment</a>,    <a href="/keywords/3613">human screening</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

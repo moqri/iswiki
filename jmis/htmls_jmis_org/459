@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/111">    Volume 17 Number 3 2000
+</a> pp. 161-177</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Propagation of Technology Management Taxonomies for Evaluating Investments in Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/827">Irani, Zahir</a> and     <a href="/contributors/828">Love, Peter E D</a>    </div>
+
+<p>ABSTRACT: The management of Information Technology (IT) and Information Systems (IS) is considered a complex exercise by academics and practitioners alike. The reason for this is that there are ubiquitous portfolios of tangible and intangible benefits that are offered to an organization following the adoption of IT/IS that, in turn, all need managing to ensure realization. Organizations also have to take into account the direct and often larger indirect costs that are typically associated with IT/IS deployments. To provide managers with a critical insight into the management of new technology, this paper uses a case study research strategy to examine the technology management experiences of a leading U.K. manufacturing organization during its adoption of a vendor-supplied Manufacturing Resource Planning (MRPII) information system. Following the lack of attention given to human and organizational technology management factors while implementing MRPII, the vendor-based information system was later abandoned and deemed a failure. In addressing those technology management factors that were later identified as important, it was found that key employees were able to overcome a number of organizational barriers and develop and implement a bespoke MRPII system that significantly improved the organization's competitive position. Technology management taxonomies that contributed to the failure and later successful implementation of MRPII are identified and discussed. The organization's experiences in solving the problems associated with the implementation of their IS offers a learning opportunity for those companies that are seeking a competitive advantage through technology management.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1387">benefits</a>,    <a href="/keywords/1388">costs</a>,    <a href="/keywords/458">evaluation</a>,    <a href="/keywords/1389">investment</a>,    <a href="/keywords/1390">MRPII</a>,    <a href="/keywords/924">taxonomy</a>,    <a href="/keywords/1391">technology management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

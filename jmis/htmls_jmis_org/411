@@ -1,0 +1,46 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/116">    Volume 20 Number 1 2003
+</a> pp. 301-329</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Identification of Comment Authorship in Anonymous Group Support Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/745">Hayne, Stephen C,</a>    <a href="/contributors/746">Pollard, Carol E,</a> and     <a href="/contributors/747">Rice, Ronald E</a>    </div>
+
+<p>ABSTRACT: This study examines whether technically "anonymous" comments entered by participants during group support system (GSS) brainstorming sessions are, in fact, unidentifiable. Hypotheses are developed and tested about the influences of comment length, comment evaluative tone, duration of group membership, and prior communication among group members on the accuracy of attributions they made about the identity of the authors of these technically anonymous comments. Data on prior communication and group history about each of the 32 small groups was collected before participants began using a GSS for brainstorming. Immediately after the session, each member was asked to attribute authorship to a sample of the session's anonymous comments (comment authorship was known to the researchers). The study's participants made attributions that were significantly more accurate than chance guessing. Factors that had a positive influence on attribution accuracy include evaluative tone of comments (especially humorous comments) and amount of prior communication received from other group members. Vividness of comment tone and comment length was not significantly correlated with attribution accuracy. Although the attributions of anonymous comments were more accurate than expected by chance, most of the attributions were incorrect. Implications and consequences of both accurate and inaccurate attribution are discussed along with suggestions for future research. [ABSTRACT FROM PUBLISHER]
+Copyright of Journal of Management Information Systems is the property of M.E. Sharpe Inc. and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use. This abstract may be abridged. No warranty is given about the accuracy of the copy. Users should refer to the original published version of the material for the full abstract. (Copyright applies to all Abstracts.)</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1085">anonymity</a>,    <a href="/keywords/1138">computer-mediated communication (CMC)</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/1379">social networks</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

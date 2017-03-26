@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/123">    Volume 31 Number 2 2014
+</a> pp. 77-104</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Impact of Buy-Now Features in Pay-per-Bid Auctions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1706">Reiner, Jochen,</a>    <a href="/contributors/1707">Natter, Martin,</a> and     <a href="/contributors/766">Skiera, Bernd</a>    </div>
+
+<p>ABSTRACT: Pay-per-bid auctions require all bidders to pay for every bid. However, paying bidding fees without receiving the auction item in return often causes high dissatisfaction among losers, resulting in heated discussions and high churn rates. To reduce these negative reactions, pay-per-bid auctioneers created the Buy-Now feature, which allows losers to put all or part of the bidding fees that they paid during an auction toward buying the auction item. Using unique data, including individual customer bidding histories and cost data from more than 6,800 pay-per-bid auctions, we find that, overall, the Buy-Now feature leads to more aggressive bidding behavior, attracts more bidders, increases loyalty, and results in a higher profit per auction. However, for voucher auctions that represent common value auctions, the Buy-Now feature causes a decrease in the number of bidders and the profit per auction, although we find an increase in the average number of bids per bidder. We also show theoretically that a bidder can pursue a risk-free bidding strategy. However, we find empirically that bidders rarely use this strategy.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3313">Buy-Now feature</a>,    <a href="/keywords/3314">Buy-Now prices</a>,    <a href="/keywords/1817">electronic auctions</a>,    <a href="/keywords/3315">online marketing</a>,    <a href="/keywords/1481">online retailing</a>,    <a href="/keywords/3316">pay-per-bid auctions</a>,    <a href="/keywords/3317">penny auctions</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

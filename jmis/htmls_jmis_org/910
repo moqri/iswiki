@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/3">    Volume 9 Number 2 1992
+</a> pp. 53-76</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Modeling the Profitability of Customer Relationships: Development and Impact of Barclays de Zoete Wedd&#039;s BEATRICE</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1441">Stuchfield, Nicolas</a> and     <a href="/contributors/393">Weber, Bruce W</a>    </div>
+
+<p>ABSTRACT: Traditional management accounting systems are limited in their ability to provide profitability information relevant to management decisions. The problems of inadequate profitability measurement are intensified in today's business environments, where changing margins due to deregulation and new entrants, new products with unknown costs, and customer sophistication in locating low-cost providers often combine to leave unprepared firms with growing numbers of loss-making client relationships. In response, firms in a number of service and manufacturing industries are experimenting with new methods for measuring performance, and are implementing these techniques using information systems. The collection and analysis of information on the profitability of customer relationships enables managers to identify and defend their most attractive market segments, and to turn loss-making accounts into profitable ones. The London-based securities house, BZW, developed BEATRICE, an innovative information system that combines activity-based accounting principles and a model of customer profitability to make an income assignment to each of the 6,000 trades the firm makes in a day. The system's value is considerable, and can be evaluated by using industry performance benchmarks, and by comparing management decision making using the currently available information with what was possible with previous data.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/571">activity-based accounting</a>,    <a href="/keywords/572">management accounting systems</a>,    <a href="/keywords/573">profitability measurement</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

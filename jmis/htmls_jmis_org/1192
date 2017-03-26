@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/122">    Volume 31 Number 1 2014
+</a> pp. 203-240</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>How Posture-Profile Misalignment in IT Innovation Diminishes Returns: Conceptual Development and Empirical Demonstration</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1695">Fichman, Robert G</a> and     <a href="/contributors/1696">Melville, Nigel P</a>    </div>
+
+<p>ABSTRACT: We conceive of information technology (IT) innovation posture-profile misalignment as a condition that exists when a firm's innovation posture (the extent to which a firm leads with IT innovation) does not match up with its innovation resource profile (the firm's stock of resources conducive to effective innovation). We theorize that firms with a posture-profile misalignment will see diminished returns from IT adoption because they will be less likely to possess (and be less effective at exploiting) crucial innovation resources when they need them most. We demonstrate how misalignment conditions the link between IT innovation adoption and organizational performance using a data set comprising electronic networking technologies in over 25,000 U.S. manufacturing plants. Productivity regression estimations reveal a consistent pattern that the association between IT innovation adoption and productivity is substantially diminished among misaligned firms. These empirical results provide initial confirmation of the theoretical value of innovation posture, innovation resource profile, and innovation posture-profile misalignment. We consider the implications for research on business value and innovation as well as for the practice of management.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/128">innovation</a>,    <a href="/keywords/3281">innovation outcomes</a>,    <a href="/keywords/3282">innovation with information technology</a>,    <a href="/keywords/3283">IT adoption</a>,    <a href="/keywords/3284">IT business value</a>,    <a href="/keywords/3285">IT innovation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

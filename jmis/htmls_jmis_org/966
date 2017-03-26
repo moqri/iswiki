@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/82">    Volume 17 Number 1 2000
+</a> pp. 209-244</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Integration in Electronic Exchange Environments</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1501">Truman, Gregory E</a>    </div>
+
+<p>ABSTRACT: Provided the increasing prevalence of electronic exchange environments--including propriety electronic data interchange (EDI) and some Internet-based EDI (e-commerce) systems--the authors argue that management's decision-making focus vis-a-vis electronic data interchange (EDI) assumes a tactical disposition rather than a strategic one. They offer that the formulation and execution of tactics may be organized around the general question of how to effectively integrate EDI with internal systems, since this appears to be crucial for obtaining the expected performance advantages. They distinguish between two integration concepts, including the integration between the EDI systems and internal systems (interface integration), and the integration among the internal systems (internal integration). Based on theory and literature, they propose that interface integration is favorably related to performance outcomes, and that interface integration and internal integration are positively related. Using data from the Group Insurance industry, they obtain supportive findings. They conclude that tactical EDI planning should centrally focus on interface integration regardless of how intensively management plans to use EDI. They further conclude that management may want to consider internal integration as a risk factor during EDI implementation, because the ability to establish high interface integration may be inhibited or advanced by low or high internal integration, respectively.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1347">e-commerce</a>,    <a href="/keywords/1012">electronic data interchange</a>,    <a href="/keywords/717">electronic integration</a>,    <a href="/keywords/389">interorganizational information systems</a>,    <a href="/keywords/1348">information systems performance</a>,    <a href="/keywords/1298">health-care information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

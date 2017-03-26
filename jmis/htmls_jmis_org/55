@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/42">    Volume 8 Number 3 1991
+</a> pp. 127-150</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Empirical Test of Object-based Output Measurement Metrics in a Computer Aided Software Engineering (CASE) Environment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/118">Banker, Rajiv D,</a>    <a href="/contributors/79">Kauffman, Robert J,</a> and     <a href="/contributors/119">Kumar, Rachna</a>    </div>
+
+<p>ABSTRACT: Existing output measurement metrics for cost estimation and development productivity need to be reexamined to determine their performance in computer-aided software engineering (CASE) development environments. This paper critiques and empirically evaluates four approaches to the measurement of outputs. Two of the metrics, raw function counts and function points, are based on the function point analysis methodology pioneered by Albrecht and Gaffney at IBM. The second two, object counts and object points, are based on a new approachâ€”object points analysisâ€”that is introduced here for the first time. The latter metrics are specialized for output measurement in object-based CASE environments that include a centralized object repository. Estimation results for nineteen large-scale CASE projects show that the new metrics have the potential to yield equally accurate, yet easier to obtain estimates than function points-based measures.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/513">CASE</a>,    <a href="/keywords/443">computer-aided software engineering (CASE)</a>,    <a href="/keywords/514">cost estimation</a>,    <a href="/keywords/515">function point analysis</a>,    <a href="/keywords/516">object-based metrics</a>,    <a href="/keywords/517">object point analysis</a>,    <a href="/keywords/518">productivity measurement</a>,    <a href="/keywords/519">software reuse</a>,    <a href="/keywords/339">software development</a>,    <a href="/keywords/520">software economics</a>,    <a href="/keywords/269">software metrics</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

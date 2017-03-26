@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/25">    Volume 3 Number 4 1987
+</a> pp. 20-38</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Knowledge Management in Organizational Planning</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/56">Applegate, Lynda M,</a>    <a href="/contributors/57">Tsung Teng, Chen,</a>    <a href="/contributors/58">Konsynski, Benn R,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: There is growing recognition that the ability to provide automated support for unstructured decision making within organizations will require the integration of knowledge-based expert system techniques and traditional decision support system architectures. Several knowledge representations are applicable in the specification, management, and communication of knowledge associated with organizational planning, a classic ill-structured problem facing organizations. This paper describes the requirements for knowledge management in organizational planning. A knowledge-based planning system that has been implemented by the authors is presented. The system integrates data management, model management, and process management systems within a group decision support system environment. Knowledge management tools for describing, classifying, and storing the output of the planning process are described. Use of the system in the Management Information Systems (MIS) Planning and Decision Laboratory at the University of Arizona with a group of city planners is discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/144">knowledge bases</a>,    <a href="/keywords/202">knowledge management</a>,    <a href="/keywords/203">knowledge-based management systems</a>,    <a href="/keywords/108">model management systems</a>,    <a href="/keywords/204">organizational planning</a>,    <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/205">planning systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,79 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/7">    Volume 28 Number 4 2012
+</a> pp. 7-10</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Creating Value with Information</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p><p>
+ Every academic discipline has a unique and enduring purpose that sets its boundaries and drives its research. The purpose of psychology is to understand the mechanisms of the human mind. The purpose of economics is to understand the ways in which people allocate resources to satisfy their wants and desires. The purpose of computer science is to improve the efficiency and effectiveness of computer systems. Psychology, economics, and computer science are but three of the many reference disciplines for information systems (IS), each of which contributes great value to our work. Psychology, economics, and technology, however, do not define the purpose or the boundaries of IS as an academic discipline. The unique and enduring purpose of IS that distinguishes it from its reference disciplines is this: To understand and improve the ways people create value with information.
+</p>
+<p>
+ This purpose is foundational assumption for everything we research and everything we teach. It is the raison d&#8217;&#234;tre for every phase of the systems life cycle, and for every observation, theory, experiment, and prototype that emerges from our science. As an academic discipline, we seek to discover, describe, and quantify the benefits stakeholders seek to attain and the detriments they seek to forestall with their systems. We seek to design, build, and test and deploy, operate, and manage systems to realize and maximize that value in a sustained way. Technically, we can declare success when we create a system that gives the stakeholders the value they want. That, however, is only the beginning of possibilities; we can do more. By taking a creative approach to our work, we can provide the stakeholders with value they did not imagine.
+</p>
+<p>
+ Consider, for example, a real case of a resort and casino in the western United States that we will call "Fortunato&#8217;s." The two largest expenses for that industry are (1) gamblers who cheat and (2) slip-and-fall frauds who seek large settlements for pretended injuries. To combat cheating, Fortunato&#8217;s installed cameras that register every bet of every patron in every game. They added a cutting-edge facial recognition system to link each bet to a specific guest. They implemented sophisticated pattern recognition algorithms to flag possible instances of cheating. They used license plate recognition and facial recognition to compare patrons to a database of known cheaters. To forestall slip-and-fall frauds, they installed high-definition video cameras in every public space inside and outside the casino. They developed algorithms that could automatically reconstruct the movements of any specific guest throughout the resort grounds. When a guest filed a lawsuit claiming injury due to negligence, they could replay every moment of the guest&#8217;s visit in chronological order, and so detect and defend against spurious claims. Loss reductions the first year more than covered the cost of the system. One could, therefore, declare victory for the system and move on.
+</p>
+<p>
+ A creative IS professional, however, noticed that the same technology and the same information could be used in other ways to create more value. Analysis showed that more than 80 percent of Fortunato&#8217;s revenue came from the top 2 percent of its customers. With minor adaptations to the system, the security information could be used to significantly improve the customer experience for these elite patrons. Now, the moment a top customer drives onto the property, the license plate and facial recognition systems alert the doorman via wireless headset, "Ms. Smith will be arriving in 30 seconds. She was last here on Tuesday." Inside the casino, the bartender gets a wireless message to mix Ms. Smith&#8217;s favorite cocktail. Her favorite floor manager gets the heads up that she is on her way, and that she has a favorite slot machine. The floor manager goes to the machine and offers the current player a $100 bill to move to a different machine. He then moves to the bar, picks up her drink, and heads to the front door. When Ms. Smith pulls up, the doorman greets her by name, "Hello, Ms. Smith, it&#8217;s nice to have you back. We haven&#8217;t seen you since Tuesday. Oh, look, here comes Rick with your mai tai. He&#8217;ll walk you in to your favorite slot machine. Have a nice stay." Fortunato&#8217;s now derives more profit by using its security information to improve the customer experience than it does by its considerable gains from loss prevention. This is IS thinking at its best: How can we understand and improve the ways people create value with their information?
+</p>
+<p>
+ This Special Section of JMIS brings together a number of papers that contribute to this core purpose of our field. Four of the papers deal with deriving new value from existing information. One of the papers deals with the challenges of transitioning a valuable system into an organization, and one addresses governance of a large-scale multiorganizational system to ensure that it continues to create value equitably for all stakeholders.
+</p>
+<p>
+ In the first Special Section paper, Radu E. Vlas and William N. Robinson demonstrate how informal natural language communications in social media can be automatically analyzed to obtain valuable formalized insights--in this case, system requirements. Their paper, "Two Rule-Based Natural Language Strategies for Requirements Discovery  and Classification in Open Source Software Development Projects," compares two approaches, and finds value in each.
+</p>
+<p>
+ In their paper, "Supporting Agile Organizations with a Decision Guidance Query Language," Alexander Brodsky, Nathan E. Egge, and X. Sean Wang reconceive decision optimization as an inverse of database management reporting. They demonstrate that existing reporting queries can be transformed into mathematical programming formulations that can be efficiently solved. This approach can leverage past investments in database design and implementation and make decision optimization more intuitive. Experiments with prototypes demonstrate that the new approach compares favorably with mathematical programming models generated by human experts.
+</p>
+<p>
+ Dorit Nevo, Izak Benbasat, and Yair Wand examine approaches to expertise location--finding people who have the knowledge and experience to address a particular challenge&#8212;in their paper, "Understanding Technology Support for Organizational Transactive Memory: Requirements, Application, and Customization." The paper examines how transactive memory--shared knowledge about who knows what--can be scaled from small groups, where it emerges without conscious effort, to large organizations, where it must be deliberately created and maintained. The paper takes a holistic view of the factors involved in providing technology support for transactive memory in organizations and explores specific meta-memory approaches used by expertise seekers and how the approaches are used differently in different contexts.
+</p>
+<p>
+ The paper "Theory-Informed Design and Evaluation of an Advanced Search and Knowledge Mapping System in Nanotechnology," by Yan Dang, Yulei Zhang, Hsinchun Chen, Susan A. Brown, Paul Jen-Hwa Hu, and Jay F. Nunamaker Jr., proposes and evaluates a generalizable solution to an important class of problems--information overload during search and retrieval for specific kinds of information in massive data sets like the Worldwide Web. Drawing on cognitive fit and cognitive load theories, the paper develops a knowledge mapping system and demonstrates its efficacy in the domain of nanotechnology, an excellent instance of the problem because of the rapid acceleration of information available from patents, grants, and research papers. The paper validates the solution with controlled experiments to evaluate the functions of an exemplar instance of the solution, a prototype called "Nano Mapper," by evaluating search effectiveness, efficiency, and evaluations of system usefulness, ease of use, and satisfaction.
+</p>
+<p>
+ Gwendolyn L. Kolfschoten, Fred Niederman, Robert O. Briggs, and Gert-Jan de Vreede explore the challenges of transitioning an unfamiliar collaboration system into an organization in their paper, "Facilitation Roles and Responsibilities for Sustained Collaboration Support in Organizations." The paper identifies several types of support the users require to use the technology successfully and analyzes three classes of support tasks: (1) design tasks (e.g., designing work processes and designing the technology to support the processes), (2) application tasks (to apply the process and to use the technology), and (3) management tasks (to monitor and control the process and to oversee the maintenance of the technology). It explores how these tasks are associated with organizational roles, how the tasks can be anchored in organizations, and how task allocation patterns correspond to sustained use of collaboration technology.
+</p>
+<p>
+ The final contribution, "Going Concerns: The Governance of Interorganizational Coordination Hubs," by M. Lynne Markus and Quang "Neo" Bui, explores governance structures for standards-based information technology platforms that are open to use by all qualified members of defined organizational communities, for example, the Visa payment network and the CapWIN public safety information--sharing network. The paper examines five cases and suggests that the governance of interorganizational coordination hubs is not the starkly categorical choice between collective (member owned) and investor-owned forms as suggested by prior theory. Instead, many hybrid arrangements were observed.
+</p>
+<p>
+ The papers in this Special Section were selected from the best papers at the Hawaii International Conference on System Sciences and refereed and revised for this Special Section. Each represents a challenging and interesting perspective. We commend them to your reading.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

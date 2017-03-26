@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/107">    Volume 13 Number 1 1996
+</a> pp. 187-193</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Note on Project Risk and Option Values of Investments in Information Technologies</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/530">Kumar, Ram L</a>    </div>
+
+<p>ABSTRACT: Justification of investments in information technologies is an important research topic in the information systems area. Several approaches have been proposed. One of these highlights the deficiencies of traditional economic justification based on net present value, and proposes the use of techniques based on financial option pricing theory. This paper examines the relationship between project risk and option values of investments in new information technologies and illustrates how this relationship is significantly different from well-known results in the case of financial option pricing. Conditions for determining the desirability of risky projects are derived.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/940">information-system economics</a>,    <a href="/keywords/941">information-technology investments</a>,    <a href="/keywords/942">real options</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

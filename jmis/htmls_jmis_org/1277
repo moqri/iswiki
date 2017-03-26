@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/130">    Volume 33 Number 1 2016
+</a> pp. 296-325</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Impact of Network Structure on Malware Propagation: A Growth Curve Perspective</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/709">Guo, Hong,</a>    <a href="/contributors/1819">Cheng, Hsing Kenneth,</a> and     <a href="/contributors/1820">Kelley, Ken</a>    </div>
+
+<p>ABSTRACT: 
+<p>Malicious software, commonly termed “malware,” continuously presents one of the top security concerns, and causes tremendous worldwide financial losses for organizations. In this paper, we propose a structural risk model to analyze malware propagation dynamics measured by a four-parameter (asymptote, point of inflection, rate, and infection proportion at inflection) growth curve. Using both social network data and technological network infrastructure from a large organization, we estimate the proposed structural risk model based on incident-specific nonlinear growth curves. This paper provides empirical evidence for the explanatory power of the structural characteristics of the underlying networks on malware propagation dynamics. This research provides useful findings for security managers in designing their malware defense strategies. We also simulate three common malware defense strategies (preselected immunization strategies, countermeasure dissemination strategies, and security awareness programs) based on the proposed structural risk model and show that they outperform existing strategies in terms of reducing the size of malware infection.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3410">information systems security</a>,    <a href="/keywords/3625">malware defense</a>,    <a href="/keywords/3626">malware propagation</a>,    <a href="/keywords/3627">malware propagation trajectory</a>,    <a href="/keywords/588">network analysis</a>,    <a href="/keywords/1379">social networks</a>,    <a href="/keywords/3628">technological networks</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/129">    Volume 32 Number 4 2015
+</a> pp. 246-284</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Paradoxes of Word of Mouth in Electronic Commerce</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1812">Lin, Zhijie</a> and     <a href="/contributors/1813">Heng, Cheng-Suang</a>    </div>
+
+<p>ABSTRACT: 
+<p>Challenging conventional wisdom, we unravel three paradoxes of word of mouth (WOM) in e-commerce. Specifically, the WOM valence paradox contends that higher WOM valence of a product results in a larger subsequent decrease in the WOM valence of the product, the WOM volume paradox propounds that higher WOM volume of a product results in a smaller subsequent increase in the WOM volume of the product, and the WOM spillover paradox proposes that an improvement in the WOM of a product also improves the WOM of connected products in a product network. These paradoxes caution online retailers that superior WOM may at times backfire and not boost further sales. Drawing theoretical support from expectation-confirmation theory and network theory, we collect data from China’s largest business-to-consumer platform, Tmall.com, and use linear panel data models to examine WOM evolution in a product network, controlling for relevant factors at the individual product, product network, and time unit levels. Importantly, we base our identification strategies on the use of instrumental variables and the difference-in-differences estimation approach. Numerous statistical checks confirm the robustness and consistency of our findings. We contribute to a much richer theoretical understanding of WOM, by extending the applicability of expectation-confirmation theory and network theory to novel predictions and contexts, adding a dynamic perspective, unveiling three important WOM paradoxes, and offering practical insights.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3614">econometric analysis</a>,    <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/3615">e-tail</a>,    <a href="/keywords/3124">eWOM</a>,    <a href="/keywords/3616">product network</a>,    <a href="/keywords/3617">product review</a>,    <a href="/keywords/2151">word of mouth</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

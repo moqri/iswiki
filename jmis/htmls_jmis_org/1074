@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/103">    Volume 15 Number 4 1999
+</a> pp. 161-185</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Password Security: An Empirical Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1653">Zviran, Moshe</a> and     <a href="/contributors/1654">Haga, William J</a>    </div>
+
+<p>ABSTRACT: Organizations are more dependent than ever on the reliable operation of their information systems, which have become a key to their success and effectiveness. While the growing dependence on information systems creates an urgent need to collect information and make it accessible, the proliferation of computer technology has also spawned opportunities for ill-intentioned individuals to violate the information systems' integrity and validity. One of the most common control mechanisms for authenticating users of computerized information systems is the use of passwords. However, despite the widespread use of passwords, little attention has been given to the characteristics of their actual use. This paper addresses the gap in evaluating the characteristics of real-life passwords and presents the results of an empirical study on password usage. It investigates the core characteristics of user-generated passwords and associations among those characteristics.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1196">access control</a>,    <a href="/keywords/1197">information system security</a>,    <a href="/keywords/1198">passwords</a>,    <a href="/keywords/1199">user authentication</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

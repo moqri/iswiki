@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/3">    Volume 9 Number 2 1992
+</a> pp. 161-178</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Method to Identify Candidates for Knowledge Acquisition</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1426">Stein, Eric W</a>    </div>
+
+<p>ABSTRACT: The purpose of this work is to introduce a systematic method for identifying expertise (knowledge identification). The technique, borrowed from the social sciences and known as network analysis, may be used to identify human experts as well as documented sources of knowledge within organizational settings. Network analysis is simple to administer, cost-effective, and complements interview methods. Following a discussion of the theory underlying the technique, its application in a field setting is demonstrated. The results are checked against what would be expected due to chance, and cross-validated through interviews. To ensure the efficacy of the method, knowledge identification at a second site is briefly described. The work closes with some ideas for future management information systems research using network analysis.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/156">expert systems</a>,    <a href="/keywords/271">knowledge acquisition</a>,    <a href="/keywords/541">knowledge engineering</a>,    <a href="/keywords/587">knowledge identification</a>,    <a href="/keywords/588">network analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

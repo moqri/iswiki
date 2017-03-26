@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/133">    Volume 33 Number 4 2016
+</a> pp. 1008-1033</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Friend Like Me: Modeling Network Formation in a Location-Based Social Network</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1875">Lee, Gene Moo,</a>    <a href="/contributors/1661">Qiu, Liangfei,</a> and     <a href="/contributors/154">Whinston, Andrew B</a>    </div>
+
+<p>ABSTRACT: 
+<p>This article studies the strategic network formation in a location-based social network. We build an empirical model of social link creation that incorporates individual characteristics and pairwise user similarities. Specifically, we define four user proximity measures from biography, geography, mobility, and short messages. To construct proximity from unstructured text information, we build topic models using Latent Dirichlet Allocation. Using Gowalla data with 385,306 users, 3 million locations, and 35 million check-in records, we empirically estimate the model to find evidence on the homophily effect on network formation. To cope with possible endogeneity issues, we use exogenous weather shocks as our instrumental variables and find the empirical results are robust: network formation decisions are significantly affected by our proximity measures.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3757">homophily</a>,    <a href="/keywords/3758">location-based service</a>,    <a href="/keywords/2728">network formation</a>,    <a href="/keywords/1379">social networks</a>,    <a href="/keywords/3759">topic modeling</a>,    <a href="/keywords/3760">user proximity</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

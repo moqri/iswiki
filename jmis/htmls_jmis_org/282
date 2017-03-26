@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/104">    Volume 14 Number 4 1998
+</a> pp. 65-86</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Lessons from the Early Adopters of Web Groupware</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/239">Dennis, Alan R,</a>    <a href="/contributors/497">Pootheri, Sridar K,</a> and     <a href="/contributors/498">Natarajan, Vijaya L</a>    </div>
+
+<p>ABSTRACT: The Internet and World Wide Web hold many possibilities for virtual communities. In this paper we describe the development of a first-generation Web-groupware system called TCBWorks that enables anyone with a Web browser to use groupware. We discuss the design strategy, the overall design, and the technical architecture, and contrast it with other forms of groupware. We then discuss the results of a series of interviews with users in four organizations and a survey of sixty-nine organizations to better understand how organizations are using Web groupware and the advantages and disadvantages they encountered.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/753">adoption of information technology</a>,    <a href="/keywords/698">groupware</a>,    <a href="/keywords/1110">Web groupware</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

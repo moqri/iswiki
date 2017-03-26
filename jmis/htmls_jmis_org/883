@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/93">    Volume 21 Number 3 2004
+</a> pp. 249-280</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Evaluating and Timing Predictive Data Mining Models Using Receiver Operating Characteristic Curves</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/15">Sinha, Atish P</a> and     <a href="/contributors/1402">May, Jerrold H</a>    </div>
+
+<p>ABSTRACT: In this study, we conduct an empirical analysis of the performance of five popular data mining methods--neural networks, logistic regression, linear discriminant analysis, decision trees, and nearest neighbor--on two binary classification problems from the credit evaluation domain. Whereas most studies comparing data mining methods have employed accuracy as a performance measure, we argue that, for problems such as credit evaluation, the focus should be on minimizing misclassification cost. We first generate receiver operating characteristic (ROC) curves for the classifiers and use the area under the curve (AUC) measure to compare aggregate performance of the five methods over the spectrum of decision thresholds. Next, using the ROC results, we propose a method for tuning the classifiers by identifying optimal decision thresholds. We compare the methods based on expected costs across a range of cost-probability ratios. In addition to expected cost and AUC, we evaluate the models on the basis of their generalizability to unseen data, their scalability to other problems in the domain, and their robustness against changes in class distributions. We found that the performance of logistic regression and neural network models was superior under most conditions. In contrast, decision tree and nearest neighbor models yielded higher costs, and were much less generalizable and robust than the other models. An important finding of this research is that the models can be effectively tuned post hoc to make them cost sensitive, even though they were built without incorporating misclassification costs.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1857">binary classification</a>,    <a href="/keywords/1858">credit evaluation</a>,    <a href="/keywords/1207">data mining</a>,    <a href="/keywords/1512">decision analysis</a>,    <a href="/keywords/1859">misclassification costs</a>,    <a href="/keywords/1860">performance evaluation and tuning</a>,    <a href="/keywords/1861">predictive models</a>,    <a href="/keywords/1862">ROC curves</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/126">    Volume 32 Number 1 2015
+</a> pp. 151-191</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Temporal Distance, Communication Patterns, and Task Performance in Teams</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/294">Espinosa, J Alberto,</a>    <a href="/contributors/1769">Nan, Ning,</a> and     <a href="/contributors/293">Carmel, Erran</a>    </div>
+
+<p>ABSTRACT: 
+<p>Drawing on theories on dispersed teamwork, computer-mediated communications, and organizations, we examine the direct associations between temporal distance and team performance as well as the mediating role of team interaction. We tested our research model in a laboratory experiment with four temporal distance conditions. Results show that the direct associations between temporal distance and team performance are substantially diminished when we enter the intervening team communication variables (communication frequency and turn-taking) into the analysis model. We find that communication frequency and turn-taking have differentiated effects on conveyance of information and convergence on its meaning. Conveyance is positively associated with production speed, whereas convergence is positively associated with higher product quality (i.e., accuracy). These findings speak to the theoretical significance of communication patterns and information exchange behaviors in dispersed team research. They also transcend the common wisdom that temporal distance is good for speed and bad for quality.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3480">geographically dispersed teams</a>,    <a href="/keywords/1104">global teams</a>,    <a href="/keywords/1659">team performance</a>,    <a href="/keywords/3481">temporal distance</a>,    <a href="/keywords/3482">time-zone differences</a>,    <a href="/keywords/1109">virtual teams</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

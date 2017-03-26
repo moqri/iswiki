@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/54">    Volume 3 Number 3 1986
+</a> pp. 71-100</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Automated Software Design Methodology Using CAPO</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/900">Karimi, Jahangir</a>    </div>
+
+<p>ABSTRACT: Software design is the process which decomposes a set of requirement specifications into certain basic elements and partitions these decomposed specifications into modules. In this paper, important techniques for the logical design of software and the properties associated with a structured design are analyzed in order to develop a framework for an automated approach to software design. To ensure software quality, a set of matrices is developed to guide the design process and to evaluate the quality of a design for the purpose of comparing different designs. The applicability of the methodology in nonsequential and object-oriented design environments is also discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/187">software design methodologies</a>,    <a href="/keywords/188">structured design</a>,    <a href="/keywords/189">system modularization</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

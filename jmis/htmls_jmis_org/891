@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/12">    Volume 2 Number 1 1985
+</a> pp. 61-76</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Dynamic Systems Development Life-Cycle Approach: A Project Management Information System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/576">Snyder, Charles A</a> and     <a href="/contributors/413">Cox, James F</a>    </div>
+
+<p>ABSTRACT: Numerous firms experience rapid changes in information needs in today's dynamic business environments. Many of the traditional systems development life-cycle (SDLC) approaches to systems design do not provide for incorporating changes to proposed designs during development of the information system. The sequential approach taken with these traditional life-cycle methodologies can lead to the failure of the information system in a volatile situation. This paper examines past SDLC approaches, proposes an approach which incorporates flexibility into the design process and provides an example illustrating the application of the proposed methodology.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/94">information systems analysis</a>,    <a href="/keywords/95">MIS design</a>,    <a href="/keywords/96">dynamic organizational environment</a>,    <a href="/keywords/97">MIS project</a>,    <a href="/keywords/98">system development life cycle</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

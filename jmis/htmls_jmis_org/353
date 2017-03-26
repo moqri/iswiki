@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/47">    Volume 23 Number 2 2006
+</a> pp. 119-147</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Analyzing Complementarities Using Software Stacks for Software Industry Acquisitions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/651">Gao, Lucia Silva</a> and     <a href="/contributors/652">Iyer, Bala</a>    </div>
+
+<p>ABSTRACT: The existence of product complementarities is especially relevant in network-type industries, such as information technology and communications, where systems of complementary components made by different manufacturers have to be assembled. Relying on the characteristics of software markets and drawing on the economic theory of complementarities, this paper investigates how complementarities create value in mergers and acquisitions between software companies. We introduce and empirically validate the software stack as a structure to measure complementarities. In a sample of mergers and acquisitions, in which either the acquirer or the target is a software firm, we find values of abnormal returns consistent with previous results. However, when we use the concept of stack, we find an inverse curvilinear relationship between abnormal returns and the distance between acquirers and targets in various layers of the stack.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2139">complementarities</a>,    <a href="/keywords/2140">empirical methods</a>,    <a href="/keywords/1584">event study</a>,    <a href="/keywords/2141">mergers and acquisitions</a>,    <a href="/keywords/2142">product complementarities</a>,    <a href="/keywords/2143">software stack</a>,    <a href="/keywords/2144">technology firms</a>,    <a href="/keywords/2145">theory development</a>,    <a href="/keywords/2146">value creation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

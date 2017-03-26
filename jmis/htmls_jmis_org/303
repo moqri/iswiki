@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/88">    Volume 12 Number 2 1995
+</a> pp. 37-57</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Capturing Flexibility of Information Technology Infrastructure: A Study of Resource Characteristics and their Measure</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/538">Duncan, Nancy Bogucki</a>    </div>
+
+<p>ABSTRACT: Information technology (IT) infrastructure has been identified in recent years in some businesses as having a critical impact on the firm's ability to use IT competitively. Although a flexible infrastructure is considered highly valuable under certain circumstances, it is difficult to plan and to measure because there is no common, operational definition. This paper addresses the problem at two levels. First, it presents and explores various efforts to define or describe infrastructure flexibility in the literature. It identifies basic components of IT infrastructure and previously proposed characteristics of flexibility. The discussion considers concepts of IT resource management, including technological architecture, alignment of planning, and human resource skills, all of which have also been linked to definitions of infrastructure flexibility. Second, the paper explores how the concept of infrastructure flexibility is viewed among IT executives. The characteristics of infrastructure may vary with firm resources and industry characteristics such as information intensity; consequently, we may expect flexibility to be either developed or thwarted in a great number of ways. An informal study of IT executives' experience with and opinions of infrastructure flexibility results in a view of the practical issues of infrastructure flexibility. Based on the outcome of this study, a framework is presented for developing tools for future efforts to evaluate infrastructure flexibility. Methods by which the framework may be used to develop individualized infrastructure benchmarking tools are proposed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/866">flexibility of information systems</a>,    <a href="/keywords/36">information systems planning</a>,    <a href="/keywords/867">information technology infrastructure</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

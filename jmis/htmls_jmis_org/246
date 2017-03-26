@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/66">    Volume 29 Number 1 2012
+</a> pp. 341-374</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Cost-Sensitive Learning via Priority Sampling to Improve the Return on Marketing and CRM Investment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/424">Cui, Geng,</a>    <a href="/contributors/425">Wong, Man Leung,</a> and     <a href="/contributors/426">Wan, Xiang</a>    </div>
+
+<p>ABSTRACT: Because of the unbalanced class and skewed profit distribution in customer purchase data, the unknown and variant costs of false negative errors are a common problem for predicting the high-value customers in marketing operations. Incorporating cost-sensitive learning into forecasting models can improve the return on investment under resource constraint. This study proposes a cost-sensitive learning algorithm via priority sampling that gives greater weight to the high-value customers. We apply the method to three data sets and compare its performance with that of competing solutions. The results suggest that priority sampling compares favorably with the alternative methods in augmenting profitability. The learning algorithm can be implemented in decision support systems to assist marketing operations and to strengthen the strategic competitiveness of organizations.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2970">cost-sensitive learning</a>,    <a href="/keywords/1406">customer relationship management</a>,    <a href="/keywords/2971">direct marketing</a>,    <a href="/keywords/639">forecasting</a>,    <a href="/keywords/2972">priority sampling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

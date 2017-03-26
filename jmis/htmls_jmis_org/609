@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/104">    Volume 14 Number 4 1998
+</a> pp. 219-237</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Design and Validation of a Hybrid Information System for the Auditor&#039;s Going Concern Decision</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1020">Lenard, Mary Jane,</a>    <a href="/contributors/1021">Madey, Gregory R,</a> and     <a href="/contributors/1022">Alam, Pervaiz</a>    </div>
+
+<p>ABSTRACT: Decision making in a semistructured environment often involves the use of quantitative, structured analysis along with the qualitative judgment of an expert. Decision support systems and expert systems are often developed to assist in this judgment process. The hybrid information system described in this paper combines a statistical model with a rule-based expert system in order to integrate the quantitative and qualitative aspects of decision making. The GC Advisor hybrid system is designed for use by auditors to assess the ability of the client firm to continue as a going concern. The guidelines for expert system validation given in previous literature are then applied to the validation of GC Advisor.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1122">auditor&#039;s going concern assessment</a>,    <a href="/keywords/156">expert systems</a>,    <a href="/keywords/1123">hybrid information systems</a>,    <a href="/keywords/1124">system validation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

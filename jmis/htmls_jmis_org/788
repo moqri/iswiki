@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/82">    Volume 17 Number 1 2000
+</a> pp. 141-165</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Distributing Multimedia Content to Balance Quality Service and Cost</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1277">Purao, Sandeep</a> and     <a href="/contributors/1278">Han, Tae-Dong</a>    </div>
+
+<p>ABSTRACT: An increasing number of computer applications today use multimedia content such as images, sound, and video over distributed networks of computers. Often, a dispersed set of users, with varying demands, requires ongoing access to this content. Effective placement of the multimedia content at different locations/processors thus becomes essential to ensure acceptable quality of service at a reasonable cost. Achieving this requires the consideration of a set of issues quite different from that required for traditional data distribution. These include (a) scale, both in terms of individual objects and in aggregate, (b) importance of form or appearance, making resolution levels an important, controllable variable, and (c) the temporal dimension, placing stringent demands on response time. These concerns make distribution of multimedia content more than a straightforward extension of traditional distribution approaches. The authors develop a model and a supporting approach to facilitate effective distribution of multimedia content, focusing on multimedia applications in corporate intranets. The model consists of multiple criteria to reflect different aspects of quality of service and cost which they formulate by leveraging variance in resolution levels to capture trade-offs among these criteria. Since the multiple-criteria allocation model is NP-complete, they propose a decision support approach that generates locally efficient solutions using designer-specified targets and evaluates them using fuzzy-set-based heuristics. The complete model and the approach have been implemented in a prototype to ensure feasibility. The authors demonstrate use of the prototype for a medical imaging application that illustrates applicability and usefulness of our proposals.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1342">multimedia content</a>,    <a href="/keywords/1343">object distribution</a>,    <a href="/keywords/257">multiple criteria decision making</a>,    <a href="/keywords/1344">fuzzy heuristics</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

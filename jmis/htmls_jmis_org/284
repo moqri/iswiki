@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/23">    Volume 18 Number 3 2001
+</a> pp. 235-257</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Investigating the Moderators of the Group Support Systems Use with Meta-Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/239">Dennis, Alan R</a> and     <a href="/contributors/500">Wixom, Barbara H</a>    </div>
+
+<p>ABSTRACT: This paper presents a meta-analysis that investigates five moderators (task, tool, the type of group, the size of the group, and facilitation) and their influences on the overall effects of group support systems (GSS). Results show that process satisfaction is higher for idea-generation tasks than for decision-making tasks. The GSS tool (that is, the use of level 1 or level 2 GSS) influences decision quality. Level 1 tools support the exchange of information, whereas, level 2 tools are designed to aid in decision-making. Decision quality is higher when using level 2 tools, however, there is no difference in the number of ideas generated when using level 1 or level 2 tools. Decision quality is lower for virtual teams, but there is no difference in the number of ideas generated between virtual teams and face-to-face teams using GSS. Group size is an important moderator when measuring decision time and satisfaction with process. The former is shorter for larger groups, and the latter is higher for larger groups. Process facilitation leads to higher decision quality and higher satisfaction with the process. These results illustrate the importance of examining the moderators of GSS use and the viability of conducting a meta-analysis to investigate a large body of research with seemingly conflicting or equivocal results.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/693">group support systems</a>,    <a href="/keywords/698">groupware</a>,    <a href="/keywords/1508">meta-analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

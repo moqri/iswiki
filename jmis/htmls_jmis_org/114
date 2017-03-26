@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/74">    Volume 9 Number 3 1992
+</a> pp. 71-90</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Whither the Pen-Based Interface?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/239">Dennis, Alan R,</a>    <a href="/contributors/240">Beck, Brenda S,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: This paper reports the results of six experiments to investigate the kinds of applications for which a pen-based interface might be useful, the kinds of users who might adopt pen-based interfaces, and the features or components of the pen-based interface that users find acceptable. The experiments revealed a strong user acceptance of pen-based systems for software navigation and position control across a range of applications, and showed that the responses of current nonusers were very similar to those of experienced users when using pen-based systems. The results also suggest that, contrary to conventional wisdom, handwriting recognition is unlikely to be widely accepted as a direct keyboard substitute for general-purpose computing. The paper discusses alternatives to handwriting recognition for pen-based character input, and ends with a brief discussion of future directions in pen-based interface research.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/594">handwriting recognition</a>,    <a href="/keywords/595">pen-based systems</a>,    <a href="/keywords/596">user acceptance</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

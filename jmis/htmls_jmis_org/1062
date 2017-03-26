@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/43">    Volume 28 Number 2 2011
+</a> pp. 305-334</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>What Motivates Firms to Contribute to Consortium-Based E-Business Standardization?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1640">Zhao, Kexin,</a>    <a href="/contributors/1604">Xia, Mu,</a> and     <a href="/contributors/1370">Shaw, Michael J</a>    </div>
+
+<p>ABSTRACT: E-business standards are a key infrastructure for electronic commerce. In many industries, they are collaboratively developed by firms in an open and neutral industry consortium. It is imperative to understand what drives firms' resource investments in such consortia, as they are critical for the success of e-business standardization. Based on collective action theory, we propose a research model to investigate the drivers of standard development within consortia. We test the model through a data set of 232 firms from 7 consortia. Consistent with collective action theory, our results demonstrate that firms' interests, resource availability, and consortium management effectiveness jointly determine their resource expenditures within the consortium. However, our exploratory investigation indicates differences between vendors and users, as vendors are more motivated by perceived standard benefits whereas users are more motivated by perceived process benefits. Our research provides a deeper understanding of firms' behaviors within consortia and factors driving their standard making.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2859">collective action theory</a>,    <a href="/keywords/2231">e-business standards</a>,    <a href="/keywords/2860">IT vendors</a>,    <a href="/keywords/2861">motivations to contribute</a>,    <a href="/keywords/2232">standard consortia</a>,    <a href="/keywords/2862">user organizations</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

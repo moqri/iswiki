@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/62">    Volume 21 Number 4 2005
+</a> pp. 37-56</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Genetic Programming-Based Discovery of Ranking Functions for Effective Web Search</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1573">Weiguo, Fan,</a>    <a href="/contributors/1574">Gordon, Michael D,</a> and     <a href="/contributors/1575">Pathak, Praveen</a>    </div>
+
+<p>ABSTRACT: Web search engines have become an integral part of the daily life of a knowledge worker, who depends on these search engines to retrieve relevant information from the Web or from the company's vast document databases. Current search engines are very fast in terms of their response time to a user query. But their usefulness to the user in terms of retrieval performance leaves a lot to be desired. Typically, the user has to sift through a lot of nonrelevant documents to get only a few relevant ones for the user's information needs. Ranking functions play a very important role in the search engine retrieval performance. In this paper, we describe a methodology using genetic programming to discover new ranking functions for the Web-based information-seeking task. We exploit the content as well as structural information in the Web documents in the discovery process. The discovery process is carried out for both the ad hoc task and the routing task in retrieval. For either of the retrieval tasks, the retrieval performance of these newly discovered ranking functions has been found to be superior to the performance obtained by well-known ranking strategies in the information retrieval literature.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1869">business intelligence</a>,    <a href="/keywords/886">genetic programming</a>,    <a href="/keywords/1282">information retrieval</a>,    <a href="/keywords/611">machine learning</a>,    <a href="/keywords/1870">ranking function</a>,    <a href="/keywords/1808">search engines</a>,    <a href="/keywords/1533">text mining</a>,    <a href="/keywords/1871">Web mining</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

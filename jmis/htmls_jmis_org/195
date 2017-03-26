@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/8">    Volume 13 Number 2 1996
+</a> pp. 9-28</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Interorganizational Business Process Redesign: Merging Technological and Process Innovation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/389">Clark, Theodore H</a> and     <a href="/contributors/390">Stoddard, Donna B</a>    </div>
+
+<p>ABSTRACT: Interorganizational business process reengineering is a logical extension of discussions of the potential for interorganizational systems to fundamentally redefine relationships among buyers, sellers, and even competitors within an industry. This paper presents a model of the relationship between technological and process innovations and describes the interdependence of these two forces. This model is used to explain the inconsistency in the literature regarding the benefits of EDI and other interorganizational systems, which are described as providing strategic competitive advantage in some papers and as providing little or no benefits for implementing firms in other articles. The framework describes the importance of merging technological and process innovations in order to transform organizations, processes, and relationships.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/943">business process redesign (BPR)</a>,    <a href="/keywords/716">business reengineering</a>,    <a href="/keywords/944">channel transformation</a>,    <a href="/keywords/569">electronic data interchange (EDI)</a>,    <a href="/keywords/665">interorganizational systems</a>,    <a href="/keywords/945">organizational transformation</a>,    <a href="/keywords/946">supply chain management (SCM)</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

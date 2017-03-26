@@ -1,0 +1,1333 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/108">    Volume 24 Number 1 2007
+</a> pp. 5-12</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ The perceptual measures of the impacts of information technology (IT) have long met with mistrust. Reflecting the assumed biases of the general managers assessing the impacts, perceptions are generally considered inferior to the objective indicators of performance. The IT-related perceptual assessments are quite specialized and thus open to another set of doubts. Yet the objective measures are frequently not accessible to researchers, and the subjective assessments can deliver a potentially rich set of metrics, leavened by the insight and experience of the individual managers. In the opening paper of this issue, Paul P. Tallon and Kenneth L. Kraemer deploy the sensemaking theoretical lens to establish empirically just how reliable the corporate executives&#8217; perceptions of IT impacts really are. Within the scope of their investigation, the authors find that these perceptions are quite reliable indeed, on the process and on the firm level. This result will help to enrich the toolbox of our researchers, just as it can give credence to the assessments for the organization&#8217;s own uses, politics permitting. The finding is important for the progress of our field.
+</p>
+<p>
+ Business-to-business electronic marketplaces were a notable set of failures during the close of the Web 1.0 period. This intermediary segment has hardly recovered during the present Web 2.0 stage. A marketplace needs a critical mass of participants. Here, Jai-Yeol Son and Izak Benbasat deploy a dual theoretical perspective to establish the factors that could lead to organizations&#8217; participation in these marketplaces. The authors distinguish among the factors that antecede the initial adoption and those that influence the level of continuing participation. The findings will be of interest to the marketplace builders as well as to the researchers expanding our perspectives on these transformative institutions.
+</p>
+<p>
+ The implementation of enterprise systems is fraught with many a danger and the critical success factors have been studied at length. But those factors do not exert their influence in isolation and the study of their interactions requires a coherent theoretical perspective. Here, Jahangir Karimi, Toni M. Somers, and Anol Bhattacherjee use the approach derived from the innovation diffusion theory to study the circumstances under which the implementation of an enterprise resource planning (ERP) system brings about the desired outcomes for business processes. The results offer a more intricate picture of dependencies than heretofore available.
+</p>
+<p>
+ Geographically distributed software development has been on a steep rise since the advent of the Internet&#8211;Web compound. Coordination of such an effort is a multifaceted challenge. In their paper, J. Alberto Espinosa, Sandra A. Slaughter, Robert E. Kraut, and James D. Herbsleb determine empirically what exactly those facets are. Their approach to the issue is rooted in the study of team cognition as a collective phenomenon. Of course, evolving collective knowledge of a geographically distributed team through several mechanisms analyzed by the authors brings its own challenges. The authors, therefore, offer a set of general propositions concerning the coordination of the team effort, as well as the propositions stemming from work dispersion.
+</p>
+<p>
+ The knowledge-oriented perspective is taken up in the next paper as well. Radhika Santhanam, Larry Seligman, and David Kang study the patterns of knowledge transfers following an information system implementation. In a sense, a system is never fully implemented; it persists in a state of implementation, with modifications accompanied by such knowledge transfers. Specifically, the authors study here the nature of the transfers between the system users and the help-desk IT professionals. Different types of knowledge circulate within these groups and are exchanged between them. The research surfaces a thick set of  knowledge-based interactions and learning processes that require organizational support. The authors find that these implementation-enhancing processes would be endangered in outsourcing of the technical support function.
+</p>
+<p>
+ The last theme is vastly amplified in the next paper of the issue. Dowan Kwon, Wonseok Oh, and Sangyong Jeon study the impact of organizational restructuring (such as a downsizing, for example) on the information-processing networks in the organization. These networks, formed by the people supported by IT, are vital to the enactment of an organization&#8217;s knowledge processes. Basing themselves on the theory of social networks, the authors offer a taxonomy of such networks in an organization and proceed to study through simulation modeling their robustness and efficiency in the event of an organizational restructuring. They find that some of the structures are more stable than others and the efficiency gains, if achieved, differ as well. Even more important, the researchers also tease out the transitional measures for alleviating the ill effects of downsizing on social information&#8211;processing networks in an organization. Wide-ranging implications result both for corporate strategy and for the new methods of future research on the organizational collective knowledge processes.
+</p>
+<p>
+ Open source software (OSS) has changed the nature of competition in software markets (and, beyond that, is changing our understanding of the nature of production in the presence of the Internet&#8211;Web compound, with the multiple capabilities it furnishes). Ravi Sen provides here a strategic analysis of the competition between OSS and proprietary software. The author offers a novel analytical model as a workbench for the study of this competition. By exercising the model, he is able to offer specific, unobvious, and theory-grounded strategic recommendations to software vendors.
+</p>
+<p>
+ IT outsourcing in toto has been an object of intense study in our field. However, outsourcing decisions are frequently taken at the project level. The decision-making process leading to such an outsourcing is targeted here by Amrit Tiwana and Ashley A. Bush. The researchers study the managers&#8217; approach to an outsourcing decision from three theoretical perspectives in order to understand the deeper assumptions these managers work under in their decision making. Moreover, the study encompasses Japanese and U.S. IT managers and offers a rich set of similarities and contrasts in the relative ascriptions of importance to various factors by these two sets. The work surfaces an understanding of the hierarchy of factors in outsourcing decisions and produces pragmatic advice on the governance of outsourced projects that stems from some of these factors.
+</p>
+<p>
+ Monideepa Tarafdar, Qiang Tu, Bhanu S. Ragu-Nathan, and T.S. Ragu-Nathan study the impact of the IT-induced technostress. In an empirical study, the authors trace this form of stress to five factors. They further show how technostress affects the individual&#8217;s role stress and how both of these stress forms sap productivity. Theoretical value of the proposed model is in our deeper understanding of this frequently spoken about, but rarely acted on, form of stress. In practical terms, the authors offer a diagnostic instrument for the evaluation of the degree of stress in the organization, so that appropriate measures can be taken.
+</p>
+<p>
+ Intrusion prevention is an essential security measure in information systems, and thus a measure that underpins organizational operations today. This approach to security goes beyond intrusion detection by detecting and preventing an attack on the information system from taking effect. Intrusion prevention systems can be configured to operate reactively, by sending all the alarms to human analysts, or proactively, by blocking the suspicious traffic. Costs differ and serious organizational consequence may result from a wrong decision. Here, Wei T. Yue and Metin &#199;akanyildirim offer an analytical model to make these decisions, based on the key parameters. Considering the importance of organizational resilience under a great variety of attacks, the model is certain to see further use and refinement.
+</p>
+<p>
+ Opening another, the twenty-fourth, volume of JMIS is an  excellent occasion to express our&#8212;the Editorial Board&#8217;s and mine&#8212;gratitude to our referees, always the primary guarantors of the top-ranked Journal&#8217;s quality. Here are the JMIS referees:
+</p>
+<p>
+ Niv Ahituv
+</p>
+<p>
+ Pervaiz Alam
+</p>
+<p>
+ Gove Allen
+</p>
+<p>
+ Paul Alpar
+</p>
+<p>
+ Donald L. Amoroso
+</p>
+<p>
+ Murugan Anandarajan
+</p>
+<p>
+ Hayward P. Andres
+</p>
+<p>
+ Dorine Andrews
+</p>
+<p>
+ Yoris Au
+</p>
+<p>
+ Benoit A. Aubert
+</p>
+<p>
+ Sulin Ba
+</p>
+<p>
+ Barbro Back
+</p>
+<p>
+ Akhilesh Bajaj
+</p>
+<p>
+ Dirk Baldwin
+</p>
+<p>
+ Subhajyoti Bandyopadhyay
+</p>
+<p>
+ Ravi Bapna
+</p>
+<p>
+ Indranil R. Bardhan
+</p>
+<p>
+ Reza Barkhi
+</p>
+<p>
+ Henri Barki
+</p>
+<p>
+ Stuart J. Barnes
+</p>
+<p>
+ Anitesh Barua
+</p>
+<p>
+ Richard Baskerville
+</p>
+<p>
+ Dinesh Batra
+</p>
+<p>
+ Irma Becerra-Fernandez
+</p>
+<p>
+ Skip Benamati
+</p>
+<p>
+ Michel Benaroch
+</p>
+<p>
+ Raquel Benbunan-Fich
+</p>
+<p>
+ Fran&#231;ois Bergeron
+</p>
+<p>
+ Hemant Bhargava
+</p>
+<p>
+ Anol Bhattacherjee
+</p>
+<p>
+ Sudip Bhattacherjee
+</p>
+<p>
+ Gilbert Bock
+</p>
+<p>
+ Wai Fong Boh
+</p>
+<p>
+ Indranil Bose
+</p>
+<p>
+ Robert M. Brown
+</p>
+<p>
+ Glenn J. Browne
+</p>
+<p>
+ Jacek Brzezinski
+</p>
+<p>
+ Scott Buffett
+</p>
+<p>
+ Kelly Burke
+</p>
+<p>
+ Brian Butler
+</p>
+<p>
+ Terry A. Byrd
+</p>
+<p>
+ Jinwei Cao
+</p>
+<p>
+ Sven Carlsson
+</p>
+<p>
+ William J. Carroll
+</p>
+<p>
+ Hasan Cavusoglu
+</p>
+<p>
+ Susy Chan
+</p>
+<p>
+ Jerry Cha-Jan Chang
+</p>
+<p>
+ Debabroto Chatterjee
+</p>
+<p>
+ Patrick Chau
+</p>
+<p>
+ Ramnath K. Chellappa
+</p>
+<p>
+ Hong-Mei Chen
+</p>
+<p>
+ Kuan Chen
+</p>
+<p>
+ Hsing Kenneth Cheng
+</p>
+<p>
+ Robert T.H. Chi
+</p>
+<p>
+ Roger Chiang
+</p>
+<p>
+ Alina M. Chircu
+</p>
+<p>
+ Jong-min Choe
+</p>
+<p>
+ H. Michael Chung
+</p>
+<p>
+ Wingyan Chung
+</p>
+<p>
+ Theodore H. Clark
+</p>
+<p>
+ Roger Clarke
+</p>
+<p>
+ Randolph Cooper
+</p>
+<p>
+ Qizhi Dai
+</p>
+<p>
+ Ronald Dattero
+</p>
+<p>
+ Sergio De Cesare
+</p>
+<p>
+ Bruce Dehning
+</p>
+<p>
+ Didem Demirhan
+</p>
+<p>
+ Sarv Devaraj
+</p>
+<p>
+ Rajiv M. Dewan
+</p>
+<p>
+ Debabrata Dey
+</p>
+<p>
+ Peter Duchessi
+</p>
+<p>
+ Kaushik Dutta
+</p>
+<p>
+ Omar A. El Sawy
+</p>
+<p>
+ Sean B. Eom
+</p>
+<p>
+ J. Alberto Espinosa
+</p>
+<p>
+ Ming Fan
+</p>
+<p>
+ Xiaofen Fang
+</p>
+<p>
+ Steven Feiner
+</p>
+<p>
+ Eliezer M. Fich
+</p>
+<p>
+ Kirk Fiedler
+</p>
+<p>
+ Edmond P. Fitzgerald
+</p>
+<p>
+ Jerry Fjermestad
+</p>
+<p>
+ Chiara Francalanci
+</p>
+<p>
+ Mark Fuller
+</p>
+<p>
+ Brent Furneaux
+</p>
+<p>
+ Michael R. Galbreth
+</p>
+<p>
+ Dennis Galletta
+</p>
+<p>
+ Michael Gallivan
+</p>
+<p>
+ Dale Ganley
+</p>
+<p>
+ Gordon Gao
+</p>
+<p>
+ Edward J. Garrity
+</p>
+<p>
+ Judith Gebauer
+</p>
+<p>
+ David Gefen
+</p>
+<p>
+ Michiel van Genuchten
+</p>
+<p>
+ Anindya Ghose
+</p>
+<p>
+ Sanjay Goel
+</p>
+<p>
+ Janis L. Gogan
+</p>
+<p>
+ Thomas Goh
+</p>
+<p>
+ Dale Goodhue
+</p>
+<p>
+ Ram D. Gopal
+</p>
+<p>
+ Sanjay Gosain
+</p>
+<p>
+ Peter Gray
+</p>
+<p>
+ Stefano Grazioli
+</p>
+<p>
+ Saul Greenberg
+</p>
+<p>
+ Robert K. Griffin
+</p>
+<p>
+ Michael D. Grigoriades
+</p>
+<p>
+ Bin Gu
+</p>
+<p>
+ Kemal Guler
+</p>
+<p>
+ Alok Gupta
+</p>
+<p>
+ Jungpil Hahn
+</p>
+<p>
+ Barbara Haley
+</p>
+<p>
+ James A. Hall
+</p>
+<p>
+ Ingoo Han
+</p>
+<p>
+ Paul Hart
+</p>
+<p>
+ Stephen Hayne
+</p>
+<p>
+ Alan R. Hevner
+</p>
+<p>
+ Ann Hickey
+</p>
+<p>
+ Starr Roxanne Hiltz
+</p>
+<p>
+ Richard Hoffman
+</p>
+<p>
+ John A. Hoxmeier
+</p>
+<p>
+ Paul Hu
+</p>
+<p>
+ Qing Hu
+</p>
+<p>
+ Ming-Hui Huang
+</p>
+<p>
+ Wayne Huang
+</p>
+<p>
+ Cary Hughes
+</p>
+<p>
+ Kai Lung Hui
+</p>
+<p>
+ Ard Huizing
+</p>
+<p>
+ Ghiyong Im
+</p>
+<p>
+ Zahir Irani
+</p>
+<p>
+ Gretchen I. Irwin
+</p>
+<p>
+ Bala Iyer
+</p>
+<p>
+ Varghese Jacob
+</p>
+<p>
+ Bharat A. Jain
+</p>
+<p>
+ Matthias Jarke
+</p>
+<p>
+ Bao-Jun Jiang
+</p>
+<p>
+ James J. Jiang
+</p>
+<p>
+ Alice Johnson
+</p>
+<p>
+ Linda Ellis Johnson
+</p>
+<p>
+ K.D. Joshi
+</p>
+<p>
+ Surinder Kahai
+</p>
+<p>
+ Timo Kakola
+</p>
+<p>
+ Ajit Kambil
+</p>
+<p>
+ Atreyi Kankanhalli
+</p>
+<p>
+ P.K. Kannan
+</p>
+<p>
+ Jahangir Karimi
+</p>
+<p>
+ Michael Kattan
+</p>
+<p>
+ Timothy Kayworth
+</p>
+<p>
+ Julie E. Kendall
+</p>
+<p>
+ William J. Kettinger
+</p>
+<p>
+ Omar E.M. Khalil
+</p>
+<p>
+ Melody Y. Kiang
+</p>
+<p>
+ Sia Siew Kien
+</p>
+<p>
+ Ruth King
+</p>
+<p>
+ Rajiv Kishore
+</p>
+<p>
+ Gary Klein
+</p>
+<p>
+ Dong-Gil Ko
+</p>
+<p>
+ Cenk Kocas
+</p>
+<p>
+ Chang Koh
+</p>
+<p>
+ Rajiv Kohli
+</p>
+<p>
+ Esther Koster
+</p>
+<p>
+ Marios Koufaris
+</p>
+<p>
+ Kenneth A. Kozar
+</p>
+<p>
+ Kenneth L. Kraemer
+</p>
+<p>
+ Allan Krebs
+</p>
+<p>
+ Ramayya Krishnan
+</p>
+<p>
+ Uday Kulkarni
+</p>
+<p>
+ Akhil Kumar
+</p>
+<p>
+ Ram Kumar
+</p>
+<p>
+ Vineet Kumar
+</p>
+<p>
+ Mary C. Lacity
+</p>
+<p>
+ Atanu Lahiri
+</p>
+<p>
+ Simon S.K. Lam
+</p>
+<p>
+ Karl R. Lang
+</p>
+<p>
+ Tor J. Larsen
+</p>
+<p>
+ Gwanhoo Lee
+</p>
+<p>
+ Heeseok Lee
+</p>
+<p>
+ Ho Geun Lee
+</p>
+<p>
+ Jungwoo Lee
+</p>
+<p>
+ Thomas Lee
+</p>
+<p>
+ Yang Lee
+</p>
+<p>
+ Zoonky Lee
+</p>
+<p>
+ Richard Leifer
+</p>
+<p>
+ Jan Marco Leimeister
+</p>
+<p>
+ Katherine N. Lemon
+</p>
+<p>
+ Mary Jane Lenard
+</p>
+<p>
+ Hugo Levecq
+</p>
+<p>
+ Natalia Levina
+</p>
+<p>
+ Dahui Li
+</p>
+<p>
+ Xiaotong Li
+</p>
+<p>
+ Ting-Peng Liang
+</p>
+<p>
+ Stephen L. Liedtka
+</p>
+<p>
+ John Lim
+</p>
+<p>
+ Kai Lim
+</p>
+<p>
+ Ming Lin
+</p>
+<p>
+ Yihwa Irene Liou
+</p>
+<p>
+ Jacqueline Lipton
+</p>
+<p>
+ Alexandre Lopes
+</p>
+<p>
+ Paul B. Lowry
+</p>
+<p>
+ Henry C. Lucas Jr.
+</p>
+<p>
+ Mark Lycett
+</p>
+<p>
+ Jane M. Mackay
+</p>
+<p>
+ Simha R. Magal
+</p>
+<p>
+ M. Adam Mahmood
+</p>
+<p>
+ Arvind Malhotra
+</p>
+<p>
+ Yogesh Malhotra
+</p>
+<p>
+ Ji-Ye Mao
+</p>
+<p>
+ Salvatore T. March
+</p>
+<p>
+ Nelson Massad
+</p>
+<p>
+ Anne P. Massey
+</p>
+<p>
+ Charles H. Mawhinney
+</p>
+<p>
+ Jerrold H. May
+</p>
+<p>
+ William McCarthy
+</p>
+<p>
+ Roy McKelvey
+</p>
+<p>
+ Ephraim R. McLean
+</p>
+<p>
+ Nigel Melville
+</p>
+<p>
+ Nirup Menon
+</p>
+<p>
+ Shaila Miranda
+</p>
+<p>
+ Rajesh Mirani
+</p>
+<p>
+ Dinesh Mirchandani
+</p>
+<p>
+ Prasenjit Mitra
+</p>
+<p>
+ William Money
+</p>
+<p>
+ Ali R. Montazemi
+</p>
+<p>
+ Ramiro Montealegre
+</p>
+<p>
+ Jolene Morrison
+</p>
+<p>
+ Michael D. Myers
+</p>
+<p>
+ Peter P. Mykytyn Jr.
+</p>
+<p>
+ Barin N. Nag
+</p>
+<p>
+ Murli Nagasundaram
+</p>
+<p>
+ Fiona Nah
+</p>
+<p>
+ R. Ryan Nelson
+</p>
+<p>
+ Boon Siong Neo
+</p>
+<p>
+ Fred Niederman
+</p>
+<p>
+ Mark Nissen
+</p>
+<p>
+ Dmitri Nizovtsev
+</p>
+<p>
+ Rosalie Ocker
+</p>
+<p>
+ Wonseok Oh
+</p>
+<p>
+ Bob O&#8217;Keefe
+</p>
+<p>
+ Lorne Olfman
+</p>
+<p>
+ James Oliver
+</p>
+<p>
+ Carl Pacini
+</p>
+<p>
+ Jonathan W. Palmer
+</p>
+<p>
+ Raymond R. Panko
+</p>
+<p>
+ Manoj Parameswaran
+</p>
+<p>
+ Michael Parent
+</p>
+<p>
+ Jeffrey Parsons
+</p>
+<p>
+ Ravi Patnayakuni
+</p>
+<p>
+ Souren Paul
+</p>
+<p>
+ David J. Pauleen
+</p>
+<p>
+ Paul A. Pavlou
+</p>
+<p>
+ Kenneth Peffers
+</p>
+<p>
+ Robin Pennington
+</p>
+<p>
+ Francis Pereira
+</p>
+<p>
+ Roger A. Pick
+</p>
+<p>
+ Mitzi G. Pitts
+</p>
+<p>
+ Jean-Charles Pomerol
+</p>
+<p>
+ Gerald Post
+</p>
+<p>
+ John H. Prager
+</p>
+<p>
+ G. Premkumar
+</p>
+<p>
+ Sandeep Purao
+</p>
+<p>
+ Jim J. Quan
+</p>
+<p>
+ S. Raghunathan
+</p>
+<p>
+ Arik Ragowsky
+</p>
+<p>
+ T.S. Ragu-Nathan
+</p>
+<p>
+ Arun Rai
+</p>
+<p>
+ Rex Kelly Rainer Jr.
+</p>
+<p>
+ K. Ramamurthy
+</p>
+<p>
+ K.S. Raman
+</p>
+<p>
+ B. Ramesh
+</p>
+<p>
+ Richard G. Ramirez
+</p>
+<p>
+ H.R. Rao
+</p>
+<p>
+ R. Ravichandran
+</p>
+<p>
+ T. Ravichandran
+</p>
+<p>
+ Sury Ravindran
+</p>
+<p>
+ Amy W. Ray
+</p>
+<p>
+ Louis Raymond
+</p>
+<p>
+ Paul Resnick
+</p>
+<p>
+ Hyuen-Suk Rhee
+</p>
+<p>
+ William B. Richmond
+</p>
+<p>
+ Frederick Riggins
+</p>
+<p>
+ Daniel Robey
+</p>
+<p>
+ Nicholas C. Romano Jr.
+</p>
+<p>
+ Sherry D. Ryan
+</p>
+<p>
+ Young U. Ryu
+</p>
+<p>
+ Timo Saarinen
+</p>
+<p>
+ Rajiv Sabherwal
+</p>
+<p>
+ Naveed Saleem
+</p>
+<p>
+ G. Lawrence Sanders
+</p>
+<p>
+ Sunanda Sangwan
+</p>
+<p>
+ Radhika Santhanam
+</p>
+<p>
+ Suprateek Sarker
+</p>
+<p>
+ Surendra Sarnikar
+</p>
+<p>
+ Carol Saunders
+</p>
+<p>
+ George Schell
+</p>
+<p>
+ Petra Schubert
+</p>
+<p>
+ Judy Scott
+</p>
+<p>
+ Larry Seligman
+</p>
+<p>
+ Ravi Sen
+</p>
+<p>
+ Kishore Sengupta
+</p>
+<p>
+ Nainika Seth
+</p>
+<p>
+ Vikram Sethi
+</p>
+<p>
+ Theresa M. Shaft
+</p>
+<p>
+ Michael Shaw
+</p>
+<p>
+ Steven Sheetz
+</p>
+<p>
+ Jim Sheffield
+</p>
+<p>
+ Olivia Sheng
+</p>
+<p>
+ Morgan M. Shepherd
+</p>
+<p>
+ Michael Shields
+</p>
+<p>
+ Siew Kien Sia
+</p>
+<p>
+ Keng Siau
+</p>
+<p>
+ Mark Silver
+</p>
+<p>
+ Atish P. Sinha
+</p>
+<p>
+ Sumit Sircar
+</p>
+<p>
+ H. Jeff Smith
+</p>
+<p>
+ Michael D. Smith
+</p>
+<p>
+ Charles A. Snyder
+</p>
+<p>
+ Toni M. Somers
+</p>
+<p>
+ Jai-Yeol Son
+</p>
+<p>
+ Scott Spangler
+</p>
+<p>
+ William E. Spangler
+</p>
+<p>
+ Valerie K. Spitler
+</p>
+<p>
+ Rajendra P. Srivastava
+</p>
+<p>
+ Thomas F. Stafford
+</p>
+<p>
+ Stephen Standifird
+</p>
+<p>
+ Sandy Staples
+</p>
+<p>
+ Eric W. Stein
+</p>
+<p>
+ Dick Stenmark
+</p>
+<p>
+ Katherine Stewart
+</p>
+<p>
+ Mani Subramani
+</p>
+<p>
+ Girish Subramanian
+</p>
+<p>
+ Ramesh Subramanian
+</p>
+<p>
+ Robert T. Sumichrast
+</p>
+<p>
+ Shankar Sunarajan
+</p>
+<p>
+ Arun Sundararajan
+</p>
+<p>
+ Shankar Sundaresan
+</p>
+<p>
+ Tae Kyung Sung
+</p>
+<p>
+ Roderick I. Swaab
+</p>
+<p>
+ Edward J. Szewczak
+</p>
+<p>
+ Paul P. Tallon
+</p>
+<p>
+ Kar Yan Tam
+</p>
+<p>
+ Sonny Tambe
+</p>
+<p>
+ Bernard C.Y. Tan
+</p>
+<p>
+ Yao-Hua Tan
+</p>
+<p>
+ Qian Candy Tang
+</p>
+<p>
+ Mohan R. Tanniru
+</p>
+<p>
+ Monideepa Tarafdar
+</p>
+<p>
+ Alfred Taudes
+</p>
+<p>
+ Nolan Taylor
+</p>
+<p>
+ David P. Tegarden
+</p>
+<p>
+ Rahul Telang
+</p>
+<p>
+ Gary F. Templeton
+</p>
+<p>
+ James T.C. Teng
+</p>
+<p>
+ Thompson Teo
+</p>
+<p>
+ Jason B. Thatcher
+</p>
+<p>
+ Matthew Thatcher
+</p>
+<p>
+ Ron Thompson
+</p>
+<p>
+ James Y.L. Thong
+</p>
+<p>
+ Amrit Tiwana
+</p>
+<p>
+ Kerem Tomak
+</p>
+<p>
+ Leon van der Torre
+</p>
+<p>
+ Jonathan K. Trower
+</p>
+<p>
+ Gregory E. Truman
+</p>
+<p>
+ Yanbin Tu
+</p>
+<p>
+ Ilkka Tuomi
+</p>
+<p>
+ Brad Tuttle
+</p>
+<p>
+ Tuure Tuunanen
+</p>
+<p>
+ N.S. Umanath
+</p>
+<p>
+ Andrew Urbaczewski
+</p>
+<p>
+ Rustam Vahidov
+</p>
+<p>
+ Vasja Vehovar
+</p>
+<p>
+ Viswanath Venkatesh
+</p>
+<p>
+ Roumen Vragov
+</p>
+<p>
+ Michael Wade
+</p>
+<p>
+ Steven Walczak
+</p>
+<p>
+ Zhiping Walter
+</p>
+<p>
+ Bin Wang
+</p>
+<p>
+ Jingguo Wang
+</p>
+<p>
+ Michael S. Wang
+</p>
+<p>
+ Shouhong Wang
+</p>
+<p>
+ Weiquan Wang
+</p>
+<p>
+ Y. Richard Wang
+</p>
+<p>
+ Molly Wasko
+</p>
+<p>
+ Carol Watson
+</p>
+<p>
+ Mary Beth Watson-Manheim
+</p>
+<p>
+ Thomas Weber
+</p>
+<p>
+ Chih-Ping Wei
+</p>
+<p>
+ Charles E. Wells
+</p>
+<p>
+ John Wells
+</p>
+<p>
+ Larry West
+</p>
+<p>
+ J. Christopher Westland
+</p>
+<p>
+ Seungjin Whang
+</p>
+<p>
+ Michael E. Whitman
+</p>
+<p>
+ Jeffrey L. Whitten
+</p>
+<p>
+ George Widmeyer
+</p>
+<p>
+ Rolf Wigand
+</p>
+<p>
+ Fons Wijnhoven
+</p>
+<p>
+ Christopher Wolfe
+</p>
+<p>
+ Charles A. Wood
+</p>
+<p>
+ Hans Wortmann
+</p>
+<p>
+ D. J. Wu
+</p>
+<p>
+ Mu Xia
+</p>
+<p>
+ Weidong Xia
+</p>
+<p>
+ Christopher Yang
+</p>
+<p>
+ Mun Yi
+</p>
+<p>
+ Byungjoon Yoo
+</p>
+<p>
+ Fatemeh Zahedi
+</p>
+<p>
+ Dongsong Zhang
+</p>
+<p>
+ Han Zhang
+</p>
+<p>
+ Ping Zhang
+</p>
+<p>
+ Zuopeng Zhang
+</p>
+<p>
+ Huimin Zhao
+</p>
+<p>
+ J. Leon Zhao
+</p>
+<p>
+ Lina Zhou
+</p>
+<p>
+ Kevin Zhu
+</p>
+<p>
+ Youlong Zhuang
+</p>
+<p>
+ Ilze Zigurs
+</p>
+<p>
+ Moshe Zviran
+</p>
+<p>
+ Let us now read the papers.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/67">    Volume 5 Number 4 1989
+</a> pp. 33-54</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Toward the Design of Robust Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/562">El Sawy, Omar A</a> and     <a href="/contributors/563">Nanus, Burt</a>    </div>
+
+<p>ABSTRACT: Current design approaches are not focused on yielding computer-based information systems which are robust to rapidly changing environments. The 1990s are bringing with them an increasing inter-organizational locus of information systems, a tighter coupling of information systems to strategic management, and an increasing turbulence of operational environments. In combination, these factors are making robustness under dynamic conditions a key effectiveness requirement of many large computer-based information systems. Coming from a strategic planning perspective, this paper explores the challenge of designing robust information systems and suggests some prescriptive guidelines for improving the process.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/317">robust information systems</a>,    <a href="/keywords/318">information systems design methodology</a>,    <a href="/keywords/319">futures research</a>,    <a href="/keywords/320">information requirements analysis</a>,    <a href="/keywords/321">information systems strategic planning</a>,    <a href="/keywords/322">information systems maintenance</a>,    <a href="/keywords/323">information systems evolution</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

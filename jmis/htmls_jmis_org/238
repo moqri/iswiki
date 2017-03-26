@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/91">    Volume 7 Number 3 1990
+</a> pp. 67-87</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Technology-Process Fit: Perspectives on Achieving Prototyping Effectiveness</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/407">Cooprider, Jay G</a> and     <a href="/contributors/408">Henderson, John C</a>    </div>
+
+<p>ABSTRACT: Prototyping has received a great deal of attention as an important design methodology. Current support technologies for prototyping environments are typically intended to increase the efficiency of the individual system builder. We propose a broader perspective for assessing the impact of support technology on prototyping processes. In developing this perspective, we present frameworks for prototyping processes, support technologies, and development performance. Prototyping is characterized from the behavioral perspectives of individual, social, and organizational processes--each of which must be considered in assessing impacts. Support technology is characterized by production, coordination, and organizational dimensions, each affecting prototyping processes and performance in unique ways. To assess the impacts of the process-technology linkages, measures are suggested for evaluating prototyping processes and products from task, social, and business perspectives. It is proposed that the primary determinant of performance impact is the fit between the prototyping processes and the support technology used. By combining a functional model of support technology with behavioral perspectives of the prototyping process, a better understanding of the impacts of technology on prototyping effectiveness is obtained.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/170">prototyping</a>,    <a href="/keywords/442">software development processes</a>,    <a href="/keywords/443">computer-aided software engineering (CASE)</a>,    <a href="/keywords/444">evaluation of information systems performance</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

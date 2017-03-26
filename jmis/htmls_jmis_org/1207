@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/123">    Volume 31 Number 2 2014
+</a> pp. 319-350</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Relational Contracts, Growth Options, and Heterogeneous Beliefs: A Game-Theoretic Perspective on Information Technology Outsourcing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1036">Li, Xiaotong</a>    </div>
+
+<p>ABSTRACT: More companies have realized that information technology (IT) outsourcing, once viewed as a cost reduction tool, could facilitate and even enable the transformation of their core business processes. The benefits from a potential outsourcing relationship expansion have strategic implications for relational incentive provision. Modeling “information poaching” in IT outsourcing as an incentive problem with contractibility constraints, our analysis shows that this problem could be mitigated in a repeated game where the outsourcing client and the service provider agree on a relational contract. When the two partners share the belief that they can potentially benefit from a future relationship expansion, they are more likely to behave cooperatively during the early stages of their relationship. However, when they disagree about the likelihood of the future relationship expansion, they will have different preferences on a set of otherwise equivalent relational bonus contracts. Specifically, they will adopt a relational contract with large but infrequent bonuses when the client is more optimistic than the service provider about the potential of their relationship. Because these results hold even when the sourcing partners’ beliefs are very close to each other, our analysis sheds fresh light on the issue of equilibrium selection in relational contract theory. In the context of IT outsourcing, the results of this study suggest that, because salient forms of relational bonuses are often not adopted, relational incentive provision is likely more pervasive than what we can observe.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3348">contractibility</a>,    <a href="/keywords/3349">equilibrium selection</a>,    <a href="/keywords/3350">growth options</a>,    <a href="/keywords/3351">heterogeneous beliefs</a>,    <a href="/keywords/3191">IT outsourcing</a>,    <a href="/keywords/3352">outsourcing contracts</a>,    <a href="/keywords/2479">relational contracts</a>,    <a href="/keywords/3353">repeated games</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

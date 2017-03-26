@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/118">    Volume 5 Number 3 1988
+</a> pp. 33-52</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information System Verification and Validation during Requirement Analysis Using Petri Nets</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1345">Sakthivel, S</a> and     <a href="/contributors/17">Tanniru, Mohan R</a>    </div>
+
+<p>ABSTRACT: Requirement analysis is the first step in the development of information systems, and its objective is to ensure that any proposed system meets the projected requirements of the user. As a part of this requirement analysis, an analyst is asked to verify that any proposed system is representationally accurate in deriving the needed information and to validate such a system against the time and resource requirements specified by the user. This article performs both the representational verification and dynamic performance validation by expressing the information system, current or proposed, in the form of a Petri Net and using its structural characteristics to perform a set of static and dynamic checks.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/305">verification of information systems</a>,    <a href="/keywords/306">validation of information systems</a>,    <a href="/keywords/307">system requirement analysis</a>,    <a href="/keywords/308">Petri Nets</a>,    <a href="/keywords/117">system development</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

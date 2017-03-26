@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/61">    Volume 23 Number 1 2006
+</a> pp. 263-292</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>ERP Misfit: Country of Origin and Organizational Factors</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1139">Wang, Eric T G,</a>    <a href="/contributors/860">Klein, Gary,</a> and     <a href="/contributors/859">Jiang, James J</a>    </div>
+
+<p>ABSTRACT: There are many benefits of enterprise resource planning (ERP) systems, but their implementation is both complicated and difficult because the product spans functional silos and involves many internal and external entities. An ERP system is the outcome of social processes, and different ERP systems can embody distinct social arrangements when developed in different cultural contexts. Such social arrangements are difficult to change due the closure effect of technology stabilization. This leads to various misfit problems, both during and after ERP implementation, causing adverse effects on delivered ERP quality. With a survey of 85 ERP implementation cases in Taiwan, this study derives and empirically tests the main as well as the interaction effects of the country of origin of the ERP package, consultant quality, top management support, and user support of the ERP system quality as perceived by the client after implementation. The results demonstrate the important role of the country of origin of the ERP package and consultant quality in configuring a high-quality ERP system and alleviating the negative effect of misfit problems.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2120">consultant quality</a>,    <a href="/keywords/2121">country of origin</a>,    <a href="/keywords/1555">Enterprise Resource Planning</a>,    <a href="/keywords/547">implementation</a>,    <a href="/keywords/2122">misfit</a>,    <a href="/keywords/2123">social shaping</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

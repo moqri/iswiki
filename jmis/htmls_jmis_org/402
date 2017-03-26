@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/86">    Volume 22 Number 1 2005
+</a> pp. 193-221</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Financial Performance, CEO Compensation, and Large-Scale Information Technology Outsourcing Decisions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/727">Hall, James A</a> and     <a href="/contributors/728">Liedtka, Stephen L</a>    </div>
+
+<p>ABSTRACT: The inherent riskiness of large-scale information technology (IT) outsourcing led us to investigate what motivates large-scale IT outsourcing decisions. We employed fixed-effects logistical regressions to examine publicly available data for 51 firms that announced their decisions to outsource all or a large portion of their IT function during the 1993-2001 period. Results suggest that incentives created by CEO stock options and overall compensation mix significantly influence decisions to outsource. We thus provide the first evidence of a relationship between managerial self-interest and IT outsourcing. Additional results suggest that poor overall firm performance, poor cost control, and short-term cash needs also drive large-scale IT outsourcing, but provide no evidence that firms outsource IT to reduce leverage. Overall, we conclude that CEOs consider several personal and firm-level financial factors, including factors unrelated to IT cost and performance, when making large-scale IT outsourcing decisions. Our conclusion has numerous implications regarding long-term IT performance, long-term firm performance. CEO contracting and financial reporting.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1927">CEO compensation</a>,    <a href="/keywords/1928">incentive compensation</a>,    <a href="/keywords/903">information systems outsourcing</a>,    <a href="/keywords/543">information technology outsourcing</a>,    <a href="/keywords/1929">stock options</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

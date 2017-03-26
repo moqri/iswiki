@@ -1,0 +1,105 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/122">    Volume 31 Number 1 2014
+</a> pp. 13-16</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: IT Project Management</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/859">Jiang, James J</a> and     <a href="/contributors/860">Klein, Gary</a>    </div>
+
+<p><p>JAMES J. JIANG is the Fu-Bon Chair Professor, College of Management, National Taiwan University (NTU), Taiwan. Prior to joining NTU he was a distinguished professor of information systems at the Australian National University and professor of information systems at the University of Central Florida. He earned his Ph.D. in information systems from the University of Cincinnati. Dr. Jiang's research interests include IS project and program management and IT service quality. He has published over 160 academic journal articles related to these subjects. He is an associate editor of Information & Management and Journal of the Association for Information Systems and a senior editor of MIS Quarterly.</p>
+<p></p>
+<p>GARY KLEIN is the Couger Professor of Information Systems at the University of Colorado, Colorado Springs. He earned his Ph.D. in management from Purdue University. His research interests include project management, technology transfer, and mathematical modeling, with over 160 academic publications in these areas. He served as Director of Education for the American Society for the Advancement of Project Management, is an active member of the Project Management Institute and the International Project Management Association, and is a Fellow of the Decision Sciences Institute. He serves on the editorial boards of the International Journal of Information Technology Project Management and Information & Management, as a departmental editor for the Project Management Journal, as a senior editor of the Journal of the Association for Information Systems and the Pacific Asia Journal of the Association for Information Systems, and as an associate editor of MIS Quarterly.</p>
+<p></p>
+<p>INFORMATION TECHNOLOGY (IT) MANAGERS IN MANY ORGANIZATIONS recognize the value of project management practices as an effective means to structure tasks to convert resources to new products, develop services for internal and external clients, and implement organizational change. The growth of professional associations reflects the level of emphasis placed on project management by organizations; in particular, these include the Project Management Institute headquartered in the United States and the International Project Management Association headquartered in Switzerland. Together, these organizations have an international membership of over 850,000. These organizations provide standards of practice regarding the behavioral, technical, and contextual dimensions of managing projects with a focus on frameworks, tools, methodologies, and competencies critical to project managers. Each professional society considers the individuals and organizations in both the practice and academic pursuits of developing better managers of projects. The expected state of rapid change and demand for orderly control dictates a future demand for projects and the inherent management of those projects will drive the need for a better understanding of how to prosecute that work.</p>
+<p></p>
+<p>In general, research into project management focuses on the development and merit of techniques to assist the management of projects within organizations. The tools and management practices are then chosen as appropriate for specific projects based on the experiences of an organization and the context of the project underway. Such work results in improvement to methodologies and management practice that indeed have high value to organizations, but fails to consider the theoretical reasons why the techniques may prove successful. In fact, though project management is an established practice, little academic work exists that advances theories of behavior and success for projects, focusing more on the integrated functions [2]. Part of this may be due to the multidisciplinary nature of projects that rely heavily on common management practices but have methods tailored to the specific conditions and constraints of the application context. Researchers can begin to address this lack of general understanding by applying qualitative, quantitative, and design science approaches to examine project management issues and practices from a theoretical perspective, or to contribute by developing theory that explains behavior and success. We need to paint the discipline with a broad brush of understanding rather than continuing to provide a paint-by-numbers canvas. This special issue has two objectives: promote broader perspectives of project management issues in the information systems (IS) context and consider different research approaches to IS project management.</p>
+<p></p>
+<p>A limitation of much of the project management research is treating a project in isolation. Studies into tools, methods, and management practices focus on the success of an individual project, each with well-defined deliverables phased over time and assigned a particular budget. Most ambiguity is removed from single projects by establishing output expectations. Ambiguity enters when the project is considered in a more comprehensive perspective. Completion of one project requires that team members be returned to their functional positions. Ensuring the continuation of talent within an organization means that transitions must be effectively managed. Those delivering project outcomes work to satisfy the conditions and expectations of others through coordination. Effective coordination processes must be established to direct project activities and effectively avoid unpleasant surprises, at all stakeholder levels and across functional boundaries within an organization. Organizations achieve ambitious and ambiguous outcomes by implementing a series of interdependent projects termed "programs." These multiproject implementations may be set up to deliver substantial change in parts of an organization, across the entire organization, or across more than one organization. The three papers in this Special Section consider these complexities of personnel transition, communication, and programs to the IS project orientation.</p>
+<p></p>
+<p>Line Dubé considers the transitions a project team member makes from a temporary project environment back to a traditional role in the IT function of an organization. Applying qualitative research methods, the study reported in "Exploring How IT Professionals Experience Role Transitions at the End of Successful Projects" considers the shock of transition an IS worker experiences upon termination of a project with their return to a traditional role within the organization. Retaining talented IS workers proves difficult for many organizations, and the results of this study may be a strong indication of why individuals will fight or accept the change in roles. Difficulties arise after the change in environment from the project approach to the day-to-day organizational activities, incorporating the project output in a working environment, and the organization's transition management practices, or lack thereof. The propositions present an opportunity to examine this important issue in greater detail and offer insight to IS managers dealing with returning workers.</p>
+<p></p>
+<p>In "Talk Before It's Too Late: Reconsidering the Role of Conversation in Information Systems Project Management," Stefano Mastrogiacomo, Stephanie Missonier, and Riccardo Bonazzi go outside traditional coordination theory to propose a structured design that addresses coordination problems handled during project meetings. They articulate an elaborate solution using abductive reasoning to combine Clark's joint activity theory [1] with project management competency into a coordination process involving project participants. The process is further built into a tool that is examined in experiments to determine the potential of the conceptual model. Project managers reported an increased ability to discover and manage potential coordination problems with the application of the tool. From a research perspective, the theoretical addition of variables such as language, time, intention, and decision processes to our understanding of coordination in IS projects opens up novel avenues of study.</p>
+<p></p>
+<p>Conflict within programs of multiple projects is the topic of "Achieving IT Program Goals with Integrative Conflict Management," by James J. Jiang, Jamie Y.T. Chang, Houn-Gee Chen, Eric T.G. Wang, and Gary Klein. Key barriers to successful IT programs reside in the complex relationships among projects and stakeholders of multiple interdependent projects. The interdependencies create resource limitations, differing and conflicting needs, emergent conditions affecting processes, and elevated ambiguity which can lead to conflict among the project teams. Merging considerations from constructive controversy theory [3] and goal theories yields a conceptual model of how productive conflict resolution can arrive at a reasoned solution to a problem. The resulting model considers agreement on the means to achieve delivery of technology-related business objectives under the unique conditions of programs. A unique, matched sample that includes three key perspectives of projects and programs confirms that determination of means to deliver the technology is a critical aspect in promoting goal commitment and eventually achieving desired business outcomes.</p>
+<p></p>
+<p>We thank the guest editorial team, whose knowledge and effort were invaluable in the completion of this Special Section:</p>
+<p></p>
+<p>Walter Fernandez, The Australian National University</p>
+<p></p>
+<p>Laurie J. Kirsch, University of Pittsburgh</p>
+<p></p>
+<p>Carol Saunders, University of Central Florida</p>
+<p></p>
+<p>Bernard Tan, National University of Singapore</p>
+<p></p>
+<p>Rodney Turner, Europrojex & Université Lille Nord de France</p>
+<p></p>
+<p>Furthermore, the reviewer team, which provided valuable insight and comments on the quality of the papers, included:</p>
+<p></p>
+<p>Mark Haney, Robert Morris University</p>
+<p></p>
+<p>Ola Henfridsson, Viktoria Institute</p>
+<p></p>
+<p>Cheng-Suang Heng, National University of Singapore</p>
+<p></p>
+<p>Jan Holstrom, Aalto University</p>
+<p></p>
+<p>Mark Keil, Georga State University</p>
+<p></p>
+<p>Dong-Gil Ko, University of Cincinnati</p>
+<p></p>
+<p>Loo Geok Pee, Tokyo Institute of Technology</p>
+<p></p>
+<p>Jan Pries-Heje, Roskilde University</p>
+<p></p>
+<p>Siew Kien Sia, Nanyang Technological University</p>
+<p></p>
+<p>Juliana Sutanto, ETH Zurich</p>
+<p></p>
+<p>Chuan-Hoo Tan, City University of Hong Kong</p>
+<p></p>
+<p>Yunjie Xu, Fudan University</p>
+<p></p>
+<p>REFERENCES</p>
+<p></p>
+<p>1. Clark, H.H. Using Language. Cambridge: Cambridge University Press, 1996.</p>
+<p></p>
+<p>2. Hanisch, B., and Wald, A. A project management research framework integrating multiple theoretical perspectives and influencing factors. Project Management Journal, 42, 3 (2011), 4-22.</p>
+<p></p>
+<p>3. Johnson, D.W.; Johnson, R.T.; and Tjosvold, D. Constructive controversy: The value of intellectual opposition. In M. Deutsch and P.T. Coleman (eds.), The Handbook of Conflict Resolution: Theory and Practice. San Francisco: Jossey-Bass, 2000, pp. 65-85.</p>
+</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

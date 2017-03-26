@@ -1,0 +1,69 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/24">    Volume 29 Number 2 2012
+</a> pp. 5-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ COMPETITIVE ACTION IN TODAY'S ECONOMY occurs within multiple layers of networks, from the infrastructure of the Internet, to  social network platforms, to distributed groups of actors, on to the networks of collaborating and competing firms---within a region or  across the world. Information and information products play a crucial role in addressing the marketplaces and in creating value in the  commons. The Special Section that opens this issue of JMIS showcases the research that investigates the interplay of networks and  information in creating value both in the marketplaces and in the commons. The Guest Editors of the Special Section on Information and  Completive Strategy in a Networked Economy, Robert J. Kauffman, Thomas A. Weber, and D.J. Wu, will introduce its papers to you.
+</p>
+<p>
+ Co-creation of marketable (although not necessarily marketed) value by consumers, along with the producers, is occupying ever larger  space in the economic activity surrounding the Internet-Web. Two fundamental activity domains are the autonomous co-creation by  consumers or consumer communities (as, say, in a consumer-review site) and sponsored co-creation, performed by consumers at the  behest of producers. The first paper of the general section, presents a model situated in the latter domain, addressing the sponsored co- creation brainstorming. The model is validated empirically on the data from the two and a half years of the operation of Dell IdeaStorm. The  authors, Li Chen, James R. Marsden, and Zhongju Zhang, determine the factors associated with high contribution levels and with  continuing participation in co-creation. Couching their model within a general taxonomic framework of co-creation, the researchers make  an important contribution to categorical knowledge cumulation in the domain.
+</p>
+<p>
+ The navigability of Web sites is---as we know well---still a challenge to many of them. Perhaps, if we could measure and compare  navigability using objective metrics, we could also improve this necessary characteristic of successful sites. A data-driven approach to  such a metric is presented by Xiao Fang, Paul Jen-Hwa Hu, Michael Chau, Han-fen Hu, Zhuo Yang, and Olivia R. Liu Sheng. The work is  well grounded in information processing theories and offers a method for the calculation of the proposed metrics. Beyond that, the authors  have implemented a prototype system that allowed them to evaluate their method with the participation of users. The theoretical and practical  importance of the work is apparent.
+</p>
+<p>
+ Skillful use of information technology (IT) underlies business process outsourcing (BPO). BPO is---by necessity---grounded in incomplete  contracts, as the contingencies that will impact long-term contracts cannot be foreseen in the face of rapid technological change and  market shifts. Success has to emerge from the governance process as well as from the contract enforcement. In the next paper of the issue,  Arun Rai, Mark Keil, Rob Hornyak, and Kim W&#252;llenweber examine a large number of BPO ventures to understand the influence of the  governance method on the client's satisfaction. Comparing the effects of contractual governance factors to those of relational governance,  the researchers find the partial substitutability of the two sets of factors. However, they also find the dominance of relational factors, notably  trust and the mechanisms for information exchange and conflict resolution.
+</p>
+<p>
+ Two subsequent papers present theory-based empirics related to the IT use in health care. In the first, Corey M. Angst, Sarv Devaraj, and  John D'Arcy investigate the effects of IT-assisted communication on patient care in the cardiology unit of numerous hospitals. The authors  rely on the structure-process-outcome framework, the last component of the triad being conceptualized as mortality, loyalty, and patient  satisfaction. Nuanced results of IT deployment are found, with the cardiology-specific IT exerting a positive impact on the objective  measures of care. However, administrative IT is shown to affect adversely the processes of interpersonal care---confirming the fears of  many physicians. Clearly, much remains to be learned about the effective use of IT in patient care.
+</p>
+<p>
+ Indeed, as the next paper states and as we perceive experientially, the adoption of the patient-facing IT has lagged the use of consumer- facing technology in other sectors of the economy. Aaron Baird, Michael F. Furukawa, and T.S. Raghu present an empirical study of the  factors that can lead to early adoption of Web-based portals by outpatient health care providers. On the theoretical base of diffusion of  innovations, the authors examine the effect of various contingencies and find several nontraditional influences on the adoption process.  Since patient portals lead to continuing co-creation of care, they can have significant impact on health care economics as well as patient  outcomes. The work is thus of practical importance, along with its theoretical contribution to the contingency theory.
+</p>
+<p>
+ To finish on a strong note, the issue brings to you a contribution to our understanding of the IT business value. Nianxin Wang, Huigang  Liang, Weijun Zhong, Yajiong Xue, and Jinghua Xiao dichotomize this value into organizational resource structuring versus capability  building. Seeing resources as primarily tradable assets that are inputs to production, and capabilities as nontradable, embedded abilities to  utilize resources, the authors establish empirically the relative impact of each set. They find that the business value of IT is realized  primarily through resource structuring in stable environments and through capability building in dynamic ones. This result ties well into  contingency theory.
+</p>
+<p>
+ Vladimir Zwass
+ <br/>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

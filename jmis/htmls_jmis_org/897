@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/11">    Volume 15 Number 2 1998
+</a> pp. 199-220</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Enhancing User Understanding in a Decision Support System: A Theoretical Basis and Framework</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1425">Steiger, David M</a>    </div>
+
+<p>ABSTRACT: The primary purpose of decision support systems (DSS) is to help the decision maker develop an understanding of the ill-structured, complex environment represented by the model. This paper concentrates on understanding the modeled environment through model analysis. Specifically, the purpose of this paper is to propose a framework for model analysis based on Perkins's theory of understanding and its basic premise (knowledge as design) and basic components (purpose, models, and arguments). This framework encourages enhanced user understanding in a DSS via the synergistic combination and integration of: (1) cognitive science (theory of understanding), (2) artificial intelligence (machine learning, knowledge extraction, and expert systems), (3) model analysis (deductive and inductive), and (4) DSS (model management, instance management, and knowledge-base management).</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/252">artificial intelligence</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/1170">design theory</a>,    <a href="/keywords/1171">model analysis</a>,    <a href="/keywords/108">model management systems</a>,    <a href="/keywords/1172">post-optimality analysis</a>,    <a href="/keywords/1173">sensitivity analysis</a>,    <a href="/keywords/1174">theory of understanding</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

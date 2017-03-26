@@ -1,0 +1,56 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/124">    Volume 31 Number 3 2014
+</a> pp. 4-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: IT-Enabled Social and Economic Transitions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K,</a>    <a href="/contributors/79">Kauffman, Robert J,</a> and     <a href="/contributors/398">Weber, Thomas A</a>    </div>
+
+<p><p>ERIC K. CLEMONS is a professor of operations and information management at the Wharton School of the University of Pennsylvania. His education includes an S.B. in physics from MIT, and an M.S. and Ph.D. in operations research from Cornell University. His research for the past thirty years has involved the systematic study of the transformational effects of information on the strategy and practice of business. He was among the first scholars to study online global securities trading, business process outsourcing, channel conflict and e-commerce, and the effect of information on product proliferation and the transformation of consumer behavior in these new market places. More recently, he has been studying blogging and social media, cloud computing and cloud computing standards, and the challenges of applying current antitrust law to online business models. Clemons is the founder and project director for the Wharton School’s Sponsored Research Project on Information: Strategy and Economics within the Program for Global Strategy and Knowledge Intensive Organizations. He has held appointments at Wharton, the Harvard Business School, Cornell University, Hong Kong University of Science and Technology, and Peking University Law School. He has published over 100 scholarly articles and regularly comments online in Huffington Post, Business Insider, and Tech Crunch.</p><p>ROBERT J. KAUFFMAN is a professor of information systems at the School of Information Systems, Singapore Management University, where he was the Lee Kuan Yew Faculty Fellow for Research Excellence in 2011 and 2012. He also serves as associate dean (research) and deputy director of the Living Analytics Research Centre. He was recently a distinguished visiting fellow at the Center for Digital Strategies of the Tuck School of Business, Dartmouth College. Kauffman’s research focuses on technology and strategy, the economics of IT, technology in financial services and e-business, managerial decision making, and innovations in research methods. His work has appeared in Information Systems Research, Journal of Management Information Systems, MIS Quarterly, Telecommunications Policy, IBM Research and Development Journal, Decision Support Systems, Managerial Decisions and Economics, Management Science, Review of Economics and Statistics, and Operations Research Letters.</p><p>THOMAS A. WEBER holds the Chair of Operations, Economics and Strategy at the Management of Technology and Entrepreneurship Institute at the Swiss Federal Institute of Technology in Lausanne (EPFL). Earlier, he was a faculty member at Stanford University. Weber is an Ingénieur des Arts et Manufactures (École Centrale Paris) and a Diplom-Ingenieur in electrical engineering (Technical University Aachen). He holds master’s degrees in technology and policy and electrical engineering and computer science from MIT and a Ph.D. from the Wharton School. He has been a visiting faculty member in economics at Cambridge University and in mathematics at Moscow State University. He has also served as a senior consultant with the Boston Consulting Group. His current research interests include the economics of information and uncertainty, the design of contracts, and strategy. Weber’s articles have appeared in American Economic Journal: Microeconomics, Information Systems Research, Decision Support Systems, Economics Letters, Economic Theory, Journal of Environmental Economics and Management, Journal of Mathematical Economics, Journal of Regulatory Economics, Journal of Economic Dynamics and Control, Operations Research, Theory and Decision, and other journals. He is the author of Optimal Control Theory with Applications in Economics (MIT Press, 2011).</p>
+<p>The economic and strategic issues surrounding information technology have become relevant to society at large. They tend to have a wider reach, often touching the very fabric of society. What used to be appropriately delimited as “e-commerce” or “e-business” is now merely “commerce” or “business.” Information technology is breaking out of its traditional confines, as its pervasive impact is being felt at a societal level. The articles included in this Special Section reflect this broadened perspective, both empirically and theoretically, by addressing the diffusion of information technology in healthcare, a legacy domain at the core of society, and by examining the inner workings of an emerging sharing economy, which is set to supersede the traditional ownership economy.</p>
+<p>The first paper, “Healthcare IT Adoption: An Analysis of Knowledge Transfer in Socioeconomic Networks,” by Gang Peng, Debabrata Dey, and Atanu Lahiri, takes a network perspective to explain the diffusion of healthcare information technology (HIT). The key idea is that hospitals do not influence each other’s technology-adoption decisions merely by social contagion across a network of peers, but that the specifics of the mechanism for knowledge transfer are important. A better understanding of the diffusion process can be obtained by taking into account how effective hospitals are either in communicating ideas (disseminative capacity) or in assimilating them (absorptive capacity). The authors bring the idea of networks to the theory of knowledge transfer and the idea of absorptive and disseminative capacities to the theory of social contagion. As a result, adoption is not a simple numbers game as contagion makes it out to be at first sight, but depends, for example, on the degree of similarity between organizations. More broadly, the idea is that the existence of a technology may be viewed as the product of a nexus of specific relationships and resulting decisions, similar to how a firm has been famously likened to a nexus of contracts [2], which transcends the early idea that an organization and its performance rely primarily on its internal hierarchy [1]. The presence of a technology, in this instance HIT, is as much a product of internal decisions as it is the result of heterogeneous interactions across an enveloping network of organizations, in this case hospitals. Thus for society, the view of the whole (network of agents) matters at least as much as the view of the individual (organization).</p>
+<p>The second paper, “Intermediation in a Sharing Economy: Insurance, Moral Hazard, and Rent Extraction,” by Thomas A. Weber, provides an explanation of how intermediation has helped to make the sharing of valuable physical assets viable in an economy that used to depend on ownership. The author argues that lack of sharing is likely due to a market failure caused by moral hazard, since this moral hazard produces an extreme sense of risk avoidance in the assets’ owners. Before an individual can be expected to willingly share a valuable asset—such as his home—with a stranger, the liability issues relating to potential damage and excessive degradation need to be resolved. Under the assumption that all participants in the market are risk neutral, the author shows that an intermediary can successfully resolve the moral hazard issue by asking the renter to post an appropriate deposit, and applying a surcharge to the renter/guest in the case of a damage as well as slightly overcompensating the host in such an event. The former internalizes the damage considerations in the renter’s decision problem, and the latter eliminates the hosts’ concerns about small damages that may not be claimed. With optimal insurance terms in place, the intermediary can consider the issue of rent extraction separately. How much surplus ends up in the intermediary’s pocket as opposed to the host’s depends only on how easy, or rather how difficult, it would be to match and transact directly between renters and hosts. The results illustrate how intelligent market design can overcome hurdles and enable gains from trade. The insights, elaborated for the specifics of short-term peer-to-peer sharing of accommodation, are broadly applicable to the collaborative consumption of durables. A key enabling factor for the intermediaries is the availability of information technology, which is therefore instrumental in a general transition to the collaborative use of assets. Party supply rental companies and tool rental companies have existed for some time, and Zipcar and Condo timeshares accomplish similar things for the most expensive durables, but the vast majority of physical assets are individually owned and until recently have not been shareable. The value for society includes a higher utilization and better allocation of resources in the economy.</p>
+
+<p>Acknowledgments</p>
+<p>The guest editors express their gratitude to Kim Huat Goh and Zhiling Guo for their help in putting together this Special Section.</p>
+
+<p>References</p>
+<p id="CIT0001">1.Coase, R.H. The nature of the firm. Economica, 4, 16 (November 1937), 386–405.</p>
+<p id="CIT0002">2.Jensen, M.C., and Meckling, W.H. Theory of the firm: Managerial behavior. Journal of Financial Economics, 3, 4 (October 1976), 305–360.</p>
+
+</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

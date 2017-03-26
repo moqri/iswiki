@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/46">    Volume 21 Number 2 2004
+</a> pp. 201-227</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Computing as Utility: Managing Availability, Commitment, and Pricing Through Contingent Bid Auctions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/191">Bhargava, Hemant K</a> and     <a href="/contributors/193">Sundaresan, Shankar</a>    </div>
+
+<p>ABSTRACT: Enabled by advances in grid and network computing architectures for the delivery of on-demand computing services, the vision of an e-services economy in which computing will be as ubiquitous as a utility is becoming a possibility in business computing. Major firms in the computing industry such as IBM, Hewlett-Packard, and Sun Microsystems are focusing on agility and flexibility of computing resources and gearing up for their own versions of on-demand computing and information technology (IT) outsourcing solutions. The successful introduction of these new computing models requires the development of appropriate pricing mechanisms that are consistent with the enabling technologies. Our paper introduces the notion of contingent auctions to address this lacuna. In contingent auctions, users bid for computing resources in an auction, but are relieved from the contract (paying a penalty) if demand is not realized. We study different mechanisms--ranging from an advance commitment (capacity reservation) to no commitment (pay-as-you-go)--under demand uncertainty. We consider markets in which the demand for computing is uncertain and, moreover, users' value of computing and demand realization may be related. We show how the different levels of commitment affect prices, revenues, and resource utilization under different market conditions. Our results reiterate the need to address the availability-commitment dichotomy in the design of business models for on-demand computing and IT outsourcing.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1816">computing marketplace</a>,    <a href="/keywords/1817">electronic auctions</a>,    <a href="/keywords/1818">grid computing</a>,    <a href="/keywords/1819">on-demand computing</a>,    <a href="/keywords/1820">utility computing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

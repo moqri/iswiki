@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/13">    Volume 19 Number 1 2002
+</a> pp. 151-184</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Software Functionality: A Game Theoretic Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/890">Kai Lung, Hui</a> and     <a href="/contributors/792">Kar Yan, Tam</a>    </div>
+
+<p>ABSTRACT: Digital products are now widely traded over the Internet. Many researchers have started to investigate the optimal competitive strategies and market environments for such products. This paper studies the competitive decisions made about software, a major class of digital products that can be easily sold through computer networks. Instead of focusing on traditional competitive dimensions, such as price or quantity, we study the number of functions that should be incorporated into the software. Using game theoretic analysis, we show that there is no fixed strategy that is optimal for software developers in a duopoly market with one-stage simultaneous moves. This happens because, given one developer's decision, there is always an incentive for the other developer to deviate and achieve higher payoffs. Nevertheless, a unique reactive equilibrium does emerge if we consider the two-stage variation of the model, where the two developers both enjoy substantial profits by serving different segments of the market. Essentially, the first mover commits himself to a certain functionality level that induces a rational follower to target his software to the (previously) unattended segment. We discuss our results in light of scale economies in the software development process and market segmentation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1570">development cost</a>,    <a href="/keywords/1571">digital products</a>,    <a href="/keywords/1572">functionality</a>,    <a href="/keywords/874">game theory</a>,    <a href="/keywords/1573">software</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

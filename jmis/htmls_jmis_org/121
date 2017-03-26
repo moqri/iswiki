@@ -1,0 +1,79 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/76">    Volume 20 Number 4 2004
+</a> pp. 5-8</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Issue: Information Systems Design--Theory and Methodology</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/236">Sprague Jr, Ralph H</a>    </div>
+
+<p><p>
+ ORGANIZATIONS EXIST TO CREATE VALUE for their stakeholders that the stakeholders could not create for  themselves as individuals. Information systems (IS) exist so organizations can better create value using their  intellectual capital. The goal of an IS designer is to present timely, accurate, and complete information to decision- makers and knowledge workers while minimizing cognitive and economic costs. As such, IS is a broad, eclectic  field that must address issues touching on hardware and software, politics, economics, psychology, engineering,  and aesthetics. Designers and design methodologies for IS must embrace and address all of these dimensions.
+</p>
+<p>
+ The papers in this special issue of JMIS all focus on topics of importance to IS designers and methodologists.  The first and second papers in this issue address meta-methodological issues. One discusses the integration of  quality assurance activities into all phases of design methodologies; the other integrates theoretical and  methodological issues into a design approach for computer-supported learning. The third and fourth papers  present field-tested design methodologies, one for requirements elicitation and one for collaborative business  process reengineering. The fifth and sixth papers present theoretical arguments about phenomena that are mirror  images of one another: trust and deception detection during online interactions. The importance of these topics  grows with the rise of e-commerce. The seventh paper argues a cognitive model for creative problem solving that  has implication both for the design of IS and for the design of design methodologies. The eighth and final paper  describes a technical approach to designing IS to support simultaneous access to data across an extreme  diversity of platforms, a design issue whose importance grows with the rise of ubiquitous mobile computing.
+</p>
+<p>
+ This special issue on Information Systems Design was derived from the best paper competition at the 2003  Hawaii International Conference on System Sciences (HICSS). There were 897 papers submitted to HICSS last  year, and 517 papers were accepted. Of those, 65 papers were nominated for the best paper competition in all of  the tracks exclusive of the software track. A team of five reviewers evaluated the 65 best paper nominees and  selected 32 papers for consideration in this special issue. These 32 papers were sent out for review and 15 of  the 32 papers were then invited to submit a revised, journal-quality paper to the special issue on Information  Systems Design. After another round of reviews, the eight papers in this issue were accepted for publication.  One of the accepted papers, entitled &#8220;A Comparison of Classification Methods for Predicting Deception in  Computer-Mediated Communication,&#8221; by Zhou, Burgoon, Twitchell, Qin, and Nunamaker was the Best Paper  Award winner for the Collaboration Systems and Technology Track. This issue, like the conference, brings  together a wide diversity of perspectives, all of which address the subject of Information Systems Design.
+</p>
+<p>
+ In their paper &#8220;Integrating Collaborative Processes and Quality Assurance Techniques: Experiences from  Requirements Negotiation,&#8221; Gr&#252;nbacher, Halling, Biffl, Kitapci, and Boehm integrate current methods for  requirements negotiation with new repeatable collaborative techniques for quality assurance (QA). The approach  described in the paper includes QA techniques to be used before requirements negotiation begins, techniques to  be used during requirements negotiation, and post-negotiation inspection techniques. The techniques are designed  to reduce complexity and to mitigate risks stemming from defects in requirements. The paper reports qualitative  data about user experiences with the techniques presented in the paper.
+</p>
+<p>
+ The paper by Sharda, Romano, Lucca, Weiser, Scheets, Chung, and Sleezer, &#8220;Foundation for the Study of  Computer-Supported Collaborative Learning Requiring Immersive Presence,&#8221; provides a framework for the  integration of technologies for distance learning. This framework provides guidelines for system development,  empirical testing, and research that will aid in the understanding of distance learning. The authors discuss  research strategies to improve distance learning in three learning domains: the cognitive domain, which focuses  on intellectual content and problem solving; the affective domain, which focuses on learning emotions and values;  and the psychomotor domain, which focuses on learning the characteristics of physical movement.
+</p>
+<p>
+ In the paper &#8220;A Unified Model of Requirements Elicitation,&#8221; Hickey and Davis extend the requirements elicitation  model proposed by Loucopoulos and Karakostas by adding a process for selecting among requirements elicitation  techniques based on situational specifics, and by incorporating the role of knowledge throughout the  requirements process. The paper goes on to demonstrate that the unified model it proposes can be used to  analyze the assumptions, strengths, and weaknesses of existing requirements elicitation models to represent  existing requirements negotiation methodologies, and to develop or tailor new methodologies for specific  situations.
+</p>
+<p>
+ In their paper &#8220;Collaborative Business Engineering: A Decade of Lessons from the Field,&#8221; den Hengst and de  Vreede analyze nine business process reengineering (BPR) projects conducted over a 10-year span and identify  87 potential points of failure. They organize those points of failure into 12 best-practice categories, and then  formalize collaborative business engineering, a BPR methodology that addresses the critical issues they  discovered working with BPR teams in the field. They then report their field experience with the methodology they  developed.
+</p>
+<p>
+ Brown, Poole, and Rodgers, in their paper &#8220;Interpersonal Traits, Complementarity, and Trust in Virtual  Collaboration,&#8221; offer the interpersonal circumplex model (ICM) as a theoretical foundation for understanding the  role of personal traits in collaboration in a virtual context. The model posits that individual tendencies can be  understood in terms of the dimensions of power and affiliation. It posits that these factors influence trust,  perceived trustworthiness, and communication, which in turn affect willingness to collaborate, and the  sustainability and productivity of collaboration. This theory suggests an explanatory foundation for concepts in  other theories of trust used in the IS literature.
+</p>
+<p>
+ The paper &#8220;A Comparison of Classification Methods for Predicting Deception in Computer-Mediated  Communication,&#8221; by Zhou, Burgoon, Twitchell, Qin, and Nunamaker, discusses the theoretical foundations of  deception and deception detection, and then compares four strategies for using technology to automatically detect  deception in computer-mediated communication. The results of this study suggest that each of the tested  automatic deception detection methods offers some value, and that an approach based on neural networks  seems particularly promising. This research is particularly timely given the quick growth of e-commerce, e-mail,  and other forms of online interaction.
+</p>
+<p>
+ The paper &#8220;Causal Relationships in Creative Problem Solving: Comparing Facilitation Interventions for Ideation,&#8221;   by Santanen, Briggs, and de Vreede, surveys 100 years of creativity research, and then argues the cognitive  network model (CNM), a causal model suggesting cognitive mechanisms that may give rise to creative ideas in the  human mind. The paper reports an experiment to test the model. The experiment compares the creative output of  people using for different ideation protocols. The results offer support for the model. The paper concludes with  discussions of the implications of the model for research and practice.
+</p>
+<p>
+ Krebs, Dorohonceanu, and Marsic present a middleware approach to the growing requirement to access the  same data set with an extreme diversity of hardware, operating system, and network environments in their paper  entitled &#8220;Supporting Collaboration in Heterogeneous Environments.&#8221; The challenge addressed by this paper is  driven by the rapidly rising use of wireless networks, and the convergence of handheld computing devices,  wireless telecommunication, and mobile computing. This paper presents conceptual and technical details about the  approach, and describes the development, deployment, and evaluation of an exemplar system.
+</p>
+<p>
+ Each of the papers in this issue makes a unique contribution to the understanding of one or more dimensions  of IS design. We recommend them to you and trust that you will find the papers enjoyable to read and thought  provoking.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

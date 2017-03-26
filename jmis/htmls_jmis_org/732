@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/22">    Volume 28 Number 1 2011
+</a> pp. 17-48</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Embodied Conversational Agent--Based Kiosk for Automated Interviewing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/3">Nunamaker Jr, Jay F,</a>    <a href="/contributors/1194">Derrick, Douglas C,</a>    <a href="/contributors/567">Elkins, Aaron C,</a>    <a href="/contributors/268">Burgoon, Judee K,</a> and     <a href="/contributors/1195">Patton, Mark W</a>    </div>
+
+<p>ABSTRACT: We have created an automated kiosk that uses embodied intelligent agents to interview individuals and detect changes in arousal, behavior, and cognitive effort by using psychophysiological information systems. In this paper, we describe the system and propose a unique class of intelligent agents, which are described as Special Purpose Embodied Conversational Intelligence with Environmental Sensors(SPECIES). SPECIES agents use heterogeneous sensors to detect human physiology and behavior during interactions, and they affect their environment by influencing human behavior using various embodied states (i.e., gender and demeanor), messages, and recommendations. Based on the SPECIES paradigm, we present three studies that evaluate different portions of the model, and these studies are used as foundational research for the development of the automated kiosk. The first study evaluates human-computer interaction and how SPECIES agents can change perceptions of information systems by varying appearance and demeanor. Instantiations that had the agents embodied as males were perceived as more powerful, while female embodied agents were perceived as more likable. Similarly, smiling agents were perceived as more likable than neutral demeanor agents. The second study demonstrated that a single sensor measuring vocal pitch provides SPECIES with environmental awareness of human stress and deception. The final study ties the first two studies together and demonstrates an avatar-based kiosk that asks questions and measures the response using vocalic measurements.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2470">avatar</a>,    <a href="/keywords/1755">deception detection</a>,    <a href="/keywords/2782">embodied conversational agents</a>,    <a href="/keywords/2783">NeuroIS</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

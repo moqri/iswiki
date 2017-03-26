@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/96">    Volume 1 Number 1 1984
+</a> pp. 63-80</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Database Architecture for Supporting Business Transactions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/848">Jarke, Matthias</a> and     <a href="/contributors/849">Shalev, Jacob</a>    </div>
+
+<p>ABSTRACT: The central hypothesis of this paper is that database design and systems design in general can be simplified considerably by tailoring the design methods to a suitable range of applications. Domain-specific knowledge can be incorporated into a specialized database architecture that leaves the designer only with the task of specifying the application-specific parts. Based on an analysis of business constraints, we propose such an architecture for the domain of business transaction processing. The architecture offers several data and transaction management services, special-purpose subdatabases, and design-checking rules to be used by the application designer. Two services, input management and audit and control services, are described in more detail.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/17">transaction processing</a>,    <a href="/keywords/18">semantic database modeling</a>,    <a href="/keywords/19">database architecture</a>,    <a href="/keywords/20">knowledge-based systems design</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

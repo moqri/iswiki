@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/47">    Volume 23 Number 2 2006
+</a> pp. 91-118</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Network Effects and Technology Licensing with Fixed Fee, Royalty, and Hybrid Contracts</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/664">Lin, Lihui</a> and     <a href="/contributors/1052">Kulatilaka, Nalin</a>    </div>
+
+<p>ABSTRACT: Technology innovators are faced with the question of whether to license an innovation to other firms, and if so, what type of license it should use. This question takes on paramount importance with information technology innovations that lead to new products and services that exhibit network effects. This paper explores the impact of network effects on the licensing choice. The literature suggests that without network effects, a royalty license is preferred by producer-innovators. We find that a fixed-fee license is optimal with strong network effects. For less intense network effects, the optimal license uses a royalty rate, either alone or in combination with a fee. We further derive the terms of the optimal license and discuss the impact of the investment needed to replicate the innovation and the size of the potential market. Our results provide insights for licensing decisions in industries that exhibit network effects.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1667">economic analysis</a>,    <a href="/keywords/2135">fixed fees</a>,    <a href="/keywords/2136">hybrid charging schemes</a>,    <a href="/keywords/1306">IT value</a>,    <a href="/keywords/2137">licensing policy</a>,    <a href="/keywords/2138">licensing royalty</a>,    <a href="/keywords/1609">network effect</a>,    <a href="/keywords/1201">technological innovation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

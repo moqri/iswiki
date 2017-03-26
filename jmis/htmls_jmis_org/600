@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/30">    Volume 30 Number 3 2013
+</a> pp. 213-246</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Effects of Different Types of Free Trials and Ratings in Sampling of Consumer Software: An Empirical Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/663">Lee, Young-Jin</a> and     <a href="/contributors/1008">Tan, Yong</a>    </div>
+
+<p>ABSTRACT: Giving away trial software is a common practice for software developers to maximize the exposure of their products to potential consumers and to minimize the consumers' uncertainty about software quality. There are two types of free trials: (1) freeware, which consists of very basic features of focal software without a time lock, and (2) trialware, which has the full functionality of focal software with a time lock. In this paper, we study what factors make some free-trial software attract more potential adopters than others. Our empirical model under the traditional Bass-type diffusion examines the effects of the different types of free-trial software and ratings on consumer software sampling and reveals the dynamics of sampling over time. Using free-trial software downloading data on Download.com, we observe that the consumer software sampling process can be described by the theory of information diffusion. We find that user ratings affect sampling performance positively and that third-party ratings need to be positive to be effective. Finally, our results do not show any discernible differences between freeware and trialware with regard to their impact on sampling performance. This study contributes to the understanding of software free-trial practice from the perspective of consumer sampling growth of different types of free trials. Our findings can help design free-trial strategies to extrapolate the extent of consumer awareness of focal software and effectively convey its quality information to potential customers.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3206">freeware</a>,    <a href="/keywords/3207">Hausman-Taylor estimation</a>,    <a href="/keywords/2824">information diffusion</a>,    <a href="/keywords/3208">online user and third-party ratings</a>,    <a href="/keywords/3209">software commercialization</a>,    <a href="/keywords/3210">software free trials</a>,    <a href="/keywords/3211">software sampling</a>,    <a href="/keywords/3212">trialware</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

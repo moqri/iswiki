@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/18">    Volume 27 Number 1 2010
+</a> pp. 17-37</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>&quot;Follow the Sun&quot; Workflow in Global Software Development</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/293">Carmel, Erran,</a>    <a href="/contributors/294">Espinosa, J Alberto,</a> and     <a href="/contributors/295">Dubinsky, Yael</a>    </div>
+
+<p>ABSTRACT: The article discusses follow-the-sun (FTS) projects, in which teams around the world pass software development tasks to teams in other time zones, so the project will be worked on 24 hours per day. The topic is analyzed in terms of the social aspects of information systems. The authors present 12 propositions regarding efficiency and coordination issues which are typically associated with the FTS method. The primary factors in making FTS successful are said to be efficiency in terms of scheduling and handing off work, and coordination within and between the work sites.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2637">calendar-efficient software development</a>,    <a href="/keywords/2638">global coordination</a>,    <a href="/keywords/2639">round-the-clock development</a>,    <a href="/keywords/339">software development</a>,    <a href="/keywords/2640">software handoff efficiency</a>,    <a href="/keywords/2641">time to market</a>,    <a href="/keywords/2642">24-hour development</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

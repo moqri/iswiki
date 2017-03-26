@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/112">    Volume 23 Number 3 2006
+</a> pp. 275-307</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Optimal Strategies for a Monopoly Intermediary in the Supply Chain of Complementary Web Services</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1279">Qian, Tang</a> and     <a href="/contributors/1280">Hsing, Cheng</a>    </div>
+
+<p>ABSTRACT: Web services are interoperable and reusable software components that can be dynamically discovered and integrated over the Internet. Developed on open standards, Web services have become a promising solution to inter- and intra-organization application integration. The supply chain of Web services exhibits two distinct features that are not considered in previous literature on information and physical-good supply chain: the integration of multiple Web services and the cross-network externality effect between Web service vendors and users. In a quest to fill in the research gap, this paper studies the optimal pricing strategies of a monopolistic intermediary in the supply chain of complementary Web services. The Web service intermediary (WSI) provides both technical and aggregation services, and seeks to charge optimal subscription and listing fees. Analytical results show that in a supply chain of complementary Web services exhibiting cross-network effects, the optimal strategy for the WSI is to set the listing fee such that all service providers list on it. On the other hand, the optimal subscription fee depends on the intensity of the cross-network effect, consumers' valuation of value-added services, and the characteristics of the Web services under consideration.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2194">business intermediary</a>,    <a href="/keywords/2139">complementarities</a>,    <a href="/keywords/2195">network externalities</a>,    <a href="/keywords/1768">supply chains</a>,    <a href="/keywords/2196">Web services</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/90">    Volume 27 Number 3 2010
+</a> pp. 43-80</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Regulation of Digital Businesses with Natural Monopolies or Third-Party Payment Business Models: Antitrust Lessons from the Analysis of Google</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/402">Madhani, Nehal</a>    </div>
+
+<p>ABSTRACT: Some digital business models may be so innovative that they overwhelm existing regulatory mechanisms, both legislation and historical jurisprudence, and require extension to or modification of antitrust law. Regulatory policies that were developed in response to nineteenth- or twentieth-century antitrust concerns dealt principally with economies of scale leading to monopoly power and may not be well suited to the issues of network effects or third-party payer online business models such as sponsored search. From the perspective of information systems economics, we investigate if such third-party payer digital systems require intervention as profound as the government's innovative approach to the problems posed by AT&T in the 1913 Kingsbury Commitment, establishing the first private regulated monopoly. Google provides an example of a company whose innovative digital business model is difficult to fit into current regulatory frameworks, and may provide examples of the issues that might require an extension to regulatory policy.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2711">antitrust</a>,    <a href="/keywords/2712">bundling and tying</a>,    <a href="/keywords/950">contestability</a>,    <a href="/keywords/2713">deterred market entry</a>,    <a href="/keywords/2714">digital business strategies</a>,    <a href="/keywords/2715">essential facilities doctrine</a>,    <a href="/keywords/2716">Google</a>,    <a href="/keywords/2717">key word auctions</a>,    <a href="/keywords/2114">online search</a>,    <a href="/keywords/2718">relevant market share</a>,    <a href="/keywords/2719">sponsored search</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

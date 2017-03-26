@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/120">    Volume 30 Number 4 2014
+</a> pp. 179-210</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Explicit and Implicit Antecedents of Users&#039; Behavioral Beliefs in Information Systems: A Neuropsychological Investigation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1676">de Guinea, Ana Ortiz,</a>    <a href="/contributors/185">Titah, Ryad,</a> and     <a href="/contributors/1677">Léger, Pierre-Majorique</a>    </div>
+
+<p>ABSTRACT: Behavioral beliefs-perceived usefulness and perceived ease of use-have been identified as the most influential antecedents of individuals' information systems use intentions and behaviors within the technology acceptance model. However, little research has been aimed at investigating the implicit (automatic or unconscious) determinants of such cognitive beliefs, and more importantly, the potential nonlinear relationships of such antecedents with explicit (perceptual) ones. As such, this paper theorizes that implicit neurophysiological states-memory load and distraction- and explicit-engagement and frustration-antecedents interact in the formation of perceived usefulness and perceived ease of use. To test the study's hypotheses, we conducted an experiment that measured neurophysiological states while individuals worked on instrumental and hedonic tasks using technology. The results show that, as theorized, implicit and explicit constructs interact together, and thus have a nonlinear effect on behavioral beliefs. Specifically, when engagement is high, neurophysiological distraction does not statistically significantly affect perceived usefulness, whereas when engagement is low, neurophysiological distraction has a negative and significant effect on usefulness. The results also show that when frustration is high, neurophysiological memory load has a negative effect on perceived ease of use, whereas when it is low, neurophysiological memory load has a positive effect on perceived ease of use. This study makes several contributions to acceptance research and the emerging field of NeuroIS, including demonstration of the importance of emotional perceptions for moderating the effects of neurophysiological states on behavioral beliefs.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3247">behavioral belief formation</a>,    <a href="/keywords/3248">cognitive beliefs</a>,    <a href="/keywords/3249">electroencephalography (EEG)</a>,    <a href="/keywords/3250">emotion</a>,    <a href="/keywords/3251">IS acceptance</a>,    <a href="/keywords/3252">IS use</a>,    <a href="/keywords/2783">NeuroIS</a>,    <a href="/keywords/3253">nonlinear effects</a>,    <a href="/keywords/3254">TAM</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

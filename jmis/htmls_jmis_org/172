@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/40">    Volume 26 Number 3 2009
+</a> pp. 45-70</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Design and Use of Preference Markets for Evaluation of Early Stage Technologies</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/344">Chen, Li,</a>    <a href="/contributors/338">Goes, Paulo B,</a>    <a href="/contributors/199">Marsden, James R,</a> and     <a href="/contributors/345">Zhang, Zhongju</a>    </div>
+
+<p>ABSTRACT: In the work presented here, we develop and apply preference markets in evaluating early stage technology. Partnering with a Fortune 5 company, we developed and implemented two internal preference markets (field experiments). In both cases, nonmonetary (play money) incentives were utilized, but one market provided additional nonmonetary (play money) incentives. Working with the partner company, our investigation started with seven emerging technologies and expanded to a total of 17 emerging technologies. Our results suggest that even a simple form of additional nonmonetary play money incentive yielded greater price convergence, increased spread across final market prices, and greater consistency with a costly expert panel that was set up by the partner company. Based on the outcomes of our analyses, the partner company is investing in developing extended applications of preference markets as a potentially scalable approach for dealing with its ongoing and expanding strategic identification of promising emerging technologies.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2559">convergence</a>,    <a href="/keywords/993">incentives</a>,    <a href="/keywords/2560">information market</a>,    <a href="/keywords/2561">market performance</a>,    <a href="/keywords/2562">preference aggregation</a>,    <a href="/keywords/2563">preference ranking market</a>,    <a href="/keywords/2564">technology evaluation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

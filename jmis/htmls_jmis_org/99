@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/61">    Volume 23 Number 1 2006
+</a> pp. 129-159</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Consumer Search and Retailer Strategies in the Presence of Online Music Sharing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/196">Bhattacharjee, Sudip,</a>    <a href="/contributors/197">Gopal, Ram D,</a>    <a href="/contributors/198">Lertwachara, Kaveepan,</a> and     <a href="/contributors/199">Marsden, James R</a>    </div>
+
+<p>ABSTRACT: Advances in online technologies and bandwidth availability have opened new vistas for online distribution of digital goods, but potential benefits for consumers are juxtaposed against challenges for retailers. Here, we investigate one type of digital experience good--music--whose market environment includes the very real presence of online piracy. Although arguments abound for and against online distribution of such digital goods, little research exists in this area. We develop a model of consumer search for such an experience good, and study different emerging market environments for retailers, where consumers can pirate music online. Retailer cost to publishers is modeled using a variety of licensing schemas. Survey results, together with data from online sharing networks, are utilized to validate a key assumption. Finally, computational analysis is used to develop insights that cannot be obtained analytically. Our results indicate that decreasing piracy is not necessarily equivalent to increasing profit, and online selling strategies can provide additional profits for a traditional retailer even in the presence of piracy. We show that leading strategies for business in such goods should include pricing options, provision of efficient search tools, and new licensing structures.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2101">digital experience goods</a>,    <a href="/keywords/2102">license</a>,    <a href="/keywords/2103">music</a>,    <a href="/keywords/2104">online channels</a>,    <a href="/keywords/2105">piracy</a>,    <a href="/keywords/2106">sampling</a>,    <a href="/keywords/2107">search</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

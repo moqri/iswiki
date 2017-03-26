@@ -1,0 +1,73 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/28">    Volume 18 Number 2 2001
+</a> pp. 11-16</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Economics, Electronic Commerce, and Competitive Strategy</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K,</a>    <a href="/contributors/394">Dewan, Rajiv M,</a> and     <a href="/contributors/79">Kauffman, Robert J</a>    </div>
+
+<p><p>
+ THE TITLE OF THIS YEAR'S SPECIAL SECTION of selected papers, whose initial versions were presented at  the "Economics and Electronic Commerce," and "Information Technology and Competitive Strategy" mini-tracks of  the 2001 Hawaii International Conference on Systems Science (HICSS), reflects the increasing convergence of  ideas from Economics and Information Systems (IS) research. This convergence has been occurring over the last  several years and is related to the developments in e-commerce. IS research has been rapidly coming of age,  driven by the ever-increasing importance of information technology (IT) in the marketplace, and the need for  managers, investors, policy-makers, and the public to understand how to more effectively navigate in our highly  technological world. But as IS research matures, so too do the demands that practitioners put upon the  information that our research produces in terms of its relevance and usability. Although the importance of  scientific rigor and of analytical precision are undiminished, the messages that emerge from our research for the  marketplace need to be crafted and targeted better than ever before.
+</p>
+<p>
+ But how quickly the world of technology changes, changing our research directions along with it! No longer is  it sufficient to study the formation or business models of electronic markets in e-commerce. Today, IS researchers  need to grasp their innermost workings. As a result, many of us aspire to understand what will give these new  organizational forms sustainable competitive advantage, allowing them to thrive and create value in the  marketplace, and how organizations can strategize to maximize profits in their presence. Similarly, if the Age of  the Internet has brought the marketplace an ever-expanding set of information goods and virtual products, then it  also has brought senior managers at leading firms increasingly complex strategic challenges from competitors  they never knew they would have.
+</p>
+<p>
+ In short, we want our research to speak in clear tones to them, so they will recognize, as we do, the  importance of the solutions that IS research offers for some of the leading applied problems of our time. When we  consider the newest research directions in technology adoption and IT investment analysis, for example, there is  an increasing impetus to find new solutions and new interpretations for the long-standing issues that senior  managers continue to face with technology: evolving and uncertain standards, the productivity paradox of  information technology investment, the failure of the marketplace to coalesce around the appropriate  externality-bearing network goods, and knowing when to make the tough decisions about technology  infrastructure. The same holds true for the design of information goods, and the strategic choices that firms must  make about how to position and sell them in the marketplace.
+</p>
+<p>
+ We think that the authors whose research work is presented in this Special Section of the Journal of  Management Information Systems have their thumbs on the pulse of the marketplace this way. Their work meets  the challenge we have set out. The reader can tell from the range of problems and topics that the authors have  selected. But the more telling aspect lies in the interpretations and insights that the authors' research results have  to offer. We believe they will be of equal interest to practitioners (properly packaged in executive education  lectures and cases) as they will be to academic researchers. We invite the reader to enjoy some of the research  that we have helped to shape this year through our conference and journal review processes, and through the  workshop-like atmosphere that makes our HICSS mini-tracks a special place to share the newest research  findings.
+</p>
+<p>
+ Matt E. Thatcher of the University of Arizona and Jim R. Oliver of INSEAD lead off this special section with  "The Impact of Technology Investments on a Firm's Production Efficiency, Product Quality, and Productivity." Their  study probes the reasons for the mixed findings on the business value of information technology associated with  the "productivity paradox." The authors propose that there has been insufficient consideration given to the  interaction of production efficiency and enhanced product quality in the realization of firm productivity. The  authors present a model that allows for the possibility that improved profits and productivity gains may actually  trade off, rather than both move in the same direction in the presence of information technology investments. The  explanation for this, according to the authors' analytical model, can be boiled down to whether the investments  reduce the firm's fixed overhead costs-unequivocally leading to productivity gains-or the firm's variable costs  of production. Changes to the latter lead to more competitive design, development, and production costs, and  improve price recovery, product quality, and product sales margins. What they do not always do, however, is  prompt parallel gains in productivity. An exciting finding in this work is that the authors are able to illustrate when it  is possible to predict that there will be a productivity gain or productivity decline due to information technology  investment, and hence, a new interpretation of why there actually ought to be a productivity paradox. Perhaps the  reader can appreciate, as a result, why this paper was selected as best research paper in the "Information  Technology and Competitive Strategy Mini-Track" at HICSS, and how importantly its message will bear on  electronic commerce-related technology investment decision making.
+</p>
+<p>
+ Most researchers who use the theories and methods of economics in Information Systems research know  that there is much to be learned from constructing analytical models when it is impossible or impractical to collect  data on a specific phenomenon. In "Should We Wait? Network Externalities, Compatibility and Electronic Billing  Adoption," Yoris A. Au and Robert J. Kauffman of the University of Minnesota examine competitive strategy  related to technology solution adoption in electronic bill payment and presentment, at a time when widespread  diffusion has yet to occur in the United States. The authors analyze institutional relationships in e-billing and find  that the current industry structure precludes adoption decision-making without the consideration given to building  in option and contingencies to defray the risks of a rapidly changing marketplace. The authors find that there are  multiple intermediaries (i.e., banks and bill consolidators) between biller/vendor firms (i.e., electrical utilities and  department stores), and the consumers who buy from them. This "multi-partite adoption" problem makes electronic  bill payment and presentment technology adoption more a matter of "rational expectations" about market   developments and emerging standards, than a precise capital-budgeting calculus. With this industry backdrop in  mind, the authors employ a welfare-economics modeling perspective to portray how firm adoption patterns are  likely to vary in the presence of non-sponsored and sponsored technology e-billing solutions. Their model  characterizes a number of conditions under which exercising an "adoption option" is a first-best strategy, as  originally suggested by Choi and Thum. The present authors' partial equilibrium modeling perspective delineates  some of the key issues that the marketplace will need to overcome in the next several years, as e-billing  technologies become more widely adopted.
+</p>
+<p>
+ The remainder of the Special Section is devoted to research directions involving competitive strategy and the  sale of information goods. Ravi Aron and Eric K. Clemons of the Wharton School are first up with "Achieving the  Optimal Balance Between Investment in Quality and Investment in Self-Promotion." Their article sheds light on how  firms should form competitive strategy for the redesign or repositioning of their information goods when what they  offer no longer is a good match for what their customers want to buy. The authors distinguish between  information consumption products and information production products. The former is essentially an experience  good for the consumer (e.g., where experience is gained by reading, watching, listening, or learning), and the  latter involve the range of information goods (e.g., software, databases, telecomm protocols, or Web page  formatting standards) that enable the delivery of other information goods for consumption. The authors develop an  analytical model that enables them to characterize the conditions under which one of four recommended  strategies will be undertaken relative to improperly positioned information goods. This is primarily determined by  expected profits when the ratio of repositioning to rebuilding costs, and the extent of repeat customer purchases  are considered. The authors bring seller incentives into bold relief by characterizing a choice set of strategies that  include two extreme strategies-"Lie Like Hell" and "Tell the Whole Truth and Nothing But the Truth"-and one  more moderate approach. They also point out the frictions that arise in determining the correct strategy when  there are buyer product return costs and information goods complexity varies.
+</p>
+<p>
+ In "Information Goods and Vertical Differentiation," Hemant Bhargava of Pennsylvania State University and  Vidyanand Choudhary of Carnegie Mellon University examine the efficacy of second-degree price discrimination  applied to information goods when the seller is a monopolist. Firms that can discern heterogeneous customer  preferences for different quality products apply vertical differentiation by segmenting their marketplace to  maximize profits, and developing a product line with varying levels of quality, features, and functionality. However  the authors argue that firms that sell information goods are unlikely to profit from creating the conditions under  which their customers self-select through vertical differentiation. This runs counter to the conventional wisdom,  however, the authors show through an analytical model of product line design choices and development costs  that the trade-off with increased sales revenues is inopportune due to the likely event of the cannibalization of  higher quality information by their lower quality equivalents.
+</p>
+<p>
+ The emphasis shifts in "Forward Versus Spot Buying of Information Goods," by Pavan Gundepudi, Nils Rudi,  and Abraham Seidmann of the University of Rochester, to a careful consideration of competitive strategy and  organizational decision-making in the sale of information goods in different ways than Bhargava and Choudhary  discuss. The kinds of purchase situations the authors consider for information goods are subscriptions for  newspapers and magazines, and the distribution rights to videos and music. The authors develop a model that  incorporates consumer uncertainty and the recognition that consumers will trade off between lower-priced  forward-buying and higher-priced future spot buying. The authors develop their modeling framework in a series  of steps that makes the analysis increasingly realistic and compelling for the treatment of real world spot and  futures purchases of information goods on the Internet. Research of this sort helps to set the agenda for refining  our understanding of how competitive strategy should be formulated by firms that operate in information goods  markets, and should offer contributions both to Information Systems and Marketing Science research.
+</p>
+<p>
+ In closing, we offer special thanks to a number of people who supported our work on this Special Section.  Vladimir Zwass's support is evident from the fact that he was willing to provide us with five paper slots this year,  up from the usual three. He recognized the quality of the work that he encouraged us to bring to the journal. We  also offer special thanks to Yu-Ming Wang of the California State University at Long Beach, who was a  contributor to our review process for HICSS paper during Summer 2000. Alina Chircu of the University of Texas at  Austin also offered her assistance as an associate editor and reviewer every step along the way. Bin Wang of  the University of Minnesota also offered logistical support with the Journal of Management Information Systems  review process for the articles in this issue. Finally, the coeditors offer hearty thanks to all of the reviewers who contributed their insights to help make this research first-rate.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/102">    Volume 21 Number 1 2004
+</a> pp. 55-82</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Reexamining the Value Relevance of E-Commerce Initiatives</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/474">Dehning, Bruce,</a>    <a href="/contributors/475">Richardson, Vernon J,</a>    <a href="/contributors/476">Urbaczewski, Andrew,</a> and     <a href="/contributors/477">Wells, John D</a>    </div>
+
+<p>ABSTRACT: This study reexamines the value relevance of e-commerce announcements using an event study methodology. Event studies have become an increasingly popular technique for information systems research by giving researchers a tool to measure the notoriously elusive value of information technology. We find evidence that the traditional event study methodology may not provide an accurate measure of abnormal returns during periods of high market volatility, and propose an alternative methodology. The alternative methodology does not use an estimation period, and takes into account extreme or unusual market movements in the period in which the e-commerce announcement was made. Using the alternative methodology, we find evidence of positive abnormal returns for e-commerce announcements made in the fourth quarter of 1998, but no abnormal returns to e-commerce announcements made in the fourth quarter of 2000. We also find significant differences in value depending on the type of e-commerce initiative. In 2000, e-commerce initiatives with a digital product were valued significantly more than e-commerce initiatives with a tangible product, while in 1998 no such difference existed. In 1998, business-to-business e-commerce initiatives, e-commerce initiatives with a tangible product, and e-commerce initiatives by pure-play Internet firms were valued more than similar initiatives in 2000. The study makes a significant contribution for understanding the value of e-commerce initiatives in highly volatile markets and demonstrates how market values of e-commerce changed from 1998 to 2000. Furthermore, this study shows the importance of carefully considering both the time frame examined and the methodology used when assessing the value relevance of e-commerce initiatives as to avoid inflating the magnitude of any observed effects.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1309">business value</a>,    <a href="/keywords/1766">e-commerce announcements</a>,    <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/1584">event study</a>,    <a href="/keywords/1767">market value</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

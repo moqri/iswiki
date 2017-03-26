@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/84">    Volume 5 Number 1 1988
+</a> pp. 6-24</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Knowledge-based Systems Support for Information Centers</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/3">Nunamaker Jr, Jay F,</a>    <a href="/contributors/58">Konsynski, Benn R,</a>    <a href="/contributors/346">Chen, Minder,</a>    <a href="/contributors/1196">Vinze, Ajay S,</a>    <a href="/contributors/1197">Chen, Y Irene Liou,</a> and     <a href="/contributors/1198">Heltne, Mari M</a>    </div>
+
+<p>ABSTRACT: Information centers (ICs) are taking on an increasingly important role in organizational computing and are being given responsibility for supporting the enhancement of information system technology in the organization. There are primarily three areas of responsibility for the ICs: consultation, distribution, and help service. The information center expert (ICE) project attempts to provide knowledge-based support for ICs. The ICE project has three divisions, corresponding with the three areas of responsibility for information centers. The three divisions are: information center expert for consultation (ICE/C), distribution (ICE/D), and help service (ICE/H). The ICE/C system has been developed using Expert System Environment/Virtual Machine (ESE/VM) on the IBM 4381 mainframe. The system is operational and is being tested in five different ICs. ICE/C is used for consultation with IC users to assist them with the process of software selection. The paper presents the ICE/C architecture and discusses functional extensions to ICE/C, that is, ICE/D and ICE/H, for supporting the other responsibilities of the IC. The design considerations for these extensions are discussed. The development of ICE/C surfaced concerns regarding acquiring knowledge from multiple experts. An alternative approach using a group decision support environment to elicit knowledge from experts is presented. The paper also discusses the use of an object-oriented approach as a representation technique.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/31">knowledge-based systems</a>,    <a href="/keywords/156">expert systems</a>,    <a href="/keywords/242">information center</a>,    <a href="/keywords/271">knowledge acquisition</a>,    <a href="/keywords/272">object-oriented systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

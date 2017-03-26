@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/105">    Volume 4 Number 1 1987
+</a> pp. 42-58</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Framework for Selecting between Knowledge-based and Traditional Systems Design</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1169">Murray, Thomas J</a> and     <a href="/contributors/17">Tanniru, Mohan R</a>    </div>
+
+<p>ABSTRACT: Extensive coverage of knowledge-based languages has appeared in the recent literature. However, there has been no discussion of the criteria to be used in selecting between a knowledge-based approach and a traditional, that is, non-knowledge-based, approach for a particular application. This paper presents a framework of application-based criteria to assist in this selection. It also applies this decision framework to a number of real and hypothetical applications.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/219">knowledge-based languages</a>,    <a href="/keywords/220">demand for MIS professionals</a>,    <a href="/keywords/156">expert systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/86">    Volume 22 Number 1 2005
+</a> pp. 117-151</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Multidimensional Commitment Model of Volitional Systems Adoption and Usage Behavior</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1098">Malhotra, Yogesh</a> and     <a href="/contributors/587">Galletta, Dennis F</a>    </div>
+
+<p>ABSTRACT: In recent years, several organizations have implemented nonmandatory information and communication systems that escape the conventional behavioral logic of understanding acceptance and usage from a normative perspective of compliance with the beliefs of others. Because voluntary systems require users' volitional behavior, researchers have traced recent implementation failures to a lack of user commitment. However, gaps in our understanding of volitional usage behavior and user commitment have made it difficult to advance theory, research, and practice on this issue. To validate a proposed research model, cross-sectional, between-subjects, and within-subjects field data were collected from 714 users at the time of initial adoption and after six months of extended use. The model explained between 44.1 percent and 58.5 percent of the variance in adoption and usage behavior based upon direct effects of user commitment. Findings suggest that user commitment plays a critical role in the volitional acceptance and usage of such systems. Affective commitment--that is, internalization and identification based upon personal norms--exhibits a sustained positive influence on usage behavior. In contrast, continuance commitment--that is, compliance based upon social norms--shows a sustained negative influence from initial adoption to extended use. Theory development based upon Kelman's social influence framework offers new empirical insights about system users' commitment and how it affects volitional usage behavior.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1912">affective processes</a>,    <a href="/keywords/1913">cognitive processes</a>,    <a href="/keywords/1914">information systems acceptance and use</a>,    <a href="/keywords/1915">multidimensional commitment model</a>,    <a href="/keywords/1916">personal norms</a>,    <a href="/keywords/1917">psychological attachment</a>,    <a href="/keywords/1918">social influence theory</a>,    <a href="/keywords/1919">social norms</a>,    <a href="/keywords/776">systems implementation</a>,    <a href="/keywords/1920">user commitment</a>,    <a href="/keywords/1921">volitional usage behavior</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

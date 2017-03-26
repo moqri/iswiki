@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/113">    Volume 13 Number 3 1996
+</a> pp. 163-207</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Lessons from a Dozen Years of Group Support Systems Research: A Discussion of Lab and Field Findings</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/3">Nunamaker Jr, Jay F,</a>    <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/1191">Mittleman, Daniel D,</a>    <a href="/contributors/459">Vogel, Douglas R,</a> and     <a href="/contributors/1192">Balthazard, Pierre A</a>    </div>
+
+<p>ABSTRACT: During the past dozen years, researchers at the University of Arizona have built six generations of group support systems software, conducted over 150 research studies, and facilitated over 4,000 projects. This article reports on lessons learned through that experience. It begins by presenting a theoretical foundation for the Groupware Grid, a tool for designing and evaluating GSS. It then reports lessons from nine key domains: (1) GSS in organizations; (2) cross-cultural and multicultural issues; (3) designing GSS software; (4) collaborative writing; (5) electronic polling; (6) GSS facilities and room design; (7) leadership and facilitation; (8) GSS in the classroom; and (9) business process reengineering.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/379">group decision processes</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/990">organizational role of information technology</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

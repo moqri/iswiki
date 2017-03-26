@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/38">    Volume 16 Number 1 1999
+</a> pp. 207-232</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Temporal Model of Institutional Interventions for Information Technology Adoption in Less-Developed Countries</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1156">Montealegre, Ramiro</a>    </div>
+
+<p>ABSTRACT: This empirical study of Internet adoption in four Latin American countries delineates a gradual but progressive course of institutional actions and suggests a temporal ordering of the actions--including knowledge building, subsidy, knowledge deployment, innovation directive, and standard setting. The temporal model reveals how each country sustained the momentum of its evolving strategy, grew in competence to forge technological solutions, and gained access to the Internet. The four countries' original goals changed, but through experience they perceived new opportunities and established evolving Internet strategies that form the bases of new technological services provided at the national level.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/753">adoption of information technology</a>,    <a href="/keywords/1244">global information technology infrastructure</a>,    <a href="/keywords/1245">information technology in less-developed countries</a>,    <a href="/keywords/1246">network development and implementation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

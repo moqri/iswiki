@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/76">    Volume 20 Number 4 2004
+</a> pp. 139-165</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Comparison of Classification Methods for Predicting Deception in Computer-Mediated Communication</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1643">Zhou, Lina,</a>    <a href="/contributors/268">Burgoon, Judee K,</a>    <a href="/contributors/1644">Twitchell, Douglas P,</a>    <a href="/contributors/1645">Tiantian, Q I N,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: The increased chance of deception in computer-mediated communication and the potential risk of taking action based on deceptive information calls for automatic detection of deception. To achieve the ultimate goal of automatic prediction of deception, we selected four common classification methods and empirically compared their performance in predicting deception. The deception and truth data were collected during two experimental studies. The results suggest that all of the four methods were promising for predicting deception with cues to deception. Among them, neural networks exhibited consistent performance and were robust across test settings. The comparisons also highlighted the importance of selecting important input variables and removing noise in an attempt to enhance the performance of classification methods. The selected cues offer both methodological and theoretical contributions to the body of deception and information systems research.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1753">classification methods</a>,    <a href="/keywords/1754">deception</a>,    <a href="/keywords/1755">deception detection</a>,    <a href="/keywords/1756">linguistic cues</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

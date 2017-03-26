@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/29">    Volume 22 Number 2 2005
+</a> pp. 121-139</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Pricing Mechanism for Digital Content Distribution Over Computer Networks</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/982">Lang, Karl Reiner</a> and     <a href="/contributors/983">Vragov, Roumen</a>    </div>
+
+<p>ABSTRACT: This paper uses modified economic growth theory to compare and contrast two currently available ways of digital content distribution: the client-server model and the peer-to-peer (P2P) model. We describe a monopolistic pricing scheme for distributing digital content over P2P networks that rewards peer users who actively participate in the distribution process. Our results show that digital distribution through a P2P network is more profitable and more efficient than in the corresponding client-server setting, if the pricing mechanism used provides strong incentives to users to share content. The basic results hold when the model is extended to include time-variant preferences across generations of consumers, and when the monopolist performs price discrimination based on generations. Some practical implications from the theoretical analysis are also discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1962">client–server networks</a>,    <a href="/keywords/1963">content sharing</a>,    <a href="/keywords/1964">digital content distribution</a>,    <a href="/keywords/1334">information goods</a>,    <a href="/keywords/1965">monopolistic seller</a>,    <a href="/keywords/1966">peer-to-peer networks</a>,    <a href="/keywords/1708">pricing</a>,    <a href="/keywords/1967">user participation incentives</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

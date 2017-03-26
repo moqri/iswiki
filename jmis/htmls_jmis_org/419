@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/15">    Volume 22 Number 3 2005
+</a> pp. 15-54</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Involvement and Decision-Making Performance with a Decision Aid: The Influence of Social Multimedia, Gender, and Playfulness</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/759">Hess, Traci J,</a>    <a href="/contributors/636">Fuller, Mark A,</a> and     <a href="/contributors/760">Mathew, John</a>    </div>
+
+<p>ABSTRACT: This research explores how multimedia vividness and the use of computer-based social cues can influence involvement with technology and decision-making outcomes. An experiment is conducted that examines the effect that increased levels of vividness (text, voice, and animation) and decision aid personality have on decision-making involvement. In addition, the influence of two individual differences, gender and computer playfulness, on decision aid involvement are investigated. The cost-benefit framework of decision making and related research on consumer information processing provide the theoretical foundation for the study and suggest how increased involvement may influence decision making. Several decision-making outcomes are measured, including decision effort, decision quality, satisfaction with the decision aid, and understanding of the decision aid. Findings indicate that personality similarity (between the user and the decision aid) and computer playfulness result in increased involvement with the decision aid. In addition, women report higher levels of involvement with the decision aid. Increased levels of multimedia vividness are found to have a contradictory effect, with animation actually reducing involvement with the decision aid. The findings are discussed in terms of theoretical contributions and practical interface design implications.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1997">computer-based social cues</a>,    <a href="/keywords/1998">computer playfulness</a>,    <a href="/keywords/107">decision aids</a>,    <a href="/keywords/195">decision making</a>,    <a href="/keywords/338">decision performance</a>,    <a href="/keywords/1999">multimedia in computing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

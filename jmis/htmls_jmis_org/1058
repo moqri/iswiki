@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/18">    Volume 27 Number 1 2010
+</a> pp. 39-38</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Perpetual Versus Subscription Licensing Under Quality Uncertainty and Network Externality Effects</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1078">Zhang, Jie</a> and     <a href="/contributors/83">Seidmann, Abraham</a>    </div>
+
+<p>ABSTRACT: The article analyzes the optimal way for software vendors to license software, in the context of social aspects of information systems. The relative merits of perpetual licensing or subscription models are discussed, and issues such as software upgrade compatibility, uncertainty regarding quality, network effects and price forecasting are addressed. Evidence is presented that software vendors should use a hybrid of perpetual licensing and subscription models in order to optimize both their own profits and the satisfaction of their customers.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2643">compatibility</a>,    <a href="/keywords/2195">network externalities</a>,    <a href="/keywords/1462">price discrimination</a>,    <a href="/keywords/1704">quality uncertainty</a>,    <a href="/keywords/2295">software licensing</a>,    <a href="/keywords/2644">upgrades</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

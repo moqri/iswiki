@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/58">    Volume 18 Number 1 2001
+</a> pp. 115-150</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Situated Learning and the Situated Knowledge Web: Exploring the Ground Beneath Knowledge Management</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1182">Nidumolu, Sarma R,</a>    <a href="/contributors/1185">Subramani, Mani R,</a> and     <a href="/contributors/1184">Aldrich, Alan</a>    </div>
+
+<p>ABSTRACT: Knowledge is now recognized as an important basis for competitive advantage and many firms are beginning to establish initiatives to leverage and manage organizational knowledge. These include efforts to codify knowledge in repositories as well as efforts to link individuals using information technologies to overcome geographic and temporal barriers to accessing knowledge and expertise. We suggest that Knowledge Management (KM) efforts, to be successful, need to be sensitive to features of the context of generation, location, and application of knowledge. To this end, we highlight the situated organizational learning perspective that views knowledge as embedded in individuals, in connections between individuals, and in artifacts as a useful lens to examine phenomena related to the establishment of KM initiatives. In an ethnographic case study of an effort to change knowledge-work processes in a market research firm, we apply the situated knowledge perspective to highlight the factors responsible for the limited success of the initiative in the firm. This study suggests that a consideration of the situated knowledge web and the alignment of the initiatives with the features of the knowledge web are central to success in knowledge management efforts in firms.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1436">ethnographic methods</a>,    <a href="/keywords/202">knowledge management</a>,    <a href="/keywords/672">organizational change</a>,    <a href="/keywords/1179">qualitative research</a>,    <a href="/keywords/1437">situated knowledge web</a>,    <a href="/keywords/1438">situated learning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

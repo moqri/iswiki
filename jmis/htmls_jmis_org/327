@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/61">    Volume 23 Number 1 2006
+</a> pp. 293-319</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Processing Design Choices, Strategy, and Risk Management Performance</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/588">Fairbank, James F,</a>    <a href="/contributors/589">Labianca, Giuseppe,</a>    <a href="/contributors/590">Steensma, H Kevin,</a> and     <a href="/contributors/591">Metters, Richard</a>    </div>
+
+<p>ABSTRACT: We examined the relationship between information technology (IT) and organizational performance in the U.S. life/health insurance industry by applying and testing Galbraith's information processing theory and strategic contingency theory. Rather than focusing on resource allocations in IT, we instead examined the manner in which IT is deployed in organizations through information processing design choices. Our results suggest that while some information processing design choices are generally related to organizational performance, others should be matched to a specific strategic posture. For example, we found that all organizations benefit from using IT to increase cost-effectiveness. However, other uses of IT should be more closely aligned with an organization's strategy. In particular, domain offensive organizations should align their IT systems to focus on the front end of their operations and understanding customer needs, which will spur further innovation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1384">information processing</a>,    <a href="/keywords/455">information technology</a>,    <a href="/keywords/2124">risk management performance</a>,    <a href="/keywords/2125">strategic contingency</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

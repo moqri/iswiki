@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/10">    Volume 9 Number 1 1992
+</a> pp. 47-67</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Centers as Organizational Innovation: Exploring the Correlates of Implementation Success</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/639">Fuller, Mary K</a> and     <a href="/contributors/640">Swanson, B Burton</a>    </div>
+
+<p>ABSTRACT: The information center (IC) provides an example of an organizational innovation based in the use of new information technology. While widely adopted, it has met with varying success among its implementors. This paper reports results from an exploratory study of IC adoption and implementation among twenty-seven information systems (IS) organizations. It identifies certain correlates of success--the size of the host organization at the locations served by the IS unit together with the total number of IC services provided--that have been previously overlooked. These findings have implications for research beyond the case of information centers. Specifically, they suggest that any implementation research founded on the "critical success factor" approach, where managers are asked to judge those factors important to the success of their innovations, will be inadequate unless organizational context is also considered by the researcher in explaining this success. Research to date has not always met this criterion; future research must do so.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/180">critical success factors (CSF)</a>,    <a href="/keywords/365">end-user computing</a>,    <a href="/keywords/547">implementation</a>,    <a href="/keywords/242">information center</a>,    <a href="/keywords/548">organizational context of information technology</a>,    <a href="/keywords/374">organizational innovation</a>,    <a href="/keywords/549">organizational size and scope</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/18">    Volume 27 Number 1 2010
+</a> pp. 273-303</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Influence of Experiential and Dispositional Factors in Phishing: An Empirical Investigation of the Deceived</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1602">Wright, Ryan T</a> and     <a href="/contributors/1603">Marett, Kent</a>    </div>
+
+<p>ABSTRACT: The article presents the results of a field study which investigated the type of internet fraud known as phishing, focusing on factors which cause people to be more or less susceptible to being deceived in this way. The study participants received a phishing e-mail (electronic mail) message asking for information which they were not supposed to divulge. Four behavioral factors were identified as correlating with a tendency to be duped by the phishing message. Suggestions are provided for antiphishing measures based on this data, centering on computer user education.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2667">computer-mediated deception</a>,    <a href="/keywords/2668">electronic mail fraud</a>,    <a href="/keywords/2669">Internet security</a>,    <a href="/keywords/2670">interpersonal deception theory</a>,    <a href="/keywords/2671">phishing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

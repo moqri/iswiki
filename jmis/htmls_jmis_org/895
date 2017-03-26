@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/75">    Volume 16 Number 3 1999
+</a> pp. 11-32</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Evidential Reasoning for WebTrust Assurance Services</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1045">Srivastava, Rajendra P</a> and     <a href="/contributors/1046">Mock, Theodore J</a>    </div>
+
+<p>ABSTRACT: We study two aspects of assurance services in electronic commerce. The first deals with the type(s) of evidential networks that will allow a professional accountant to provide assurance. Here, we develop an evidential network model for "WebTrust Assurance," a service being provided by the American Institute of Certified Public Accountants (AICPA) and the Canadian Institute of Chartered Accountants (CICA). Our model augments the AICPA/CICA approach and provides goals, subgoals and evidence relevant to the overall assurance to be provided. The aggregation of evidence and the resolution of uncertainties follow the belief-function approach. Next we develop a decision-theoretic model for the assurance-planning problem. Our approach is based on estimating the expected value of providing various levels of assurance and is illustrated with several different scenarios that may be faced in practice. We also consider the role of ambiguity in decision situations such as planning WebTrust engagements and calculate bounds in expected value based on whether auditors are conservative or not in their approach to risk.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1273">assurance services</a>,    <a href="/keywords/406">decision theory</a>,    <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/479">risk management</a>,    <a href="/keywords/1274">WebTrust</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

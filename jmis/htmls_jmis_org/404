@@ -1,0 +1,46 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/116">    Volume 20 Number 1 2003
+</a> pp. 123-151</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Investigating Determinants of Software Developers&#039; Intentions to Follow Methodologies</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/369">Hardgrave, Bill C,</a>    <a href="/contributors/732">Davis, Fred D,</a> and     <a href="/contributors/733">Riemenschneider, Cynthia K</a>    </div>
+
+<p>ABSTRACT: Seeking to improve software development, many organizations attempt to deploy formalized methodologies. This typically entails substantial behavioral change by software developers away from previous informal practices toward conformance with the methodology. Developers' resistance to such change often results in failure to fully deploy and realize the benefits of the methodology. The present research draws upon theories of intention formation and innovation diffusion to advance knowledge about why developers accept or resist following methodologies. Results from a field study within a large organization indicate that developers' intentions are directly influenced by their perceptions of usefulness, social pressure, compatibility, and organizational mandate. This pattern of intention determinants is quite different from that typically observed in studies of information technology tool adoption, revealing several key differences between the domains of tool versus methodology adoption. Specifically, although organizational mandate had a significant effect on intentions, the strength of its direct influence was the lowest among the four significant constructs, and usefulness, compatibility, and social pressure all influenced intentions directly, above and beyond the effects of organizational mandate. The findings suggest, contrary to popular belief, that an organizational mandate is not sufficient to guarantee use of the methodology in a sustained manner. [ABSTRACT FROM PUBLISHER]
+Copyright of Journal of Management Information Systems is the property of M.E. Sharpe Inc. and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use. This abstract may be abridged. No warranty is given about the accuracy of the copy. Users should refer to the original published version of the material for the full abstract. (Copyright applies to all Abstracts.)</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/774">diffusion of innovations</a>,    <a href="/keywords/1671">innovation adoption</a>,    <a href="/keywords/1672">software development methodologies</a>,    <a href="/keywords/820">technology acceptance model</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

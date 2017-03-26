@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/89">    Volume 24 Number 3 2007
+</a> pp. 167-191</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Optimal Number of Versions: Why Does Goldilocks Pricing Work for Information Goods?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/805">Hui, Wendy,</a>    <a href="/contributors/280">Byungjoon, Yoo,</a> and     <a href="/contributors/792">Kar Yan, Tam</a>    </div>
+
+<p>ABSTRACT: The literature in general suggests that selling multiple versions is more profitable than selling only a single version. However, how many versions should be offered is not as clear. Classical pricing studies suggest providing as many versions as the number of customer types, whereas some studies in information systems suggest providing only one or two versions. In reality, firms typically provide more than one or two versions, such as three in the case of Goldilocks pricing. This study explains the discrepancies in these results and observations by showing that, although profit increases with more versions, the marginal benefit of an additional version decreases rapidly. Therefore, firms sell few versions even in the presence of very small versioning-related costs such as menu and cognitive costs. This study analyzes the effects of these costs, and shows that cognitive costs have more profound effects on versioning than menu costs.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1450">analytical modeling</a>,    <a href="/keywords/2333">customized bundling</a>,    <a href="/keywords/1050">economics of information systems</a>,    <a href="/keywords/2332">information goods pricing</a>,    <a href="/keywords/1708">pricing</a>,    <a href="/keywords/1463">versioning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

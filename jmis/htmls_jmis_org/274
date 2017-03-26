@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/76">    Volume 20 Number 4 2004
+</a> pp. 85-113</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Collaborative Business Engineering: A Decade of Lessons from the Field</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/485">Den Hengst, Mariëlle</a> and     <a href="/contributors/235">De Vreede, Gert-Jan</a>    </div>
+
+<p>ABSTRACT: Business process reengineering (BPR) projects have been carried out for many years, with varying degrees of success. Two key reasons for failure are distinguished from the literature: insufficient stakeholder involvement and poor analyses of the business processes. The purpose of this paper is to present a decade of field experiences with collaborative BPR. Nine BPR projects were executed and analyzed in detail, leading to the identification of 87 themes regarding the efficiency and effectiveness of the project. These themes were organized into 12 categories of lessons learned that provide insight into the "best practices" and together informed the evolution of the collaborative business engineering (CBE) approach to BPR. The CBE approach combines a BPR process with collaboration and simulation modeling support to address the above-mentioned reasons for failure in BPR. The field experiences show that the CBE approach can be successfully applied for BPR projects in real life.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1748">action research</a>,    <a href="/keywords/831">business process reengineering</a>,    <a href="/keywords/1089">collaborative business engineering</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/698">groupware</a>,    <a href="/keywords/599">participatory design</a>,    <a href="/keywords/1058">simulation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

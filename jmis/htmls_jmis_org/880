@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/73">    Volume 19 Number 4 2003
+</a> pp. 85-128</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Modeling and Simulation for Mission Operations Work System Design</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1395">Sierhuis, Maarten,</a>    <a href="/contributors/1396">Clancey, William J,</a>    <a href="/contributors/1397">Chin, Seah,</a>    <a href="/contributors/1398">Trimble, Jay P,</a> and     <a href="/contributors/1399">Sims, Michael H</a>    </div>
+
+<p>ABSTRACT: Work system analysis and design is complex and nondeterministic. In this paper we describe Brahms, a multiagent modeling and simulation environment for designing complex interactions in human-machine systems. Brahms was originally conceived as a business process design tool that simulates work practices, including social systems of work. We describe our modeling and simulation method for mission operations work systems design, based on a research case study in which we used Brahms to design mission operations for a proposed discovery mission to the Moon. We then describe the results of an actual method application project--the Brahms Mars Exploration Rover. Space mission operations are similar to operations of traditional organizations; we show that the application of Brahms for space mission operations design is relevant and transferable to other types of business processes in organizations.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1640">agent languages</a>,    <a href="/keywords/705">business process modeling</a>,    <a href="/keywords/1641">mission operations design</a>,    <a href="/keywords/1642">multiagent simulation</a>,    <a href="/keywords/1643">work practices</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/99">    Volume 7 Number 4 1991
+</a> pp. 91-106</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Should &#039;Personal&#039; Computers Be Personally Allocated?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/668">Gogan, Jams L</a>    </div>
+
+<p>ABSTRACT: This paper reports on a field study examining the effects of different levels of PC availability on usage by auditors working in two large public accounting firms. Respondents' tasks and information-processing tools were held reasonably constant, permitting an examination of the effect of the independent variable, microcomputer availability. Substantial support was found for the hypothesis that greater PC availability is with a greater amount of PC use, which was measured as self-reported hours of use per month and usage supporting 32 auditing tasks in three task categories. The study contributes to the theory of information source availability. The results suggest that future studies of end-user computing should account for the substantial effect of information-processing tools available.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/365">end-user computing</a>,    <a href="/keywords/460">personal computing</a>,    <a href="/keywords/461">user behavior</a>,    <a href="/keywords/462">information-processing tool availability</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

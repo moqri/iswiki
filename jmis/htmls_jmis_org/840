@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/81">    Volume 3 Number 1 1986
+</a> pp. 5-31</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Controlling the Use and Evolution of Database Systems: A Prolog-based Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1337">Rozenshtein, David</a> and     <a href="/contributors/1063">Minsky, Naftaly</a>    </div>
+
+<p>ABSTRACT: This paper presents a model that provides a single comprehensive mechanism to control the use, operation, and evolution of database systems. This model unifies several concepts generally considered to be quite distinct. In particular, it minimizes the formal distinction between the users of the database, the programs embedded in it, and even the administrators and the programmers maintaining it. Furthermore, under this model, the concepts of subschema and of program module are replaced with a single concept of frame, which serves as the locus of power and of activity in the system. Moreover, the proposed control mechanism is closed, in the sense that the process of establishing controls is itself controllable by the same mechanism. This can be used to formalize and enforce a variety of managerial policies about the use and evolution of database systems.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/150">database evolution</a>,    <a href="/keywords/151">access authorization</a>,    <a href="/keywords/75">operations control</a>,    <a href="/keywords/152">database integrity</a>,    <a href="/keywords/153">PROLOG databases</a>,    <a href="/keywords/68">database</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

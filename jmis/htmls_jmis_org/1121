@@ -1,0 +1,73 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/94">    Volume 16 Number 2 1999
+</a> pp. 3-34</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ As you read the first of the papers in the special section on Strategic and Competitive Information Systems  that opens this issue, you will see how a successful firm was able to shed its business model and radically  transform the structure of its revenue stream. What for? To avoid disintermediation. The fact that the firm has for  a number of years used information systems strategically was an enabler; the fact that the CEO's name is  eponymous with that of the firm was probably critical. The threat of disintermediation of the current supply-chain  participants and the insertion of new intermediaries are some of the effects of electronic commerce. Another  effect is the creation of a great variety of electronic marketplaces. The other two papers in the Special Section  show the transformation of, respectively, the futures and the securities markets as we move inexorably to  electronic trading. The Guest Editors of the Special Section, Eric K. Clemons and Bruce W. Weber, tell you more  about the contribution of those papers in their own introduction.
+</p>
+<p>
+ In the first paper of the general section, Kathy S. Lassila and James C. Brancheau apply the punctuated  equilibrium perspective to the process of organizational appropriation of software packages. The authors identify  empirically several possible equilibrium states in this process, only some of which are desirable, and describe the  triggers that lead to state transitions. A successful implementation requires tracking of the new application to a  high-payoff state. The readers will be rewarded by the suggestions offered here in this regard. Their thinking  about the system implementation and utilization will also be expanded.
+</p>
+<p>
+ User acceptance of information systems is a vital aspect of their implementation and the Technology  Acceptance Model is the lens through which many of us look at this acceptance today. There is a price to pay for  the parsimony of this theory, and the authors of the next paper try to establish empirically at least a part of that  price. Paul J. Hu, Patrick Y.K. Chau, Olivia R. Liu Sheng, and Kar Yan Tam examine the applicability of the model in  the setting of acceptance by physicians of telemedicine technology. Although the authors do find the model  applicable, they also find it in need of extension in order to raise the explanatory power, and offer several  suggestions in this direction.
+</p>
+<p>
+ Even though most system development efforts today include prototyping, there is a dearth of empirical results  regarding its contribution to system success. Bill C. Hardgrave, Rick L. Wilson, and Ken Eastman attempt to rectify  this situation. In their survey-based exploratory study, these authors identify five variables that affect the  success of systems developed with the use of prototyping. The authors propose an initial contingency model for  the use of evolutionary or expendable (throw-away) prototyping. Interestingly, it does not include several  variables that the vernacular (not based on research) would place there.
+</p>
+<p>
+ Using case studies, Han van der Zee and Berend de Jong investigate how Balanced Business Scorecard is  and can be used to integrate the planning and implementation of business strategy with those of information  technology. The scorecard helps the company go beyond the financial measures of its performance, which are  by nature backward-looking, and develop performance measures based on such perspectives as organizational  learning or individual business processes. The latter measures are indeed the indicators of future financial  performance. The relative richness of the management method affords many points of contact with information  technology and thus facilitates its integration into the overall business goal setting and tracking.
+</p>
+<p>
+ Raymond R. Panko empirically investigates the contributions of the individual and group code inspections to the  testing of spreadsheets. His results indicate that the group effort produces no synergy and can be dropped.  More alarmingly, the work concludes that the residual errors (that pass the inspection) make spreadsheets  unsafe.
+</p>
+<p>
+ By using neural network forecasting models, Steven Walczak shows that emerging equity markets are less  efficient than the established ones. He further shows how these models can be used to discover these  inefficiencies and gain trading advantage. The point of this work is not, naturally, to be able to gain such  advantage. It helps us, rather, to expand our knowledge about the predictive capabilities of neural networks and  about the characteristics of capital markets.
+</p>
+<p>
+ We are delighted to welcome to our Editorial Board Professor Phillip Ein-Dor of Tel Aviv  University.
+</p>
+<p>
+ <b>
+  Key words and  phrases
+ </b>
+ :
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

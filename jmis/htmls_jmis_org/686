@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/110">    Volume 9 Number 4 1993
+</a> pp. 59-82</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>DKAS: A Distributed Knowledge Acquisition System in a DSS</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1129">Melody Yihwa, Kiang,</a>    <a href="/contributors/1130">Chi, Robert T,</a> and     <a href="/contributors/792">Kar Yan, Tam</a>    </div>
+
+<p>ABSTRACT: Knowledge acquisition is the process of accumulating new information and relating it to what is already known. Knowledge acquisition has been regarded as the bottleneck in knowledge-based systems development. In this paper, a distributed knowledge acquisition system (DKAS) is introduced for automating decision rules construction from a set of examples in a decision support system. DKAS has the potential to include various learning mechanisms and employs a multi-agent and parallel processing paradigm. The implementation of a DKAS integrates inductive and deductive learning methods that use different learning strategies. A stock selection problem is used to demonstrate the effectiveness of DKAS in solving classification type problems. The performance of the DKAS in portfolio management is compared to the performance of the NYSE and the S&P 500. The results indicate that the rules derived from using the DKAS outperform both the NYSE and the S&P 500.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/621">deductive learning</a>,    <a href="/keywords/622">distributed knowledge acquisition system</a>,    <a href="/keywords/613">inductive learning</a>,    <a href="/keywords/623">portfolio management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

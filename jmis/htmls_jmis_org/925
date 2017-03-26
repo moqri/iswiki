@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/108">    Volume 24 Number 1 2007
+</a> pp. 13-54</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Fact or Fiction?: A Sensemaking Perspective on the Reality Behind Executives&#039; Perceptions of IT Business Value</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1464">Tallon, Paul P</a> and     <a href="/contributors/467">Kraemer, Kenneth L</a>    </div>
+
+<p>ABSTRACT: Although research has made significant strides in recent years in evaluating the performance impacts from information technology (IT), a dearth of easily accessible objective measures, particularly at the process level, continues to limit IT research. Suggestions that researchers use perceptual measures instead are met with claims that the biased nature of perceptions renders them imperfect proxies for the true extent of IT impacts. In this paper, we use sensemaking theory to explore this claim. We outline a model relating what executives notice about process-level IT impacts with sensemaking-based perceptions of IT impacts at the firm level, and firm performance as the ultimate arbiter of perceptual accuracy. Estimating the model with survey data from executives in 196 firms, we find that executives' perceptions are more fact than fiction. While perceptions are not a perfect proxy for hard-to-find objective measures, perceptual accuracy should stimulate greater consideration of executives' perceptions in future IT business value research.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2233">executive perceptions</a>,    <a href="/keywords/637">business value of information technology</a>,    <a href="/keywords/2234">IT organizational impacts</a>,    <a href="/keywords/2235">IT value measurement</a>,    <a href="/keywords/2236">objective measures</a>,    <a href="/keywords/2237">perceptual measures</a>,    <a href="/keywords/2238">PLSGraph</a>,    <a href="/keywords/2239">process orientation</a>,    <a href="/keywords/825">sense making</a>,    <a href="/keywords/1310">value chain</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

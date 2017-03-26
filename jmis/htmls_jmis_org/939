@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/56">    Volume 14 Number 1 1997
+</a> pp. 185-214</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Integration between Business Planning and Information Systems Planning: An Evolutionary-Contingency Perspective</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/930">Teo, Thompson S H</a> and     <a href="/contributors/320">King, William R</a>    </div>
+
+<p>ABSTRACT: One of the key elements of strategic planning for information systems (IS) is the integration of information systems planning (ISP) with business planning (BP). This integration enables IS to support business strategies more effectively. Although this issue has received significant attention in recent years, empirical research focusing specifically on BP-ISP integration is still relatively sparse. This research extends existing results by examining the evolution of BP-ISP integration and the contingency variables that may influence BP-ISP integration. The results confirmed the existence of an evolutionary pattern that can be defined in terms of movement through four types of BP-ISP integration: administrative integration to sequential integration to reciprocal integration to full integration. Only a few firms indicated that they had reached full integration. Bypassed phases and reverse evolution, though observed, were uncommon. Among the contingency variables, the business competence of the IS executive appeared to be a key factor in influencing the extent of integration.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/362">alignment of MIS plans with business plans</a>,    <a href="/keywords/36">information systems planning</a>,    <a href="/keywords/1039">integration of MIS and business plans</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/131">    Volume 33 Number 2 2016
+</a> pp. 573-596</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Product Pricing in a Peer-to-Peer Economy</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/398">Weber, Thomas A</a>    </div>
+
+<p>ABSTRACT: 
+<p>The emergence of a collaborative economy has been driven by advances in information technology that allow consumers to borrow and rent goods among peers on a secondary sharing market. In a dynamic setting, consumers make intertemporal decisions about purchases and their participation in the sharing market. This study introduces an overlapping-generations model to analyze product pricing and consumer choice with and without a sharing market. The model quantifies the impacts of a peer-to-peer economy on the demand for ownership, the product price, and all participants’ payoffs, including consumer surplus, profits, and social welfare. Given consumers that are heterogeneous with respect to their consumption needs and valuations, it illustrates which of them are prone to participate in a sharing economy and whether a retailer (or manufacturer) can benefit from the presence of a secondary exchange. A sharing market tends to increase the price of new products by a “sharing premium,” which positively depends on the retailer’s commitment ability. The price increment becomes relatively smaller for higher-cost products. Low-cost products and sufficiently impatient consumers together make a peer-to-peer economy unattractive for retailers. For high-cost products, however, the latter stand to gain from the existence of a sharing market. Most important, the introduction of a peer-to-peer economy increases both consumer surplus and social welfare, thus creating an implicit imperative for a social planner to help promote collaborative consumption, for instance, by providing incentives for retailers and manufacturers that tend to offset possible expected negative payoff effects from consumer sharing.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3360">collaborative consumption</a>,    <a href="/keywords/3695">market equilibrium</a>,    <a href="/keywords/3696">monopoly pricing</a>,    <a href="/keywords/3697">overlapping generations</a>,    <a href="/keywords/3698">peer-to-peer economy</a>,    <a href="/keywords/3699">product pricing</a>,    <a href="/keywords/3364">sharing economy</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

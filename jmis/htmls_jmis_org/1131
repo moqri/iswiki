@@ -1,0 +1,747 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/13">    Volume 19 Number 1 2002
+</a> pp. 5-10</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ ENTERPRISE SYSTEMS, OR ENTERPRISE RESOURCE PLANNING (ERP) systems, are the information  systems that come closest to belying the early and resonant claim that MIS is a mirage [1]. They are indeed  expected to support the enterprise's operations and provide its various levels of management with information  in a highly integrated manner. When integrated beyond the confines of the individual enterprise with the  systems of its business partners, such extended enterprise systems engender a vision of a network of  value-creating processes cutting across organizational boundaries. (They also engender nightmarish visions of  panoptical control in those susceptible to such visions.) ERP can form a fundamental platform for the  informational infrastructure of an enterprise. However, it is crucial to see that they do not become an  infrastructure automatically. Strategic planning, organizational fit, business process transformation, motivated  and trained human resources, and last, and perhaps most vital, a proper implementation process, are all  necessary preconditions to creating a lasting yet flexible infrastructure. The fact that many companies fail in  this creation is the testimony to how difficult it is.
+</p>
+<p>
+ There is a definite value, then, in studying the papers included in the Special Section on ERP by its Guest  Editors, Arik Ragowsky and Toni M. Somers, who will also introduce these works to you. The papers offer,  respectively, an in-depth study of several ERP implementations analyzed as organizational learning  processes, a quasi-experimental study of the implementation of Customer Relationship Management that  extends ERP forward, and the analysis of the business impacts of ERP. The latter study shows that the firms  that invest in ERP tend to exhibit superior financial performance. According to this innovative study, an  average ERP implementation is a productive investment. A note of warning: there are no average  implementations. There are those that succeed and those that do not, in many ways and over time.
+</p>
+<p>
+ Two papers in the general section of the issue deal with the effects of information presentation. Kai H. Lim and  Izak Benbasat study experimentally the relationship between multimedia presentation, and the retention and  recall of the presented information. Their theory-based investigation shows that multimedia has a significant  positive effect on the recall of explanatory, but not of descriptive, information. The results both account for  the mixed outcomes of the prior experimental reports and lead to practical conclusions for the employment of  multimedia.
+</p>
+<p>
+ Roderick I. Swaab and his colleagues study the role of visualization of the possible outcomes on the progress  of negotiations with the aid of a negotiation support system. More specifically, the investigators study whether  the visualization supports better the formation of shared mental models, common visions of the possible  reality, among the negotiators. By improving well-defined aspects of negotiation, computer-supported  visualization of information does indeed lead to faster consensus as well as higher satisfaction. All of this  places increased responsibility on the modeling adopted during the negotiation.
+</p>
+<p>
+ The inclusion of functions in a digital product such as software is to a high degree a matter of competitive  positioning with respect to the function bundle expected by the desired buyer segment. Marginal costs of  production and distribution are close to nil. As a result of a game-theoretic analysis of what functionality to  include in a software package, Kai Lung Hui and Kar Yan Tam are able to offer practical suggestions to both  the first-moving software developer and to the market followers.
+</p>
+<p>
+ The performance of information-system projects has been studied by a large number of researchers and  practitioners. Here, Adel M. Aladwani offers and tests in the field a theory-based integrated model of project  performance. To benefit managers, the study surfaces a set of factors that will have a significant impact on  the performance of their projects. This synthesis should also encourage researchers both to extend the model  with additional constructs and to test it in multiple environments.
+</p>
+<p>
+ The World Wide Web is the principal vehicle for electronic commerce-and an arena for a wide range of  actions and behaviors. As a marketplace of invisible sellers and buyers, the Web-based marketspace is  inherently short on trust. Therefore, seeking the understanding of the trust construct has been recently  preoccupying a number of scholars, and seeking trust itself has been the preoccupation of online firms. Here,  Anol Bhattacherjee presents and tests a theoretically founded scale to measure the degree of trust an online  company engenders. The model is refined into a parsimonious instrument that may be expected to serve both  the practitioners and the future researchers.
+</p>
+<p>
+ It does not take an experienced ethnographer to establish that much of the Web navigation done in the  workplace is not precisely aligned with the corporate objectives. Should the employers wish to limit such  activities, they could resort to profiling with the use of artificial neural networks (ANN), as proposed here by  Murugan Anandarajan. The ANN-based behavior models proposed and tested by this author permit to classify  the employees' Web behavior a priori, and thus to establish organizationally desirable Web use policies. The  study is also of interest as an exemplar of a novel use of ANN to address organizational problems.
+</p>
+<p>
+ It is traditional at the time we enter a new year of the Journal's publication for me to thank the Editorial Board,  authors, readers, and technical editors of JMIS for their contribution. The primary guarantors of the Journal's  quality, its reviewers, deserve very special thanks. Here are the referees of the Journal of Management  Information Systems:
+</p>
+<p>
+ William Acar
+ <br/>
+ Dennis A. Adams
+ <br/>
+ Niv Ahituv
+ <br/>
+ Murugan Anandarajan
+ <br/>
+ Hayward P. Andres
+ <br/>
+ Dorine Andrews
+ <br/>
+ Solomon Antony
+ <br/>
+ Yoris Au
+ <br/>
+ Sulin Ba
+ <br/>
+ Barbro Back
+ <br/>
+ Yannis Bakos
+ <br/>
+ P.R. Balasubramanian
+ <br/>
+ Dirk Baldwin
+ <br/>
+ Reza Barkhi
+ <br/>
+ Henri Barki
+ <br/>
+ Genevieve Bassellier
+ <br/>
+ Dinesh Batra
+ <br/>
+ Irma Becerra-Fernandez
+ <br/>
+ Salvatore Belardo
+ <br/>
+ Skip Benamati
+ <br/>
+ Michael Benaroch
+ <br/>
+ Francois Bergeron
+ <br/>
+ Anol Bhattacherjee
+ <br/>
+ Sudip Bhattacherjee
+ <br/>
+ Bijoy Bordoloi
+ <br/>
+ Indranil Bose
+ <br/>
+ Carol V. Brown
+ <br/>
+ Robert M. Brown
+ <br/>
+ Glenn Browne
+ <br/>
+ Jeffrey Butterfield
+ <br/>
+ Terry A. Byrd
+ <br/>
+ Edward G. Cale Jr.
+ <br/>
+ Judith Carlisle
+ <br/>
+ Sven Carlsson
+ <br/>
+ Houston H. Carr
+ <br/>
+ William J. Carroll
+ <br/>
+ Robert P. Cerveny
+ <br/>
+ Sergio de Cesare
+ <br/>
+ Namsik Chang
+ <br/>
+ Patrick Chau
+ <br/>
+ Hong-Mei Chen
+ <br/>
+ Hsing Kenneth Cheng
+ <br/>
+ Robert T.H. Chi
+ <br/>
+ Roger Chiang
+ <br/>
+ William C. Chismar
+ <br/>
+ Jong-min Choe
+ <br/>
+ H. Michael Chung
+ <br/>
+ Roger Clarke
+ <br/>
+ Randy Cooper
+ <br/>
+ Paul Cule
+ <br/>
+ Qizhi Dai
+ <br/>
+ Ronald Dattero
+ <br/>
+ Michael J. Davern
+ <br/>
+ Donald L. Davis
+ <br/>
+ Gordon Depledge
+ <br/>
+ Sarv Devaraj
+ <br/>
+ Ali Dogramaci
+ <br/>
+ Peter Duchessi
+ <br/>
+ Adrie C.M. Dumay
+ <br/>
+ Omar A. El Sawy
+ <br/>
+ Hyun B. Eom
+ <br/>
+ Gerald E. Evans
+ <br/>
+ Ming Fan
+ <br/>
+ Bijan Fazlollahi
+ <br/>
+ Steven Feiner
+ <br/>
+ Kirk Fiedler
+ <br/>
+ Edmond P. Fitzgerald
+ <br/>
+ Jerry Fjermestad
+ <br/>
+ Steven W. Floyd
+ <br/>
+ Edward Fox
+ <br/>
+ Dennis Galletta
+ <br/>
+ Edward J. Garrity
+ <br/>
+ Erol Gelenbe
+ <br/>
+ Mark Ginsburg
+ <br/>
+ Janis L. Gogan
+ <br/>
+ Dale Goodhue
+ <br/>
+ Sanjay Gosain
+ <br/>
+ Martin D. Goslar
+ <br/>
+ Paul Gray
+ <br/>
+ Saul Greenberg
+ <br/>
+ Robert K. Griffin
+ <br/>
+ Michael D. Grigoriades
+ <br/>
+ Mary-Liz Grise
+ <br/>
+ Bin Gu
+ <br/>
+ Alok Gupta
+ <br/>
+ Jungpil Hahn
+ <br/>
+ Barbara Haley
+ <br/>
+ Bill C. Hardgrave
+ <br/>
+ Il-Horn Hann
+ <br/>
+ Paul Hart
+ <br/>
+ Stephen Hayne
+ <br/>
+ Starr Roxanne Hiltz
+ <br/>
+ Rudy Hirschheim
+ <br/>
+ Richard Hoffman
+ <br/>
+ John A. Hoxmeier
+ <br/>
+ Paul Hu
+ <br/>
+ Qing Hu
+ <br/>
+ Wayne Huang
+ <br/>
+ Cary T. Hughes
+ <br/>
+ Kai Lung Hui
+ <br/>
+ Ard Huizing
+ <br/>
+ E. Gerald Hurst
+ <br/>
+ Zahir Irani
+ <br/>
+ Gretchen I. Irwin
+ <br/>
+ Tomas Isakowitz
+ <br/>
+ Bharat A. Jain
+ <br/>
+ Sirkka L. Jarvenpaa
+ <br/>
+ Murray E. Jennex
+ <br/>
+ Linda Ellis Johnson
+ <br/>
+ Kailash Joshi
+ <br/>
+ Charles Kacmar
+ <br/>
+ Surinder Kahai
+ <br/>
+ Timo Kakola
+ <br/>
+ Ajit Kambil
+ <br/>
+ P.K. Kannan
+ <br/>
+ Jahangir Karimi
+ <br/>
+ Michael Kattan
+ <br/>
+ Timothy Kayworth
+ <br/>
+ Mark Keil
+ <br/>
+ Robert T. Keim
+ <br/>
+ Chris Kemerer
+ <br/>
+ Julie E. Kendall
+ <br/>
+ William J. Kettinger
+ <br/>
+ Omar E.M. Khalil
+ <br/>
+ Melody Y. Kiang
+ <br/>
+ Rajiv Kishore
+ <br/>
+ Gary Klein
+ <br/>
+ Stefan Koch
+ <br/>
+ Esther Koster
+ <br/>
+ Kenneth A. Kozar
+ <br/>
+ Kenneth L. Kraemer
+ <br/>
+ Ramayya Krishnan
+ <br/>
+ Uday Kulkarni
+ <br/>
+ Akhil Kumar
+ <br/>
+ Ram Kumar
+ <br/>
+ Mary C. Lacity
+ <br/>
+ Simon S.K. Lam
+ <br/>
+ Gwynne Larsen
+ <br/>
+ Tor J. Larsen
+ <br/>
+ Kathy S. Lassila
+ <br/>
+ Heeseok Lee
+ <br/>
+ Ho Geun Lee
+ <br/>
+ Jungwoo Lee
+ <br/>
+ Dorothy Leidner
+ <br/>
+ Richard Leifer
+ <br/>
+ Mary Jane Lenard
+ <br/>
+ Hugo Levecq
+ <br/>
+ Ting-Peng Liang
+ <br/>
+ Nancy Lightner
+ <br/>
+ Kai Lim
+ <br/>
+ Yihwa Irene Liou
+ <br/>
+ Astrid Lipp
+ <br/>
+ Paulo J.G. Lisboa
+ <br/>
+ Henry C. Lucas Jr.
+ <br/>
+ Mark Lycett
+ <br/>
+ Kalle Lyytinen
+ <br/>
+ William McCarthy
+ <br/>
+ Jane M. Mackay
+ <br/>
+ Roy McKelvey
+ <br/>
+ D. Harrison McKnight
+ <br/>
+ Ephraim R. McLean
+ <br/>
+ Poppy L. McLeod
+ <br/>
+ Simha R. Magal
+ <br/>
+ Mo A. Mahmood
+ <br/>
+ David Maier
+ <br/>
+ Ji-Ye Mao
+ <br/>
+ Salvatore T. March
+ <br/>
+ Anne P. Massey
+ <br/>
+ Charles H. Mawhinney
+ <br/>
+ Jerrold H. May
+ <br/>
+ Roberto J. Mejias
+ <br/>
+ Steven C. Michael
+ <br/>
+ Thomas Miller
+ <br/>
+ Shaila Miranda
+ <br/>
+ Rajesh Mirani
+ <br/>
+ William H. Money
+ <br/>
+ Ali R. Montazemi
+ <br/>
+ Ramiro Montealegre
+ <br/>
+ Jeanette Moody
+ <br/>
+ Ajay S. Mookerjee
+ <br/>
+ Scott Moore
+ <br/>
+ Tanya Morley
+ <br/>
+ Jolene Morrison
+ <br/>
+ Michael D. Myers
+ <br/>
+ Kathleen Mykytyn
+ <br/>
+ Peter P. Mykytyn Jr.
+ <br/>
+ Barin N. Nag
+ <br/>
+ Murli Nagasundaram
+ <br/>
+ R. Ryan Nelson
+ <br/>
+ Boon Siong Neo
+ <br/>
+ Fred Niederman
+ <br/>
+ Mark Nissen
+ <br/>
+ Rosalie Ocker
+ <br/>
+ Lorne Olfman
+ <br/>
+ James Oliver
+ <br/>
+ Levent Orman
+ <br/>
+ Richard Orwig
+ <br/>
+ Jonathan W. Palmer
+ <br/>
+ Raymond R. Panko
+ <br/>
+ Michael Parent
+ <br/>
+ Diane Parente
+ <br/>
+ Kenneth Peffers
+ <br/>
+ Norman Pendegraft
+ <br/>
+ Mark Pendergast
+ <br/>
+ Roger A. Pick
+ <br/>
+ Leo L. Pipino
+ <br/>
+ Steven Poltrock
+ <br/>
+ Jean-Charles Pomerol
+ <br/>
+ Gerald Post
+ <br/>
+ John H. Prager
+ <br/>
+ Jayesh Prasad
+ <br/>
+ G. Premkumar
+ <br/>
+ Sandeep Purao
+ <br/>
+ S. Raghunathan
+ <br/>
+ Arik Ragowsky
+ <br/>
+ T.S. Ragu-Nathan
+ <br/>
+ Arun Rai
+ <br/>
+ Rex Kelly Rainer Jr.
+ <br/>
+ K.S. Raman
+ <br/>
+ B. Ramesh
+ <br/>
+ Richard G. Ramirez
+ <br/>
+ H.R. Rao
+ <br/>
+ R. Ravichandran
+ <br/>
+ T. Ravichandran
+ <br/>
+ Sury Ravindran
+ <br/>
+ Amy W. Ray
+ <br/>
+ Louis Raymond
+ <br/>
+ Paul Resnick
+ <br/>
+ William B. Richmond
+ <br/>
+ Frederick Riggins
+ <br/>
+ Daniel Robey
+ <br/>
+ Michael B. Rogich
+ <br/>
+ Young U. Ryu
+ <br/>
+ Timo Saarinen
+ <br/>
+ Rajiv Sabherwal
+ <br/>
+ Sharon Salveter
+ <br/>
+ G. Lawrence Sanders
+ <br/>
+ Radhika Santhanam
+ <br/>
+ Carol Saunders
+ <br/>
+ Naveed Saleem
+ <br/>
+ George Schell
+ <br/>
+ K.D. Schenk
+ <br/>
+ Judy Scott
+ <br/>
+ Irmtraud S. Seeborg
+ <br/>
+ Kishore Sengupta
+ <br/>
+ Vikram Sethi
+ <br/>
+ Kenneth C. Sevcik
+ <br/>
+ Dennis G. Severance
+ <br/>
+ Theresa M. Shaft
+ <br/>
+ Steven Sheetz
+ <br/>
+ Jim Sheffield
+ <br/>
+ Olivia Sheng
+ <br/>
+ Morgan M. Shepherd
+ <br/>
+ Michael Shields
+ <br/>
+ Siew Kien Sia
+ <br/>
+ Mark S. Silver
+ <br/>
+ Atish P. Sinha
+ <br/>
+ Sumit Sircar
+ <br/>
+ H. Jeff Smith
+ <br/>
+ Eli M. Snir
+ <br/>
+ Charles A. Snyder
+ <br/>
+ William E. Spangler
+ <br/>
+ Rajendra P. Srivastava
+ <br/>
+ Thomas F. Stafford
+ <br/>
+ Sandy Staples
+ <br/>
+ Eric W. Stein
+ <br/>
+ Dick Stenmark
+ <br/>
+ John M. Stevens
+ <br/>
+ Veda Storey
+ <br/>
+ Girish Subramanian
+ <br/>
+ Ramesh Subramanian
+ <br/>
+ Ephraim Sudit
+ <br/>
+ Robert T. Sumichrast
+ <br/>
+ Shankar Sunarajan
+ <br/>
+ Arun Sundararajan
+ <br/>
+ Tae Kyung Sung
+ <br/>
+ Roderick I. Swaab
+ <br/>
+ Edward J. Szewczak
+ <br/>
+ Paul P. Tallon
+ <br/>
+ Kar Yan Tam
+ <br/>
+ Bernard C.Y. Tan
+ <br/>
+ Mohan R. Tanniru
+ <br/>
+ Alfred Taudes
+ <br/>
+ David P. Tegarden
+ <br/>
+ James T.C. Teng
+ <br/>
+ Hock-Hai Teo
+ <br/>
+ Thompson Teo
+ <br/>
+ Matthew Thatcher
+ <br/>
+ Ron Thompson
+ <br/>
+ James Y.L. Thong
+ <br/>
+ John Tillquist
+ <br/>
+ Peter Tingling
+ <br/>
+ Leon van der Torre
+ <br/>
+ Jonathan K. Trower
+ <br/>
+ Duane Truex
+ <br/>
+ Gregory E. Truman
+ <br/>
+ Ilkka Tuomi
+ <br/>
+ Jon A. Turner
+ <br/>
+ Brad Tuttle
+ <br/>
+ Craig K. Tyran
+ <br/>
+ N.S. Umanath
+ <br/>
+ Rustam Vahidov
+ <br/>
+ Yaniv Vakrat
+ <br/>
+ Vasja Vehovar
+ <br/>
+ Alfredo Vellido
+ <br/>
+ Boris S. Verkhovsky
+ <br/>
+ Michael Wade
+ <br/>
+ Steven Walczak
+ <br/>
+ Bin Wang
+ <br/>
+ Michael S. Wang
+ <br/>
+ Shouhong Wang
+ <br/>
+ Y. Richard Wang
+ <br/>
+ Carol Watson
+ <br/>
+ Mary Beth Watson-Manheim
+ <br/>
+ Chih-Ping Wei
+ <br/>
+ Charles E. Wells
+ <br/>
+ Larry West
+ <br/>
+ J. Christopher Westland
+ <br/>
+ Seungjin Whang
+ <br/>
+ Michael E. Whitman
+ <br/>
+ George Widmeyer
+ <br/>
+ Fons Wijnhoven
+ <br/>
+ Barbara Wixom
+ <br/>
+ Kristoff K. Wolyniec
+ <br/>
+ Hans Wortmann
+ <br/>
+ Evangelos Yfantis
+ <br/>
+ Han Zhang
+ <br/>
+ J. Leon Zhao
+ <br/>
+ Lina Zhou
+ <br/>
+ Ilze Zigurs
+ <br/>
+ Moshe Zviran
+</p>
+<p>
+ I wish to acknowledge the respective contributions of the outgoing members of the Editorial Board, George M.  Kasper, who served the Journal over a number of years, and Tung X. Bui. I would like to welcome to the Board  its new members, Amitava Dutta of George Mason University, Lorin M. Hitt of the University of  Pennsylvania, Albert Segars of the University of North Carolina, and Peter Weill of MIT.
+</p>
+<p>
+ VLADIMIR ZWASS
+ <br/>
+ Editor-in-Chief
+</p>
+<p>
+ REFERENCE
+</p>
+<p>
+ 1. Dearden, J. MIS is a mirage. Harvard Business Review, 50, 1 (January-February 1972), 90-99.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/2">    Volume 6 Number 1 1989
+</a> pp. 87-100</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Computer Charging Mechanism for Revealing User Preferences within a Large Organization</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1249">Pick, Roger Alan</a> and     <a href="/contributors/154">Whinston, Andrew B</a>    </div>
+
+<p>ABSTRACT: The development of effective techniques for allocating computer resources is a major concern in computer center management. Most proposals, while based on concepts originally developed by economists, are based on the assumption that participants provide truthful information. Over the past twenty years, researchers in economics have explored truth-revealing mechanisms. We apply these ideas to charging for computing resources within an organization. The resulting mechanism provides an incentive for users to tell the system administrator their true valuation of a given configuration. Applications of this mechanism to both long-term and short-term situations are outlined. The long-term situation demonstrates how an appropriate computer configuration can be derived from information obtained from its future users. The short-term situation involves setting priorities among jobs.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/351">transfer pricing</a>,    <a href="/keywords/352">queuing</a>,    <a href="/keywords/353">truthful voting</a>,    <a href="/keywords/354">computer charging</a>,    <a href="/keywords/355">computing equipment selection</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

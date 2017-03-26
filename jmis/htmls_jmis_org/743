@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/85">    Volume 1 Number 4 1985
+</a> pp. 44-56</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Array Algebra for Database Applications</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1205">Orman, Levent V</a>    </div>
+
+<p>ABSTRACT: Array Algebra provides a complete and algebraic programming environment for database application systems where large quantities of highly structured data are involved. Some procedure is suppressed by utilizing an algebra based on the theory of generalized arrays to express the functional relationships among the data items, and more specifically between the inputs and the outputs of an application system.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/62">database languages</a>,    <a href="/keywords/63">nonprocedural programming</a>,    <a href="/keywords/48">query languages</a>,    <a href="/keywords/64">array theory</a>,    <a href="/keywords/65">recursive data structures</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

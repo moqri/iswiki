@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/106">    Volume 25 Number 4 2009
+</a> pp. 9-50</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Understanding Sustained Participation in Open Source Software Projects</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/597">Fang, Yulin</a> and     <a href="/contributors/598">Neufeld, Derrick</a>    </div>
+
+<p>ABSTRACT: Prior research into open source software (OSS) developer participation has emphasized individuals' motivations for joining these volunteer communities, but it has failed to explain why people stay or leave in the long run. Building upon Lave and Wenger's theory of legitimate peripheral participation (LPP), this paper offers a longitudinal investigation of one OSS community in which sustained participation is hypothesized to be associated with the coevolution of two major elements of LPP theory: "situated learning" (the process of acting knowledgeably and purposefully in the world) and "identity construction" (the process of being identified within the community). To test this hypothesis, data were collected from multiple sources, including online public project documents, electronic mail messages, tracker messages, and log files. Results from qualitative analyses revealed that initial conditions to participate did not effectively predict long-term participation, but that situated learning and identity construction behaviors were positively linked to sustained participation. Furthermore, this study reveals that sustained participants distinguished themselves by consistently engaging in situated learning that both made conceptual (advising others) and practical contributions (improving the code). Implications and future research are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1424">communities of practice</a>,    <a href="/keywords/2456">legitimate peripheral participation</a>,    <a href="/keywords/2457">open source projects</a>,    <a href="/keywords/2458">open source software community</a>,    <a href="/keywords/2459">qualitative study</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

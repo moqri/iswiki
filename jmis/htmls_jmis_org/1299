@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/132">    Volume 33 Number 3 2016
+</a> pp. 904-933</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Influence of Firm’s Recovery Endeavors upon Privacy Breach on Online Customer Behavior</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1855">Choi, Ben CF,</a>    <a href="/contributors/1082">Kim, Sung S,</a> and     <a href="/contributors/1759">Jiang, Zhenhui (Jack)</a>    </div>
+
+<p>ABSTRACT: 
+<p>The soaring number of privacy breaches has prompted affected firms to learn how to effectively recover damaged customer relationships. In this study we develop and test a model that explains how online customer behavior is influenced by a firm’s recovery endeavors when privacy breaches occur. Drawing on a service recovery perspective, we integrate the notions of justice perceptions and psychological responses into a theoretical framework. The proposed model was tested against data collected from 1,007 online customers based on a hypothetical scenario. Results show that three types of justice perceptions, distributive, procedural, and interactional justice, jointly affect psychological responses—that is, perceived breach and feelings of violation. In addition, psychological responses were shown to be important in shaping postincident outcomes such as post-word of mouth and post-likelihood of switching. The study gives researchers and practitioners a useful conceptual tool for analyzing the effectiveness of organizational practices in recovering customer relationship after privacy breaches.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3705">online customer behavior</a>,    <a href="/keywords/1355">privacy</a>,    <a href="/keywords/3706">privacy breaches</a>,    <a href="/keywords/3707">psychological responses</a>,    <a href="/keywords/3139">security</a>,    <a href="/keywords/969">structural equation modeling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,81 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/101">    Volume 12 Number 3 1995
+</a> pp. 3-7</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Issue: Information Technology and Its Organizational Impact</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/3">Nunamaker Jr, Jay F</a> and     <a href="/contributors/236">Sprague Jr, Ralph H</a>    </div>
+
+<p><p>
+ This special issue contains ten papers that address key issues in management  information systems (MIS), a rich field with many referent disciplines.  It is a strength of our community that we strive for a full understanding of the complex phenomena we study by approaching them from many epistemological and methodological perspectives.  Each methodological approach informs the others.  Case studies inform experimentation by discovering phenomena and drawing inferences from them.  Experimentation informs case studies by demonstrating phenomena under controlled conditions to untangle confounds and separate superstition and myth from useful explanation.  Mathematical modeling provides insights about complex interrelationships among phenomena observed in the field and laboratory, often reducing the time required to find solutions.  Surveys reveal patterns and trends in the field and provide a starting point for both case and experimental studies by suggesting fruitful possibilities for software engineering efforts.  Software engineering clarifies concepts and embodies theory, while providing the necessary content for both field and laboratory work.  Software engineering also provides invaluable insights about concepts at the core of our discipline: the need to produce large information systems on time and under budget and to deliver timely, accurate, and complete information at a minimum of cognitive and monetary cost.  It is important to our field that we value and nurture our methodological diversity and maintain a balance among the methodologies we use.  Our problems are complex and rapidly changing .  No single research method, no single technique will answer every question.  Toward that end, in this special issue, we are pleased to present ten of the best papers from the 1995 Hawaii International Conference on System Sciences (HICSS 28).  Two are ward winners and others are award nominees.  The papers span the methodological groups of software engineering, case studies, mathematical models, experiments, and a survey.
+</p>
+<p>
+ The two papers on software engineering address new approaches for developing software designs.  Nanduri and Tugaber, of the Georgia Institute of Technology, present an innovative approach for creating and validating object definitions in "Requirements Validation via Automated Natural Language Parsing."  This paper reports a fascinating attempt to use a natural language parser to automate the development and validation of object models for object-oriented (OO) programming.  To date, the best method available for creating object models has been for an analyst to review documents and text-based requirement definitions looking for possible objects to model.  The authors adapted a natural language parser to a requirements document, extracting candidate objects, methods, and associations, and composing them into an object model diagram.  The automated results compare favorably with those produced by manual OO analysis processes, but do not exceed them.  The authors report that the automated results were useful to analysts for checking completeness and correctness and posit that future improvements to the parser may produce much better output.  This papers tries to bring much needed rigor to a very difficult and largely artistic process.
+</p>
+<p>
+ Holden and Wilhelmij, of the University of Cambridge, in "Improved Decision in a Hospital Situation," present a detailed method for evaluating and improving business process.  It is a method based on structured interview and modeling that addresses many of the traditional business process reengineering issues, but it also focuses specifically on intangible factors relating to people, culture, and knowledge - factors that can influence the success or failure of an enterprise.  The steps of the process are described along with a computer-based tool for capturing and modeling the information that surfaces during the analysis.  The paper illustrates the processes of the method by reporting the analysis of a diagnostic team within a department of a large hospital.
+</p>
+<p>
+ The two case studies in this issue report on very different phenomena."Learning, Working,  and Innovation: A Case Study in the Insurance Industry," by Henderson and Lentz of Boston University, examines the link between IT investments and business value.  Senior IS managers are now being required to demonstrate the contribution that IT makes to the bottom line, but little is known about how to measure such a linkage.  The IT-performance link is rarely clear, direct, or immediate.  The authors present an approach to studying the concept of value management by building upon cybernetic theory.  Cybernetic theory defines a feedback process consisting  of standards of performance, measures of value, and a system for monitoring and tracking performance, processes for feeding back the information, and modifying actions.  The authors create an approach called Value Management as an explicit, adaptive mechanism to systematically influence IT initiatives.  This case study uses the Value Management model to examine the contrast between canonical (prescribed) work practices and noncanonical (actual) work practices and draws inferences about how the differences between them affect the value of the organization.
+</p>
+<p>
+ The case study by Money of George Washington University, "applying Group Support Systems to Classroom Settings: A Social Cognitive Learning Theory Explanation," details a semester-long use of group support systems in a master's level IS course.  Money used social cognitive learning theory to guide the development of prototype learning experiences for the students.  His paper includes detailed descriptions of the online activities and describes student reactions and student results.  The paper provides rich details about the classroom methods that should enable other researchers to replicated and extend the work presented here.
+</p>
+<p>
+ The two modeling papers address probabilistic networks and genetic algorithms.  Roehrig, of Carnegie Mellon University, presents a method for deriving useful analysis from probabilistic networks where some of the conditional probabilistic are not available  in "Incompletely Specified Probabilistic Networks."  Probabilistic networks are used as an adjunct or alternative to logical models in artificial in artificial intelligence and decision support systems applications.  They are a useful way to represent a distribution over a set of random variables.  Ordinarily, one must specify all relevant conditional probabilities in order to use the network.  This paper describes general rules derived from application of the method to some simple networks.
+</p>
+<p>
+ Dworman, Kimbrough, and Liang, of the University of Pennsylvania, in their award-winning HICSS 28 paper, "On Automated Discovery of Models Using Genetic Programming: Bargaining in a Three-Agent Coalitions Game," report on an effort to automate the model-formulation process.  They describe an approach to finding optimal strategies for solving problems relating to game theory by using evolutionary , or genetic, algorithms.  Genetic algorithms simulate various strategies by representing them as a set of finite state automata.  The various strategies compete with one another, and the strategies with the best results are retained.  New strategies are generated by crossing the characteristics of older, successful strategies.  Over the life of the simulation the strategies that produce the best results are retained and reported.  This approach can be used to find optimal strategies for complex economic and game-theoretic problems.  The paper illustrates the approach using the prisoner's dilemma and other problems and reports that the algorithm can often find strategies superior to the best generated by humans.
+</p>
+<p>
+ This issue includes three experiments, all of which deal with aspects of electronic support for group processes.  In "The Effects of Distributed Group Support and Process Structuring on Software Requirements Development Teams: Results on Creativity and Quality," Ocker, Hiltz, Turoff, and Fjermestad, of the New Jersey Institute of Technology, report on a 2x2 experiment examining the use of computer conferencing  technology for distributed software development.  Some of the subjects used the system and a structured technique, while others used the system with no structured technique.  Some used no computer conferencing system, both with and without a structured technique.  The subject designed an automated post office.  The study found that participants using the computer conferencing system produced designs that were of slightly higher quality and considerably more creative.  The paper examines reasons why this might have occurred.
+</p>
+<p>
+ The next two experiments described in this issue come from the same research team at the University of Arizona.  The two studies examine very different phenomena relating to group support systems (GSS), but are presented here as a related set.  One deals with increasing productivity in electronic brainstorming, while the other posits that large increases in productivity are not always enough to ensure organization-wide diffusion of new technologies.  The pairing of these two papers reminds us that laboratory studies can lead to more effective technique and technology, but eventually our findings must be accepted in the workplace for our contributions to be realized.  The first paper of this pair is "Invoking Social Comparison to Improve Electronic Brainstorming: Beyond Anonymity," by Shepherd, Briggs, Reinig, Yen, and Nunamaker.  The authors argue that social loafing may suppress productivity in anonymous loafing.  The authors built a real-time feedback tool that provided a basis for social comparison and observed a 63 percent increase in production of unique ideas.  An interesting point  is that this paper seeks, but does not find, the classic goal-setting effect, where teams given higher goals outperform teams with lower goals.  The authors suggest that this may be a social-comparison effect.
+</p>
+<p>
+ The second paper of this pair is the HICSS 28 award-winning research, "Affective Reward and the Adoption of Group Support Systems: Productivity Is Not Always Enough," by Reinig, Briggs, Shepherd, Yen, and Nunamaker. The authors observed in the field that certain teams using group support systems were productive beyond all expectation, and were very satisfied with their results, but a felt a distinct lack of gratification about their online work.  The paper presents the development and validation of an instrument to measure affective reward, or the sense of emotional fulfillment that sometimes accompanies successful team efforts.  The paper posits that affective reward might be an excitation transfer phenomenon and presents an experiment testing that hypothesis.  It concludes by offering a short form of the affective reward instrument to support future research.
+</p>
+<p>
+ The final paper in this issue, from Deephouse, Mukhopadhyay, Goldenson, and Kellner of Carnegie Mellon University, is a survey study entitled "Software Processes and Project Performance."  The authors conducted a survey of eighty-seven large-scale systems development projects to determine which of several factors might be most important to the success of a project as measured in terms of product quality, productivity, time to market, and customer satisfaction.  They asked respondents about the importance of software project planning, software process stability, software prototyping, and cross-functional teams.  Only two factors - project planning and cross-functional teams - were consistently associated with favorable outcomes.  The survey results showed that IS professional perceived the other practices to have little impact on project outcomes.
+</p>
+<p>
+ We would like to thank the anonymous referees for their timely, thorough, and diligent work.  Also, a special note of appreciation to Robert Briggs for his assistance in pulling this issue together and for the time we spent debating the merits of the many high-quality papers that were reviewed and considered for publication.  We think the papers are an interesting and informative combination of methodologies and applications.  We hope the knowledge you gain from reading this special issue of outstanding papers will stimulate your creativity.
+ <br/>
+</p></p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/374">organizational innovation</a>,    <a href="/keywords/168">information systems management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

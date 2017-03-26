@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/57">    Volume 11 Number 4 1995
+</a> pp. 65-86</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Making Large-Scale Information Resources Serve Communities of Practice</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1110">Marshall, Catherine C,</a>    <a href="/contributors/1111">Shipman Iii, Frank M,</a> and     <a href="/contributors/1112">McCall, Raymond J</a>    </div>
+
+<p>ABSTRACT: Community memory can provide the crucial bridge between large-scale information bases like digital libraries and the day-to-day activities of a community's members. Just as a digital library is based on a general structure and conventional means of access to diverse collections of materials, a community memory will help cull and shape the structure and contents of this collection to meet more particular needs. But it is by no means straightforward for people to collect, maintain, share, and apply the materials that are part of a community memory. Useful and usable community memories require support for: (1) the acquisition and evolution of content and structure; (2) the identification of materials and community members relevant to a particular task; and (3) the maintenance of organizations that are mutually intelligible across the community. In this paper, we explore issues related to these three requirements based on a meta-analysis of our collective experiences with the development and use of shared hypermedia information resources.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/812">collaboration</a>,    <a href="/keywords/813">community memory</a>,    <a href="/keywords/814">digital libraries</a>,    <a href="/keywords/815">electronic community support</a>,    <a href="/keywords/796">hypermedia</a>,    <a href="/keywords/509">information spaces</a>,    <a href="/keywords/816">shared understanding</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/120">    Volume 30 Number 4 2014
+</a> pp. 269-298</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Forming Interoperability Through Interorganizational Systems Standards</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1640">Zhao, Kexin</a> and     <a href="/contributors/1604">Xia, Mu</a>    </div>
+
+<p>ABSTRACT: Interoperability is a crucial organizational capability that enables firms to manage information systems (IS) from heterogeneous trading partners in a value network. While interoperability has been discussed conceptually in the IS literature, few comprehensive empirical studies have been conducted to conceptualize this construct and examine it in depth. For instance, it is unclear how interoperability is formed and whether it can improve organizational performance. To fill the gap, we argue that interorganizational systems (IOS) standards are a key information technology infrastructure facilitating formation of interoperability. As an organizational ability to work with external trading partners, interoperability's development depends not only on capability building within firm boundaries but also on community readiness across firm boundaries. Using data collected from 194 organizations in the geospatial industry, we empirically confirm that interoperability is formed via these two different paths. Furthermore, our results show that interoperability acts as a mediator by enabling firms to achieve performance gains from IOS standards adoption. Our study sheds new light on formation mechanisms as well as the business value of interoperability.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1309">business value</a>,    <a href="/keywords/3257">geospatial industry</a>,    <a href="/keywords/2206">interoperability</a>,    <a href="/keywords/3258">interorganizational systems standards</a>,    <a href="/keywords/2920">IT standards</a>,    <a href="/keywords/3259">network effects</a>,    <a href="/keywords/1733">standardization</a>,    <a href="/keywords/3260">standardized data infrastructure</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

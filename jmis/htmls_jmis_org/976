@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/78">    Volume 14 Number 3 1997
+</a> pp. 165-178</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Supporting Inspections with an Electronic Meeting System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1516">Van Genuchten, Michiel,</a>    <a href="/contributors/1517">Cornelissen, Wieger,</a> and     <a href="/contributors/1518">Van Dijk, C O R</a>    </div>
+
+<p>ABSTRACT: Fagan inspections are a structured review of development documents that consists of individual preparation, a meeting, and rework by the author of the document. The meeting is used to log the defects found in preparation and to search for more defects. The effectiveness and efficiency of the meeting are typically low compared with those of preparation. This paper describes the use of an electronic meeting system (EMS) to support the logging meeting of a total of fourteen electronic inspections in Philips Medical Systems and Baan Company. The results indicate that the electronic logging meeting contributed much more to the overall result of the inspection than was the case in a traditional inspection. The results have implications for both software inspections and EMS. The implications for EMS discussed in this paper are opportunities for the use of EMS in routine meetings, increased use of meeting metrics, and the benefits of fixed-format input in an EMS.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/415">electronic meeting systems</a>,    <a href="/keywords/446">software engineering</a>,    <a href="/keywords/1090">software inspections</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

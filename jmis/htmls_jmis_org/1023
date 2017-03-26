@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/93">    Volume 21 Number 3 2004
+</a> pp. 149-184</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Effects of Information Format and Shopping Task on Consumers&#039; Online Shopping Behavior: A Cognitive Fit Perspective</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1580">Weiyin, Hong,</a>    <a href="/contributors/1235">Thong, James Y L,</a> and     <a href="/contributors/792">Kar Yan, Tam</a>    </div>
+
+<p>ABSTRACT: A feature central to the success of e-commerce Web sites is the design of an effective interface to present product information. However, the suitability of the prevalent information formats in supporting various online shopping tasks is not known. Using the cognitive fit theory as the theoretical framework, we developed a research model to investigate the fit between information format and shopping task, and examine its influence on consumers' online shopping performance and perceptions of shopping experience. The competition for attention theory from the marketing literature and the scanpath theory from vision research were employed to support the analyses. An experiment was conducted to examine the effects of two types of information formats (list versus matrix) in the context of two types of shopping tasks (searching versus browsing). The results show that when there is a match between the information format and the shopping task, consumers can search the information space more efficiently and have better recall of product information. Specifically, the list format better supports browsing tasks, and the matrix format facilitates searching tasks. However, a match between the information format and the shopping task has no effect on cognitive effort or attitude toward using the Web site. Overall, this research supports the application of the cognitive fit theory to the study of Web interface design. It also demonstrates the value in integrating findings from cognitive science and vision research to understand the processes involved. As the information format has been shown to affect consumers' online shopping behavior, even when the information content is held constant, the practical implications for Web site designers include providing both types of information format on their Web sites and matching the appropriate information format to the individual consumer's task.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1770">B2C e-commerce</a>,    <a href="/keywords/1842">cognitive fit theory</a>,    <a href="/keywords/1843">competition for attention theory</a>,    <a href="/keywords/1347">e-commerce</a>,    <a href="/keywords/1837">e-tailing</a>,    <a href="/keywords/1844">information format</a>,    <a href="/keywords/918">interface design</a>,    <a href="/keywords/1845">online shopping</a>,    <a href="/keywords/1846">scanpath theory</a>,    <a href="/keywords/1847">shopping task</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

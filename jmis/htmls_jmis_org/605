@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/62">    Volume 21 Number 4 2005
+</a> pp. 101-135</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Design, Implementation, and Evaluation of Trust-Supporting Components in Virtual Communities for Patients</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1013">Leimeister, Jan Marco,</a>    <a href="/contributors/1014">Ebner, Winfried,</a> and     <a href="/contributors/1015">Krcmar, Helmut</a>    </div>
+
+<p>ABSTRACT: Trust provides the foundation for the successful implementation and operation of a virtual community (VC). Trust is an especially relevant success factor in online health-care communities. A look at existing communities leads to the conclusion that many VCs fail to meet requirements upon which trust is established. Based on the findings in the literature and the researchers' experience, this paper describes how trust-enabling functionalities can be systematically designed and implemented in a VC for cancer patients. Consequently, the outcomes of these design measures are evaluated. The evaluation results show that supporting trust can be achieved following a two-step model. The presented components support the perceived competence and perceived goodwill of the operators and the other members. Perceived goodwill and competence then support the process of creating and sustaining trust between members as well as between members and the operators of the VC and contribute to the successful implementation and maintenance of the community. The paper concludes with a discussion on further trust-supporting components yet to be implemented and gives recommendations for further research in this area.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1880">access rights</a>,    <a href="/keywords/1085">anonymity</a>,    <a href="/keywords/1881">healthcare</a>,    <a href="/keywords/1882">online community</a>,    <a href="/keywords/1883">perceived competence</a>,    <a href="/keywords/1884">perceived goodwill</a>,    <a href="/keywords/1885">quality-assured content</a>,    <a href="/keywords/1886">transparency criteria</a>,    <a href="/keywords/1108">trust</a>,    <a href="/keywords/1515">virtual communities</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

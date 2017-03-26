@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/72">    Volume 15 Number 3 1998
+</a> pp. 7-149</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Assessment of Group Support Systems Experimental Research: Methodology and Results</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/613">Fjermestdad, Jerry</a> and     <a href="/contributors/204">Hiltz, Starr Roxanne</a>    </div>
+
+<p>ABSTRACT: By mid-1998, approximately 200 different controlled experiments had been published in 230 articles in refereed journals or major conference proceedings, which examined processes and outcomes in computer-supported group decision making. This paper is a concise overview of what has been studied and how: the systems, independent, intervening, adaptation, and dependent variables, manipulated or measured, and experimental procedures employed. Part I categorizes the contextual and intervening factors. Part II analyzes 1,582 hypotheses resulting from pairings of independent and dependent variables. The results show that the modal outcome for group support systems (GSS) compared with face-to-face (FtF) methods is "no difference," while the overall percentage of positive effects for hypotheses that compare GSS with FtF is a disappointing 16.6 percent. Experiments with seven to ten groups per treatment condition working on idea-generation tasks and using GSS technology show an improvement up to 29.0 percent. These results are moderated by technology, process structure, communication mode, group factors, task type, the number of experimental groups per treatment condition, and the type of dependent variable measured. The purpose of this paper is to aid the GSS researcher by presenting detailed results of what has been studied and found in previous experiments, along with a discussion of what needs to be studied.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1175">experimental research</a>,    <a href="/keywords/1176">group support systems (GSS)</a>,    <a href="/keywords/445">research methodologies</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

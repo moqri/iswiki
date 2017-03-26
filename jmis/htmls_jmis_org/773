@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/78">    Volume 14 Number 3 1997
+</a> pp. 89-108</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Anonymity in Group Support Systems Research: A New Conceptualization, Measure, and Contingency Framework</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1255">Pinsonneault, Alain</a> and     <a href="/contributors/1256">Heppel, Nelson</a>    </div>
+
+<p>ABSTRACT: Anonymity is a fundamental concept in group support systems (GSS) research. It is expected to reduce fear of social disapproval and of evaluation, and to lower inhibition and censorship. This is believed to create an environment that improves participation and communication, that promotes more objective and honest evaluation of ideas, and that enhances the productivity of groups and their decision-making process. However, empirical evidence about what are the effects of anonymity in GSS is inconclusive. This paper argues that there are two main reasons for the lack of consistent findings. First is the fact that anonymity has been defined too narrowly as the nonidentification of participants when, in fact, the literature in social psychology suggests that anonymity is multidimensional and subjective in nature. Second is the fact that the effects of anonymity interacts with other situational variables, making its relation to disinhibition complex. This paper argues that one critical situational variable is the importance of social evaluation of group members. A measure of the new conceptualization of anonymity and of the importance of social evaluation is proposed and the results of a preliminary test are presented. A contingency approach for studying the effects of anonymity is presented and the implications for future research and for practice are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1085">anonymity</a>,    <a href="/keywords/1086">computer-based collaborative work</a>,    <a href="/keywords/1087">group decision making</a>,    <a href="/keywords/693">group support systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

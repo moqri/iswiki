@@ -1,0 +1,73 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/45">    Volume 25 Number 3 2008
+</a> pp. 5-7</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ Along with the growth of electronic marketplaces, we are witnessing the growing sophistication of their deployment in corporate sourcing. The first flush of enthusiasm for auction markets has faded, yet the possibility of their use is always in the background, mustering a degree of market discipline. In the opening paper of this JMIS issue, Mu Xia and Nan Xia study the complementarity in the sourcing via long-term supplier relationships on the one hand and the transactional as well as informational use of spot markets on the other. The advantages of sourcing of direct goods through long-term relationships with a limited number of suppliers are well known, yet these relationships cannot go uninfluenced by the opportunities and pressures radiating from the e&#8209;marketplaces. The opportunities include the ability to smooth over supply or demand fluctuations; the pressures will surface during the negotiations of long-term contracts. The present authors, using a game-theoretic approach, ask several research questions regarding the effects of the use of e&#8209;markets in the presence of long-term sourcing relationships. The researchers arrive at a number of results regarding the desirable actions of the suppliers, buyers, and market intermediaries, and interpret these results at length for the benefit of other scholars and of managers.
+</p>
+<p>
+ Electronic marketplaces for vertically integrated digital services are the subject of the paper by Ravi Bapna, Paulo Goes, and Alok Gupta. Such marketplaces furnish multiple classes of a service&#8212;say, music webcasts or video performances&#8212;differentiated by various aspects of quality and by price. As a variant of versioning, this type of marketplace structure aims to capture a wider swath of demand than a single-price market would muster. The authors develop and exercise an auction-based computational infrastructure for resource allocation and pricing in such marketplaces. Considering that the Internet&#8211;Web compound is turning into a multifaceted venue for service provision based on the real-time allocation of various information technology (IT) resources, structuring of such marketplaces is very much of the moment.
+</p>
+<p>
+ Two subsequent papers address information systems (IS) for the public domain. Thompson S.H. Teo, Shirish C. Srivastava, and Li Jiang study the aspects of success of e&#8209;government, in particular as related to the trust in the e&#8209;government Web sites. By studying the continuing use of a large number of such sites (or its absence), the authors arrive at a nuanced understanding of the premises for success. Their conclusions lead the authors to suggest further extensions to the DeLone&#8211;McLean IS success model. In the second paper on the general theme, Juliana Sutanto, Atreyi Kankanhalli, Junyun Tay, K.S. Raman, and Bernard C.Y. Tan study the critical success factors for the implementation of interorganizational IS that are to serve the public. It is well known that a proper process of change management is a criterion of success. The authors&#8217; case-based research refines and contextualizes this dictum into a parsimonious set of factors to live by and an embryonic theory of the phenomena.
+</p>
+<p>
+ The subject of change management is taken up by Sebasti&#225;n Bruque, Jos&#233; Moyano, and Jacob Eisenberg. The researchers study the role of social networks&#8212;which  they dichotomize as supportive and informational&#8212;in the adaptation of organizational actors to new IT. The authors expressly use the adaptation, rather than the adoption, lens to attain a deeper level of understanding of individual psychological dispositions under what some have termed technostress of various degrees. The results surface the importance of group processes in a firm, and bear managerial implications for the nurturing of the desirable social networks and processes.
+</p>
+<p>
+ Open source software (OSS) is a disruptive technological phenomenon across marketplaces, as well as the subject of the next two papers in the issue. There exists a very broad spectrum of OSS licenses in terms of the restrictions they place on the use, modification, and distribution of software. The licensing of the derivative software is a particularly potent discriminator among the original licenses. How to choose? Here, Ravi Sen, Chandrasekar Subramaniam, and Matthew L. Nelson study this issue from the point of view of the OSS developers through theoretically grounded empirics. Although this may seem paradoxical to those in possession of an idealistic lens on the OSS, this research surfaces the dominant value of restrictive OSS licenses. In a very different, both thematically and methodologically, work, Jeevan Jaisingh, Eric W.K. See&#8209;To, and Kar Yan Tam deploy formal economic analysis to analyze the responses of a firm developing proprietary software as it faces OSS competition. In particular, the contingent levels of investment and the consequent quality of the proprietary product are investigated. By studying this work, we can see the interaction of the factors as the market disruption is taking place.
+</p>
+<p>
+ Peng Xu and Balasubramaniam Ramesh investigate the role knowledge management can play in the structuring of the IS development. The general premise is that the software (development) process should be tailored to better suit the given project. The authors explore the link between the support of developers with knowledge management systems containing knowledge regarding such software process structuring and the developer performance in such structuring. Organizational memory information systems (OMIS), containing contextualized experiential knowledge of the organization in IS project management, are an apt tool for this task. The work is grounded in the theory of cognitive fit. The authors arrive at rather finely textured recommendations regarding the type of beneficial knowledge support and the nature of the tailoring tasks supported to the best effect.
+</p>
+<p>
+ As the essential tool of business analytics, data mining finds ever wider application. A broad class of predictive data mining, the regression problems that predict a continuous dependent variable, addresses areas of application such as credit evaluation or demand forecasting. Regression models have to be tuned to minimize their prediction errors. Yet how should such errors be quantified? In their paper, Gaurav Bansal, Atish P. Sinha, and Huimin Zhao argue that this should be done in terms of the average misprediction cost. The authors proceed to present an algorithm for tuning a regression model to minimize such cost and show its superior performance under a variety of cost functions.
+</p>
+<p>
+ In the concluding paper of the issue, Hemantha S.B. Herath and Tejaswini C. Herath deploy the real options theory to the investments in IS security. The authors analyze the specificity of applying real options in this domain. They further present a relatively generalized model of such investments, with learning features implemented through the revision of configuration parameters. The nature of the solution foregrounds the postaudit of security investments. The model is of value in this active research domain as these and other authors strive to develop models that are general, adaptive, and capable of practical application.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

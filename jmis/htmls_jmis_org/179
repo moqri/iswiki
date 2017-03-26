@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/20">    Volume 27 Number 4 2011
+</a> pp. 201-230</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Impact of Network Externalities on the Competition Between Open Source and Proprietary Software</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/357">Cheng, Hsing K,</a>    <a href="/contributors/355">Liu, Yipeng,</a> and     <a href="/contributors/356">Tang, Qian</a>    </div>
+
+<p>ABSTRACT: In this paper, we build analytical models to examine the impact of network externalities on the competition between open source software (OSS) and proprietary software. We investigate the competing OSS and proprietary software products with comparable functionalities in four different scenarios depending on whether they are compatible with each other and whether the underlying market is fully covered (i.e., all consumers adopt one of the two products). Furthermore, we study which party has the most incentive to make its product compatible with its counterpart. When the market is fully covered, the installed base and the profit of proprietary software increase at the expense of a decreasing user base for OSS in the presence of network externalities. This competitive imbalance becomes more pronounced when OSS and proprietary software are incompatible and the market is partially covered. Finally, we find that in the presence of network externalities, being compatible with its rival is not desirable for the proprietary software, but highly beneficial to the OSS community.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2768">competition</a>,    <a href="/keywords/2195">network externalities</a>,    <a href="/keywords/2259">open source software</a>,    <a href="/keywords/2769">software compatibility</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

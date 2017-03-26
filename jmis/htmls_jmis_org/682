@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/85">    Volume 1 Number 4 1985
+</a> pp. 57-75</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Marketing Information Systems: Their Current Status in Fortune 1000 Companies</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/378">McLeod Jr, Raymond</a> and     <a href="/contributors/1034">Rogers, John C</a>    </div>
+
+<p>ABSTRACT: A mail survey of Fortune 1000 firms reveals considerable variation in the designs of their marketing information systems, yet a uniformly high level of sophistication in regards to use of interactive systems and decision modeling. Many of the data-gathering and storage components of these systems are not computerized. The best decision support is at the upper and middle management level for planning and controlling the firm's product offering. This top-level support indicates that the user possibly has a greater influence on system implementation than does problem structure.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/66">marketing information systems</a>,    <a href="/keywords/67">data sources</a>,    <a href="/keywords/68">database</a>,    <a href="/keywords/69">management level</a>,    <a href="/keywords/70">management function</a>,    <a href="/keywords/71">marketing mix</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

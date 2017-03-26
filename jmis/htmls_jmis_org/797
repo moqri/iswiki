@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/117">    Volume 11 Number 1 1994
+</a> pp. 73-100</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Application of Qualitative Reasoning to Derive Behavior from Structure of Quantitative Models</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/308">Raghunathan, Srinivasan</a>    </div>
+
+<p>ABSTRACT: Mathematical modeling and analysis are a valuable tool in decision support contexts. Consequently, model management system(s) have become a key component of decision support system generators. Model management systems support modelers in various phases of the modeling life cycle including model representation, formulation, selection, integration, and execution. An important phase of the modeling life cycle involves analyzing and explaining the behavior of the formulated model. Such an analysis is necessary to understand the structure and behavior of the model, and to verify the appropriateness of the model to the problem. Traditional computer-based methods of analysis use the model solution as a basis to explain the model structure that caused the solution. This article presents an alternate approach that explains model behavior using the model structure and commonsense mathematical rules. The approach builds upon the qualitative reasoning methodology, developed in the artificial intelligence area to explain the behaviors of physical devices. A benefit of the qualitative reasoning approach is that it may describe the causes of modeling errors in terms of model structure. I also describe an implemented prototype model preprocessor that uses qualitative reasoning to provide qualitative explanations of the model behavior prior to solving the model. While I do not claim the sufficiency of the qualitative reasoning approach to detect and describe all types of modeling behavior, the article presents several examples demonstrating the utility of the approach.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/252">artificial intelligence</a>,    <a href="/keywords/745">computer-assisted analysis</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/108">model management systems</a>,    <a href="/keywords/746">modeling</a>,    <a href="/keywords/747">qualitative analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

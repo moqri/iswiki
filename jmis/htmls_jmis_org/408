@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/54">    Volume 3 Number 3 1986
+</a> pp. 101-110</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Role of Programming Language in Estimating Software Development Costs</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/738">Harrison, Warren</a> and     <a href="/contributors/739">Adrangi, Bahram</a>    </div>
+
+<p>ABSTRACT: It is commonly thought that the choice of programming language has an effect on the amount of effort involved in writing a program to solve a particular problem. However, relatively little work has been done previously in attempting to quantify this specific effect. This study analyzed 279 Department of Defense software projects which used assembly language, COBOL, FORTRAN, or PL/1. Our findings suggest that any of the high-level languages reduces the amount of effort required to develop a given-sized project when compared to assembly language.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/190">software cost estimation</a>,    <a href="/keywords/191">programming language as software cost driver</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

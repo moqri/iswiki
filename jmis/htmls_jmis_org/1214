@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/124">    Volume 31 Number 3 2014
+</a> pp. 138-171</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Digital Natives or Digital Immigrants? The Impact of User Characteristics on Online Trust</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1730">Hoffmann, Christian Pieter,</a>    <a href="/contributors/1731">Lutz, Christoph,</a> and     <a href="/contributors/1732">Meckel, Miriam</a>    </div>
+
+<p>ABSTRACT: 
+<p>Previous research suggests that user characteristics such as web experience and demographics may affect online trust. Drawing on social cognitive theory, we explore the moderating effect of user characteristics on online trust. Based on a survey of German Internet users, we differentiate three groups by age, web experience, and education. We term these groups digital natives, digital immigrants, and naturalized digitals. A multiple-group analysis reveals significant differences in trust formation, particularly in the cues considered in the evaluation of online services. Whereas a large user base inspires confidence in digital natives, naturalized digitals are more geared toward familiar brands and recommendations. Digital immigrants most critically weigh the risks of a transaction against its benefits. We argue that specific user characteristics are associated with distinct cognitive schemata, implying distinct interests and evaluations in online transactions. Online services should differentiate their signaling efforts according to the targeted customer group.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3373">e-business</a>,    <a href="/keywords/1577">online trust</a>,    <a href="/keywords/3374">trust cues</a>,    <a href="/keywords/3375">web user characteristics</a>,    <a href="/keywords/3376">website signaling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

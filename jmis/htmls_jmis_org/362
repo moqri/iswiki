@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/33">    Volume 26 Number 2 2009
+</a> pp. 123-145</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Effects of Organizational Learning and Knowledge Transfer on Investment Decisions Under Uncertainty</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/662">Geng, Xianjun,</a>    <a href="/contributors/664">Lin, Lihui,</a> and     <a href="/contributors/154">Whinston, Andrew B</a>    </div>
+
+<p>ABSTRACT: Because uncertainties around innovative technologies resolve over time, investments in such technologies are often made in stages so that organizations can use the knowledge gained from earlier stages to decide the next step. Previous studies usually assume that once some uncertainty is resolved, it becomes common knowledge within the investing organization. We develop a game-theoretical model to study how different parties within an organization gain and transfer knowledge about new technologies while investing in these technologies, and how the learning process may affect the investment decisions. We show that managers with incentives misaligned with the organization may transfer their knowledge untruthfully and distort the learning process of decision makers. Such behavior may lead to inefficient investment decisions. We also study the effect of uncertainty on the misreporting problem and the investment decisions. Mechanisms to mitigate or prevent untruthful knowledge transfer are also proposed. In particular, powerful incentive schemes may alleviate, but not prevent, the misreporting problem; punishing managers who are caught misreporting may deter the misreporting behavior, but in practice such mechanisms are difficult to implement.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1667">economic analysis</a>,    <a href="/keywords/874">game theory</a>,    <a href="/keywords/2540">investment under uncertainty</a>,    <a href="/keywords/1905">knowledge transfer</a>,    <a href="/keywords/313">organizational learning</a>,    <a href="/keywords/2541">signal jamming</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

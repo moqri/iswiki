@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/72">    Volume 15 Number 3 1998
+</a> pp. 151-195</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Technology Transition Model Derived from Field Investigation of GSS Use Aboard the U.S.S. CORONADO</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/231">Adkins, Mark,</a>    <a href="/contributors/1191">Mittleman, Daniel D,</a>    <a href="/contributors/233">Kruse, John,</a>    <a href="/contributors/234">Miller, Scot,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: There are several thousand group support systems (GSS) installations worldwide, and, while that number is growing, GSS has not yet achieved critical mass. One reason may be that it can take one to three years for an organization to complete a transition to GSS. Studying GSS transition in the field could yield insights that would allow for faster, lower-risk transitions elsewhere. This article presents a thirty-two-month qualitative field investigation of an effort to introduce GSS into the daily work of the staff of the U.S. Navy's Commander, Third Fleet. Using the principles of action research, the project began with interventions based on the precepts of the Technology Acceptance Model (TAM). The goal of the interventions was to engender sufficient acceptance for GSS to create a self-sustaining, growing community of GSS users. Throughout the study, building on a base of experience developed in other private- and public-sector transition projects, we revised and extended TAM based on insights that emerged in the field. The resulting model, the Technology Transition Model (TTM), frames acceptance as a multiplicative function of the magnitude and frequency of the perceived net value of a proposed change, moderated by the perceived net value associated with the transition period itself. TTF frames net value as having a number of dimensions, including cognitive, economic, political, social, affective, and physical. It posits that cognitive net value derives from at least three sources: changes in access, technical, and conceptual attention loads. GSS transition proceeded at different speeds in different segments of the Third Fleet; the intelligence and battle staffs became self-sustaining within weeks, while others are still not self-sustaining. TTM appears to explain the differences that emerged in the Navy community. The articles presents TAM, then argues the propositions of TTM. It then presents background information about Third Fleet, and describes critical incidents in the transition effort that give rise to the model. It summarizes the lessons learned in the field by comparing the differing transition trajectories among Fleet staff segments in light of the model.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1177">electronic meeting systems technology adoption</a>,    <a href="/keywords/1178">field studies</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/1179">qualitative research</a>,    <a href="/keywords/1180">technology acceptance</a>,    <a href="/keywords/1181">technology diffusion</a>,    <a href="/keywords/662">telecommunications technologies</a>,    <a href="/keywords/1182">Technology Transition Model</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/36">    Volume 10 Number 2 1993
+</a> pp. 37-53</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Technology, Incentives, and the Optimal Number of Suppliers</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/98">Bakos, J Yannis</a> and     <a href="/contributors/99">Brynjolfsson, Erik</a>    </div>
+
+<p>ABSTRACT: Buyers are transforming their relationships with suppliers. For example, instead of playing off dozens or even hundreds of competing suppliers against one another, many firms are finding it more profitable to work closely with only a small number of "partners." In this paper we explore some causes and consequences of this transformation. We apply the economic theory of incomplete contracts to determine the optimal strategy for a buyer. We find that the buyer firm will often maximize profits by limiting its options and reducing its own bargaining power. This may seem paradoxical in an age of cheap communications costs and aggressive competition. However, unlike earlier models that focused on coordination costs, we focus on the critical importance of providing incentives for suppliers. Our results spring from the need to make it worthwhile for suppliers to invest in "noncontractibles" such as innovation, responsiveness, and information sharing. Such incentives will often be stronger when the number of competing suppliers is small. The findings of the theoretical models appear to be consistent with observations from empirical research which highlight the key role of information technology in enabling this transformation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/668">buyer-supplier relationships</a>,    <a href="/keywords/669">incomplete contracts</a>,    <a href="/keywords/488">intercorporate coordination</a>,    <a href="/keywords/665">interorganizational systems</a>,    <a href="/keywords/650">outsourcing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

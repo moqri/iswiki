@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/15">    Volume 22 Number 3 2005
+</a> pp. 123-157</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Moderating Effects of Task Type on Wireless Technology Acceptance</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1607">Xiaowen, Fang,</a>    <a href="/contributors/1608">Chan, Susy,</a>    <a href="/contributors/1609">Brzezinski, Jacek,</a> and     <a href="/contributors/1610">Shuang, X U</a>    </div>
+
+<p>ABSTRACT: The technology acceptance model (TAM) is one of the most widely used models of information technology (IT) adoption. According to TAM, IT adoption is influenced by two perceptions: usefulness and ease of use. In this study, we extend TAM to the mobile commerce context. We categorize the tasks performed on wireless handheld devices into three categories: (1) general tasks that do not involve transactions and gaming, (2) gaming tasks, and (3) transactional tasks. We propose a unified conceptual model for wireless technology adoption. In this model, task type moderates the effects of four possible determinants: perceived usefulness, perceived ease of use, perceived playfulness, and perceived security. We postulate that, under the mobile context, user intention to perform general tasks that do not involve transactions and gaming is influenced by perceived usefulness and perceived ease of use, user intention to play games is affected by perceived playfulness, and user intention to transact is influenced by perceived usefulness and perceived security. A survey was conducted to collect data about user perception of 12 tasks that could be performed on wireless handheld devices and user intention to use wireless technology. Multiple regression analyses supported the proposed research model.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2006">mobile commerce</a>,    <a href="/keywords/2007">perceived ease of use</a>,    <a href="/keywords/2008">perceived playfulness</a>,    <a href="/keywords/2009">perceived security</a>,    <a href="/keywords/818">perceived usefulness</a>,    <a href="/keywords/820">technology acceptance model</a>,    <a href="/keywords/2010">task performance</a>,    <a href="/keywords/1142">task type</a>,    <a href="/keywords/2011">user intention</a>,    <a href="/keywords/2012">wireless handheld devices</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

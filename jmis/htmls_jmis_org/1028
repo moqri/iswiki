@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/82">    Volume 17 Number 1 2000
+</a> pp. 59-85</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Private Markets for Public Goods: Pricing Strategies of Online Database Vendors</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1587">West Jr, Lawrence A</a>    </div>
+
+<p>ABSTRACT: The online database industry has annual sales of US$6.5 billion for a product that can be easily appropriated, duplicated, reused, and redistributed. This paper examines how the industry developed dynamic pricing and delivery strategies as a response to technological and market changes, and shows how each strategy specifically compensated for the public good properties of information. Readers will see that specific pricing strategies reduce the incentive to improperly reuse downloaded information. Thus, these strategies can lead to the sustainability and growth of the online database industry. These findings are then extended to the broader context of information delivery via the Internet.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1330">information pricing</a>,    <a href="/keywords/640">information economics</a>,    <a href="/keywords/1331">online databases</a>,    <a href="/keywords/1332">public goods</a>,    <a href="/keywords/1333">Internet information markets</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

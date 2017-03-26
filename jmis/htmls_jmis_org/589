@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/107">    Volume 13 Number 1 1996
+</a> pp. 35-62</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Key Prescriptions for Strategic Information Systems Planning</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/170">Lederer, Albert L</a> and     <a href="/contributors/995">Sethi, Vijay</a>    </div>
+
+<p>ABSTRACT: Strategic information systems planning (SISP) has been defined as the process of identifying a portfolio of computer-based applications that will assist an organization in executing its business plans and realizing its business goals. SISP is an important activity for helping information executives and top management identify strategic applications and align IT with business needs. Previous researchers and practitioner observers have identified measures of successful SISP and have recommended many prescriptions for achieving success. In this research, the SISP experiences of 105 planners contribute a new perspective on these prescriptions and the success of SISP. Planners extensively follow the prescriptions that promote the efficient management of the SISP study. Although they also extensively follow those prescriptions that lead to their own greater satisfaction, they do not so rigorously follow those that meet SISP objectives. However, the fit between information technology capabilities and the needs of the organization is important to them. Furthermore, plan implementation remains critical to meeting SISP objectives. Combined, these generalizations suggest the central contribution of this research-planner's paradox: The planner must complete the SISP study rapidly to facilitate its implementation but in doing so risks compromising its fit to the organization and therefore reduces its chances of implementation. The planner must thus plan rapidly enough to produce the plan quickly but carefully enough to produce a relevant one.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/545">MIS implementation</a>,    <a href="/keywords/391">organizational context of MIS</a>,    <a href="/keywords/546">strategic planning for MIS</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

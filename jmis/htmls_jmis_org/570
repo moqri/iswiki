@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/108">    Volume 24 Number 1 2007
+</a> pp. 201-231</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Broken Ties: The Impact of Organizational Restructuring on the Stability of Information-Processing Networks</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/967">Kwon, Dowan,</a>    <a href="/contributors/968">Oh, Wonseok,</a> and     <a href="/contributors/969">Jeon, Sangyong</a>    </div>
+
+<p>ABSTRACT: Information-processing networks (IPNs) denote dynamic network-based information-processing structures that operate as coordination mechanisms that transcend formal hierarchies. Despite growing interest in information technology-enabled IPNs, the literature has been silent in exploring the various ontological structures of IPNs and the structural efficiency embedded in each IPN, especially in the event of radical organizational changes. To fill this gap, this study identifies, from the perspective of graph theory, four ontological IPN archetypes that can serve as blueprints for information processing within and across organizations--random, small world, moderate scale free (MSF), and Barabasi. We then assess how each structure reacts to corporate restructuring (e.g., downsizing) and investigate, based on computer simulation, the extent to which each structure preserves a worker's efficiency and the stability of the network structure in the event of downsizing. Two moderating variables are included in the model--that is, scale of downsizing and the reconnection strategy in the presence of downsizing. In this study, downsizing is viewed not only as the simple elimination of individual workers but also as the elimination of the communication and information- processing conduits necessary for effective communication and coordination. We find that when firms implement a relatively small-scale workforce reduction, centralized coordination structures such as MSF and Barabasi are generally more resilient and facilitate better coordination. However, when the downsizing strategy involves massive and severe layoffs, decentralized coordination structures such as random and small world are more durable, and tend to provide a stronger safety net, irrespective of the strategies employed to create new ties. Although this study focused exclusively on the context of downsizing, the results of the study have important implications for other types of organizational restructuring (e.g.,</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2252">computer simulation</a>,    <a href="/keywords/2253">information-processing networks</a>,    <a href="/keywords/2254">network theory</a>,    <a href="/keywords/2255">organizational restructuring</a>,    <a href="/keywords/1379">social networks</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/115">    Volume 1 Number 3 1984
+</a> pp. 5-32</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Advances in Information System Design</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/58">Konsynski, Benn R</a>    </div>
+
+<p>ABSTRACT: Over the past several decades, generations of development tools have evolved to improve the productivity of system development and increase the impact of information systems on improvement of management practice. The solution techniques include the continuum from development guidelines to comprehensive tool environments. Methods and procedures have been considered that range from end-user development support to large-scale systems automation approaches for support of the entire systems development process. In this paper definition techniques, software engineering, and end-user development approaches are discussed. Data Dictionaries, value-added dictionaries and directories, requirements database systems, and emerging "system encyclopedias" are discussed as keys to many of the evolving system development environments. The Fourth Generation approaches and the Information Center concept are presented as frameworks for developing an end-user computing capability.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/44">development of information systems</a>,    <a href="/keywords/45">automated tools for system development</a>,    <a href="/keywords/46">data dictionaries/directories</a>,    <a href="/keywords/47">fourth generation languages</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

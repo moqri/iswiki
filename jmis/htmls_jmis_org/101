@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/49">    Volume 18 Number 4 2002
+</a> pp. 11-35</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Toward Virtual Community Knowledge Evolution</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/201">Bieber, Michael,</a>    <a href="/contributors/202">Engelbart, Douglas,</a>    <a href="/contributors/203">Furuta, Richard,</a>    <a href="/contributors/204">Hiltz, Starr Roxanne,</a>    <a href="/contributors/205">Noll, John,</a>    <a href="/contributors/206">Preece, Jennifer,</a>    <a href="/contributors/207">Stohr, Edward A,</a>    <a href="/contributors/208">Turoff, Murray,</a> and     <a href="/contributors/209">Van de Walle, Bartel</a>    </div>
+
+<p>ABSTRACT: This paper puts forth a vision and an architecture for a community knowledge evolution system. We propose augmenting a multimedia document repository (digital library) with innovative knowledge evolution support, including computer-mediated communications, community process support, decision support, advanced hypermedia features, and conceptual knowledge structures. These tools, and the techniques developed around them, would enable members of a virtual community to learn from, contribute to, and collectively build upon the community's knowledge and improve many member tasks. The resulting Collaborative Knowledge Evolution Support System (CKESS) would provide an enhanced digital library infrastructure serving as an ever-evolving repository of the community's knowledge, which members would actively use in everyday tasks and regularly update.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1138">computer-mediated communication (CMC)</a>,    <a href="/keywords/1510">concept maps</a>,    <a href="/keywords/1511">conceptual knowledge structures</a>,    <a href="/keywords/1512">decision analysis</a>,    <a href="/keywords/814">digital libraries</a>,    <a href="/keywords/796">hypermedia</a>,    <a href="/keywords/366">hypertext</a>,    <a href="/keywords/1513">knowledge evolution</a>,    <a href="/keywords/1194">process modeling</a>,    <a href="/keywords/1514">professional societies</a>,    <a href="/keywords/1515">virtual communities</a>,    <a href="/keywords/1516">virtual educational communities</a>,    <a href="/keywords/1517">workflow</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

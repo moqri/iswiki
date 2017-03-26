@@ -1,0 +1,1184 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/100">    Volume 30 Number 1 2013
+</a> pp. 5-14</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ WITH THE PRESENT ISSUE, the Journal of Management Information Systems is opening its 30th volume. This is certainly an  occasion  to celebrate. The field of information systems (IS) and the Journal have traveled a long path of everyday toil and uncommon  discovery. The  world, and its societies and organizations, have been transformed by information systems and by the technologies around which  they are  built. Our working and personal lives have been changed, have moved closer to each other, and are now lived on the world scene  and at a  more rapid pace. Indeed, our understanding of the life we lead has been transmogrified by our ability to connect and by the  opportunities and  challenges of cohabitation with the artifacts borne of information technologies. It falls to our discipline to help the world to  understand and  meet these challenges and to develop and exploit these opportunities.
+</p>
+<p>
+ Scholarly journals have been a primary means of disciplinary development for 350 years. They are a discipline's treasury. The  leading  journals of a discipline have the heavy responsibility of defining it as a research field. JMIS is consistently ranked as one of the  top three IS  journals. It has always been a key objective of the Journal to meet the expanding role of information technology (IT) with tche  expansion of  the profile of our IS discipline. Our scholarly field seeks to understand how systems can be organized, developed, and deployed  effectively to  manage information and knowledge toward specified outcomes, in order to support organizations, marketplaces, and products.  Within this  disciplinary commitment, we should range widely, I believe. Methodological pluralism is necessary to advance our knowledge and  to  advance our field. Further, we are not and we should not be importers and adapters of knowledge from other disciplines or aim at  becoming  major exporters as the measure of our success. We should realize that the embeddedness in the societies, organizations,  practices, and  products is in the very nature of information systems and technology. Consequently, we should not seek sharp boundaries, and we  should  see the value of interdisciplinary work centering on IT-based systems and their use to the world at large, to the advance of  knowledge-and to  our field.
+</p>
+<p>
+ Several important subfields and research streams of IS have originated with the scholarly work published in JMIS. Among the  more  important I can mention these: scholarly assessment of the business value of information systems, real options theory in IS,  design science,  negotiation support systems, and service science. We have been the early champion of economics research in our field. The work  on  collaboration and group support published in the Journal has set the agenda for this important research stream. Among other  recent  initiatives, the innovative Special Issue on Neuroscience and IS Research is currently being developed by its authoritative Guest  Editorial  Board. As IT moves to the ever new frontiers, so do we who wish to understand and develop the capabilities of information  systems built  around this technology conglomeration.
+</p>
+<p>
+ The two papers that open the 30th volume present empirical investigations of the role of senior IS executives in the firm's  success and  reputation. The first, by Elena Karahanna and David S. Preston, studies the effect of the three dimensions of social capital that  emerges  from the relationship between the chief information officer (CIO) and the top management team (TMT) on the IS strategic alignment  and,  consequently, on the firm's performance. The empirics are obtained in the setting of the U.S. hospital industry. The results clearly  show the  influence of the relationship between the CIO and TMT and, further, of the alignment between the business and IS strategies, on  financial  performance. The lens of social capital allows for a nuanced understanding of the wellsprings of that influence and performance.
+</p>
+<p>
+ With the strategic role of IS intensifying, a reputation for superior capability in that domain is desired by companies, if only in  view of its  influence on the capital markets and of the competitive image at large. Here, Jee-Hae Lim, Theophanis C. Stratopoulos, and Tony  S.  Wirjanto show empirically that this reputation depends on the culture of reciprocity between the TMT and the top IS executives of  the firm in  which these executives are accorded the power and visibility that helps them to execute their strategies for IS. The authors build  their  project on institutional theory. Taken together with the preceding work, the two papers offer distinct practical insights for the firms  that  increasingly depend on IS in successfully executing their business strategies.
+</p>
+<p>
+ An important contribution to our understanding of the role of IT in national productivity is made by the work presented by  Jason Dedrick,  Kenneth L. Kraemer, and Eric Shih. It had been shown before that IT investment is associated with productivity gains in developed  countries. The present authors show that this is also true for a large upper layer of developing countries, consisting of 45 countries.  They  also show the factors that influence these productivity gains. The work not only offers us a much more hopeful view of the world,  but also  brings specific guidelines to the other developing countries. It contributes to the scholarly growth studies as well.
+</p>
+<p>
+ In the present economy, ecosystems of cooperating firms organizing themselves into supply webs bring us complex  products, often  packaging together goods and services. These firm networks also incur cybersecurity risks stemming from the interdependence of  their  Internet-based interorganizational IS. Thus, firms lose control of their information security postures. The measures taken by a firm's  partners can bear weighty negative or positive externalities. How should the firms manage such risks of interdependence? In a  formal  economic analysis, Xia Zhao, Ling Xue, and Andrew B. Whinston show the relative effectiveness of three solutions to the problem:  cyberinsurance, risk pooling, and outsourced managed security services, deployed in various combinations. The work has  immediate  practical implications and will certainly be built upon in a further development of the theoretical base of incentive-compatible  cybersecurity  measures.
+</p>
+<p>
+ Online whistle-blowing systems have emerged as an apt medium for reporting organizational abuses and failures. It is  important to  ensure that these systems indeed facilitate the actual reporting. Paul Benjamin Lowry, Gregory D. Moody, Dennis F. Galletta, and  Anthony  Vance study the perceptual factors that can lead a firm's employees to engage in whistle-blowing with the use of these systems.  This is  certainly a case that if they build it, no one may show up. Beyond its immediate objective, the study also contributes to our  understanding of  the complexities of trust and anonymity.
+</p>
+<p>
+ Two subsequent papers investigate aspects of IS development (ISD). In the recognition of the frequent failure of ISD  projects, Ravi  Narayanaswamy, Varun Grover, and Raymond M. Henry study the factors that inhibit harmony between the project participants,  working  under many pressures, notably those of uncertainty engendered by changing system requirements. The authors construct and test  a model  of congruence between the perceptions of the project manager and those of the team members. In seeking common understanding  through  a variety of influence tactics surfaced by the authors, the loss of project control can be averted.
+</p>
+<p>
+ Mark Keith, Haluk Demirkan, and Michael Goul present a service-oriented methodology of ISD as well as a multiyear study of  its  deployment in the field. The methodology has its theoretical underpinnings in the coordination theory and is a contribution to both  ISD and  service science. The methodology is devised in the recognition of the fact that most ISD environments fall between the poles of  stability and  riskiness. Echoing the concerns and the solutions of the preceding paper, this work addresses the realities of the human  processes  surrounding the development of IT-based systems.
+</p>
+<p>
+ Co-creation of value by consumers and other nonemployees has been increasingly a factor in the success of many a firm,  and  communities are most frequently the locus of this co-creation, with much of the individual motivation emerging from their  collectives. In the  first of the two papers investigating this domain, Constance Elise Porter, Sarv Devaraj, and Daewon Sun compare the results  obtained in  sponsored and in autonomous co-creation. In other words, should a firm sponsor a customer community or should it let the  customers  develop their own communities, if they wish to do so? The authors devise theory-driven models of both types of communities and  test their    hypotheses by surveying consumers involved in numerous communities. Although value is co-created in both community types,  sponsored  co-creation is found to offer advantages.
+</p>
+<p>
+ Product reviews are one of the common outcomes of co-creation, subject to aggregation and becoming the electronic  word-of-mouth.  How credible are they in the perception of their readers? Matthew L. Jensen, Joshua M. Averbeck, Zhu Zhang, and Kevin B. Wright  extend  the language expectancy theory to the online setting in order to study how reader-expectancy violations result in greater or lower  review  credibility. In a nuanced discussion of their empirical findings, the authors highlight how reviews by strangers can exert-deserved or  undeserved-influence on our behavior.
+</p>
+<p>
+ Digital supply chains and webs are the reality of today's global business. In this environment, various categories of risk  emerge. How  can these risks be mitigated? Ling Xue, Cheng Zhang, Hong Ling, and Xia Zhao draw on the systems and organizational theories to  propose and test their hypotheses that relate the extent of supply-chain digitization by companies to the modularity of their IS and  to the  allocation of the decision rights to the firm's IS unit. It emerges that the modularization has to be properly harmonized with the IS  governance in seeking risk mitigation.
+</p>
+<p>
+ Our anniversary is an occasion for the expression of gratitude. Profound thanks go to the IS community for the support JMIS  has  received over its first three decades. Thanks go to the present and past members of our Editorial Board, who have always been the  thought  leaders in our field. Thanks also go to our publisher, M.E. Sharpe, and to the editorial and technical team they have provided for  us: they  have been with us and for us for thirty years. Great thanks go to our referees-all of them, as I do not tire of saying-the primary  guarantors of  our quality. Here are the names of the JMIS referees:
+</p>
+<p>
+ Hyung Jun Ahn
+ <br/>
+ Pervaiz Alam
+ <br/>
+ Hossam Ali-Hassan
+ <br/>
+ Muhammad Aljukhadar
+ <br/>
+ Gove Allen
+ <br/>
+ Omar Alnuaimi
+ <br/>
+ Paul Alpar
+ <br/>
+ Kemal Altinkemer
+ <br/>
+ Naveen Amblee
+ <br/>
+ Hayward P. Andres
+ <br/>
+ Corey Angst
+ <br/>
+ Ofer Arazy
+ <br/>
+ Kursad Asdemir
+ <br/>
+ Norman Au
+ <br/>
+ Yoris Au
+ <br/>
+ Benoit A. Aubert
+ <br/>
+ Peter van Baalen
+ <br/>
+ Barbro Back
+ <br/>
+ Hyunmi Baek
+ <br/>
+ Ainsworth Bailey
+ <br/>
+ Akhilesh Bajaj
+ <br/>
+ Hillol Bala
+ <br/>
+ Dirk Baldwin
+ <br/>
+ Subhajyoti Bandyopadhyay
+ <br/>
+ Gaurav Bansal
+ <br/>
+ Ravi Bapna
+ <br/>
+ Indranil R. Bardhan
+ <br/>
+ Reza Barkhi
+ <br/>
+ Henri Barki
+ <br/>
+ Stuart J. Barnes
+ <br/>
+ Richard Baskerville
+ <br/>
+ Dinesh Batra
+ <br/>
+ David Bell
+ <br/>
+ Skip Benamati
+ <br/>
+ Michel Benaroch
+ <br/>
+ Raquel Benbunan-Fich
+ <br/>
+ Alexander Benlian
+ <br/>
+ Fran&#231;ois Bergeron
+ <br/>
+ Ganesh Bhatt
+ <br/>
+ Anol Bhattacherjee
+ <br/>
+ Sudip Bhattacharjee
+ <br/>
+ Jesse Bockstedt
+ <br/>
+ Wai Fong Boh
+ <br/>
+ Antal van den Bosch
+ <br/>
+ Indranil Bose
+ <br/>
+ Nicola Breugst
+ <br/>
+ Glenn J. Browne
+ <br/>
+ Sebastian Bruque
+ <br/>
+ Scott Buffett
+ <br/>
+ Judee Burgoon
+ <br/>
+ Andrew Burton-Jones
+ <br/>
+ Ashley Bush
+ <br/>
+ Terry A. Byrd
+ <br/>
+ Jinwei Cao
+ <br/>
+ Erran Carmel
+ <br/>
+ Sangmi Chai
+ <br/>
+ Susy Chan
+ <br/>
+ Hsin-Lu Chang
+ <br/>
+ Mohamed-H&#233;di Charki
+ <br/>
+ Michael Chau
+ <br/>
+ Patrick Chau
+ <br/>
+ Ramnath K. Chellappa
+ <br/>
+ Andrew Chen
+ <br/>
+ Daniel Chen
+ <br/>
+ Hong-Mei Chen
+ <br/>
+ Hsinchun Chen
+ <br/>
+ Jianqing Chen
+ <br/>
+ Jin Chen
+ <br/>
+ Kay-Yut Chen
+ <br/>
+ Kuan Chen
+ <br/>
+ Li Chen
+ <br/>
+ Liwei Chen
+ <br/>
+ Yan Chen
+ <br/>
+ Yuanyuan Chen
+ <br/>
+ Hsing Kenneth Cheng
+ <br/>
+ Mike Cheung
+ <br/>
+ Lei Chi
+ <br/>
+ Robert T.H. Chi
+ <br/>
+ Roger Chiang
+ <br/>
+ Benjamin Chiao
+ <br/>
+ Ananth Chiravuri
+ <br/>
+ Alina M. Chircu
+ <br/>
+ Chaochang Chiu
+ <br/>
+ Jong-min Choe
+ <br/>
+ H. Michael Chung
+ <br/>
+ Wingyan Chung
+ <br/>
+ Theodore H. Clark
+ <br/>
+ Randolph Cooper
+ <br/>
+ Kevin Crowston
+ <br/>
+ Dianne Cyr
+ <br/>
+ Qizhi Dai
+ <br/>
+ Yan Dang
+ <br/>
+ John D'Arcy
+ <br/>
+ Ronald Dattero
+ <br/>
+ Gregory Dawson
+ <br/>
+ Sergio De Cesare
+ <br/>
+ Jason Dedrick
+ <br/>
+ Chrysanthos Dellarocas
+ <br/>
+ Didem Demirhan
+ <br/>
+ Xuefei Deng
+ <br/>
+ Sarv Devaraj
+ <br/>
+ Soussan Djamasbi
+ <br/>
+ Su Dong
+ <br/>
+ Wenjing Duan
+ <br/>
+ Peter Duchessi
+ <br/>
+ Deborah E. Dunkle
+ <br/>
+ Alexandra Durcikova
+ <br/>
+ Kaushik Dutta
+ <br/>
+ Robert Easley
+ <br/>
+ Dana Edberg
+ <br/>
+ Christophe Elie-Dit-Cosaque
+ <br/>
+ Aaron Elkins
+ <br/>
+ Omar A. El Sawy
+ <br/>
+ Mike Eom
+ <br/>
+ Sean B. Eom
+ <br/>
+ J. Alberto Espinosa
+ <br/>
+ Andrea Everard
+ <br/>
+ Ming Fan
+ <br/>
+ Patrick Fan
+ <br/>
+ Xiaofen Fang
+ <br/>
+ Yulin Fang
+ <br/>
+ Steven Feiner
+ <br/>
+ Jane Feng
+ <br/>
+ Daniel R. Fesenmaier
+ <br/>
+ Eliezer M. Fich
+ <br/>
+ Robert Fichman
+ <br/>
+ Jerry Fjermestad
+ <br/>
+ Chris Forman
+ <br/>
+ Chiara Francalanci
+ <br/>
+ Brent Furneaux
+ <br/>
+ John Gallaugher
+ <br/>
+ Dale Ganley
+ <br/>
+ Gordon Gao
+ <br/>
+ Ina Garnefeld
+ <br/>
+ Edward J. Garrity
+ <br/>
+ Andrew Gemino
+ <br/>
+ Michiel van Genuchten
+ <br/>
+ Joey George
+ <br/>
+ Anindya Ghose
+ <br/>
+ Janis L. Gogan
+ <br/>
+ Kim Huat Goh
+ <br/>
+ Thomas Goh
+ <br/>
+ Dale Goodhue
+ <br/>
+ Anand Gopal
+ <br/>
+ Ram D. Gopal
+ <br/>
+ Nelson Granados
+ <br/>
+ Dawn G. Gregg
+ <br/>
+ Ulrike Gretzel
+ <br/>
+ Robert K. Griffin
+ <br/>
+ Michael D. Grigoriades
+ <br/>
+ Bin Gu
+ <br/>
+ Kemal Guler
+ <br/>
+ Ken Guo
+ <br/>
+ Zhiling Guo
+ <br/>
+ Saurabh Gupta
+ <br/>
+ Nicole Haggerty
+ <br/>
+ Jungpil Hahn
+ <br/>
+ Ingoo Han
+ <br/>
+ Kunsoo Han
+ <br/>
+ Khaled Hassenein
+ <br/>
+ Jun He
+ <br/>
+ Hemantha Herath
+ <br/>
+ Tejaswini Herath
+ <br/>
+ Traci Hess
+ <br/>
+ Alan R. Hevner
+ <br/>
+ Starr Roxanne Hiltz
+ <br/>
+ Oliver Hinz
+ <br/>
+ Richard Hoffman
+ <br/>
+ Jason Hong
+ <br/>
+ Weiyin Hong
+ <br/>
+ John A. Hoxmeier
+ <br/>
+ Pei-fang Hsu
+ <br/>
+ Jeffrey Hu
+ <br/>
+ Nan Hu
+ <br/>
+ Paul Hu
+ <br/>
+ Qing Hu
+ <br/>
+ Chun-Yao Huang
+ <br/>
+ Ming-Hui Huang
+ <br/>
+ Wayne Huang
+ <br/>
+ Kai Lung Hui
+ <br/>
+ Wendy Hui
+ <br/>
+ Ard Huizing
+ <br/>
+ Yujong Hwang
+ <br/>
+ Ghiyong Im
+ <br/>
+ Gretchen I. Irwin
+ <br/>
+ Anja Ischebeck
+ <br/>
+ Varghese Jacob
+ <br/>
+ Bharat A. Jain
+ <br/>
+ Radhika Jain
+ <br/>
+ Jeevan Jaisingh
+ <br/>
+ Dietmar Jannach
+ <br/>
+ Matthew Jensen
+ <br/>
+ Anand Jeyaraj
+ <br/>
+ Bao-Jun Jiang
+ <br/>
+ James J. Jiang
+ <br/>
+ Zhengrui Jiang
+ <br/>
+ Alice Johnson
+ <br/>
+ Eric Johnson
+ <br/>
+ Emmanuel Josserand
+ <br/>
+ Surinder Kahai
+ <br/>
+ Arnold Kamis
+ <br/>
+ Atreyi Kankanhalli
+ <br/>
+ Karthik Kannan
+ <br/>
+ P.K. Kannan
+ <br/>
+ Jahangir Karimi
+ <br/>
+ Evangelos Katsamakas
+ <br/>
+ Michael Kattan
+ <br/>
+ Timothy Kayworth
+ <br/>
+ Weiling Ke
+ <br/>
+ William J. Kettinger
+ <br/>
+ Moutaz Khouja
+ <br/>
+ Melody Y. Kiang
+ <br/>
+ Sia Siew Kien
+ <br/>
+ Byung Cho Kim
+ <br/>
+ Dan J. Kim
+ <br/>
+ Dongmin Kim
+ <br/>
+ Gimun Kim
+ <br/>
+ Seung Hyun Kim
+ <br/>
+ Young-Gul Kim
+ <br/>
+ Ruth King
+ <br/>
+ Rajiv Kishore
+ <br/>
+ Gary Klein
+ <br/>
+ Richard Klein
+ <br/>
+ Cenk Kocas
+ <br/>
+ Chang Koh
+ <br/>
+ Rajiv Kohli
+ <br/>
+ Tobias Kollman
+ <br/>
+ Sherrie Komiak
+ <br/>
+ Praveen K. Kopalle
+ <br/>
+ Marios Koufaris
+ <br/>
+ Kenneth A. Kozar
+ <br/>
+ Ramayya Krishnan
+ <br/>
+ Gillian Ku
+ <br/>
+ Uday Kulkarni
+ <br/>
+ Akhil Kumar
+ <br/>
+ Ram Kumar
+ <br/>
+ Jason Kuruzovich
+ <br/>
+ Atanu Lahiri
+ <br/>
+ Simon S.K. Lam
+ <br/>
+ Guido Lang
+ <br/>
+ Karl R. Lang
+ <br/>
+ Nancy Lankton
+ <br/>
+ Kai R. Larsen
+ <br/>
+ Gwanhoo Lee
+ <br/>
+ Heeseok Lee
+ <br/>
+ Ho Geun Lee
+ <br/>
+ Jong Seok Lee
+ <br/>
+ Jungwoo Lee
+ <br/>
+ Thomas Lee
+ <br/>
+ Yang Lee
+ <br/>
+ Yen-Hsien Lee
+ <br/>
+ Younghwa (Gabe) Lee
+ <br/>
+ Pierre-Majorique L&#233;ger
+ <br/>
+ Jan Marco Leimeister
+ <br/>
+ Natalia Levina
+ <br/>
+ Chen Li
+ <br/>
+ Dahui Li
+ <br/>
+ Ting Li
+ <br/>
+ Xiaotong Li
+ <br/>
+ Xin Li
+ <br/>
+ XinXin Li
+ <br/>
+ XiXi Li
+ <br/>
+ Ting-Peng Liang
+ <br/>
+ Paul Licker
+ <br/>
+ John Lim
+ <br/>
+ Fu-ren Lin
+ <br/>
+ Lihui Lin
+ <br/>
+ Ming Lin
+ <br/>
+ Yihwa Irene Liou
+ <br/>
+ Ying Liu
+ <br/>
+ Yipeng Liu
+ <br/>
+ Alexandre Lopes
+ <br/>
+ Paul B. Lowry
+ <br/>
+ Henry C. Lucas Jr.
+ <br/>
+ Mark Lycett
+ <br/>
+ Jane M. Mackay
+ <br/>
+ Pruthikrai Mahatanankoon
+ <br/>
+ M. Adam Mahmood
+ <br/>
+ Bin Mai
+ <br/>
+ Yogesh Malhotra
+ <br/>
+ Michael V. Mannino
+ <br/>
+ Ravi Mantena
+ <br/>
+ Ji-Ye Mao
+ <br/>
+ Salvatore T. March
+ <br/>
+ Kent Marett
+ <br/>
+ Likoebe M. Maruping
+ <br/>
+ Jerrold H. May
+ <br/>
+ William McCarthy
+ <br/>
+ Kristina McElheran
+ <br/>
+ Roy McKelvey
+ <br/>
+ Harrison McKnight
+ <br/>
+ Ephraim R. McLean
+ <br/>
+ Nirup Menon
+ <br/>
+ Randy Minas
+ <br/>
+ Shaila Miranda
+ <br/>
+ Dinesh Mirchandani
+ <br/>
+ Abhay Nath Mishra
+ <br/>
+ Sunil Mithas
+ <br/>
+ Prasenjit Mitra
+ <br/>
+ William Money
+ <br/>
+ Ali R. Montazemi
+ <br/>
+ Ramiro Montealegre
+ <br/>
+ Alan Montgomery
+ <br/>
+ Jolene Morrison
+ <br/>
+ Benjamin Mueller
+ <br/>
+ Michael D. Myers
+ <br/>
+ Peter P. Mykytyn Jr.
+ <br/>
+ Barin N. Nag
+ <br/>
+ Fiona Nah
+ <br/>
+ Derek Nazareth
+ <br/>
+ Matthew Nelson
+ <br/>
+ R. Ryan Nelson
+ <br/>
+ Boon Siong Neo
+ <br/>
+ Derrick Neufeld
+ <br/>
+ Michael Newman
+ <br/>
+ Andreas I. Nicolaou
+ <br/>
+ Ralitza Nikolaeva
+ <br/>
+ Mark Nissen
+ <br/>
+ Dmitri Nizovtsev
+ <br/>
+ Oded Nov
+ <br/>
+ Lih-Bin Oh
+ <br/>
+ Wonseok Oh
+ <br/>
+ Bob O'Keefe
+ <br/>
+ Lorne Olfman
+ <br/>
+ James Oliver
+ <br/>
+ Benoit Otjacques
+ <br/>
+ Peter Otto
+ <br/>
+ Yasin Ozcelik
+ <br/>
+ Zafer D. Ozdemir
+ <br/>
+ Carl Pacini
+ <br/>
+ Raymond R. Panko
+ <br/>
+ Gautam Pant
+ <br/>
+ Manoj Parameswaran
+ <br/>
+ Michael Parent
+ <br/>
+ Insu Park
+ <br/>
+ Sungjune Park
+ <br/>
+ Craig Parker
+ <br/>
+ Bhavik K. Pathak
+ <br/>
+ Praveen Pathak
+ <br/>
+ Ravi Patnayakuni
+ <br/>
+ Souren Paul
+ <br/>
+ David J. Pauleen
+ <br/>
+ Paul A. Pavlou
+ <br/>
+ Kenneth Peffers
+ <br/>
+ Robin Pennington
+ <br/>
+ Stacie C. Petter
+ <br/>
+ Roger A. Pick
+ <br/>
+ Selwyn Piramuthu
+ <br/>
+ Huseyin Polat
+ <br/>
+ Jean-Charles Pomerol
+ <br/>
+ Jaana Porra
+ <br/>
+ Gerald Post
+ <br/>
+ John H. Prager
+ <br/>
+ David Preston
+ <br/>
+ Lingyun Qiu
+ <br/>
+ Wen Guang Qu
+ <br/>
+ Arik Ragowsky
+ <br/>
+ Rex Kelly Rainer Jr.
+ <br/>
+ Vandana Ramachandran
+ <br/>
+ K. Ramamurthy
+ <br/>
+ Arkalgud Ramaprasad
+ <br/>
+ B. Ramesh
+ <br/>
+ Richard G. Ramirez
+ <br/>
+ H.R. Rao
+ <br/>
+ R. Ravichandran
+ <br/>
+ Gautam Ray
+ <br/>
+ Louis Raymond
+ <br/>
+ Blaize Horner Reich
+ <br/>
+ Bruce Reinig
+ <br/>
+ Yuqing Ren
+ <br/>
+ Paul Resnick
+ <br/>
+ Hyuen-Suk Rhee
+ <br/>
+ William B. Richmond
+ <br/>
+ Christoph Riedl
+ <br/>
+ Ren&#233; Riedl
+ <br/>
+ Lionel Robert
+ <br/>
+ Nicholas Roberts
+ <br/>
+ Daniel Robey
+ <br/>
+ Michael Rogich
+ <br/>
+ Nicholas C. Romano Jr.
+ <br/>
+ Huaxia Rui
+ <br/>
+ Sherry D. Ryan
+ <br/>
+ Young U. Ryu
+ <br/>
+ Khawaja Saeed
+ <br/>
+ Otavio Sanchez
+ <br/>
+ G. Lawrence Sanders
+ <br/>
+ Radhika Santhanam
+ <br/>
+ Pallab Sanyal
+ <br/>
+ Nilesh Saraf
+ <br/>
+ Saonee Sarker
+ <br/>
+ Surendra Sarnikar
+ <br/>
+ Pallab Sanyal
+ <br/>
+ Carol Saunders
+ <br/>
+ George Schell
+ <br/>
+ Hans J. Scholl
+ <br/>
+ Petra Schubert
+ <br/>
+ Judy Scott
+ <br/>
+ Ravi Sen
+ <br/>
+ Sagnika Sen
+ <br/>
+ Sylvain S&#233;n&#233;cal
+ <br/>
+ Nainika Seth
+ <br/>
+ Vikram Sethi
+ <br/>
+ Theresa M. Shaft
+ <br/>
+ Michael Shaw
+ <br/>
+ Jim Sheffield
+ <br/>
+ Hong Sheng
+ <br/>
+ Morgan M. Shepherd
+ <br/>
+ Michael Shields
+ <br/>
+ Choon Ling Sia
+ <br/>
+ Siew Kien Sia
+ <br/>
+ Keng Siau
+ <br/>
+ Mark Silver
+ <br/>
+ Param Vir Singh
+ <br/>
+ Atish P. Sinha
+ <br/>
+ Sumit Sircar
+ <br/>
+ Stefan Smolnik
+ <br/>
+ Jaeki Song
+ <br/>
+ Ryan Sougstad
+ <br/>
+ Scott Spangler
+ <br/>
+ William E. Spangler
+ <br/>
+ Rajendra P. Srivastava
+ <br/>
+ Shirish C. Srivastava
+ <br/>
+ Thomas F. Stafford
+ <br/>
+ Eric W. Stein
+ <br/>
+ Dick Stenmark
+ <br/>
+ Theofanis C. Stratopoulos
+ <br/>
+ Diane M. Strong
+ <br/>
+ Besiki Stvilia
+ <br/>
+ Mani Subramani
+ <br/>
+ Chandra Subramaniam
+ <br/>
+ Ramanath Subramanyam
+ <br/>
+ Heshan Sun
+ <br/>
+ Arun Sundararajan
+ <br/>
+ Shankar Sundaresan
+ <br/>
+ Tae Kyung Sung
+ <br/>
+ Ali Tafti
+ <br/>
+ Paul P. Tallon
+ <br/>
+ Prasanna Tambe
+ <br/>
+ Vaughn Tan
+ <br/>
+ Yao-Hua Tan
+ <br/>
+ Qiuan Tang
+ <br/>
+ Xinlin Tang
+ <br/>
+ Mohan R. Tanniru
+ <br/>
+ Monideepa Tarafdar
+ <br/>
+ Nolan Taylor
+ <br/>
+ Gary F. Templeton
+ <br/>
+ Hock Hai Teo
+ <br/>
+ Thompson Teo
+ <br/>
+ Jason B. Thatcher
+ <br/>
+ Matthew Thatcher
+ <br/>
+ Dominic Thomas
+ <br/>
+ Ron Thompson
+ <br/>
+ James Y.L. Thong
+ <br/>
+ Gregory E. Truman
+ <br/>
+ Yanbin Tu
+ <br/>
+ Ilkka Tuomi
+ <br/>
+ Ofir Turel
+ <br/>
+ Tuure Tuunanen
+ <br/>
+ N.S. Umanath
+ <br/>
+ Andrew Urbaczewski
+ <br/>
+ Rustam Vahidov
+ <br/>
+ Ganesan Vaidyanathan
+ <br/>
+ Anthony Vance
+ <br/>
+ Viswanath Venkatesh
+ <br/>
+ Goetz Viering
+ <br/>
+ Padmal Vitharana
+ <br/>
+ Radu Vlas
+ <br/>
+ Douglas Vogel
+ <br/>
+ Steven Walczak
+ <br/>
+ Zhiping Walter
+ <br/>
+ Bin Wang
+ <br/>
+ Eric T.G. Wang
+ <br/>
+ Jingguo Wang
+ <br/>
+ Michael S. Wang
+ <br/>
+ Qiu-Hong Wang
+ <br/>
+ Shouhong Wang
+ <br/>
+ Sophia Wang
+ <br/>
+ Weiquan Wang
+ <br/>
+ Yinglei Wang
+ <br/>
+ Y. Richard Wang
+ <br/>
+ Molly Wasko
+ <br/>
+ Mary Beth Watson-Manheim
+ <br/>
+ Sunil Wattal
+ <br/>
+ Thomas Weber
+ <br/>
+ Chih-Ping Wei
+ <br/>
+ Bruce Weinberg
+ <br/>
+ Charles E. Wells
+ <br/>
+ John Wells
+ <br/>
+ Larry West
+ <br/>
+ J. Christopher Westland
+ <br/>
+ Jonathan Whitaker
+ <br/>
+ Michael E. Whitman
+ <br/>
+ Jeffrey L. Whitten
+ <br/>
+ George Widmeyer
+ <br/>
+ Rolf Wigand
+ <br/>
+ Fons Wijnhoven
+ <br/>
+ Christopher Wolfe
+ <br/>
+ Christina Wong
+ <br/>
+ Charles A. Wood
+ <br/>
+ Hans Wortmann
+ <br/>
+ Ryan Wright
+ <br/>
+ Dazhong Wu
+ <br/>
+ Mu Xia
+ <br/>
+ Weidong Xia
+ <br/>
+ Mingdi Xin
+ <br/>
+ Heng Xu
+ <br/>
+ Hongjiang Xu
+ <br/>
+ Lizhen Xu
+ <br/>
+ Peng Xu
+ <br/>
+ Yunjie (Calvin) Xu
+ <br/>
+ Ling Xue
+ <br/>
+ Yinping Yang
+ <br/>
+ Zhiyong Yang
+ <br/>
+ Oliver Yao
+ <br/>
+ Ulku Yaylacicegi
+ <br/>
+ Byungjoon Yoo
+ <br/>
+ Yufei Yuan
+ <br/>
+ Wei T. Yue
+ <br/>
+ Fatemeh Zahedi
+ <br/>
+ Chun Zeng
+ <br/>
+ Dongsong Zhang
+ <br/>
+ Han Zhang
+ <br/>
+ Jennifer Zhang
+ <br/>
+ John Zhang
+ <br/>
+ Michael Zhang
+ <br/>
+ Ping Zhang
+ <br/>
+ Xiaoquan Zhang
+ <br/>
+ Yulei Zhang
+ <br/>
+ Zuopeng Zhang
+ <br/>
+ Huimin Zhao
+ <br/>
+ J. Leon Zhao
+ <br/>
+ Kexin Zhao
+ <br/>
+ Dmitry Zhdanov
+ <br/>
+ Lina Zhou
+ <br/>
+ Yilu Zhou
+ <br/>
+ Zhongyun Zhou
+ <br/>
+ Hongwei Zhu
+ <br/>
+ Youlong Zhuang
+ <br/>
+ J. Christopher Zimmer
+ <br/>
+ Moshe Zviran
+ <br/>
+</p>
+<p>
+ At this time, we want remember two individuals who have contributed greatly to our field and who have also contributed to  JMIS.
+</p>
+<p>
+ Douglas C. Englebart, one of JMIS?'s authors, is, of course, much more famous as the inventor of the computer mouse. He  was far  more than that. A visionary, he saw the future computing environment already six decades ago as an augmentation of human  intellect and as  a vast medium of human collaboration. A practitioner, he implemented, against the great odds set by the early computing  ecosystem, some  of what he envisioned. Combining the insight and experience of several leading researchers, the programmatic paper Douglas  Englebart  coauthored in JMIS (vol. 18, no. 4, spring 2002) lays out the architectural principles of a system of knowledge evolution to support  virtual  communities. We all live in his world.
+</p>
+<p>
+ Robert W. Blanning served for many years on the Editorial Board of JMIS. His work in the areas of decision support and in  model  management in particular is foundational and well known. As one of our editors, he has contributed to the final shape of papers in  his  domain that have appeared in the Journal. Our field, and our journal, will miss Bob Blanning.
+</p>
+<p>
+ And now-on to the fourth decade of JMIS. Please read the papers.
+</p>
+<p>
+ Vladimir Zwass
+ <br/>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/51">    Volume 10 Number 4 1994
+</a> pp. 85-110</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Coordination of Information Technology Management: Team-Based Structures and Computer-Based Communication Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/501">DeSanctis, Gerardine</a> and     <a href="/contributors/502">Jackson, Brad M</a>    </div>
+
+<p>ABSTRACT: The coordination of information technology (IT) management presents a challenge to firms with dispersed IT practices. Decentralization may bring flexibility and fast response to changing business needs, as well as other benefits, but decentralization also makes systems integration difficult, presents a barrier to standardization, and acts as a disincentive toward achieving economies of scale. As a result, there is a need to balance the decentralization of IT management to business units with some centralized planning for technology, data, and human resources. Here we explore three major mechanisms for facilitating interunit coordination of IT management: structural design approaches, functional coordination modes, and computer-based communication systems. We define these various mechanisms and their interrelationships, and we discuss the relative costs and benefits associated with alternative coordination approaches. To illustrate the cost-benefit tradeoffs of coordination approaches, we present a case study in which computer-based communication systems were used to support team-based coordination of IT management across dispersed business units. Our analysis reveals possibilities for future approaches to IT coordination in large, dispersed organizations.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/718">computer-based communications</a>,    <a href="/keywords/719">information technology management</a>,    <a href="/keywords/720">technology-based coordination</a>,    <a href="/keywords/721">team-based organization</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

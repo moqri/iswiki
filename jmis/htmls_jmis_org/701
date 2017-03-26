@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/118">    Volume 5 Number 3 1988
+</a> pp. 101-127</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Effects of Modes of Information Presentation on Decision-Making: A Review and Meta-Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1154">Montazemi, A R</a> and     <a href="/contributors/1155">Wang, S</a>    </div>
+
+<p>ABSTRACT: This study investigates the impact of modes of information presentation on information dimensions. Twenty-four published studies were reviewed. The results of sixteen of these were cumulated by application of meta-analysis technique. The ensuing results demonstrate that the bar presentation format is slightly better than the tabular one in terms of information precision; however, the face chart is superior to the tabular format with respect to relevancy, and the multicolor presentation is more relevant than the monocolor. In addition, two factors of influence (moderators) were verified. First, personality, which is classified as field-dependent and field-independent, acts as a moderator between color and information relevancy. Second, when comparing line graphical presentations with tabular, task environment has a moderate effect on both timesaving and precision.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/311">information media</a>,    <a href="/keywords/172">graphics in information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

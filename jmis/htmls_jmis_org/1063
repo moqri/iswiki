@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/27">    Volume 29 Number 3 2012
+</a> pp. 189-222</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Competitive Target Advertising and Consumer Data Sharing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1621">Zhao, Xia</a> and     <a href="/contributors/1618">Xue, Ling</a>    </div>
+
+<p>ABSTRACT: Advances in information technologies enable firms to collect detailed consumer data and target individual consumers with tailored ads. Consumer data are among the most valuable assets that firms own. An interesting phenomenon is that competing firms often trade their consumer data with each other. Based on a common-value all-pay auction framework, this paper studies the advertising competition between two firms that target the same consumer but are asymmetrically informed about the consumer value. We characterize firms' equilibrium competition strategies. The results show that better consumer information does not help the better-informed firm save the advertising expenditure but does enable it to reap a higher expected profit in competition. Sharing individual-level consumer data may soften the competition even though firms compete head-to-head for the same consumer. We also find that the better-informed firm may sell its data to its competitor but never voluntarily shares it with its competitor.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2329">advertising</a>,    <a href="/keywords/3037">all-pay auction</a>,    <a href="/keywords/3038">common-value auction</a>,    <a href="/keywords/1047">information asymmetry</a>,    <a href="/keywords/528">information sharing</a>,    <a href="/keywords/3039">target marketing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

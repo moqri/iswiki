@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/95">    Volume 14 Number 2 1997
+</a> pp. 201-216</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Performance Evaluation of Neural Network Decision Models</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/833">Jain, Bharat A</a> and     <a href="/contributors/834">Nag, Barin N</a>    </div>
+
+<p>ABSTRACT: Recently, promising results with neural networks have been reported for two-group classification problems such as bankruptcy prediction and thrift failures. Such applications are usually characterized by unequal frequencies of the two states of interest. This creates a major obstacle to effective performance evaluation of various decision models. Critical issues affecting the comparison include training sample design and the use of an appropriate performance metric. This paper addresses these two issues by comparing the performance of neural networks with that of statistical models for the decision problem of identifying successful new ventures.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1076">logit models</a>,    <a href="/keywords/386">neural networks</a>,    <a href="/keywords/1077">new ventures</a>,    <a href="/keywords/1078">sample design</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

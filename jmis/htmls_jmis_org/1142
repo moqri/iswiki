@@ -1,0 +1,79 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/89">    Volume 24 Number 3 2007
+</a> pp. 5-7</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ It is a vital objective of our scholarly field, both in the epistemological and in the pragmatic sense, to evolve an understanding of how to develop successful IT artifacts. We need to know--in a sense of justified true belief--how to develop information systems (IS), to put it plainly. Research centering on systems-development methodologies is a part of our brief. This is not to take away from the positivist or interpretive approaches that have been established in our field. It is to add to them. It is also to blend them into the study of IT artifacts. The types of artifacts whose development we study differ from those studied in computer science, as we deal with the system levels that touch the users and affect more directly organizational performance. It is also our disciplinary duty to study systems in use and to assess their effects in action. The role of system development in IS research was articulated in a scholarly manner almost two decades ago [1]. And yet this research stream has not flowed abundantly. More recently, this type of research has been framed as design science and a variety of guidelines have been offered toward its successful application. The next paper in the present issue offers a methodology for design science research in IS and demonstrates its use. The authors, Ken Peffers, Tuure Tuunanen, Marcus A. Rothenberger, and Samir Chatterjee, evaluate the application of their proposed methodology in several contexts (and, recursively, demonstrate it in the context of its development). It is important that the methodology includes as one of its final steps not only its evaluation to thus lead to double-loop learning but also a scholarly communication step, to help us bring to a higher level our design research itself.
+</p>
+<p>
+ Several papers that follow are devoted to the study of online marketplaces. The first two of them analyze different aspects of the pricing of digital goods. Ming-Hui Huang, Eric T.G. Wang, and Abraham Seidmann address an increasingly important aspect of our economy--knowledge pricing in an open market. The authors identify an important inconsistency in the users&#8217; approach to knowledge markets, an inconsistency that creates inefficiencies in the markets for important categories of knowledge goods, those in knowledge repositories. The researchers then bring to bear the theoretical perspectives that allow them to show empirically how to devise prices in order to create more efficient markets for knowledge. Moutaz Khouja and Sungjune Park employ formal modeling to study the markets for digital experience goods subject to piracy--music or movies, say. The authors show how the producer of these digital goods can incorporate the assumption of piracy by certain consuming segments into the pricing policy. Under the segmentation policies and corresponding pricing practices revealed here, the producer&#8217;s profit, the creator&#8217;s royalty, and the consumer&#8217;s surplus are all increased.
+</p>
+<p>
+ Online media are clearly gaining ground. During the recent years, online advertising has become a major force. The question emerges: Should advertising on media sites largely pay for the delivery of the content to consumers? Ming Fan, Subodha Kumar, and Andrew B. Whinston study analytically  the trade-offs between selling and advertising as revenue sources for the media industries. The work surfaces a textured set of strategic recommendations for the mix of selling and providing ad venues, depending on a variety of factors, as well as for differentiated pricing levels. Explicit recommendations to media companies are offered on the effective bundles of selling and advertising prices.
+</p>
+<p>
+ Versioning digital goods is an established strategy in addressing the marketplace, where the provision of such vertical differentiation is not expensive. The next question is, naturally: How many versions should be offered? This issue has not been addressed in the literature in a general, theory-based manner. Here, Wendy Hui, Byungjoon Yoo, and Kar Yan Tam provide an analytical model that incorporates menu costs of managing different price offerings, as well as the consumer&#8217;s cognitive costs (the potential customer&#8217;s confusion when facing a larger set of offering bundles). As in the preceding paper, the results gained are translated by the authors into recommendations for the vendors of digital goods.
+</p>
+<p>
+ Online personalization takes place at the expense of the private information previously held by consumers without disclosure. Personalization, when used properly, brings benefits to consumers. The disclosure of information about themselves bears them the cost of eroding privacy. With the advent of m commerce, where time constraints and small screens call for downright consumer intimacy, this trade-off is placed into even sharper relief. Ramnath K. Chellappa and Shivendu Shivendu apply economic modeling and the property rights approach to evaluate four choices of regimes for the allocation of property rights to personal information. Based on this analysis, the authors offer recommendations both to the regulatory agencies and to the firms using personal information.
+</p>
+<p>
+ The alignment of a firm&#8217;s IS strategy with its business strategy is a well-known prerequisite for success of corporate IS. However, this macro-level perspective fails to take in much that needs to happen in the organizational practice to align a firm&#8217;s IS with its actual informational needs. Paul P. Tallon brings the alignment discourse and empirics down to the process level of corporate operations, an important sharpening of focus and granularity. Further, this research addresses the type of fit that is achieved between the essential corporate processes and IS that serve them. The fine-grained results advance both our knowledge about the strategic use of IS and the advice we can offer to managers.
+</p>
+<p>
+ Querying electronic knowledge repositories is hampered by the word mismatch phenomenon: a user&#8217;s query often refers to the items searched for in different terms than those stored in the electronic corpora. The oft-used information retrieval technique in such cases is query expansion. How to expand is the question. In their contribution, Chih-Ping Wei, Paul Jen-Hwa Hu, Chia-Hung Tai, Chun-Neng Huang, and Chin-Sheng Yang propose a topic-based approach to this expansion. Thus, the global analysis of the entire source corpus that produces the top-ranked terms coinciding with those in the query is augmented with the thesauri for various topic clusters. Both sets of terms are used to expand the user&#8217;s query, after additional processing. The authors demonstrate the superior performance of their approach.
+</p>
+<p>
+ J. Christopher Zimmer, Raymond M. Henry, and Brian S. Butler ask a fundamental question: Where do the individuals in an organization turn to when seeking information or knowledge? The authors dichotomize the sources into relational (direct interpersonal contact) and nonrelational. Using the survey method, the authors then study the factors that lead the individuals to use these respective sources. While source accessibility is a good predictor of use, it is notable that the nonrelational sources, such as the Web corpora, are considered less accessible than the relational ones. The results ought to impact the design of IS supporting employee information seeking. It also emerges that there is a need for organizational initiatives expanding employee horizons with respect to their information- and knowledge-seeking behavior.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p>
+<p>
+ Reference
+</p>
+<p>
+ 1. Nunamaker, J.F., Jr.; Chen, M.; and Purdin, T.D. Systems development in information systems research. Journal of Management Information Systems, 7, 3 (Winter 1990-91), 89-106.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

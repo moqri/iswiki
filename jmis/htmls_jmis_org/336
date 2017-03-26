@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/107">    Volume 13 Number 1 1996
+</a> pp. 9-34</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Empirically Derived Taxonomy of Information Technology Structure and Its Relationship to Organizational Structure</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/610">Fiedler, Kirk Dean,</a>    <a href="/contributors/195">Grover, Varun,</a> and     <a href="/contributors/611">Teng, James T C</a>    </div>
+
+<p>ABSTRACT: This study empirically develops a taxonomy that has implications for matching information technology (IT) and organizational structures. The taxonomy of IT structure is based on the degree of centralization of computer processing, capability to support communications, and the ability to share resources. By using a multistep cluster analysis, both the membership and number of groups are derived from the responses of 313 firms. Four IT structures are identified: centralized (centralized processing, low communication, low sharing), decentralized (decentralized processing, low communication, low sharing), centralized cooperative (centralized processing, high communication, high sharing), and distributed cooperative computing (decentralized processing, high communication, high sharing). Centralized computing is related to functional organizational forms with low integration and centralized decision making. Decentralized computing is related to product organizational forms with decentralized decision making. Centralized cooperative computing is related to functional organizational forms with high integration. Distributed cooperative computing is related to both matrix and product organizational forms with high integration. The ability to identify and understand the implications of IT structure is of critical importance to both academic and management practitioners.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/922">information technology structure</a>,    <a href="/keywords/526">organizational decision-making structure</a>,    <a href="/keywords/923">organizational integration</a>,    <a href="/keywords/737">organizational structure</a>,    <a href="/keywords/924">taxonomy</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

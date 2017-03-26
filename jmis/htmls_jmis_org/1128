@@ -1,0 +1,70 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/50">    Volume 17 Number 4 2001
+</a> pp. 3-4</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ IN A RECIPROCAL RELATIONSHIP, information systems and the environments in which they operate  are becoming ever more complex. Consequently, software projects are not getting easier to control. The use  of packaged software alleviates some of the problems. Yet anyone familiar with the implementation of an  enterprise resource planning system knows that software projects remain high-risk propositions. Two papers  that open the present issue of the Journal address the management of software project risks in a  comprehensive manner. The two works form a logical sequence. In a rigorous multinational study, Roy  Schmidt, Kalle Lyytinen, Mark Keil, and Paul Cule identify a ranked list of common risk factors. Based on the  experience of seasoned project managers, the categorized list of risk factors and the analyses of their  sources offer important guidance to the project managers and invite research on countermeasures. Relying on  the experience of project managers and end users, and adopting the perspective of fit between the nature of  the project risk and the risk management profile, Henri Barki, Suzanne Rivard, and Jean Talbot offer an  integrative model of managing these risks. The performance objective of the project has been identified as the  primary criterion for the selection of a risk management approach. Taken together, the two works move our  understanding of this vital area to a new level.
+</p>
+<p>
+ Does the development of telecommunication infrastructure lead to a heightened economic activity of a  country? Such broad-and very important-questions are difficult to answer conclusively. By applying in a  novel fashion a sophisticated econometric technique, Amitava Dutta offers empirical evidence that the  question should indeed be answered in the affirmative. Also using longitudinal data, Kar Yan Tam and Kai Lung  Hui are able to infer those characteristics of computer vendors that increase the chances of adoption of their  products by MIS managers. The authors bring to light the dominant roles of a broad product line and strong  brand. Taken together, the two papers showcase the contributions that econometric methods can make to the  knowledge in our field.
+</p>
+<p>
+ In many cases, superior customer service separates successful firms from their less successful  competitors. How can information technology contribute to success along this dimension? The deployment of  customer relationship management systems is a quick-but not necessarily correct-answer. Jahangir Karimi,  Toni M. Somers, and Yash P. Gupta seek out empirically the information technology (IT) management  practices that lead to better customer service and higher customer satisfaction. Based on the strategic grid  construct, the authors offer a classification that helps them identify the category of firms whose IT  deployment gives them a customer service advantage.
+</p>
+<p>
+ Another factor of corporate success in the advanced information society is the IT competence of  business managers. Genevieve Bassellier, Blaize Horner Reich, and Izak Benbasat define and operationalize  this construct. The authors describe the components of the explicit and tacit knowledge that underlie the  competence, and present a research model that traces the paths from this knowledge-and-skill set to the  behavioral outcomes.
+</p>
+<p>
+ How do IT professionals cope with rapid technological change? Sixteen years ago, James Cash and  Poppy McLeod identified in this Journal the emerging technologies (ET) group as a vital coping mechanism.  Here, John Benamati and Albert L. Lederer empirically establish a broader set of coping means and find that  the organizations that rely on the ET group generally fail to receive the expected benefits. Indeed, an  observation of such groups at work does lead one to conclude that while this work is often interesting and  rewarding to the group members, this reward does not extend beyond the group boundaries. Within the broader  context of their objective, the present authors offer a number of suggestions for improving this state of  affairs.
+</p>
+<p>
+ Neural networks are an established tool in such applications as financial forecasting and data mining.  Here, Steven Walczak shows that reducing the training set of these networks in forecasting currency  exchange rates can lead to improved performance. Since reducing the size of the training sample also leads to  time and cost economies, this result is of value to both researchers and practitioners. It also begs for an  investigation in other arenas.
+</p>
+<p>
+ Poor analysis of information system requirements leads to poor systems, which take a great outlay to  correct or will be abandoned altogether. The elicitation of user requirements is the crucial factor in the  analysis-and is fraught with noncommunication and miscommunication. The users and the analysts generally  operate in different problem spaces. This is one of the statements in the extensive study by Glenn J. Browne  and Michael B. Rogich, who empirically compare the effectiveness of three techniques used to elicit the  requirements, including a novel prompting technique devised by the authors. The rich new technique includes,  along with substantive prompts, also the procedural ones that help the interviewees to adopt an active,  performative posture and thus to avoid many preconceptions arising from their present environment. The  broad analysis of the requirements elicitation process and the empirical results presented in the paper amply  qualify it for the last-but-certainly-not-least description.
+</p>
+<p>
+ VLADIMIR ZWASS
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

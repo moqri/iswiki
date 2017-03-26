@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/126">    Volume 32 Number 1 2015
+</a> pp. 322-357</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Employees’ Exploration of Complex Systems: An Integrative View</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1554">Liang, Huigang,</a>    <a href="/contributors/1771">Peng, Zeyu,</a>    <a href="/contributors/1556">Xue, Yajiong,</a>    <a href="/contributors/715">Guo, Xitong,</a> and     <a href="/contributors/1772">Wang, Nengmin</a>    </div>
+
+<p>ABSTRACT: 
+<p>Based on the theory of effective use and adaptive structuration theory, we propose that employees’ system exploration behavior can be affected by factors related to three major components: task, system, and organizational environment. Specifically, we examine how task characteristics (job autonomy and task variety), system complexity, and innovation climate jointly affect employees’ exploration, which, in turn, leads to extended use of enterprise systems. A field survey of enterprise resource planning (ERP) users yields several interesting findings. First, job autonomy and task variety directly enhance system exploration. Second, system complexity plays a moderating role by strengthening the relationship between job autonomy and exploration and weakening the relationship between task variety and exploration. Third, innovation climate, also acting as a moderator, strengthens both the impact of job autonomy on exploration and the impact of system exploration on extended use. This research contributes to information systems (IS) research by theoretically articulating that system exploration is subject to the simultaneous influences of task, system, and organizational environment factors and empirically testing these factors’ main effects and interactions to shed new light on system exploration research. It also contributes to IS practice by suggesting that organizations could enhance employees’ system exploration and facilitate the transition from exploration to extended use by increasing job autonomy and task variety, designing personalized training programs to reduce system complexity, and developing organizational climates that foster innovations.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2883">autonomy</a>,    <a href="/keywords/3501">ERP</a>,    <a href="/keywords/3502">innovation climate</a>,    <a href="/keywords/3503">IS jobs</a>,    <a href="/keywords/3504">system exploration</a>,    <a href="/keywords/1066">task complexity</a>,    <a href="/keywords/3505">task variety</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

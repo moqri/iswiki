@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/46">    Volume 21 Number 2 2004
+</a> pp. 33-60</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Prioritizing a Portfolio of Information Technology Investment Projects</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/129">Bardhan, Indranil,</a>    <a href="/contributors/130">Bagchi, Sugato,</a> and     <a href="/contributors/131">Sougstad, Ryan</a>    </div>
+
+<p>ABSTRACT: Although the use of real options for valuation of information technology (IT) investments has been documented, little research has been conducted to examine its relevance for valuing and prioritizing a portfolio of projects. Complexities of IT projects along with the effect of project interdependencies raise several challenges in applying real options for prioritization of IT investments. We examine a large U.S.-based energy utility firm in a deregulated environment that is considering investment in a portfolio of 31 projects to provide a range of Internet-enabled energy services to customers. Using real data on expected project benefits and costs for different competitive scenarios, we develop a nested options model that extends prior research by incorporating the impact of project interdependencies to calculate the option value of all projects. Our nested options model provides a better understanding of project interdependencies on valuation and prioritization decisions, and provides insights into the business value of IT infrastructure projects that provide the managerial flexibility to launch future projects. We present a real options portfolio optimization algorithm for dynamic multiperiod portfolio optimization by incorporating the project values based on real options analysis in a portfolio management model with budget constraints.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1309">business value</a>,    <a href="/keywords/455">information technology</a>,    <a href="/keywords/1793">investment evaluation</a>,    <a href="/keywords/1794">net present value</a>,    <a href="/keywords/1795">portfolio optimization</a>,    <a href="/keywords/1796">real options analysis</a>,    <a href="/keywords/1797">sequential investment</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

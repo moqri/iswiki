@@ -1,0 +1,72 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/23">    Volume 18 Number 3 2001
+</a> pp. 5-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ THE THREE PAPERS THAT OPEN THIS ISSUE of the Journal of Management Information Systems investigate  different aspects of the individual and team performance in the environment enabled by information systems or  engaged in their development. Timothy R. Kayworth and Dorothy E. Leidner study the effectiveness of leadership  in global virtual teams, whose work is supported by computer-mediated communication systems. A relatively new  operational mode, its existence is predicated by information technology. These teams are a phenomenon of  increasing business globalization. Multiple challenges of diverse cultural backgrounds and of difficult collaboration  logistics complicate the leadership tasks. Having created thirteen virtual teams spanning Europe, Mexico, and the  United States, the authors have established that the effective leaders display greater behavioral complexity, being  able to act in multiple roles simultaneously, combining relational considerations with the task-oriented ones. The  work offers support and reconciles three theories of leadership invoked by its authors.
+</p>
+<p>
+ Hayward P. Andres and Robert W. Zmud investigate the effective coordination of software development  projects by adopting the perspective of fit between the information-processing capacity of the coordination  strategy and the team's information-processing needs stemming from the task at hand. Among many finer-grained  results obtained, organic coordination, such as self-management, emerges as the preferred approach.
+</p>
+<p>
+ Michael R. Wade and Michael Parent contrast job-content analysis of Webmaster positions with the surveyed  relationship between these skills and performance as perceived by the Webmasters themselves. The  researchers find the organizational skills, as opposed to the technical ones, to be the critical factor when  deficiencies emerge in the performance on the job. Although a balance between technical and organizational skills  is the ideal profile, it is indeed the deficiencies in the latter skill set that are generally not discovered during the  recruitment process.
+</p>
+<p>
+ Two subsequent papers deal with the acceptance and assimilation of information technologies. Weiyin Hong,  James Y.L. Thong, Wai-Man Wong, and Kar-Yan Tam seek to determine the factors that lead to the acceptance by  users of digital libraries. Based on their work with the users of an award-winning digital library, the authors find  strong support for the technology acceptance model in predicting the use, with relevance being the strongest  predictor of perceived usefulness. In the assimilation of object-oriented (OO) technologies, Ihlsoon Cho and  Young-Gul Kim find that, rather surprisingly at first blush, the perceived technology complexity has a positive  relationship with assimilation. The authors explain this, as well as their other findings, which should help facilitate  the introduction of the OO technologies in organizations.
+</p>
+<p>
+ As configured, our present workflow management systems (WMS) are quite inflexible in the way they  distribute work in organizations. Akhil Kumar, Wil M.P. van der Aalst, and Eric M.W. Verbeek present and validate  a novel approach to distributing work with WMS in the presence of additional constraints that emerge in the  real-world applications, such as deadlines and unavailability of workers. The approach is both of theoretical  interest and offers practical help in using such WMS as Staffware.
+</p>
+<p>
+ The distribution of objects in OO business information systems across computer networks is the subject of  the work by Sandeep Purao, Hemant K. Jain, and Derek L. Nazareth. The authors offer a comprehensive  approach, based on a formal model, for this distribution in order to minimize inter-site traffic over a net.
+</p>
+<p>
+ The two final papers of this issue address group support. Alan R. Dennis and Barbara H. Wixom synthesize,  with the use of meta-analysis, the broad body of research concerning the influence of five crucial moderating  factors on the performance of the group using a group support system (GSS). The motivation for the work is to  tease out consistency among the mixed-research findings through focusing on manageable aspects of GSS use.  Based on their analysis, the authors are in a position to offer advice on how to support given tasks with GSS,  depending on the nature of the task and the group, the nature of the tool, and the presence or absence of  facilitation.
+</p>
+<p>
+ Decision-making is a principal task category supported by GSS. Indeed, group decision support systems  (GDSS) were the origins of the broader GSS rubric. Reza Barkhi studies the influence of the use of the GDSS  with a problem-modeling component on the quality of the solution found and on the efficiency of the  solution-seeking process. Among other research-based recommendations, the author stresses the importance of  equipping GDSS with these tools, for the use of virtual teams, echoing the subject matter of the opening paper of  the issue.
+</p>
+<p>
+ VLADIMIR ZWASS
+ <br/>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

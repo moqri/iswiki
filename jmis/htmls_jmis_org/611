@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/31">    Volume 20 Number 2 2003
+</a> pp. 77-98</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Codifiability, Relationship-Specific Information Technology Investment, and Optimal Contracting</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1024">Levi, Moti,</a>    <a href="/contributors/1025">Kleindorfer, Paul R,</a> and     <a href="/contributors/430">Wu, D J</a>    </div>
+
+<p>ABSTRACT: The past few years have seen an explosion in the number of e-market-places, including a variety of electronic exchanges in the B2B arena, but many of these have also collapsed (e.g., Chemdex/Ventro). The question addressed in this paper is what are the underlying factors that affect which transactions are likely to be supportable by B2B exchanges. In particular, we identify and study three factors: supplier management, idiosyncratic investments in information systems, and codifiability (i.e., digitalizability) of product and order-fulfillment specifications underlying transactions. We show that transaction codifiability plays a fundamental role in influencing the nature of sustainable contracting and IT investments in e-markets. Hypotheses are derived from an analytical model of codifiability in e-marketplaces; these hypotheses are supported by several case studies by the authors and others on the key success factors underlying B2B exchanges.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1692">B2B exchanges</a>,    <a href="/keywords/1693">codifiability</a>,    <a href="/keywords/1694">electronic marketplaces</a>,    <a href="/keywords/1695">relationship-specific investments</a>,    <a href="/keywords/1696">supplier management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

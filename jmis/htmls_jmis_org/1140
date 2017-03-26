@@ -1,0 +1,1318 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/61">    Volume 23 Number 1 2006
+</a> pp. 5-12</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ The penetration of advanced information technologies (IT), particularly the ever deeper and more diverse deployment of the multiple aspects of the Internet&#8211;Web compound, has empowered networks of firms benefiting from their long-term supply relationships. This new nature of cooperation and competition has far-reaching effects that require extensive investigation. In particular, effective cooperation among the firms in supply-based relationships requires encompassing information sharing. Coordination of actions is rooted in information. However, such sharing does not come naturally, as it may lead to opportunistic and exploitative behavior. Long-term, mutually beneficial relationships are the foundation of sharing. Here, Ravi Patnayakuni, Arun Rai, and Nainika Seth present a study of a vital aspect of the interorganizational information sharing in supply networks. The authors define the constructs that characterize the relational orientation of network firms and trace those to the outcome of information sharing. Fostering the specific relational factors of sharing identified by the authors thus comes into the managerial agenda.
+</p>
+<p>
+ IT-enabled business process change (BPC) is fraught with dangers, and failure has many faces. With its ability to provide rich characterizations of phenomena, disciplined interpretive research is well positioned to set a lens and a mirror before these faces of failure. Here, Suprateek Sarker, Saonee Sarker, and Anna Sidorova analyze an extensive case of BPC failure. Applying the Latourian actor-network theory, the authors are able to distill a highly realistic set of diagnostic findings that contain nuggets of political wisdom for the sociopolitical processes of information system (IS) implementation. The need to heed technology appropriation as a continuing process of management is an important takeaway.
+</p>
+<p>
+ Five contributions to this JMIS issue address various aspects of e-commerce. Fatemeh &#8220;Mariam&#8221; Zahedi, William V. Van Pelt, and Mark Srite study one of the cultural dimensions of Web sites: their masculine or feminine signification. In another exemplar of interpretive research, to follow the preceding paper, the present authors combine a hermeneutic approach with Barthes-inflected semiotics in order to tease out and categorize gender-oriented signifiers in Web site documents. Considering that these researchers have been able to find much gender-encoded communication on the Web sites, their work should be studied by all aiming at effective communication and usability of Web sites for commerce and beyond it.
+</p>
+<p>
+ In a contrasting methodologically work, the authors of the next paper study the online music marketplace. The digital music is on the front line of the restructuring of the markets for digital goods, with the established intermediaries challenged by the opportunities for direct relationships between the producers and consumers, and&#8212;even more threateningly&#8212;among the consumers weakly motivated to reward the producers. Sudip Bhattacharjee, Ram D. Gopal, Kaveepan Lertwachara, and James R. Marsden deploy economic analysis to study this reforming marketplace. The authors find a complex interplay between the intermediary profits, policies of music publishers, and consumer search (and piracy) behavior. Notably, the authors identify the conditions under which a music retailer is better off in an environment with piracy, which functions as a sampling technique. The work is of definite interest to all invested in the digital good marketplaces, a vast area of drastic change.
+</p>
+<p>
+ A great variety of auction mechanisms have been explored and, in part, implemented in e-commerce, as the auction form of market organization is highly compatible with the ubiquitous access and the ability to enforce the desired rules automatically and impartially. In particular, combinatorial auctions, in which bidders vie for collections of goods, and which may be highly complex in the winner selection, have become feasible. Joni L. Jones, Robert F. Easley, and Gary J. Koehler show here that it is possible to use their rule-based combinatorial auction to serve a multisegment marketplace with such a single mechanism. This work is of importance in fostering unified seller-owned marketplaces to serve a variety of customers.
+</p>
+<p>
+ Trust deficit is the epiphenomenon of online marketplaces. Reputation is primary among the multiple sources from which trust can derive&#8212;hence, for example, the importance of brands in the online world (against the nonsensical predictions of some early commentators on the field). Enhanced online reputation of a firm may derive from an association with a more reputable firm. Web site links are a form of association. Katherine J. Stewart presents an empirical analysis of the effects of linking on the firms of unequal reputation on both sides of the hypertext link. The results will help organizations in partner selection and link presentations.
+</p>
+<p>
+ Online buyers can pursue several ways of searching for a projected acquisition, with the choice of the search methods affecting the final purchase. In an empirical study, Ravi Sen, Ruth C. King, and Michael J. Shaw find that the loyalty to a vendor, the buyer&#8217;s perception of price dispersion, and other factors mitigate the determined search for the lowest price. The results of this are apparent in the well-known fact of wide price dispersion on the Web. The authors indicate how their results will be helpful to vendors in price setting and selling in the market space.
+</p>
+<p>
+ The options approach to the IT investment valuations is now well established. With the use of real options analysis, adapted from the world of securities, the long-term effects of major investments can be estimated at their fuller contribution, avoiding the myopic view of the net present value. Indeed, the approach&#8212;introduced in this journal 15 years ago&#8212;is now entering textbooks and the IS practice. Considering the complexity of the method, temptations to use approximations arise. In their contribution, Michel Benaroch, Sandeep Shah, and Mark Jeffery show how these heuristics in search of tractability can lead to very significant overvaluations of IT investments. Further, the authors refine the option model.
+</p>
+<p>
+ Enterprise resource planning (ERP) systems are well known both for their potential in enterprise management and for the difficulty of their implementation. With the progressing business globalization, an important barrier to implementation success emerges in the distinctions between the country of implementation and the country of origin of the ERP package. Here, Eric T.G. Wang, Gary Klein, and James J. Jiang parse these distinctions and analyze their role in the implementation process. They approach the systems as products of and participants in different social arrangements in different cultural contexts. Based on their analysis, the authors are able to offer guidelines for alleviating the deleterious effects of the differences.
+</p>
+<p>
+ The concluding paper in this issue takes a fundamental approach to the role of IS in organizations by turning to Galbraith&#8217;s information processing theory. The work is important in that, surprisingly, this theoretical lens had not been used in our field. The relatively recent expression of misunderstanding of the role of IS (as opposed to just IT) in organizations could have been informed&#8212;if not prevented&#8212;by a deeper analysis of embedding of technologies in organizations. Here, James F. Fairbank, Giuseppe &#8220;Joe&#8221; Labianca, H. Kevin Steensma, and Richard Metters deploy the information processing theory to study empirically the effects of the embedded IS on the performance of single-industry organizations. The beneficial strategic deployment of IS, when used fittingly to the firm&#8217;s competitive posture, is apparent.
+</p>
+<p>
+ This issue opens the twenty-third volume of the Journal of Management Information Systems, the first in the expanded format. This is an excellent time to express gratitude to our readers and authors, and to the global community of the MIS scholars and practitioners. In this expression of  gratitude, I represent the Journal&#8217;s Editorial Board, constituted of the leaders of our discipline. Very special thanks go, as always, to our reviewers, the primary guarantors of quality. Here are the JMIS referees:
+</p>
+<p>
+ Niv Ahituv
+</p>
+<p>
+ Pervaiz Alam
+</p>
+<p>
+ Paul Alpar
+</p>
+<p>
+ Donald L. Amoroso
+</p>
+<p>
+ Murugan Anandarajan
+</p>
+<p>
+ Hayward P. Andres
+</p>
+<p>
+ Dorine Andrews
+</p>
+<p>
+ Yoris Au
+</p>
+<p>
+ Sulin Ba
+</p>
+<p>
+ Barbro Back
+</p>
+<p>
+ Akhilesh Bajaj
+</p>
+<p>
+ P.R. Balasubramanian
+</p>
+<p>
+ Dirk Baldwin
+</p>
+<p>
+ Subhajyoti Bandyopadhyay
+</p>
+<p>
+ Indranil R. Bardhan
+</p>
+<p>
+ Reza Barkhi
+</p>
+<p>
+ Henri Barki
+</p>
+<p>
+ Stuart J. Barnes
+</p>
+<p>
+ Dinesh Batra
+</p>
+<p>
+ Irma Becerra-Fernandez
+</p>
+<p>
+ Skip Benamati
+</p>
+<p>
+ Michael Benaroch
+</p>
+<p>
+ Raquel Benbunan-Fich
+</p>
+<p>
+ Samuel Bendahan
+</p>
+<p>
+ Fran&#231;ois Bergeron
+</p>
+<p>
+ Hemant Bhargava
+</p>
+<p>
+ Anol Bhattacherjee
+</p>
+<p>
+ Sudip Bhattacherjee
+</p>
+<p>
+ M. Brian Blake
+</p>
+<p>
+ Gilbert Bock
+</p>
+<p>
+ Indranil Bose
+</p>
+<p>
+ Robert M. Brown
+</p>
+<p>
+ Glenn J. Browne
+</p>
+<p>
+ Jacek Brzezinski
+</p>
+<p>
+ Terry A. Byrd
+</p>
+<p>
+ Edward G. Cale, Jr.
+</p>
+<p>
+ Jinwei Cao
+</p>
+<p>
+ Sven Carlsson
+</p>
+<p>
+ William J. Carroll
+</p>
+<p>
+ Sergio de Cesare
+</p>
+<p>
+ Susy Chan
+</p>
+<p>
+ Jerry Cha-Jan Chang
+</p>
+<p>
+ Debabroto Chatterjee
+</p>
+<p>
+ Patrick Chau
+</p>
+<p>
+ Ramnath K. Chellappa
+</p>
+<p>
+ Hong-Mei Chen
+</p>
+<p>
+ Kuan Chen
+</p>
+<p>
+ Minder Chen
+</p>
+<p>
+ Hsing Kenneth Cheng
+</p>
+<p>
+ Robert T.H. Chi
+</p>
+<p>
+ Roger Chiang
+</p>
+<p>
+ Alina M. Chircu
+</p>
+<p>
+ William C. Chismar
+</p>
+<p>
+ Jong-min Choe
+</p>
+<p>
+ H. Michael Chung
+</p>
+<p>
+ Wingyan Chung
+</p>
+<p>
+ Theodore H. Clark
+</p>
+<p>
+ Roger Clarke
+</p>
+<p>
+ Randolph Cooper
+</p>
+<p>
+ Qizhi Dai
+</p>
+<p>
+ Ronald Dattero
+</p>
+<p>
+ Bruce Dehning
+</p>
+<p>
+ Didem Demirhan
+</p>
+<p>
+ Amit Deokar
+</p>
+<p>
+ Gordon Depledge
+</p>
+<p>
+ Sarv Devaraj
+</p>
+<p>
+ Rajiv M. Dewan
+</p>
+<p>
+ Gisela von Dran
+</p>
+<p>
+ Peter Duchessi
+</p>
+<p>
+ Omar A. El Sawy
+</p>
+<p>
+ Sean B. Eom
+</p>
+<p>
+ J. Alberto Espinosa
+</p>
+<p>
+ Robert Evaristo
+</p>
+<p>
+ Ming Fan
+</p>
+<p>
+ Xiaofen Fang
+</p>
+<p>
+ Bijan Fazlollahi
+</p>
+<p>
+ Steven Feiner
+</p>
+<p>
+ Eliezer M. Fich
+</p>
+<p>
+ Kirk Fiedler
+</p>
+<p>
+ Elizabeth Fife
+</p>
+<p>
+ Edmond P. Fitzgerald
+</p>
+<p>
+ Jerry Fjermestad
+</p>
+<p>
+ Steven W. Floyd
+</p>
+<p>
+ Chiara Francalanci
+</p>
+<p>
+ Michael R. Galbreth
+</p>
+<p>
+ Dennis Galletta
+</p>
+<p>
+ Michael Gallivan
+</p>
+<p>
+ Gordon Gao
+</p>
+<p>
+ Edward J. Garrity
+</p>
+<p>
+ Judith Gebauer
+</p>
+<p>
+ David Gefen
+</p>
+<p>
+ Michiel van Genuchten
+</p>
+<p>
+ Anindya Ghose
+</p>
+<p>
+ Paulo B. Goes
+</p>
+<p>
+ Janis L. Gogan
+</p>
+<p>
+ Thomas Goh
+</p>
+<p>
+ Dale Goodhue
+</p>
+<p>
+ Ram D. Gopal
+</p>
+<p>
+ Sanjay Gosain
+</p>
+<p>
+ Peter Gray
+</p>
+<p>
+ Stefano Grazioli
+</p>
+<p>
+ Saul Greenberg
+</p>
+<p>
+ Robert K. Griffin
+</p>
+<p>
+ Michael D. Grigoriades
+</p>
+<p>
+ Bin Gu
+</p>
+<p>
+ Kemal Guler
+</p>
+<p>
+ Alok Gupta
+</p>
+<p>
+ Jungpil Hahn
+</p>
+<p>
+ Barbara Haley
+</p>
+<p>
+ James A. Hall
+</p>
+<p>
+ Ingoo Han
+</p>
+<p>
+ Kunsoo Han
+</p>
+<p>
+ Paul Hart
+</p>
+<p>
+ Stephen Hayne
+</p>
+<p>
+ Ann Hickey
+</p>
+<p>
+ Starr Roxanne Hiltz
+</p>
+<p>
+ Rudy Hirschheim
+</p>
+<p>
+ Richard Hoffman
+</p>
+<p>
+ John A. Hoxmeier
+</p>
+<p>
+ Paul Hu
+</p>
+<p>
+ Qing Hu
+</p>
+<p>
+ Wayne Huang
+</p>
+<p>
+ Cary Hughes
+</p>
+<p>
+ Kai Lung Hui
+</p>
+<p>
+ Ard Huizing
+</p>
+<p>
+ E. Gerald Hurst
+</p>
+<p>
+ Zahir Irani
+</p>
+<p>
+ Gretchen I. Irwin
+</p>
+<p>
+ Varghese Jacob
+</p>
+<p>
+ Bharat A. Jain
+</p>
+<p>
+ James J. Jiang
+</p>
+<p>
+ Alice Johnson
+</p>
+<p>
+ Linda Ellis Johnson
+</p>
+<p>
+ K.D. Joshi
+</p>
+<p>
+ Boris Jukic;
+</p>
+<p>
+ Nenad Jukic;
+</p>
+<p>
+ Charles Kacmar
+</p>
+<p>
+ Surinder Kahai
+</p>
+<p>
+ Timo Kakola
+</p>
+<p>
+ Ajit Kambil
+</p>
+<p>
+ P.K. Kannan
+</p>
+<p>
+ Jahangir Karimi
+</p>
+<p>
+ Michael Kattan
+</p>
+<p>
+ Timothy Kayworth
+</p>
+<p>
+ Julie E. Kendall
+</p>
+<p>
+ William J. Kettinger
+</p>
+<p>
+ Omar E.M. Khalil
+</p>
+<p>
+ Melody Y. Kiang
+</p>
+<p>
+ Sia Siew Kien
+</p>
+<p>
+ Ruth King
+</p>
+<p>
+ Rajiv Kishore
+</p>
+<p>
+ Gary Klein
+</p>
+<p>
+ Cenk Kocas
+</p>
+<p>
+ Rajiv Kohli
+</p>
+<p>
+ Esther Koster
+</p>
+<p>
+ Marios Koufaris
+</p>
+<p>
+ Kenneth A. Kozar
+</p>
+<p>
+ Kenneth L. Kraemer
+</p>
+<p>
+ Allan Krebs
+</p>
+<p>
+ Ramayya Krishnan
+</p>
+<p>
+ Uday Kulkarni
+</p>
+<p>
+ Akhil Kumar
+</p>
+<p>
+ Ram Kumar
+</p>
+<p>
+ Mary C. Lacity
+</p>
+<p>
+ Simon S.K. Lam
+</p>
+<p>
+ Karl R. Lang
+</p>
+<p>
+ Tor J. Larsen
+</p>
+<p>
+ Kathy S. Lassila
+</p>
+<p>
+ Gwanhoo Lee
+</p>
+<p>
+ Heeseok Lee
+</p>
+<p>
+ Ho Geun Lee
+</p>
+<p>
+ Jungwoo Lee
+</p>
+<p>
+ Yang Lee
+</p>
+<p>
+ Zoonky Lee
+</p>
+<p>
+ Richard Leifer
+</p>
+<p>
+ Jan Marco Leimeister
+</p>
+<p>
+ Katherine N. Lemon
+</p>
+<p>
+ Mary Jane Lenard
+</p>
+<p>
+ Hugo Levecq
+</p>
+<p>
+ Dahui Li
+</p>
+<p>
+ Ting-Peng Liang
+</p>
+<p>
+ Stephen L. Liedtka
+</p>
+<p>
+ Nancy Lightner
+</p>
+<p>
+ John Lim
+</p>
+<p>
+ Kai Lim
+</p>
+<p>
+ Ming Lin
+</p>
+<p>
+ Yihwa Irene Liou
+</p>
+<p>
+ Astrid Lipp
+</p>
+<p>
+ Henry C. Lucas, Jr.
+</p>
+<p>
+ Mark Lycett
+</p>
+<p>
+ William McCarthy
+</p>
+<p>
+ Jane M. Mackay
+</p>
+<p>
+ Roy McKelvey
+</p>
+<p>
+ D. Harrison McKnight
+</p>
+<p>
+ Ephraim R. McLean
+</p>
+<p>
+ Simha R. Magal
+</p>
+<p>
+ M. Adam Mahmood
+</p>
+<p>
+ Arvind Malhotra
+</p>
+<p>
+ Yogesh Malhotra
+</p>
+<p>
+ Ji-Ye Mao
+</p>
+<p>
+ Salvatore T. March
+</p>
+<p>
+ Ivan Marsic
+</p>
+<p>
+ Nelson Massad
+</p>
+<p>
+ Anne P. Massey
+</p>
+<p>
+ Charles H. Mawhinney
+</p>
+<p>
+ Jerrold H. May
+</p>
+<p>
+ Roberto J. Mejias
+</p>
+<p>
+ Shaila Miranda
+</p>
+<p>
+ Rajesh Mirani
+</p>
+<p>
+ Prasenjit Mitra
+</p>
+<p>
+ Ali R. Montazemi
+</p>
+<p>
+ Ramiro Montealegre
+</p>
+<p>
+ Jeanette Moody
+</p>
+<p>
+ Steven Morris
+</p>
+<p>
+ Jolene Morrison
+</p>
+<p>
+ Michael D. Myers
+</p>
+<p>
+ Peter P. Mykytyn, Jr.
+</p>
+<p>
+ Barin N. Nag
+</p>
+<p>
+ Murli Nagasundaram
+</p>
+<p>
+ R. Ryan Nelson
+</p>
+<p>
+ Boon Siong Neo
+</p>
+<p>
+ Fred Niederman
+</p>
+<p>
+ Mark Nissen
+</p>
+<p>
+ Rosalie Ocker
+</p>
+<p>
+ Wonseok Oh
+</p>
+<p>
+ Bob O&#8217;Keefe
+</p>
+<p>
+ Lorne Olfman
+</p>
+<p>
+ James Oliver
+</p>
+<p>
+ Carl Pacini
+</p>
+<p>
+ Jonathan W. Palmer
+</p>
+<p>
+ Raymond R. Panko
+</p>
+<p>
+ Manoj Parameswaran
+</p>
+<p>
+ Michael Parent
+</p>
+<p>
+ Jeffrey Parsons
+</p>
+<p>
+ Ravi Patnayakuni
+</p>
+<p>
+ David Paul
+</p>
+<p>
+ Souren Paul
+</p>
+<p>
+ David J. Pauleen
+</p>
+<p>
+ Paul A. Pavlou
+</p>
+<p>
+ Kenneth Peffers
+</p>
+<p>
+ Robin Pennington
+</p>
+<p>
+ Francis Pereira
+</p>
+<p>
+ Roger A. Pick
+</p>
+<p>
+ Mitzi G. Pitts
+</p>
+<p>
+ Jean-Charles Pomerol
+</p>
+<p>
+ Gerald Post
+</p>
+<p>
+ John H. Prager
+</p>
+<p>
+ G. Premkumar
+</p>
+<p>
+ Sandeep Purao
+</p>
+<p>
+ Jim J. Quan
+</p>
+<p>
+ S. Raghunathan
+</p>
+<p>
+ Arik Ragowsky
+</p>
+<p>
+ T.S. Ragu-Nathan
+</p>
+<p>
+ Arun Rai
+</p>
+<p>
+ Rex Kelly Rainer, Jr.
+</p>
+<p>
+ K. Ramamurthy
+</p>
+<p>
+ K.S. Raman
+</p>
+<p>
+ B. Ramesh
+</p>
+<p>
+ Richard G. Ramirez
+</p>
+<p>
+ H.R. Rao
+</p>
+<p>
+ R. Ravichandran
+</p>
+<p>
+ T. Ravichandran
+</p>
+<p>
+ Sury Ravindran
+</p>
+<p>
+ Amy W. Ray
+</p>
+<p>
+ Louis Raymond
+</p>
+<p>
+ Paul Resnick
+</p>
+<p>
+ Hyuen-Suk Rhee
+</p>
+<p>
+ Vernon Richardson
+</p>
+<p>
+ William B. Richmond
+</p>
+<p>
+ Frederick Riggins
+</p>
+<p>
+ Suzanne Rivard
+</p>
+<p>
+ Daniel Robey
+</p>
+<p>
+ Michael B. Rogich
+</p>
+<p>
+ Nicholas C. Romano, Jr.
+</p>
+<p>
+ Sherry D. Ryan
+</p>
+<p>
+ Young U. Ryu
+</p>
+<p>
+ Timo Saarinen
+</p>
+<p>
+ Rajiv Sabherwal
+</p>
+<p>
+ Naveed Saleem
+</p>
+<p>
+ G. Lawrence Sanders
+</p>
+<p>
+ Sunanda Sangwan
+</p>
+<p>
+ Radhika Santhanam
+</p>
+<p>
+ Surendra Sarnikar
+</p>
+<p>
+ Carol Saunders
+</p>
+<p>
+ George Schell
+</p>
+<p>
+ Petra Schubert
+</p>
+<p>
+ Judy Scott
+</p>
+<p>
+ Ravi Sen
+</p>
+<p>
+ Kishore Sengupta
+</p>
+<p>
+ Nainika Seth
+</p>
+<p>
+ Vikram Sethi
+</p>
+<p>
+ Theresa M. Shaft
+</p>
+<p>
+ Michael Shaw
+</p>
+<p>
+ Jim Sheffield
+</p>
+<p>
+ Olivia Sheng
+</p>
+<p>
+ Morgan M. Shepherd
+</p>
+<p>
+ Michael Shields
+</p>
+<p>
+ Siew Kien Sia
+</p>
+<p>
+ Atish P. Sinha
+</p>
+<p>
+ Sumit Sircar
+</p>
+<p>
+ H. Jeff Smith
+</p>
+<p>
+ Michael D. Smith
+</p>
+<p>
+ Charles A. Snyder
+</p>
+<p>
+ Toni M. Somers
+</p>
+<p>
+ Jai-Yeol Son
+</p>
+<p>
+ William E. Spangler
+</p>
+<p>
+ Valerie K. Spitler
+</p>
+<p>
+ Rajendra P. Srivastava
+</p>
+<p>
+ Thomas F. Stafford
+</p>
+<p>
+ Stephen Standifird
+</p>
+<p>
+ Sandy Staples
+</p>
+<p>
+ Eric W. Stein
+</p>
+<p>
+ Dick Stenmark
+</p>
+<p>
+ Lee Stepina
+</p>
+<p>
+ John M. Stevens
+</p>
+<p>
+ Katherine Stewart
+</p>
+<p>
+ Mani Subramani
+</p>
+<p>
+ Girish Subramanian
+</p>
+<p>
+ Ramesh Subramanian
+</p>
+<p>
+ Robert T. Sumichrast
+</p>
+<p>
+ Shankar Sunarajan
+</p>
+<p>
+ Arun Sundararajan
+</p>
+<p>
+ Shankar&#160;Sundaresan
+</p>
+<p>
+ Tae Kyung Sung
+</p>
+<p>
+ Roderick I. Swaab
+</p>
+<p>
+ Edward J. Szewczak
+</p>
+<p>
+ Paul P. Tallon
+</p>
+<p>
+ Kar Yan Tam
+</p>
+<p>
+ Sonny Tambe
+</p>
+<p>
+ Bernard C.Y. Tan
+</p>
+<p>
+ Yao-Hua Tan
+</p>
+<p>
+ Mohan R. Tanniru
+</p>
+<p>
+ Alfred Taudes
+</p>
+<p>
+ Nolan Taylor
+</p>
+<p>
+ David P. Tegarden
+</p>
+<p>
+ Rahul Telang
+</p>
+<p>
+ Gary F. Templeton
+</p>
+<p>
+ James T.C. Teng
+</p>
+<p>
+ Hock-Hai Teo
+</p>
+<p>
+ Thompson Teo
+</p>
+<p>
+ Jason B. Thatcher
+</p>
+<p>
+ Matthew Thatcher
+</p>
+<p>
+ Ron Thompson
+</p>
+<p>
+ James Y.L. Thong
+</p>
+<p>
+ Amrit Tiwana
+</p>
+<p>
+ Kerem Tomak
+</p>
+<p>
+ Leon van der Torre
+</p>
+<p>
+ Jonathan K. Trower
+</p>
+<p>
+ Gregory E. Truman
+</p>
+<p>
+ Yanbin Tu
+</p>
+<p>
+ Ilkka Tuomi
+</p>
+<p>
+ Brad Tuttle
+</p>
+<p>
+ Tuure Tuunanen
+</p>
+<p>
+ N.S. Umanath
+</p>
+<p>
+ Andrew Urbaczewski
+</p>
+<p>
+ Rustam Vahidov
+</p>
+<p>
+ Vasja Vehovar
+</p>
+<p>
+ Viswanath Venkatesh
+</p>
+<p>
+ Michael Wade
+</p>
+<p>
+ Steven Walczak
+</p>
+<p>
+ Zhiping Walter
+</p>
+<p>
+ Bin Wang
+</p>
+<p>
+ Jingguo Wang
+</p>
+<p>
+ Michael S. Wang
+</p>
+<p>
+ Shouhong Wang
+</p>
+<p>
+ Y. Richard Wang
+</p>
+<p>
+ Carol Watson
+</p>
+<p>
+ Mary Beth Watson-Manheim
+</p>
+<p>
+ Thomas Weber
+</p>
+<p>
+ Chih-Ping Wei
+</p>
+<p>
+ Charles E. Wells
+</p>
+<p>
+ John Wells
+</p>
+<p>
+ Larry West
+</p>
+<p>
+ J. Christopher Westland
+</p>
+<p>
+ Seungjin Whang
+</p>
+<p>
+ Michael E. Whitman
+</p>
+<p>
+ Jeffrey L. Whitten
+</p>
+<p>
+ George Widmeyer
+</p>
+<p>
+ Rolf Wigand
+</p>
+<p>
+ Fons Wijnhoven
+</p>
+<p>
+ Charles Willow
+</p>
+<p>
+ Barbara Wixom
+</p>
+<p>
+ Christopher Wolfe
+</p>
+<p>
+ Charles A. Wood
+</p>
+<p>
+ Hans Wortmann
+</p>
+<p>
+ D.J. Wu
+</p>
+<p>
+ Mu Xia
+</p>
+<p>
+ Weidong Xia
+</p>
+<p>
+ Christopher Yang
+</p>
+<p>
+ Byungjoon Yoo
+</p>
+<p>
+ Fatemeh Zahedi
+</p>
+<p>
+ Han Zhang
+</p>
+<p>
+ Ping Zhang
+</p>
+<p>
+ Zuopeng Zhang
+</p>
+<p>
+ Huimin Zhao
+</p>
+<p>
+ J. Leon Zhao
+</p>
+<p>
+ Lina Zhou
+</p>
+<p>
+ Kevin Zhu
+</p>
+<p>
+ Youlong Zhuang
+</p>
+<p>
+ Ilze Zigurs
+</p>
+<p>
+ Moshe Zviran
+</p>
+<p>
+ Following the expansion of the Journal, it is also a pleasure and a privilege to announce the expansion of the JMIS Editorial Board.
+</p>
+<p>
+ The new members of the Editorial Board are:
+</p>
+<p>
+ Michael J. Gallivan (Georgia State University)
+</p>
+<p>
+ Paulo Goes (University of Connecticut)
+</p>
+<p>
+ Alok Gupta (University of Minnesota)
+</p>
+<p>
+ Rudy Hirschheim&#160; (Louisiana State University)
+</p>
+<p>
+ Ann Majchrzak (University of Southern California)
+</p>
+<p>
+ Suzanne Rivard (HEC Montr&#233;al)
+</p>
+<p>
+ Rajiv Sabherwal (University of Missouri)
+</p>
+<p>
+ Bernard C.Y. Tan (National University of Singapore)
+</p>
+<p>
+ As ever, I am looking forward to working with the Board and the referees in expanding the horizons of our field.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

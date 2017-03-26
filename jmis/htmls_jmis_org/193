@@ -1,0 +1,266 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/38">    Volume 16 Number 1 1999
+</a> pp. 11-16</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Data Mining</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/382">Chung, H Michael</a> and     <a href="/contributors/383">Gray, Paul</a>    </div>
+
+<p><p>
+ THREE NEW INTERRELATED TOPICS HAVE APPEARED IN INFORMATION SYSTEMS in the last several years:  data mining,
+ <sup>
+  1
+ </sup>
+ data warehousing, and knowledge management. All three are related to obtaining  more return from the information gathered by an organization. This Special Section concentrates on data  mining.
+</p>
+<p>
+ The objective of data mining is to identify valid, novel, potentially useful, and understandable correlations and  patterns in existing data. In the popular mind, data mining refers to finding answers from a company's data that an  analyst or an executive has not thought to ask. The reality is not quite that grand, though data mining does create  both data and insights that add to the organization's knowledge.
+</p>
+<p>
+ Data mining can proceed from the bottom up (explore raw facts to find connections) or from the top down  (search to test hypotheses). Bottom-up data mining tries to find hypotheses that can then be tested. This  approach differs from that used in most information systems studies, where the investigator states the  hypothesis and then tests it with t-tests or other statistical techniques.
+</p>
+<p>
+ Every new field has its initial successes that intrigue others to investigate it further. Early results from data  mining indicate, for example:
+</p>
+<p>
+ That people who buy scuba gear take Australian vacations,
+</p>
+<p>
+ That men who buy diapers on Friday night also tend to buy beer,
+</p>
+<p>
+ Who is likely to repay a loan,
+</p>
+<p>
+ Appropriate play selection and matchups in National Basketball Association games.
+</p>
+<p>
+ These results are extreme cases. Usually, data mining leads to steady incremental changes rather than major  transformations. It leads to small advantages each year with each customer and each project. Over time, these  changes accumulate like compound interest. Although breakthroughs occur from time to time, they cannot be  counted on to happen on a regular basis.
+</p>
+<p>
+ Steps in Data Mining
+</p>
+<p>
+ THE FOLLOWING STEPS ARE USUALLY FOLLOWED IN DATA MINING. These steps are iterative, with the  process moving backward whenever needed.
+</p>
+<p>
+ 1. Develop an understanding of the application, of the relevant prior knowledge, and of the end user's  goals.
+</p>
+<p>
+ 2. Create a target data set to be used for discovery.
+</p>
+<p>
+ 3. Clean and preprocess data (including handling missing data fields, noise in the data, accounting for time  series, and known changes).
+</p>
+<p>
+ 4. Reduce the number of variables and find invariant representations of data if possible.
+</p>
+<p>
+ 5. Choose the data-mining task (classification, regression, clustering, etc.).
+</p>
+<p>
+ 6. Choose the data-mining algorithm.
+</p>
+<p>
+ 7. Search for patterns of interest (this is the actual data mining).
+</p>
+<p>
+ 8. Interpret the pattern mined. If necessary, iterate through any of steps 1 through 7.
+</p>
+<p>
+ 9. Consolidate knowledge discovered and prepare a report.
+</p>
+<p>
+ The first two steps-understanding the application and determining the target data to be used for  discovery-are common to all forms of data analysis. These steps include knowing what relevant prior  knowledge exists, the goals of the project, and what data exist. If a data warehouse is available, its metadata  help in pinpointing what data exist. The third step-cleaning and preprocessing the data-is the usual one used in  preparing data for warehousing. Organizational data are cleaned and validated before being put in the  warehouse. For knowledge discovery, further preprocessing is used to remove outliers and noise in the  data.
+</p>
+<p>
+ The fourth and fifth steps involve reducing the number of variables and choosing the data classification task.  With too many variables, it becomes difficult to make sense of the results. Therefore, the analyst applies  dimensionality reduction or transformation techniques and tries to find representations of the data that are  invariant.
+</p>
+<p>
+ KDD involves looking in the data for such factors as:
+</p>
+<p>
+ Associations: things done together (e.g., buying groceries).
+</p>
+<p>
+ Sequences: events occurring over time (e.g., house, refrigerator).
+</p>
+<p>
+ Classifications: rules for recognizing patterns (e.g., days on which restaurant customers arrive and what  they order).
+</p>
+<p>
+ Clusters: defining new groups (e.g., market segments).
+</p>
+<p>
+ Forecasting: predictions from time series (e.g., stock market fluctuation).
+</p>
+<p>
+ The sixth and seventh steps (choosing the data-mining algorithm and searching for patterns) are the heart of  the KDD process. The algorithm selected depends on the task to be performed. It is in these steps that the actual  mining is done. They involve fitting models or determining patterns from the warehouse data. Patterns are  represented according to classification rules or trees, regression functions, or other knowledge or model  representation methods, clustering, and sequences.
+</p>
+<p>
+ The specific models come from a variety of fields including:
+</p>
+<p>
+ Statistical analysis of data.
+</p>
+<p>
+ Neural networks.
+</p>
+<p>
+ Expert systems.
+</p>
+<p>
+ Fuzzy logic.
+</p>
+<p>
+ Intelligent agents.
+</p>
+<p>
+ Multidimensional analysis.
+</p>
+<p>
+ Data visualization.
+</p>
+<p>
+ Decision trees.
+</p>
+<p>
+ The software associated with these steps is called "siftware." As used in siftware, data-mining  algorithms consist of three components:
+</p>
+<p>
+ The model,
+</p>
+<p>
+ The preference criterion, and
+</p>
+<p>
+ The search algorithm.
+</p>
+<p>
+ The parameters of the model are determined from the data. The preference for a particular model depends on  the data available. Usually, some form of "goodness-of-fit" criterion is used. Care has to be taken that  the model does not try to infer too much (overfitting) or too little (too many degrees of freedom) from the data. The  search algorithm is selected based on the model and the preference criterion being used. The selection of these  three components is still an art.
+</p>
+<p>
+ The eighth step introduces the human back into the picture. The results of the data-mining operation of step 7  are examined by an analyst who judges whether the outcomes are possible, internally consistent, and plausible.  "Possible" implies that the result is physically possible (e.g., does not exceed the speed of light);  "internal consistency" implies that the result does not contradict itself; and "plausible"  means that the association found is believable, that is, it could happen.
+</p>
+<p>
+ If the analyst is dissatisfied with the outcome, he or she can rerun the case with revised or refined queries  and conditions. That is, the process is iterative, with the analyst asking questions after each new set of computer  results. Once the analyst is satisfied with the output, the results are interpreted (step 8) and the findings are  reported (step 9). These steps involve presenting the results in a form that is more understandable to decision  makers. Such approaches as representing patterns graphically, structuring rules based on the patterns, resolving  redundancy and conflicts with previous results, and explaining findings in natural language are all involved here.  Finally, actions are based on the findings.
+</p>
+<p>
+ There are limits to data mining. Data mining is still an art, requiring skillful analysis and choice of methodology. It  requires subject area expertise, experience with large databases, and skills with data-mining algorithms. As  indicated by the list above, the techniques being used come from existing classical statistics or artificial  intelligence techniques. Problems encountered with data, including overfitting existing data, missing and noisy  data, and dealing with very large databases and very high dimensionality, need to be resolved. Furthermore, for  large-scale, real-world tasks, high performing algorithms (such as neural networks and genetic algorithms) must  cope with long computation times and difficulties in making interpretations. Techniques associated with  probabilistic learning need to be improved.
+</p>
+<p>
+ Research Issues
+</p>
+<p>
+ MANY ISSUES STILL NEED TO BE ADDRESSED to reap quality knowledge from the sophisticated algorithms  available for data mining. For example:
+</p>
+<p>
+ How good is the quality of discovered knowledge?
+</p>
+<p>
+ Does the same method always produce the same results?
+</p>
+<p>
+ Are different tools required for different application domains?
+</p>
+<p>
+ What factors affect tool performance?
+</p>
+<p>
+ How do human cognitive factors affect the results?
+</p>
+<p>
+ Primary research issues include:
+</p>
+<p>
+ 1. Methodological issues in applying the tools,
+</p>
+<p>
+ 2. Performance improvement through the integration of tools and techniques,
+</p>
+<p>
+ 3. Exogenous factors to consider in modeling,
+</p>
+<p>
+ 4. Interdisciplinary perspectives, and
+</p>
+<p>
+ 5. The economics of data mining.
+</p>
+<p>
+ Data are an important issue. Dealing with incomplete raw data or erroneous input is not a trivial task. The size  of the data set needed to apply an algorithm, duplicate data, and temporal data, as well as multimedia  representation of data are concerns. How a data-mining technique can learn to improve itself through experience  is another interesting issue.
+</p>
+<p>
+ Algorithms differ in the ways models are generated. How the quality of an algorithm is assessed, its  robustness, scalability, preprocessing, generalizability, and reliability are critical issues. The way model  performance is measured is an important consideration. The same model performs differently in different domains  because of the quality of the data, normative criteria, and the decision-maker factors involved. Noise tolerance  and sensitivity analysis are also of interest.
+</p>
+<p>
+ Scalability is particularly significant. This refers to the ability to maintain performance as the size of the   database being mined increases. Scalable mining tools take advantage of parallel computing. Therefore, better  parallel algorithms as well as direct access to parallel database management systems are research topics. When  human decision makers are involved, decision-making modeling as well as the database often have to consider  cognitive factors. In addition, domain task characteristics affect model performance. Nonlinearity and  nonmonotonicity issues can be addressed by data visualization.
+</p>
+<p>
+ In summary, in generating a data-mining model and in selecting the appropriate model assessment method,  data-mining research needs to incorporate the characteristics of a given task domain, quality and composition of a  dataset that represents a domain, the decision-making environment, the human factors, and potential interaction  among them. Figure 1 is a simple framework that incorporates these ideas.
+</p>
+<p>
+ Papers in the Special Section
+</p>
+<p>
+ IT IS CLEAR THAT DATA MINING IS STILL IN ITS INFANCY and therefore offers great research opportunities. It  is a multidisciplinary field, using inputs from statisticians who deal with data, computer scientists and operations  researchers creating new algorithms, and information systems people looking at how to cope with the systemic  and human limitations that exist. The three papers in this Special Section present results that address some of the  current limitations of data mining.
+</p>
+<p>
+ The first paper describes a conceptual development and an implementation for exploring hypothesis space in  data mining. The problem faced by data miners is that the information obtained is very difficult to understand and  hence to represent because of high dimensionality. Steven O. Kimbrough and his colleagues present a clever  way of creating simple visualizations that make this task manageable.
+</p>
+<p>
+ William E. Spangler, Jerrold H. May, and Luis G. Vargas discuss the effects of errors, data representation, and  assessment approach in data mining. Data-mining techniques designed for classification problems usually  assume that each observation is a member of only one category. The authors extend these methods to the case  in which observations may be full members of multiple categories. They evaluate three of the popular methods  (decision tree induction, linear discriminant analysis, and neural networks) and explore representational and  performance measurement perspectives.
+</p>
+<p>
+ Tae Kyung Sung, Namsik Chang, and Gunhee Lee apply data mining to predicting bankruptcy. They show that  different parameters for forecasting bankruptcy are obtained when economic conditions are normal and when  countries are operating in crisis mode, as has been the case recently in parts of Asia. Consideration of the  influence of exogenous factors on the performance of a data-mining model is noteworthy in this paper.
+</p>
+<p>
+ It is clear from these papers, and from the many that were submitted, that much still needs to be done. Data  mining is a rich research field that deserves the attention of the information systems research community.
+</p>
+<p>
+ NOTE
+</p>
+<p>
+ 1. Data mining is also known as knowledge discovery in databases (KDD). The term data mining is usually  applied to the operational procedure for obtaining new insights, whereas KDD is used by the research community developing new techniques. We use the terms interchangeably
+</p>
+<p>
+ <b>
+  Key words and  phrases
+ </b>
+ :
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

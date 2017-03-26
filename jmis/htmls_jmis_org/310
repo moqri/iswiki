@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/73">    Volume 19 Number 4 2003
+</a> pp. 247-268</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Relating Collaborative Technology Use to Teamwork Quality and Performance: An Empirical Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/548">Easley, Robert F,</a>    <a href="/contributors/54">Devaraj, Sarv,</a> and     <a href="/contributors/549">Crant, J Michael</a>    </div>
+
+<p>ABSTRACT: Although team-based work systems are pervasive in the workplace, the use of collaborative systems designed to facilitate and support ongoing teamwork is a relatively recent development. An understanding of how teams embrace and use such collaborative systems--and the relationship of that usage to teamwork quality and team performance--is critical for organizational success. We present a theoretical model in which usage of a collaborative system intervenes between teamwork quality and team performance for tasks that are supported by the system. We empirically validate the model in a setting where established teams voluntarily used a collaborative system over a four-month period to perform tasks with measurable outcomes. Our principal finding is that collaborative system use intervenes between teamwork quality and performance for tasks supported by the system but not for unsupported tasks.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/983">collaboration technology</a>,    <a href="/keywords/1658">collaborative systems</a>,    <a href="/keywords/1499">computer self-efficacy</a>,    <a href="/keywords/1176">group support systems (GSS)</a>,    <a href="/keywords/698">groupware</a>,    <a href="/keywords/1659">team performance</a>,    <a href="/keywords/1034">teamwork</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/94">    Volume 16 Number 2 1999
+</a> pp. 91-112</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Examining the Technology Acceptance Model Using Physician Acceptance of Telemedicine Technology</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/331">Hu, Paul J,</a>    <a href="/contributors/330">Chau, Patrick Y K,</a>    <a href="/contributors/42">Liu Sheng, Olivia R,</a> and     <a href="/contributors/792">Kar Yan, Tam</a>    </div>
+
+<p>ABSTRACT: The rapid growth of investment in information technology (IT) by organizations worldwide has made user acceptance an increasingly critical technology implementation and management issue. While such acceptance has received fairly extensive attention from previous research, additional efforts are needed to examine or validate existing research results, particularly those involving different technologies, user populations, and/or organizational contexts. In response, this paper reports a research work that examined the applicability of the Technology Acceptance Model (TAM) in explaining physicians' decisions to accept telemedicine technology in the health-care context. The technology, the user group, and the organizational context are all new to IT acceptance/adoption research. The study also addressed a pragmatic technology management need resulting from millions of dollars invested by healthcare organizations in developing and implementing telemedicine programs in recent years. The model's overall fit, explanatory power, and the individual causal links that it postulates were evaluated by examining the acceptance of telemedicine technology among physicians practicing at public tertiary hospitals in Hong Kong. The authors' results suggested that TAM was able to provide a reasonable depiction of physicians' intention to use telemedicine technology. Perceived usefulness was found to be a significant determinant of attitude and intention but perceived ease of use was not. The relatively low R-square of the model suggests both the limitations of the parsimonious model and the need for incorporating additional factors or integrating with other IT acceptance models in order to improve its specificity and explanatory utility in a health-care context. Based on the study findings, implications for user technology acceptance research and telemedicine management are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1259">information technology acceptance</a>,    <a href="/keywords/1260">information technology management in health care</a>,    <a href="/keywords/820">technology acceptance model</a>,    <a href="/keywords/1261">telemedicine</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/9">    Volume 7 Number 1 1990
+</a> pp. 101-122</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Agent for Intelligent Model Management</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1059">Liu, John I C,</a>    <a href="/contributors/1060">Yun, David Y Y,</a> and     <a href="/contributors/860">Klein, Gary</a>    </div>
+
+<p>ABSTRACT: Decision Support Systems (DSS) and Expert Systems (ES) are both aimed at improving decision making. Current DSS usually concentrate on quantitative models while ES emphasize logic and reasoning. In this paper, we review previous ES approaches used by DSS to handle decision models. We propose an extension to such systems, an Agent for Intelligent Model Management (AIMM), as an interface between DSS and the users. AIMM utilizes a combination of ES knowledge representations and reasoning mechanisms to make a wide variety of models available to decision makers so that they may apply these models without becoming involved in technical or procedural aspects of implementation. A prototype of the system for financial problems is described.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/156">expert systems</a>,    <a href="/keywords/418">intelligent agents</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/108">model management systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

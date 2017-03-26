@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/76">    Volume 20 Number 4 2004
+</a> pp. 199-227</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Supporting Collaboration in Heterogeneous Environments</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/951">Krebs, Allan M,</a>    <a href="/contributors/952">Dorohonceanu, Bogdan,</a> and     <a href="/contributors/953">Marsic, Ivan</a>    </div>
+
+<p>ABSTRACT: Heterogeneous sharing in synchronous collaboration is important with the proliferation of diverse computing environments, such as wearable computers and handheld devices. We present here a data-centric design for synchronous collaboration of users with heterogeneous computing platforms. Our approach allows clients with different capabilities to share different subsets of data in order to conserve communication bandwidth. We have built a robust middleware consisting of a distributed repository of shared data objects and a client-server-based infrastructure. Using the middleware, we have developed a framework for building collaborative applications for clients with different display and processing capabilities. We discuss the design and implementation of our middleware and framework and evaluate them by building four complex sample applications that demonstrate scalability, good performance, and high degree of code reusability.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/812">collaboration</a>,    <a href="/keywords/1758">heterogeneity</a>,    <a href="/keywords/456">information systems</a>,    <a href="/keywords/1759">middleware</a>,    <a href="/keywords/1760">mobile devices</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

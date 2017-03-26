@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/133">    Volume 33 Number 4 2016
+</a> pp. 978-1007</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Trust Development in Globally Distributed Collaboration: A Case of U.S. and Chinese Mixed Teams</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1872">Cheng, Xusen,</a>    <a href="/contributors/1873">Fu, Shixuan,</a> and     <a href="/contributors/1874">Druckenmiller, Douglas</a>    </div>
+
+<p>ABSTRACT: 
+<p>Trust is frequently investigated as an indicator of a mutual relationship. Trust is especially important for globally distributed collaboration in light of the lack of face-to-face interactions. As the perception of trust is a dynamic process, however, little research is conducted measuring trust development. Whether facilitation intervention is beneficial for trust development is also unknown. In order to fill the research gaps, we followed a design science approach and incorporated collaboration engineering into the design of the treatment. Data were collected in a series of experiments with Chinese and U.S. mixed teams, including a longitudinal survey, interviews, and documentation. Through the comparison of the treatment group with the control group, we found that trust was significantly improved in the treatment group. In addition, several trust antecedents were found to explain the development. The power of facilitated collaboration is also validated as helpful for trust development. This research makes several implications, such as proposing a series of trust antecedents, a treatment design of a collaboration engineering (CE) approach for trust improvement, and a new context application of CE. This research could also help the practitioners in globally distributed collaboration who want to improve trust over time.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1635">collaboration engineering</a>,    <a href="/keywords/2318">design science research</a>,    <a href="/keywords/3755">globally distributed collaboration</a>,    <a href="/keywords/1637">thinkLets</a>,    <a href="/keywords/3756">trust development</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

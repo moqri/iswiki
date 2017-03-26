@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/27">    Volume 29 Number 3 2012
+</a> pp. 291-326</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Understanding Postadoptive Behaviors in Information Systems Use: A Longitudinal Analysis of System Use Problems in the Business Intelligence Context</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/486">Deng, Xuefei</a> and     <a href="/contributors/487">Chi, Lei</a>    </div>
+
+<p>ABSTRACT: For an organization to gain maximum benefits from a new information system (IS), individual users in the organization must use it effectively and extensively. To do so, users need to overcome many problems associated with their system use in order to integrate the new IS into their work routines. Much remains to be learned about the types of problems that users encounter in using the new system, in particular, the root causes of system use problems and how they relate to and co-evolve with the problems over time. In this study, we seek to develop a comprehensive and dynamic view of system use problems in organizations. Using a combined method of revealed causal mapping and in-depth network analysis, we analyze nine-month archival data on user-reported problems with a new business intelligence application in a large organization. Our data analysis revealed seven emergent constructs of system use problems and causes, including reporting, data, workflow, role authorization, users' lack of knowledge, system error, and user-system interaction. The seven constructs were found to interact differentially across two usage phases (initial versus continued) and between two types of users (regular versus power user). This study contributes to advancing our theoretical understanding of postadoptive IS use by focusing on its problematic aspect. This study also suggests useful methods for organizations to effectively monitor users' system use problems over time and thus guides organizations to effectively target mechanisms to promote the use of new technologies.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1869">business intelligence</a>,    <a href="/keywords/324">information system use</a>,    <a href="/keywords/3048">postadoptive behavior</a>,    <a href="/keywords/3049">revealed causal mapping</a>,    <a href="/keywords/2817">social network analysis</a>,    <a href="/keywords/3050">system use problem</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

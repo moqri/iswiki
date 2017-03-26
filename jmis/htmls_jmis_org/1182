@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/65">    Volume 28 Number 3 2011
+</a> pp. 343-384</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Same Coin, Different Sides: Differential Impact of Social Learning on Two Facets of Music Piracy</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1678">Wang, Jingguo,</a>    <a href="/contributors/1679">Yang, Zhiyong,</a> and     <a href="/contributors/196">Bhattacharjee, Sudip</a>    </div>
+
+<p>ABSTRACT: We demonstrate that two intertwined activities of music piracy, unauthorized obtaining and unauthorized sharing, are differentially influenced by the same social learning environment. We develop a structural model and test it using survey data from a prime demographic set of respondents who engage in music piracy. Considering behavioral heterogeneity, we employ a factor mixture modeling technique to classify respondents into different groups that highlight distinct patterns of social learning influences. We find that the differential effects of social learning factors on obtaining and sharing persist across these groups. We further utilize demographic variables to profile members in each group for segmentation insights. From a theoretical perspective, our findings advance the understanding of music piracy and suggest the importance of separating obtaining from sharing activities when studying piracy. From a managerial perspective, our research provides new avenues for managers and policymakers to design targeted incentives to curtail music piracy.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2900">intellectual property infringement</a>,    <a href="/keywords/2901">latent class analysis</a>,    <a href="/keywords/2902">music piracy</a>,    <a href="/keywords/2903">partial least squares regression</a>,    <a href="/keywords/2904">social learning theory</a>,    <a href="/keywords/2905">unauthorized obtaining</a>,    <a href="/keywords/2906">unauthorized sharing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

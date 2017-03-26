@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/120">    Volume 30 Number 4 2014
+</a> pp. 49-82</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Putting on the Thinking Cap: Using NeuroIS to Understand Information Processing Biases in Virtual Teams</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/493">Minas, Randall K,</a>    <a href="/contributors/1663">Potter, Robert F,</a>    <a href="/contributors/239">Dennis, Alan R,</a>    <a href="/contributors/1664">Bartelt, Valerie,</a> and     <a href="/contributors/1665">Bae, Soyoung</a>    </div>
+
+<p>ABSTRACT: Virtual teams are increasingly common in today's organizations, yet they often make poor decisions. Teams that interact using text-based collaboration technology typically exchange more information than when they perform the same task face-to-face, but past results suggest that team members are more likely to ignore information they receive from others. Collaboration technology makes unique demands on individual cognitive resources that may change how individual team members process information in virtual settings compared to face-to-face settings. This experiment uses electroencephalography, electrodermal activity, and facial electromyography to investigate how team members process information received from text-based collaboration during a team decision-making process. Our findings show that information that challenges an individual's prediscussion decision preference is processed similarly to irrelevant information, while information that supports an individual's prediscussion decision preference is processed more thoroughly. Our results present neurological evidence for the underlying processes of confirmation bias in information processing during online team discussions.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/983">collaboration technology</a>,    <a href="/keywords/3229">electroencephalography</a>,    <a href="/keywords/3230">information processing bias</a>,    <a href="/keywords/2783">NeuroIS</a>,    <a href="/keywords/1109">virtual teams</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

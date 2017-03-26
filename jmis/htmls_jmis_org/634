@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/69">    Volume 6 Number 3 1989
+</a> pp. 45-63</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Framework to Support Managerial Activities Using Office Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/42">Liu Sheng, Olivia R,</a>    <a href="/contributors/1061">Motiwalla, Luvai F,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/459">Vogel, Douglas R</a>    </div>
+
+<p>ABSTRACT: Office systems have traditionally been effective in automating well-defined and structured office tasks that are performed by personnel who account for a minor share of the office payroll. To make an impact on office environments, office systems must be able to support effectively semi-structured or unstructured office tasks that are generally performed by managers and professionals. This paper provides a conceptual focus through a framework for analyzing the office functions of managers, and a technological focus and direction through a design and architecture of an Integrated Office Information System (IOIS) for implementing such a concept that supports the less structured activities of managers.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/73">office information systems</a>,    <a href="/keywords/381">management with office information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/35">    Volume 8 Number 2 1991
+</a> pp. 81-108</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Group Decision Support: The Effects of Designated Human Leaders and Statistical Feedback in Computerized Conferences</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/204">Hiltz, Starr Roxanne,</a>    <a href="/contributors/762">Johnson, Kenneth,</a> and     <a href="/contributors/208">Turoff, Murray</a>    </div>
+
+<p>ABSTRACT: Twenty-four groups of five professionals and managers used computer conferences to reach agreement on the best solution to a complex ranking problem. Two software tools for structuring the conferences were employed in a two-by-two factorial design. Groups with "designated leadership" (DL) used software support to elect a discussion leader. Groups with"statistical feedback" (SF) were presented with tables periodically that displayed the mean rank and degree of consensus for each item. DL improved levels of consensus; in the absence of a leader, SF improved level of agreement slightly. Statistical feedback as operationalized in this experiment was detrimental to the ability of a group to achieve "collective intelligence," defined as a group decision better than the prediscussion decision of any of its individual members. Characteristics of the individuals and groups were also associated with variations in outcomes.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/264">computer-mediated communication systems</a>,    <a href="/keywords/135">group decision support systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

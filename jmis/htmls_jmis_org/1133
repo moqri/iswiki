@@ -1,0 +1,73 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/93">    Volume 21 Number 3 2004
+</a> pp. 5-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ Several papers opening this issue of the Journal address various nodal aspects of e-commerce (used synonymously with a later term, e-business), in its business-to-business (B2B), business-to-consumer (B2C or e-tail), and intraorganizational deployment. In B2B commerce, business ecosystems lashed together by electronic linkages with increased efficiency and lowered transaction costs may lead to a participant firm&#8217;s loss of flexibility in partnering and product offering. The issue is addressed by Sanjay Gosain, Arvind Malhotra, and Omar El Sawy, who have performed an empirical study based on coordination theory to establish how different coping methods postulated by the theory relate to organizational outcomes. The study presents the critical normative guidelines for enterprise managers and sets a stage for further research on interorganizational coordination to pursue the desired efficiency&#8211;flexibility combinations.
+</p>
+<p>
+ Based on a theory-guided analysis of corporate announcements, Rajiv Kishore, Manish Agrawal, and H. Raghav Rao study the sourcing and governance of large e-commerce projects. The authors have used an inclusive typology of project sourcing, which they relate to the strategic intent, the level of maturity of a given technology, and other factors behind the project&#8217;s weight and complexity. The results certainly go beyond the e-commerce ground, and can be deployed to study and manage complex technology projects. With the expanded range and complexity of sourcing options in the information technology domain, this work will certainly be further built on.
+</p>
+<p>
+ Electronic communities enabled by the Internet&#8211;Web combine have emerged as a contributor to the health of e-commerce. Here, Xianjun Geng, Andrew B. Whinston, and Han Zhang study the health&#8212;stability and development&#8212;of the communities themselves. Using evolutionary game theory, these authors develop a model rooted in the notions of trust, reputation, and (dis)honesty of participants. Results regarding the conditions for the community&#8217;s well-being and proliferation are obtained. Having defined the notion of e-community&#8217;s health, the authors offer a model they and others can expand further. As the ultimate economic outcomes are of primary interest here, the authors point the way to using the model in order to determine whether a healthy e-community is worth maintaining for a specific purpose.
+</p>
+<p>
+ Two subsequent papers deal with the informational aspects of e-tailing. Zhenhui Jiang and Izak Benbasat investigate virtual product experience in electronic shopping. Specifically, they study to what effect virtual control over the product&#8217;s image can be afforded the customer via the human&#8211;computer interface. Aiming to emulate the direct experience of the product, this mechanism enables the customer to manipulate product images (visual control) or its functions (functional control). In a laboratory experiment, the authors have established that the controls increase the extent to which the shopper perceives the interaction experience as helpful in product evaluation. The consequences are positive for both the utilitarian and hedonic aspects of shopping. Using the cognitive fit theory, Weiyin Wong, James Y.L. Thong, and Kar Yan Tam study the appropriateness of various information display formats for different shopping tasks. The work expands the domain of cognitive fit theory. It also produces specific and detailed recommendations for the design of transactional Web sites.
+</p>
+<p>
+ In the first of two papers addressing group work in the information technology (IT) context, Souren Paul, Imad M. Samarah, Priya Seetharaman, and Peter P. Mykytyn Jr. study the aspects of harmony in virtual teams enabled by a group support system (GSS). More specifically, the authors focus on the collaborative versus individualistic orientation in intercultural teams as a factor in conflict resolution. They further relate this (dis)harmony to outcomes, such as perceived decision quality. Tom L. Roberts, Paul H. Cheney, Paul D. Sweeney, and Ross T. Hightower study the work of IT development groups. They focus on the influence of the project&#8217;s cognitive nature and complexity on the group interaction (with group harmony as one of the several factors). Several pragmatic guidelines emerge for managers regarding training and supervising the group effort on a project of a given nature. The potential synergy of the work of these two author teams is notable.
+</p>
+<p>
+ As data mining is used more and more commonly, the performance of various mining methods has become important to corporate performance. Here, Atish P. Sinha and Jerrold H. May evaluate five widely used mining methods. The paper&#8217;s value is much enhanced by the richness of the performance criteria that the authors use. Sinha and May posit that the misclassification costs should be of primary concern in performance evaluation in data mining, and they add this criterion to several others they deploy. Going beyond the recommendations for a method selection, they show how existing mining routines can be tuned to make them sensitive to the costs of misclassification.
+</p>
+<p>
+ A novel and valuable approach to conceptual database design is presented, with a prototype-based proof of concept, by Joobin Choobineh and Amber W. Lo. Deploying case-based reasoning, these authors describe the theory and design of a learning system that is domain independent. Experiments with the use of two prototype systems demonstrate the validity of the approach and, beyond that, indicate the preference of the user subjects for the use of the system proposed here. This is an important direction in database design automation.
+</p>
+<p>
+ As the Journal&#8217;s activities expand, it is my pleasure and privilege to welcome to the Editorial Board of JMIS Bill C. Hardgrave of the University of Arkansas, Mark Keil of Georgia State University, and James R. Marsden of the University  of Connecticut. Their participation will serve our field well. I also thank Albert Segars, whose tenure on the Board has been concluded, for his contribution.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

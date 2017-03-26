@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/28">    Volume 18 Number 2 2001
+</a> pp. 229-250</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Method for Generation of Alternatives by Decision Support Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/600">Fazlollahi, Bijan</a> and     <a href="/contributors/601">Vahidov, Rustam</a>    </div>
+
+<p>ABSTRACT: An essential feature of active Decision Support Systems (DSS) is the ability to take the initiative in performing decision-related tasks. One possibility for providing active high cognitive level decision support is through facilitating alternative generation in DSS. The method proposed in this work enables the generation of several diverse alternatives in a single run. The method relies on the principles of effective problem-solving/decision-making and facilitates divergent processes, the separation of alternative generation from evaluation, as well as the diminishing of human cognitive biases. A hybrid DSS based on genetic algorithms (GA) and fuzzy sets is used to operationalize the approach. The paper outlines the design requirements for alternative generation in DSS and discusses the inadequacies of the "what-if" simulation and traditional optimization methods in light of these requirements. The paper further elaborates on the appropriateness of GA as a tool for alternative generation in DSS for solving complex ill-structured problems. The method is illustrated using marketing mix problem in a simulated business environment. The results suggest that the GA-based alternative generation leads to promising diverse alternatives. An active DSS incorporating the proposed method reduces the time-consuming manual search for promising alternatives and provides a higher degree of man-machine collaboration.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/500">alternative generation</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/748">genetic algorithms</a>,    <a href="/keywords/1485">marketing mix problem</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,86 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/119">    Volume 15 Number 1 1998
+</a> pp. 3-8</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ THREE PAPERS THAT OPEN THIS ISSUE OF THE JOURNAL, and its fifteenth annual volume, address cognitive  aspects of information systems development. In the first of them, K.D. Schenk, Nicholas P. Vitalari, and K.  Shannon Davis investigate what sets apart expert systems analysts from their novice counterparts. The proper  and creative analysis of information systems requirements is, as we know well, a crucial determinant of the  system's success (or failure). The authors find a rich set of qualitative distinctions in the cognitive operation of the  novices as compared with the experienced analysts. Their paper clearly generates not only a set of results and  an agenda for further research, but also a specific program for analyst training.
+</p>
+<p>
+ Teresa M. Shaft and Iris Vessey study the relevance of the knowledge of the application domain to  programmers' performance. The authors find that this knowledge is indeed important. By implication, this is  particularly so during system maintenance, and the results are directly applicable to the massive maintenance  work resulting from the Y2K and the euro issues. Especially in the work on the second of the massive problems, it  might be dangerous indeed to use programmers who are only somewhat familiar with the application  domain.
+</p>
+<p>
+ In the third paper of the series, Janette W. Moody, J. Ellis Blanton, and Paul H. Cheney find that the  cognitive interview offers a set of advantages during the requirements-elicitation phase of system development  as compared with more traditional interviewing techniques. Perhaps the time has come to include this technique in  the analyst's toolbox.
+</p>
+<p>
+ The theme of software requirements determination is continued in the next paper. Rosalie Ocker, Jerry  Fjermestad, Starr Roxanne Hiltz, and Kenneth Johnson study experimentally how the mode of communication  adopted by a group that is determining system requirements affects the quality of the solution and the analysis  process. Among the four modes investigated, the one combining face-to-face interaction with asynchronous  computer conferencing is found to have the most advantages.
+</p>
+<p>
+ Computer-mediated communication is the subject of the next work as well, by Bernard C.Y. Tan, Kwok-Kee  Wei, Richard T. Watson, and Rita M. Walczuch. The paper presents a cross-national study investigating the  influence of group support system use on the status effects for two different task types. The researchers find  that the status effect is reduced when the computerized medium is used, although the status influence is more  persistent in the culture with a higher power distance.
+</p>
+<p>
+ Two subsequent studies deal with software systems. Qing Hu, Robert Plant, and David B. Hertz propose a  theoretical model for software costs estimation based on treating software development as an economic  production process. When applied to a limited previously published data set, the technique shows advantages  compared with almost all recognized estimation techniques (and is comparable to one of them). The method is  interesting and certainly warrants further investigation.
+</p>
+<p>
+ Alfred Taudes offers an option-pricing approach to the valuation of the flexibility of an MIS platform. The work  represents a new approach to a problem that has become increasingly important as organizations seek an  information system platform that can be relatively easily retargeted at new competitive opportunities or  threats.
+</p>
+<p>
+ Similar in general flavor to the immediately preceding work is the novel approach to MIS-enabled business  process reengineering offered by Levent V. Orman. The author proposes the use of decision models to gauge the  organizational impact of a given information technology initiative and to select the reengineering effort that would  best use the potential of information technology.
+</p>
+<p>
+ In the closing paper of the issue, James Y.L. Thong and Chee-Sing Yap test the applicability to the MIS domain  of a theory of ethical decision making that has been developed by the marketing discipline. This perhaps most  comprehensive theory in the management-related fields is only partly tested here. However, the results obtained  by applying the theory to the perennial issue of softlifting show the applicability of the theory in our field and  should certainly encourage further investigation of what may emerge as the encompassing theory in the ethical  domain of MIS.
+</p>
+<p>
+ As we open the fifteenth year of our publication, it gives me great pleasure once again to thank our Editorial  Board, authors, readers, and the entire MIS community for their contributions and support. Particular thanks go to  the Journal's reviewers, the primary guarantors of its quality.
+</p>
+<p>
+ VLADIMIR ZWASS
+</p>
+<p>
+ Editor-in-Chief
+</p>
+<p>
+ <b>
+  Key  words and phrases
+ </b>
+ :    creativity in problem  solving ,  information requirements ,  information systems  development ,  novice and expert  problem-solving ,  systems analysis ,  systems analyst  education
+</p></p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1125">creativity in problem solving</a>,    <a href="/keywords/93">information requirements</a>,    <a href="/keywords/222">information systems development</a>,    <a href="/keywords/1126">novice and expert problem-solving</a>,    <a href="/keywords/273">systems analysis</a>,    <a href="/keywords/1127">systems analyst education</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

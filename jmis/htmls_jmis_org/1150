@@ -1,0 +1,58 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/33">    Volume 26 Number 2 2009
+</a> pp. 5-5</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ The deployment of information systems (IS) continues to play a vital role in the shaping and implementation of corporate strategy. This is obvious, considering the progressing digitization of products and processes, as the ever new business models founded on the Internet-Web combine to compete with the traditional models as well as with the old new models created just a decade or so ago. The Special Section on Competitive Strategy, Economics, and Information Systems, guest edited by Eric K. Clemons, Robert J. Kauffman, and Thomas A. Weber, is a comprehensive body of research work on the subject. Several of the papers of the Special Section apply a range of techniques from economics and strategy analysis to study the effectiveness of e&#8209;commerce business models, the business value of alternative sourcing strategies, and the value of large-scale enterprise IS. Others investigate the economically effective choice of alternative security policies and of incentive alignment in the intraorganizational knowledge transfer. Some of the papers offer general, broadly applicable, results, while others present contextualized, middle-range work. Taken together, the section presents a rich spectrum of opportunities, trade-offs, and methods of investigation. The guest editors introduce the papers in more detail.
+</p>
+<p>
+ The first paper of the general section, by Anjana Susarla, Anitesh Barua, and Andrew B. Whinston, addresses the environment of software&#8209;as&#8209;a-service outsourcing, an increasingly popular alternative to other IS governance models. The structure of the contract between an application service provider and its client firm can make a difference between a costly failure and a success. A variety of contract arrangements is employed in the field. The authors study empirically the alignment factors between the contract terms and the contingencies of a given situation through the lens of transaction costs. They are able to provide normative results that will serve the users and providers of these services.
+</p>
+<p>
+ In the highly fluid business environment of recent times, there has been investigative and pragmatic interest in swift trust: a precognitive form of trust that precedes the actual familiarity with the fellow team members--and with their trustworthiness. Well-placed trust is obviously a good thing in team collaboration, in particular within virtual teams. Here, Lionel P. Robert Jr., Alan R. Dennis, and Yu&#8209;Ting Caisy Hung investigate empirically the factors that can lead to the formation of swift trust. They further study the interplay between the initial reserve of swift trust and the formation of knowledge-based trust, earned--or not--by the actual behavior of the team members. Of particular interest are the results comparing the face-to-face team trust dynamics with those of virtual teams.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/91">    Volume 7 Number 3 1990
+</a> pp. 7-25</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Longitudinal Study of the Impact of Group Decision Support Systems on Group Development</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/360">Chidambaram, Laku,</a>    <a href="/contributors/224">Bostrom, Robert P,</a> and     <a href="/contributors/361">Wynne, Bayard E</a>    </div>
+
+<p>ABSTRACT: This paper reports on a study aimed at integrating an important but neglected behavioral issue--group development--into group decision support systems (GDSS) research. Group development is based on the fact that most groups have a past and a future, and this affects group outcomes. However, most GDSS studies have investigated only a single group session. This study examined the behavior of groups using a GDSS over multiple sessions. The study reported in this paper specifically examined the following two questions: (1) does computer support affect the development of decision-making groups? and (2) do the patterns of development differ over time between computer-supported and manual groups? These two questions were studied using a two-factorial repeated measures research design. Results showed significant differences in development patterns between computer-supported groups and manual groups in terms of conflict management and degree of cohesiveness. After adapting to GDSS, computer-supported groups displayed more productive conflict management and higher group cohesiveness than manual groups.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/436">group behavior</a>,    <a href="/keywords/437">group development</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

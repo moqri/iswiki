@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/122">    Volume 31 Number 1 2014
+</a> pp. 309-340</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Supporting Creative Problem Solving with a Case-Based Reasoning System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1702">Althuizen, Niek</a> and     <a href="/contributors/1703">Wierenga, Berend</a>    </div>
+
+<p>ABSTRACT: Attention for the division of work between computers and humans is growing due to ever-increasing computer capabilities. Over the past decades, creativity support systems (CSSs) have gained ground as a means to enhance individual, group, and organizational creativity. Whereas prior research has focused primarily on the main effects of CSSs, we explore the interaction effects with the creative ability of the individual. In this paper, we investigate the use of the case-based reasoning (CBR) technology, which is based on the principle of analogical reasoning, to aid individuals in solving business problems creatively. The expectations as to why the CBR technology should enhance individual creativity, and under what conditions (i.e., the type and number of cases that are made available), are derived from creative cognition theory, and are tested empirically. In a series of studies, a CBR system loaded with a diverse set of cases was found to enhance the performance of individuals with lower creative ability, but it did not help the most creative individuals. Although the literature suggests that cases from remote problem domains should lead to more novel solutions, loading the CBR system only with cases closely related to the problem domain proved more effective than remote cases only. Finally, loading the CBR system with a larger set of diverse cases was found to positively influence the creativity of the solutions. These findings have the following implications for CSSs and creative cognition theory: (1) when considering the effectiveness of CSSs it is important to take into account the creative ability of the individual (i.e., "one size does not fit all"), (2) making a sufficiently large and diverse set of cases available is better for stimulating creativity, and (3) providing cases that are too remote may be counterproductive. On a practical note, organizations seeking to redesign their division of labor between individuals and machines can easily follow the CBR approach presented here using their own set of cases.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/207">case-based reasoning</a>,    <a href="/keywords/3293">creative problem solving</a>,    <a href="/keywords/3294">creativity support systems</a>,    <a href="/keywords/3295">creative cognition theory</a>,    <a href="/keywords/3296">domain knowledge</a>,    <a href="/keywords/3297">marketing campaigns</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/8">    Volume 13 Number 2 1996
+</a> pp. 185-204</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Empirical Assessment of a Modified Technology Acceptance Model</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/330">Chau, Patrick Y K</a>    </div>
+
+<p>ABSTRACT: The technology acceptance model (TAM) is one of the most influential research models in studies of the determinants of information systems/information technology (IS/IT) acceptance. In TAM, perceived usefulness and perceived ease of use are hypothesized and empirically supported as fundamental determinants of user acceptance of a given IS/IT. A review of the IS and psychology literature, however, suggests that perceived usefulness can be of two distinct types: near-term usefulness and long-term usefulness. This paper reviews the concept of perceived usefulness and modifies TAM to include the two types of perceived usefulness. Data collected from nearly 285 administrative/clerical staff in a large organization were tested against the modified model using the structural equation modeling approach. The results of the study showed that, even though perceived near-term usefulness had the most significant influence on the behavioral intention to use a technology, perceived long-term usefulness also exerted a positive, though lesser, impact. No significant, direct relationship was found between ease of use and behavioral intention to use a technology. Implications of the findings and future research areas are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/967">perceived ease of information systems use</a>,    <a href="/keywords/968">perceived usefulness of information systems</a>,    <a href="/keywords/969">structural equation modeling</a>,    <a href="/keywords/820">technology acceptance model</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

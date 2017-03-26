@@ -1,0 +1,57 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/125">    Volume 31 Number 4 2015
+</a> pp. 3-5</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Cognitive Perspectives on Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O</a>    </div>
+
+<p><p>Robert O. Briggs, a Professor of Information Systems at San Diego State University, researches the cognitive foundations of collaboration and uses his findings to design new collaborative work practices and technologies. He is a co-founder of the Collaboration Engineering field and co-inventor of the ThinkLets design pattern language for collaborative work processes. He has made exploratory, theoretical, experimental, and technological contributions to the areas of team productivity, technology-supported learning, ideation, creativity, consensus, satisfaction, willingness to change, and technology transition. He has designed collaboration systems and collaborative workspaces for industry, academia, government, and the military. He co-chairs the Collaboration Systems and Technology track for the Hawaii International Conference on System Sciences. He lectures worldwide on collaboration theory and practice, and on the philosophy of science. He earned his doctorate in management information systems at the University of Arizona in 1994.</p>
+<p>The unique and enduring purpose of information systems (IS) as an academic field is, “to understand and improve the ways people create value with information” [1, p. 20:2]. An information system is, a way to create value with information; a designed way; an effective, efficient way; a repeatable way. High-tech information technologies (IT), or as they are sometimes called, “IT artifacts,” are frequently at the core of information systems, but IT does not define our field or its boundaries. IT alone, apart from an information system, creates no value. It is therefore important that our research community should seek to improve understandings of all the elements of an information system in the contexts of the systems they compose. Among the major elements of an information system—people, procedures, hardware, software, and data—people are the most expensive [2], and the most difficult to replace. People design, develop, and maintain systems, participate in systems, and derive value from the systems. It is therefore fitting that we should seek to better understand the human element of information systems. That is the focus of this special section on Cognitive Perspectives on Information Systems. Each paper in this special issue considers aspects of human cognition as it relates to core IS research concerns.</p>
+<p>The special section opens with two papers about cognitive aspects of information security. Qing Hu, Robert West, and Laura Smarandescu take a cognitive neuroscience approach to the protection of information assets in their paper, “The Role of Self-Control in Information Security Violations: Insights from a Cognitive Neuroscience Perspective.” Using scenario-based laboratory experiments, they examine the association between individual differences in self-control and event-related potentials elicited while individuals deliberate over violations of information security policies. Data show that, when contemplating a security policy violation, people with low self-control had different patterns of brain activity than did people with high self-control, and that the brain activity of people contemplating an information security violation differed from that of people contemplating an ethically neutral scenario. The study reveals new details about which specific parts of the brain are involved in the decision to violate an information security policy.</p>
+<p>The paper, “The Behavioral Roots of Information Systems Security: Exploring Key Factors Related to Unethical IT Use,” by Sutirtha Chatterjee, Suprateek Sarker, and Joseph S. Valacich, explores multiple factors associated with unethical IT use. They find it to be strongly related to certain ethical beliefs, along with economic (e.g., punishment severity), social (e.g., subjective norms), and technological (e.g., lack of traceability) considerations. These findings suggest that no single intervention will be sufficient for information security; solutions may require multiple facets to combat the growth of unethical IT use, including not only technological advances but also interventions that address the attitudes, beliefs and values of individuals, and the norms of groups and organizations.</p>
+<p>In their paper, “Chasing Lemmings: Modeling IT-Induced Misperceptions About the Strategic Situation as a Reason for Flash Crashes,” Tobias Brandt and Dirk Neumann employ hypergame theory to examine the vulnerability of IT-based stock trading to sharp drops in market prices that rebound shortly afterward. They posit that the use of information technology for high-speed trading does more than provide a competitive advantage in a known game; it creates a new game. They argue that flash crashes result as a consequence of rational decisions and actions by traders who misperceive the true game. They develop arguments that suggest flash crashes may be an unavoidable systemic problem in modern financial markets.</p>
+<p>In their paper, “Enhancing Predictive Analytics for Anti-Phishing by Exploiting Website Genre Information,” Ahmed Abbasi, Fatemeh “Mariam” Zahedi, Daniel Zeng, Yan Chen, Hsinchun Chen, and Jay F. Nunamaker Jr. report two studies about phishing websites that exploit user vulnerabilities. They propose a novel method for distinguishing phishing websites from benign websites, using Genre Theory to identify fraud cues that are associated with differences in purpose between legitimate and phishing websites. They evaluate the solution with a testbed encompassing thousands of legitimate and phishing websites. Results show that the proposed method provides significantly better detection capabilities than do other state-of-the-art anti-phishing methods. An additional experiment demonstrates the effectiveness of the new approach in user settings; users utilizing the method were able to better identify and avoid phishing websites, and were consequently less likely to transact with them. Given the extensive monetary and social ramifications associated with phishing, the results have implications for future anti-phishing strategies.</p>
+<p>Finally, Kelly J. Fadel, Thomas O. Meservy, and Matthew L. Jensen, in their paper, “Exploring Knowledge Filtering Processes in Electronic Networks of Practice,” examine processes by which individuals filter out bad information and accept good information that they find among collections of geographically separated individuals who share common interests but are only loosely affiliated through online channels. Drawing on dual-channel models of information evaluation, they hypothesize about how eye-gaze patterns should differ depending on whether subjects use heuristic or semantic processing to evaluate the quality of the information they find. Eye-tracking technology revealed that hypothesized differences of eye-gaze patterns did emerge, and that people who used compensatory search strategies had a higher filtering accuracy than did people who used noncompensatory strategies.</p>
+<p>Each of the papers in this special section gives rigorous scholarly consideration to challenging cognitive issues of significant relevance to information systems in the twenty-first century. The papers were selected from the best papers presented at the Hawaii International Conference on System Sciences and have undergone cycles of referee reviews and revisions for publication here. We commend them to your reading.</p>
+
+<p>References</p>
+<p id="CIT0001">1.Nunamaker Jr., J.F., and Briggs, R.O. Toward a broader vision for Information Systems. ACM Transactions on Management Information Systems, 2, 4 (2011), Article 20.</p>
+<p id="CIT0002">2.Potter, K.; Smith, M.; Guevara, J.K.; Hall, L.; and Stegman, E. IT Metrics: IT Spending and Staffing Report 2011. G00210146, Gartner Inc. (2011).</p>
+
+</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

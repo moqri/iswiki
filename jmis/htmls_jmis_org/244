@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/5">    Volume 4 Number 2 1987
+</a> pp. 74-92</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Improvements in Database Concurrency Control with Locking</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/421">Croker, Albert</a>    </div>
+
+<p>ABSTRACT: Various techniques have been proposed to ensure the safe, concurrent execution of a set of database transactions. Locking protocols are the most prominent and widely used of these techniques, with two-phase locking and tree locking being but two examples of these protocols. A locking protocol defines a general set of restrictions on the placement of lock and unlock steps within transactions. In this paper we show that it is possible to further increase the potential level of concurrency of a set of transactions, within the context of a specific locking protocol, by further restricting the placement of lock and unlock steps within each transaction. We also discuss a variation of the tree locking protocols that allows transactions to be locked with respect to a dynamically changing set of tree structures. In addition, we define and discuss the concept of a concurrency cost function for a locked transaction. This cost function measures the potential for conflict of a transaction with other transactions.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/233">concurrency control</a>,    <a href="/keywords/234">two-phase locking protocol</a>,    <a href="/keywords/235">tree locking protocol</a>,    <a href="/keywords/236">database design</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

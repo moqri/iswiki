@@ -1,0 +1,61 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/120">    Volume 30 Number 4 2014
+</a> pp. 5-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ THE SPECIAL ISSUE ON NEUROSCIENCE IN INFORMATION SYSTEMS (IS) RESEARCH, guest-edited by Ting-Peng Liang  and Jan vom Brocke, that opens (and nearly fills) this issue of JMIS will help in establishing NeuroIS as an important component of our  field. The theories and research methods of neuroscience, and the neurophysiological tools that support them, promise to broaden the  compass of our discipline and to deepen our understanding of the interaction between individuals and technological artifacts. By directly  measuring and imaging the reactions of a human body, and-crucially-interpreting these data and images in the frame of the appropriate  constructs and theories, we are now able to gain new insights and reach new disciplinary targets.
+</p>
+<p>
+ As the relatively new arrivals to our toolbox, the methods of neuroscience will teach us how to guide the bottom-up, data-based,  approaches with theories, and how to induce new theories from the wealth of the data we will acquire. But then that is what we have done for   decades in our field with different lenses. However, there are numerous and serious difficulties to be overcome as we move up the learning   curve in acquiring the capabilities necessary to produce reliable insights in NeuroIS. There have been serious concerns about various  inferences drawn from the neuroimaging studies in some of our sister fields, for example. This is why the guidelines offered by the Guest  Editors in their own methodological paper will be of help in furthering this research, particularly when combined with the preceding  methodological papers they cite. This is also why the Guest Editors, who will introduce the papers of this Special Issue to you, have  assembled two blue-ribbon boards to assist them in producing it. This is why, too, we hope that the papers assembled here will contribute to   our IS discipline not only the specific conclusions they arrive at, but also that they will move us up on our learning curve in deriving  new-and novel-understandings and insights that we had not been able to arrive at before we started to assimilate these methods.
+</p>
+<p>
+ The general section of this issue of JMIS consists of three papers that address various aspects of electronic commerce. The first of  them investigates the performance of prediction markets in the context of social networks. Prediction markets are one of the methods of  harnessing the so-called wisdom of crowds, that is, the expected positive effects of aggregating the predictions of multiple independent  forecasters who possess different and relevant information and knowledge. In our days of the wide use of social media, the forecasters  participating in such a market may be expected to communicate, which will affect the outcome. Liangfei Qiu, Huaxia Rui, and Andrew B.  Whinston use a laboratory experiment to study the performance of prediction markets embedded in social networks, where the participants  communicate. The authors find a stark difference in the outcomes depending on the cost of information acquisition necessary for a  decision, and thus depending on the complexity of the decision. There are also further effects of the structure of the social networks. The  most important implications of the study are those for internal corporate prediction markets that are subject to finer calibration; however, the   results have a general significance for the co creation of value.
+</p>
+<p>
+ Considering that virtually all companies above a certain size are embedded today within supply webs, with business processes either  explicitly or implicitly distributed among partner companies, the interoperability of their IS is necessary. This foundational layer of  interoperability supports the higher levels that enable organizational collaboration and market activity. A key avenue to the IS interoperability   is the promulgation of standards for the interorganizational systems (IOS). The authors of the next paper, Kexin Zhao and Mu Xia, study  empirically how the interoperability can be achieved by means of such standards. The authors analyze interoperability as a complex  corporate capability and build a model that leads to the development of this capability, centering on standardized data infrastructure,  reinforced by network effects. Along with their contribution to the capability theory, the authors are able to offer specific managerial  recommendations for gaining interoperability in IOS.
+</p>
+<p>
+ Sponsoring well-selected keywords in search engines is one of the most effective online advertising methods, aimed as it is at the  consumers who appear to be already looking for the product offering. In the concluding paper of the issue, Xianghua Lu and Xia Zhao  investigate the effects of keyword selection not only on direct product sales, but also on the indirect sales of other products of an advertiser.   Thus, the authors study the differential effects of more general versus more specific keywords. With theory-guided empirics that rely on an   econometric analysis of a dataset from a major search engine, the authors obtain significant results that can guide the sellers in keyword  selection and that contribute to our theoretical understanding of search-engine advertising.
+</p>
+<p>
+ As we close our anniversary thirtieth year, it brings me great pleasure to welcome new members of the JMIS Editorial Board: Wai  Fong Boh, Robert O. Briggs, Robert G. Fichman, Joey F. George, Alain Pinsonneault, and Yong Tan. Thanks for their contribution go to   our outgoing Board members: Hemant Bhargava, Gary Grudnitski, and Ronald M. Lee. We are also welcoming our new Web site editor,  David Eargle, with profuse thanks for his long-term outstanding service to his predecessor, Arnold Kamis.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

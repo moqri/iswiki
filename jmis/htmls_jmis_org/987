@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/74">    Volume 9 Number 3 1992
+</a> pp. 123-143</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>AEROBA: A Blackboard Approach to Model Formulation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1196">Vinze, Ajay S,</a>    <a href="/contributors/453">Sen, Arun,</a> and     <a href="/contributors/1530">Shue Feng, T Liou</a>    </div>
+
+<p>ABSTRACT: Building models for problem solving is a common practice for many disciplines. Model formulation is a complex process. Researchers have in the past approached this process from a variety of angles including planning, model structuring, model integration, and model representation, among others. Here we use observations of expert modelers in an attempt to understand the process. The observations, made in the form of protocol analysis, identified three important facets to this process: formulation tasks, control considerations, and the opportunism in the process of formulation. Using these observations, the AEROBA system was constructed, based on the blackboard paradigm. The system design and implementation details are presented. A consultation trace with AEROBA is also provided.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/601">blackboard systems</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/602">model formulation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

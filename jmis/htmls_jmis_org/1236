@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/126">    Volume 32 Number 1 2015
+</a> pp. 116-150</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Exploitation and Exploration Networks in Open Source Software Development: An Artifact-Level Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1479">Temizkan, Orcun</a> and     <a href="/contributors/530">Kumar, Ram L</a>    </div>
+
+<p>ABSTRACT: 
+<p>Open source software (OSS) development is an increasingly important paradigm of software development. However, key aspects of OSS such as the determinants of project success and motivations of developers in joining these projects are not well understood. Based on organizational theory, we propose that OSS activities of patch development and feature request can be classified as exploitation (implementation-oriented) and exploration (innovation-oriented) activities, respectively. We empirically examine how the structure of social network affects the success of patch-development and feature-request networks in OSS projects, using a data set collected from the SourceForge database. Our results provide empirical support for the view that patch development and feature request are exploitation and exploration activities, respectively. Network structures differ due to team formation differences and have a differential impact on development success based on the type of activity. The concepts of ambidextrous developers and ambidexterity are explored in the context of OSS projects. Collectively, our results indicate that studying OSS projects at the artifact level could improve our understanding of OSS project success and team formation. This, in turn, could lead to better management of OSS projects.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3477">exploitation and exploration</a>,    <a href="/keywords/3478">open source software development</a>,    <a href="/keywords/658">project success</a>,    <a href="/keywords/1379">social networks</a>,    <a href="/keywords/339">software development</a>,    <a href="/keywords/3479">team formation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

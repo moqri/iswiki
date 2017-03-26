@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/54">    Volume 3 Number 3 1986
+</a> pp. 5-16</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Strategic Alternatives and Interorganizational System Implementations: An Overview</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/151">Barrett, Stephanie S</a>    </div>
+
+<p>ABSTRACT: The potential strategic importance of information systems is now an accepted fact. The context of this importance, however, transcends traditional data processing, user functional departments, and, more importantly, organizational boundaries. Inter-organizational information systems (IOS) that automate the flow of information interchange across organizational boundaries are made possible by technological advances in data communications. This paper discusses a range of strategic options and IOS implementations.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/178">strategic information systems</a>,    <a href="/keywords/179">inter-organizational information systems</a>,    <a href="/keywords/36">information systems planning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

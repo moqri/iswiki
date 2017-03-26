@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/17">    Volume 2 Number 3 1985
+</a> pp. 92-100</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Are MIS Frameworks Premature?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/937">Kochen, Manfred</a>    </div>
+
+<p>ABSTRACT: Research on MIS has been guided by the belief that the building and use of definitional frameworks should precede theoretical and experimental studies, with applications or uses of these results coming last. A reversal of this sequence is proposed, with uses of MIS being scientifically studied first, leaving the search for definitions for the future. The success of this strategy is illustrated with the history of the derivative as a broad analog of the MIS concept.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/132">MIS research</a>,    <a href="/keywords/133">MIS frameworks</a>,    <a href="/keywords/134">heuristics</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

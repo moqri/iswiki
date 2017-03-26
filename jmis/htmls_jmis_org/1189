@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/122">    Volume 31 Number 1 2014
+</a> pp. 111-144</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Creating Shared Understanding in Heterogeneous Work Groups: Why It Matters and How to Achieve It</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1689">Bittner, Eva Alice Christiane</a> and     <a href="/contributors/1013">Leimeister, Jan Marco</a>    </div>
+
+<p>ABSTRACT: Shared understanding has been claimed to be crucial for effective collaboration of researchers and practitioners. Heterogeneity in work groups further strengthens the challenge of integrating understanding among diverse group members. Nevertheless, shared understanding and especially its formation are largely unexplored. After conceptualizing shared understanding, we apply collaboration engineering to derive a validated collaboration process module (compound thinkLet "MindMerger") to systematically support heterogeneous work groups in building shared understanding. We conduct a large-scale action research study at a German car manufacturing company. The evaluation indicates that with the use of MindMerger, team learning behaviors occur, and shared understanding of the tasks in complex work processes increases among experienced diverse tool and dye makers. Thus, the validated compound thinkLet MindMerger provides designers of collaborative work practices with a reusable module of activities to solve clarification issues in group work early on. Furthermore, findings from the field study contribute to the conceptualization of the largely unexplored phenomenon of shared understanding and its formation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1635">collaboration engineering</a>,    <a href="/keywords/3271">group collaboration</a>,    <a href="/keywords/3272">heterogeneous groups</a>,    <a href="/keywords/1443">knowledge integration</a>,    <a href="/keywords/816">shared understanding</a>,    <a href="/keywords/3273">thinkLet</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

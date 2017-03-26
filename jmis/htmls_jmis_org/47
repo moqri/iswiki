@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/1">    Volume 25 Number 1 2008
+</a> pp. 131-165</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Factors in the Global Assimilation of Collaborative Information Technologies: An Exploratory Investigation in Five Regions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/92">Bajwa, Deepinder S,</a>    <a href="/contributors/93">Lewis, L Floyd,</a>    <a href="/contributors/94">Pervan, Graham,</a>    <a href="/contributors/95">Lai, Vincent S,</a>    <a href="/contributors/96">Munkvold, BjÃ¸rn E,</a> and     <a href="/contributors/97">Schwabe, Gerhard</a>    </div>
+
+<p>ABSTRACT: The diffusion of innovation theory is deployed to investigate the global assimilation of collaborative information technologies (CITs). Based on the concepts of IT acquisition and utilization, an assimilation framework is presented to highlight four states (limited, focused, lagging, and pervasive) that capture the assimilation of conferencing and groupware CITs. Data collected from 538 organizations in the United States, Australia, Hong Kong, Norway, and Switzerland are aggregated and analyzed to explore assimilation patterns and the influence of decision-making pattern, functional integration, promotion of collaboration, organization size, and IT function size on the assimilation of CITs. Although most of these factors influence assimilation of CITs from nonadoption to a state of limited assimilation, and from limited assimilation to a state of pervasive assimilation, they may not be critical when assimilation of CITs deviates from the expected path. The implications of our findings are discussed for practice and research on assimilation of CITs.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2403">collaborative information technologies</a>,    <a href="/keywords/965">information technology adoption</a>,    <a href="/keywords/58">information technology assimilation</a>,    <a href="/keywords/971">information technology diffusion</a>,    <a href="/keywords/684">information technology innovation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

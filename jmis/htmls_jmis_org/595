@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/97">    Volume 12 Number 1 1995
+</a> pp. 145-169</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>DX: A Deontic Expert System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/162">Lee, Ronald M</a> and     <a href="/contributors/1001">Ryu, Young U</a>    </div>
+
+<p>ABSTRACT: Social norms have a pervasive effect on our lives, affecting how and what we eat, how we dress, where and how we travel, our recreation, the way we work, and our participation in the society at large. Other social norms make constraints on the behavior of commercial companies and other institutions, affecting the way they do business, their treatment of employees, their treatment of the environment, and so on. As societies grow and become more diverse, the system of norms becomes correspondingly complex. This paper attempts to bring computational assistance to bear in managing and interacting with these normative systems. A prototype expert system is described that utilizes deontic rules for reasoning about normative constraints in organizations and other social systems. Applications to bureaucracies and electronic contracting systems are discussed. DX can be used to model regulations and policies in organizations, such as library regulations of universities, resource access policies, and the like. Also, regulatory aspects in interorganizational systems (e.g., EDI) can be effectively modeled and managed by DX. Automated regulation and policy reasoning help manage normative rules and reduce complexity in their applications.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/847">bureaucratic systems</a>,    <a href="/keywords/848">deontic logic</a>,    <a href="/keywords/849">electronic contracting systems</a>,    <a href="/keywords/156">expert systems</a>,    <a href="/keywords/850">normative systems</a>,    <a href="/keywords/851">performatives</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/97">    Volume 12 Number 1 1995
+</a> pp. 31-56</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Strategies for Business Process Reengineering: Evidence from Field Studies</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/545">Earl, Michael J,</a>    <a href="/contributors/546">Sampler, Jeffrey L,</a> and     <a href="/contributors/547">Short, James E</a>    </div>
+
+<p>ABSTRACT: This paper reports on early results from case study research into the relationship between business process reengineering (BPR) and strategic planning. First a framework for analysis is proposed based on the concept of alignment. This "process alignment model" comprises four lenses of enquiry: process, strategy, information systems. and change management and control. Four case studies are then described, selected from a wider sample to demonstrate variation across the four domains. A taxonomy of strategies for BPR is derived from the case studies. This taxonomy suggests a richer variety of BPR practice than has been documented to date and provides an opportunity and platform for further research.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/831">business process reengineering</a>,    <a href="/keywords/833">change management</a>,    <a href="/keywords/36">information systems planning</a>,    <a href="/keywords/35">strategic planning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

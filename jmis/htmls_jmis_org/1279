@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/130">    Volume 33 Number 1 2016
+</a> pp. 171-201</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Could Deal Promotion Improve Merchants’ Online Reputations? The Moderating Role of Prior Reviews</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1776">Li, Xitong</a>    </div>
+
+<p>ABSTRACT: 
+<p>It is by now almost accepted as a stylized fact that offering deal promotion (such as via Groupon or LivingSocial) deteriorates local merchants’ online reputations (e.g., the average of Yelp review ratings). However, in this paper we show that the stylized fact is not true in certain circumstances. We theorize that the valence and volume of prior reviews can play an important moderating role in the effect of deal promotion. Empirically, we show that restaurants with a relatively low prior average rating and a relatively small review volume have improved their online reputations by offering Groupon promotion. The proportion of such restaurants is substantial. The findings are robust to multiple identification strategies and econometric specifications. The results underscore the substantial heterogeneity in the effect of deal promotion on local merchants’ online reputations. Merchants need to understand the moderating role of prior reviews (e.g., the valence and volume of prior reviews) and design appropriate strategies to maximize the returns from offering deal promotion.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3636">deal promotion</a>,    <a href="/keywords/3637">difference-in-differences</a>,    <a href="/keywords/3638">moderating roles</a>,    <a href="/keywords/3639">online deals</a>,    <a href="/keywords/3640">online group sales</a>,    <a href="/keywords/2148">online reviews</a>,    <a href="/keywords/3641">propensity score matching</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

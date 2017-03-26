@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/76">    Volume 20 Number 4 2004
+</a> pp. 31-63</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Foundation for the Study of Computer-Supported Collaborative Learning Requiring Immersive Presence</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1378">Sharda, Ramesh,</a>    <a href="/contributors/1070">Romano Jr, Nicholas C,</a>    <a href="/contributors/1379">Lucca, Joyce A,</a>    <a href="/contributors/1380">Weiser, Mark,</a>    <a href="/contributors/1381">Scheets, George,</a>    <a href="/contributors/1382">Jong-Moon, Chung,</a> and     <a href="/contributors/1383">Sleezer, Catherine M</a>    </div>
+
+<p>ABSTRACT: The dramatic increase in distance learning (DL) enrollments in higher education is likely to continue. However, research on DL, which includes psychomotor, cognitive, and affective skills, is virtually nonexistent. Indeed, DL for psychomotor skills has been viewed as impossible. Laboratory coursework, which we define as including the acquisition of psychomotor, cognitive, and affective skills, has become a limiting factor in the growth of DL. What is needed is a synergistic integration of technologies and human-computer interface (HCI) principles from computer-supported collaborative learning (CSCL), collaborative learning systems, and immersive presence technologies to enable achievement of psychomotor learning objectives. This paper defines the computer-supported collaborative learning requiring immersive presence (CSCLIP) research area, provides a theoretical foundation for CSCLIP, and develops an agenda for research in CSCLIP to establish a foundation for the study of this emerging area. It also briefly describes a CSCLIP-based telecommunications lab currently under development. CSCLIP is presented as a major research opportunity for information systems researchers interested in empirical research as well as technical development.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1745">computer-supported collaborative learning</a>,    <a href="/keywords/1542">distance education</a>,    <a href="/keywords/1746">immersive presence</a>,    <a href="/keywords/1747">psychomotor learning objectives</a>,    <a href="/keywords/1438">situated learning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

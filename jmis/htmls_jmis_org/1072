@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/110">    Volume 9 Number 4 1993
+</a> pp. 175-191</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Use of Mental Imagery to Facilitate Information Identification in Requirements Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/52">Zmud, Robert W,</a>    <a href="/contributors/1651">Anthony, William P,</a> and     <a href="/contributors/1652">Stair Jr, Ralph M</a>    </div>
+
+<p>ABSTRACT: Many alternative approaches have been devised for eliciting information systems requirements. The majority of these approaches, however, assume a familiarity with and understanding of the organizational context by those individuals from whom requirements are to be derived. Such approaches often yield unsatisfactory results when the information system being developed involves ill-structured task contexts. The generation of a robust set of information items can be an important first step in the specification of information requirements. Scenario-based approaches to generate information items for requirements analysis appear intuitively promising as a mechanism for promoting the elicitation of information requirements for ill-structured task contexts. However, little empirical evidence exists regarding their potential effectiveness. This paper proposes the use of mental imagery as a scenario-based technique and reports on the results of an exploratory laboratory experiment that compared a mental imagery approach with goal-oriented and critical success factors approaches in the generation of information items. The results of this experiment provide modest evidence that positive and negative mental imagery protocols may both outperform goal-oriented and critical success factors approaches for ill-structured task contexts. Further, the strongest results were observed to favor the positive imagery protocol. The paper concludes with a discussion of the implications of these findings and suggestions for future research.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/180">critical success factors (CSF)</a>,    <a href="/keywords/635">mental imagery</a>,    <a href="/keywords/636">requirements analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

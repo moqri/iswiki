@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/128">    Volume 32 Number 3 2015
+</a> pp. 75-104</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Anatomy of Successful Business Models for Complex Services: Insights from the Telemedicine Field</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1791">Peters, Christoph,</a>    <a href="/contributors/1792">Blohm, Ivo,</a> and     <a href="/contributors/1013">Leimeister, Jan Marco</a>    </div>
+
+<p>ABSTRACT: 
+<p>Telemedicine services may improve the quality of life of individuals while also reducing the costs of service provisioning. They represent an important but as yet understudied type of complex services that integrates many stakeholders acting in service value networks. These complex services typically comprise a combination of information technology (IT) services and highly person-oriented, non-IT services, and are characterized by long service delivery periods. In such an environment, it is particularly difficult to generate successful and sustainable business models, which are necessary for the widespread provision of telemedicine services. Following a design research approach, we develop and evaluate the CompBizMod framework, a morphological box allowing for: (1) the analysis, description, and classification of telemedicine business models, (2) the identification of white spots for future business opportunities, (3) and the identification of patterns for successful business models. We contribute to the literature by presenting a specific business model framework and identifying three business model patterns in the telemedicine industry. We exhibit how business models for complex services can be decomposed into their constituent elements and present an easy and replicable approach for identifying business model patterns in a given industry.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3551">analysis frameworks</a>,    <a href="/keywords/3552">business model</a>,    <a href="/keywords/3553">business model pattern</a>,    <a href="/keywords/3554">complex service</a>,    <a href="/keywords/1261">telemedicine</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

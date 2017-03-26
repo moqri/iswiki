@@ -1,0 +1,1146 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/116">    Volume 20 Number 1 2003
+</a> pp. 5-11</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ WITH THIS ISSUE, JOURNAL OF MANAGEMENT INFORMATION SYSTEMS is entering the twentieth year of its  publication. The past 20 years have witnessed the emergence of the information systems (IS) discipline as one of  the established scholarly fields. Centering on the development, use, and impacts of organizational IS, the IS  discipline has an important core competence. It has a demonstrated ability not only to use theories developed  elsewhere, but to contribute its own theories, methods, and theoretically based artifacts to other fields. The well- developed system of journals and conferences for the dissemination and elaboration of scholarship is firmly in  place. Consistently among top-ranked IS journals, JMIS has been privileged to be able to contribute to the growth  of our discipline. Recent research shows that JMIS is the most representative of the leading journals in the field,  along with Information Systems Research [1]. Indeed, JMIS has always reflected the belief that thematic and  methodological diversity within a well-defined IS domain is our strength. The present issue of JMIS illustrates this  point.
+</p>
+<p>
+ Major information technologies (IT) offer vital competitive opportunities to the organizations that adopt and  appropriate them, combining them with other capabilities and resources at their disposal. The emerging major  technologies also present vital competitive threats to the organizations that do not succeed in such adoption and  appropriation. IS executives are the key actors in positioning their firms with respect to IT innovations. In the first  paper of the issue, Neil C. Ramiller and E. Burton Swanson assert that such transformational technologies provide  organizing visions for enterprises. These authors study the response of these executives to such emerging, and  maturing, organizing visions&#8212;be they electronic commerce or customer relationship management. Looking at the  major IT-based organizational innovations through the prism of the organizing visions, as these evolve through the  ascent to the inevitable decline, Ramiller and Swanson are able to analyze the sense-making processes of IS  executives with respect to such innovations, set the agenda for further research, and offer guidelines for  executive practice.
+</p>
+<p>
+ The theme of strategic deployment of IT is continued by Ken Peffers, Charles E. Gengler, and Tuure Tuunanen.  Critical success factors (CSF) methodology has been long established in strategic IS planning to derive the IS  initiatives of a firm from its long-term objectives. The authors make the case for extending the CSF methodology  into critical success chains that explicitly link the attributes of corporate IS, CSFs, and specific corporate goals. A  broadly participative methodology, the use of critical success chains combines the bottom-up processes involving  the users of technology with the generally top-down CSF methods. Analytical case studies show how the CSF- based planning is expanded in the process.
+</p>
+<p>
+ Retention of valued IS professionals has been a continuing objective of their employers. A novel and  theoretically rich perspective on the issue is offered by Robert A. Josefek Jr. and Robert J. Kauffman. Using the  human capital theory of economics, these authors analyze the various pressures on the professionals to  separate and the consequent probability of separation. Based on this, Josefek and Kauffman propose a method  that would allow employers to assess the effects of a projected retention intervention before such an intervention  is actually made. The work is important for the IS workforce management and initiates a new stream of research  into this management.
+</p>
+<p>
+ Disciplined software development and adaptation in organizations is necessary to realize IT-linked initiatives.  Based on a field study, Bill C. Hardgrave, Fred D. Davis, and Cynthia K. Riemenschneider show that the system  developers&#8217; intentions to follow methodologies are not based on the organizational mandate to do so. Such an  intention is rather an outcome of several antecedents, most of which have not been recognized by prior work.  Rooted in the technology-acceptance and diffusion-of-innovations models, the present approach leads to a richer  understating of how commitments to software-development methodologies are formed.
+</p>
+<p>
+ Software piracy is a well-known problem, manifesting itself also in the workplace, with the resulting  organizational, as well as individual, responsibility. On an extensive theoretical base, A. Graham Peace, Dennis F.  Galletta, and James Y.L. Thong build and validate a piracy model. Echoing the conclusions of the preceding paper,  the authors show that the organizational mandates and disincentives are crucial, yet not sufficient. The work has  implications both for the companies using software and for the software producers establishing its prices.
+</p>
+<p>
+ A comprehensive model of IT-enabled knowledge management is presented by Heeseok Lee and Byounggu  Choi. The model presents a socio-technical approach to knowledge management enablers, which integrates the IT  perspective with the social perspective of culture (with the relevant components of collaboration, trust, and  learning), organizational structure, and skilled people who create and share knowledge. The model includes the  processes through which explicit and tacit forms of knowledge are created and transformed, and relates these to  organizational performance via organizational creativity. This model will be no doubt elaborated and refined  through further research it will stimulate.
+</p>
+<p>
+ Workflow systems have become a common tool for coordinating organizational and interorganizational  operations. Complex work processes entailed in the delivery of information-intensive products bring complexity to  workflow design. Hajo A. Reijers, Selma Limam, and Wil M.P. van der Aalst present a method called product- based workflow design, which serves to derive workflow design from the product specifications under certain  design criteria. The work is rooted in formal methods, and a prototype tool is exercised to validate the approach in  the field.
+</p>
+<p>
+ Surinder Singh Kahai and Randolph B. Cooper employ media richness theory to study the impacts of two  aspects of computer-mediated communication (CMC) systems on the quality of the decisions reached with the  use of these systems. In a laboratory experiments with three kinds of CMC systems, the authors establish the  comparative advantages and drawbacks of richer and leaner media. The work both integrates and extends a  large body of prior research on the subject.
+</p>
+<p>
+ Group support systems (GSS), which for many purposes may be considered a class of CMC systems, are  well-known for offering the advantages of anonymous participation. But do they? Stephen C. Hayne, Carol E.  Pollard, and Ronald E. Rice show that the participants in GSS brainstorming sessions are able to perform  significantly better attributions of others&#8217; comments than a chance guess would afford. Even though most of the  attributions are nevertheless incorrect, the dynamics that might ensue from these attributions (should they, in fact,   be made) has interesting implications, which the authors discuss and analyze.
+</p>
+<p>
+ As JMIS enters its twentieth year of publication, I would like to express my gratitude to our authors, our  readers, the Editorial Board, and the journal program manager at M.E. Sharpe, Debra E. Soled. A very special  thanks goes, as always, to our referees&#8212;the primary guarantors of quality. Here are the reviewers of the  Journal of Management Information Systems:
+</p>
+<p>
+ William Acar
+</p>
+<p>
+ Dennis A. Adams
+</p>
+<p>
+ Niv Ahituv
+</p>
+<p>
+ Murugan Anandarajan
+</p>
+<p>
+ Hayward P. Andres
+</p>
+<p>
+ Dorine Andrews
+</p>
+<p>
+ Solomon Antony
+</p>
+<p>
+ Yoris Au
+</p>
+<p>
+ Sulin Ba
+</p>
+<p>
+ Barbro Back
+</p>
+<p>
+ Yannis Bakos
+</p>
+<p>
+ P.R. Balasubramanian
+</p>
+<p>
+ Dirk Baldwin
+</p>
+<p>
+ Reza Barkhi
+</p>
+<p>
+ Henri Barki
+</p>
+<p>
+ Genevieve Bassellier
+</p>
+<p>
+ Dinesh Batra
+</p>
+<p>
+ Irma Becerra-Fernandez
+</p>
+<p>
+ Salvatore Belardo
+</p>
+<p>
+ Skip Benamati
+</p>
+<p>
+ Michael Benaroch
+</p>
+<p>
+ Fran&#231;ois Bergeron
+</p>
+<p>
+ Anol Bhattacherjee
+</p>
+<p>
+ Sudip Bhattacherjee
+</p>
+<p>
+ Niels Bj&#248;rn-Andersen
+</p>
+<p>
+ Indranil Bose
+</p>
+<p>
+ Carol V. Brown
+</p>
+<p>
+ Robert M. Brown
+</p>
+<p>
+ Glenn Browne
+</p>
+<p>
+ Jeffrey Butterfield
+</p>
+<p>
+ Terry A. Byrd
+</p>
+<p>
+ Edward G. Cale Jr.
+</p>
+<p>
+ Judith Carlisle
+</p>
+<p>
+ Sven Carlsson
+</p>
+<p>
+ Houston H. Carr
+</p>
+<p>
+ William J. Carroll
+</p>
+<p>
+ Robert P. Cerveny
+</p>
+<p>
+ Sergio de Cesare
+</p>
+<p>
+ Namsik Chang
+</p>
+<p>
+ Debabroto Chatterjee
+</p>
+<p>
+ Patrick Chau
+</p>
+<p>
+ Anrew N.K. Chen
+</p>
+<p>
+ Hong-Mei Chen
+</p>
+<p>
+ Kuan Chen
+</p>
+<p>
+ Minder Chen
+</p>
+<p>
+ Hsing Kenneth Cheng
+</p>
+<p>
+ Robert T.H. Chi
+</p>
+<p>
+ Roger Chiang
+</p>
+<p>
+ Alina M. Chircu
+</p>
+<p>
+ William C. Chismar
+</p>
+<p>
+ Jong-min Choe
+</p>
+<p>
+ H. Michael Chung
+</p>
+<p>
+ Roger Clarke
+</p>
+<p>
+ Randolph Cooper
+</p>
+<p>
+ Paul Cule
+</p>
+<p>
+ Qizhi Dai
+</p>
+<p>
+ Ronald Dattero
+</p>
+<p>
+ Donald L. Davis
+</p>
+<p>
+ Gordon Depledge
+</p>
+<p>
+ Sarv Devaraj
+</p>
+<p>
+ Ali Dogramaci
+</p>
+<p>
+ Peter Duchessi
+</p>
+<p>
+ Adrie C.M. Dumay
+</p>
+<p>
+ Omar A. El Sawy
+</p>
+<p>
+ Hyun B. Eom
+</p>
+<p>
+ J. Alberto Espinosa
+</p>
+<p>
+ Gerald E. Evans
+</p>
+<p>
+ Ming Fan
+</p>
+<p>
+ Bijan Fazlollahi
+</p>
+<p>
+ Steven Feiner
+</p>
+<p>
+ Kirk Fiedler
+</p>
+<p>
+ Edmond P. Fitzgerald
+</p>
+<p>
+ Jerry Fjermestad
+</p>
+<p>
+ Steven W. Floyd
+</p>
+<p>
+ Edward Fox
+</p>
+<p>
+ Dennis Galletta
+</p>
+<p>
+ Edward J. Garrity
+</p>
+<p>
+ Judith Gebauer
+</p>
+<p>
+ David Gefen
+</p>
+<p>
+ Paulo B. Goes
+</p>
+<p>
+ Janis L. Gogan
+</p>
+<p>
+ Thomas Goh
+</p>
+<p>
+ Dale Goodhue
+</p>
+<p>
+ Sanjay Gosain
+</p>
+<p>
+ Martin D. Goslar
+</p>
+<p>
+ Paul Gray
+</p>
+<p>
+ Saul Greenberg
+</p>
+<p>
+ Robert K. Griffin
+</p>
+<p>
+ Michael D. Grigoriades
+</p>
+<p>
+ Mary-Liz Grise
+</p>
+<p>
+ Bin Gu
+</p>
+<p>
+ Alok Gupta
+</p>
+<p>
+ Jungpil Hahn
+</p>
+<p>
+ Barbara Haley
+</p>
+<p>
+ Ingoo Han
+</p>
+<p>
+ Il-Horn Hann
+</p>
+<p>
+ Bill C. Hardgrave
+</p>
+<p>
+ Paul Hart
+</p>
+<p>
+ Stephen Hayne
+</p>
+<p>
+ Starr Roxanne Hiltz
+</p>
+<p>
+ Rudy Hirschheim
+</p>
+<p>
+ Richard Hoffman
+</p>
+<p>
+ John A. Hoxmeier
+</p>
+<p>
+ Paul Hu
+</p>
+<p>
+ Qing Hu
+</p>
+<p>
+ Wayne Huang
+</p>
+<p>
+ Kai Lung Hui
+</p>
+<p>
+ Ard Huizing
+</p>
+<p>
+ E. Gerald Hurst
+</p>
+<p>
+ Zahir Irani
+</p>
+<p>
+ Gretchen I. Irwin
+</p>
+<p>
+ Tomas Isakowitz
+</p>
+<p>
+ Bharat A. Jain
+</p>
+<p>
+ James J. Jiang
+</p>
+<p>
+ Linda Ellis Johnson
+</p>
+<p>
+ Kailash Joshi
+</p>
+<p>
+ Nenad Jukic
+</p>
+<p>
+ Charles Kacmar
+</p>
+<p>
+ Surinder Kahai
+</p>
+<p>
+ Timo Kakola
+</p>
+<p>
+ Ajit Kambil
+</p>
+<p>
+ P.K. Kannan
+</p>
+<p>
+ Jahangir Karimi
+</p>
+<p>
+ Michael Kattan
+</p>
+<p>
+ Timothy Kayworth
+</p>
+<p>
+ Mark Keil
+</p>
+<p>
+ Robert T. Keim
+</p>
+<p>
+ Chris Kemerer
+</p>
+<p>
+ Julie E. Kendall
+</p>
+<p>
+ William J. Kettinger
+</p>
+<p>
+ Omar E.M. Khalil
+</p>
+<p>
+ Melody Y. Kiang
+</p>
+<p>
+ Rajiv Kishore
+</p>
+<p>
+ Gary Klein
+</p>
+<p>
+ Stefan Koch
+</p>
+<p>
+ Esther Koster
+</p>
+<p>
+ Marios Koufaris
+</p>
+<p>
+ Kenneth A. Kozar
+</p>
+<p>
+ Kenneth L. Kraemer
+</p>
+<p>
+ Ramayya Krishnan
+</p>
+<p>
+ Uday Kulkarni
+</p>
+<p>
+ Akhil Kumar
+</p>
+<p>
+ Ram Kumar
+</p>
+<p>
+ Mary C. Lacity
+</p>
+<p>
+ Simon S.K. Lam
+</p>
+<p>
+ Gwynne Larsen
+</p>
+<p>
+ Tor J. Larsen
+</p>
+<p>
+ Kathy S. Lassila
+</p>
+<p>
+ Heeseok Lee
+</p>
+<p>
+ Ho Geun Lee
+</p>
+<p>
+ Jungwoo Lee
+</p>
+<p>
+ Dorothy Leidner
+</p>
+<p>
+ Richard Leifer
+</p>
+<p>
+ Mary Jane Lenard
+</p>
+<p>
+ Hugo Levecq
+</p>
+<p>
+ Ting-Peng Liang
+</p>
+<p>
+ Nancy Lightner
+</p>
+<p>
+ John Lim
+</p>
+<p>
+ Kai Lim
+</p>
+<p>
+ Yihwa Irene Liou
+</p>
+<p>
+ Astrid Lipp
+</p>
+<p>
+ Paulo J.G. Lisboa
+</p>
+<p>
+ Henry C. Lucas Jr.
+</p>
+<p>
+ Mark Lycett
+</p>
+<p>
+ Kalle Lyytinen
+</p>
+<p>
+ William McCarthy
+</p>
+<p>
+ Jane M. Mackay
+</p>
+<p>
+ Roy McKelvey
+</p>
+<p>
+ D. Harrison McKnight
+</p>
+<p>
+ Ephraim R. McLean
+</p>
+<p>
+ Poppy L. McLeod
+</p>
+<p>
+ Simha R. Magal
+</p>
+<p>
+ Mo A. Mahmood
+</p>
+<p>
+ David Maier
+</p>
+<p>
+ Ji-Ye Mao
+</p>
+<p>
+ Salvatore T. March
+</p>
+<p>
+ James R. Marsden
+</p>
+<p>
+ Thomas E. Marshall
+</p>
+<p>
+ Anne P. Massey
+</p>
+<p>
+ Charles H. Mawhinney
+</p>
+<p>
+ Jerrold H. May
+</p>
+<p>
+ Roberto J. Mejias
+</p>
+<p>
+ Steven C. Michael
+</p>
+<p>
+ Thomas Miller
+</p>
+<p>
+ Shaila Miranda
+</p>
+<p>
+ Rajesh Mirani
+</p>
+<p>
+ Ali R. Montazemi
+</p>
+<p>
+ Ramiro Montealegre
+</p>
+<p>
+ Jeanette Moody
+</p>
+<p>
+ Ajay S. Mookerjee
+</p>
+<p>
+ Scott Moore
+</p>
+<p>
+ Steven Morris
+</p>
+<p>
+ Jolene Morrison
+</p>
+<p>
+ Michael D. Myers
+</p>
+<p>
+ Kathleen Mykytyn
+</p>
+<p>
+ Peter P. Mykytyn Jr.
+</p>
+<p>
+ Barin N. Nag
+</p>
+<p>
+ Murli Nagasundaram
+</p>
+<p>
+ R. Ryan Nelson
+</p>
+<p>
+ Boon Siong Neo
+</p>
+<p>
+ Fred Niederman
+</p>
+<p>
+ Mark Nissen
+</p>
+<p>
+ Rosalie Ocker
+</p>
+<p>
+ Wonseok Oh
+</p>
+<p>
+ Bob O&#8217;Keefe
+</p>
+<p>
+ Lorne Olfman
+</p>
+<p>
+ James Oliver
+</p>
+<p>
+ Levent Orman
+</p>
+<p>
+ Richard Orwig
+</p>
+<p>
+ Carl Pacini
+</p>
+<p>
+ Jonathan W. Palmer
+</p>
+<p>
+ Raymond R. Panko
+</p>
+<p>
+ Michael Parent
+</p>
+<p>
+ Diane Parente
+</p>
+<p>
+ Jeffrey Parsons
+</p>
+<p>
+ Paul A. Pavlou
+</p>
+<p>
+ Kenneth Peffers
+</p>
+<p>
+ Norman Pendegraft
+</p>
+<p>
+ Mark Pendergast
+</p>
+<p>
+ Roger A. Pick
+</p>
+<p>
+ Leo L. Pipino
+</p>
+<p>
+ Steven Poltrock
+</p>
+<p>
+ Jean-Charles Pomerol
+</p>
+<p>
+ Gerald Post
+</p>
+<p>
+ John H. Prager
+</p>
+<p>
+ Jayesh Prasad
+</p>
+<p>
+ G. Premkumar
+</p>
+<p>
+ Sandeep Purao
+</p>
+<p>
+ S. Raghunathan
+</p>
+<p>
+ Arik Ragowsky
+</p>
+<p>
+ T.S. Ragu-Nathan
+</p>
+<p>
+ Arun Rai
+</p>
+<p>
+ Rex Kelly Rainer Jr.
+</p>
+<p>
+ K.S. Raman
+</p>
+<p>
+ B. Ramesh
+</p>
+<p>
+ Neil C. Ramiller
+</p>
+<p>
+ Richard G. Ramirez
+</p>
+<p>
+ H.R. Rao
+</p>
+<p>
+ R. Ravichandran
+</p>
+<p>
+ T. Ravichandran
+</p>
+<p>
+ Sury Ravindran
+</p>
+<p>
+ Amy W. Ray
+</p>
+<p>
+ Louis Raymond
+</p>
+<p>
+ Paul Resnick
+</p>
+<p>
+ William B. Richmond
+</p>
+<p>
+ Frederick Riggins
+</p>
+<p>
+ Suzanne Rivard
+</p>
+<p>
+ Daniel Robey
+</p>
+<p>
+ Michael B. Rogich
+</p>
+<p>
+ Young U. Ryu
+</p>
+<p>
+ Timo Saarinen
+</p>
+<p>
+ Rajiv Sabherwal
+</p>
+<p>
+ Sharon Salveter
+</p>
+<p>
+ G. Lawrence Sanders
+</p>
+<p>
+ Radhika Santhanam
+</p>
+<p>
+ Carol Saunders
+</p>
+<p>
+ Naveed Saleem
+</p>
+<p>
+ George Schell
+</p>
+<p>
+ K.D. Schenk
+</p>
+<p>
+ Judy Scott
+</p>
+<p>
+ Irmtraud S. Seeborg
+</p>
+<p>
+ Kishore Sengupta
+</p>
+<p>
+ Vikram Sethi
+</p>
+<p>
+ Dennis G. Severance
+</p>
+<p>
+ Theresa M. Shaft
+</p>
+<p>
+ Jim Sheffield
+</p>
+<p>
+ Olivia Sheng
+</p>
+<p>
+ Morgan M. Shepherd
+</p>
+<p>
+ Michael Shields
+</p>
+<p>
+ Siew Kien Sia
+</p>
+<p>
+ Atish P. Sinha
+</p>
+<p>
+ Sumit Sircar
+</p>
+<p>
+ H. Jeff Smith
+</p>
+<p>
+ Eli M. Snir
+</p>
+<p>
+ Charles A. Snyder
+</p>
+<p>
+ William E. Spangler
+</p>
+<p>
+ Rajendra P. Srivastava
+</p>
+<p>
+ Thomas F. Stafford
+</p>
+<p>
+ Sandy Staples
+</p>
+<p>
+ Eric W. Stein
+</p>
+<p>
+ Dick Stenmark
+</p>
+<p>
+ Lee Stepina
+</p>
+<p>
+ John M. Stevens
+</p>
+<p>
+ Veda Storey
+</p>
+<p>
+ Girish Subramanian
+</p>
+<p>
+ Ramesh Subramanian
+</p>
+<p>
+ Robert T. Sumichrast
+</p>
+<p>
+ Shankar Sunarajan
+</p>
+<p>
+ Arun Sundararajan
+</p>
+<p>
+ Tae Kyung Sung
+</p>
+<p>
+ Roderick I. Swaab
+</p>
+<p>
+ Edward J. Szewczak
+</p>
+<p>
+ Paul P. Tallon
+</p>
+<p>
+ Kar Yan Tam
+</p>
+<p>
+ Bernard C.Y. Tan
+</p>
+<p>
+ Mohan R. Tanniru
+</p>
+<p>
+ Alfred Taudes
+</p>
+<p>
+ Angsana A. Techatassanasoontorn
+</p>
+<p>
+ David P. Tegarden
+</p>
+<p>
+ Gary F. Templeton
+</p>
+<p>
+ James T.C. Teng
+</p>
+<p>
+ Hock-Hai Teo
+</p>
+<p>
+ Thompson Teo
+</p>
+<p>
+ Jason B. Thatcher
+</p>
+<p>
+ Matthew Thatcher
+</p>
+<p>
+ Ron Thompson
+</p>
+<p>
+ James Y.L. Thong
+</p>
+<p>
+ John Tillquist
+</p>
+<p>
+ Peter Tingling
+</p>
+<p>
+ Leon van der Torre
+</p>
+<p>
+ Jonathan K. Trower
+</p>
+<p>
+ Duane Truex
+</p>
+<p>
+ Gregory E. Truman
+</p>
+<p>
+ Ilkka Tuomi
+</p>
+<p>
+ Jon A. Turner
+</p>
+<p>
+ Brad Tuttle
+</p>
+<p>
+ Craig K. Tyran
+</p>
+<p>
+ N.S. Umanath
+</p>
+<p>
+ Rustam Vahidov
+</p>
+<p>
+ Vasja Vehovar
+</p>
+<p>
+ Boris S. Verkhovsky
+</p>
+<p>
+ Michael Wade
+</p>
+<p>
+ Steven Walczak
+</p>
+<p>
+ Bin Wang
+</p>
+<p>
+ Michael S. Wang
+</p>
+<p>
+ Shouhong Wang
+</p>
+<p>
+ Y. Richard Wang
+</p>
+<p>
+ Carol Watson
+</p>
+<p>
+ Mary Beth Watson-Manheim
+</p>
+<p>
+ Bruce W. Weber
+</p>
+<p>
+ Thomas Weber
+</p>
+<p>
+ Chih-Ping Wei
+</p>
+<p>
+ Charles E. Wells
+</p>
+<p>
+ Larry West
+</p>
+<p>
+ J. Christopher Westland
+</p>
+<p>
+ Seungjin Whang
+</p>
+<p>
+ Michael E. Whitman
+</p>
+<p>
+ George Widmeyer
+</p>
+<p>
+ Fons Wijnhoven
+</p>
+<p>
+ Charles Willow
+</p>
+<p>
+ Barbara Wixom
+</p>
+<p>
+ Kristoff K. Wolyniec
+</p>
+<p>
+ Hans Wortmann
+</p>
+<p>
+ Evangelos Yfantis
+</p>
+<p>
+ Byungjoon Yoo
+</p>
+<p>
+ Han Zhang
+</p>
+<p>
+ J. Leon Zhao
+</p>
+<p>
+ Lina Zhou
+</p>
+<p>
+ Ilze Zigurs
+</p>
+<p>
+ Moshe Zviran
+</p>
+<p>
+ At this time, I wish to acknowledge the contribution of an outgoing longtime member of the Editorial Board,  Ahmed Zaki. I would like to welcome to the Board its new members, Niels Bj&#248;rn-Andersen of Copenhagen  Business School and Bruce W. Weber of London Business School.
+</p>
+<p>
+ VLADIMIR ZWASS
+</p>
+<p>
+ Editor-in-Chief
+</p>
+<p>
+ REFERENCE
+</p>
+<p>
+ 1. Vessey, I., Ramesh, V., and Glass, R.L. Research in information systems: An empirical study of diversity in  the discipline and its journals. Journal of Management Information Systems, 19, 2 (Fall 2002), 129-174.
+</p>
+<p>
+ <b>
+  Key words and  phrases
+ </b>
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

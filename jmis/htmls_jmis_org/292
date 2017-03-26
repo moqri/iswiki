@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/26">    Volume 24 Number 2 2007
+</a> pp. 167-194</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Temporary Monopolist: Taking Advantage of Information Transparency on the Web</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/394">Dewan, Rajiv M,</a>    <a href="/contributors/510">Freimer, Marshall L,</a> and     <a href="/contributors/512">Yabing, Jiang</a>    </div>
+
+<p>ABSTRACT: Information displayed on an e-commerce site can be used not just by the intended customers but also by competitors. While retailers enhance service quality by linking inventory systems to Web servers and making stockout information available in real time, that stockout information could also be used by competitors in determining their prices on current stocks. In this paper, we examine the effect of such proactive use of information in the setting of e-commerce retailing where duopoly retailers set their prices of a commodity that is in short supply. We show that when customer reservation value is relatively high and retailers are differentiated in fill rate, both retailers choose the dynamic pricing strategy in equilibrium. By investing in Web scraping technology, retailers automatically monitor each other's stock status and dynamically adjust prices contingent on rival's stock availability.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2296">contingent pricing</a>,    <a href="/keywords/1347">e-commerce</a>,    <a href="/keywords/2297">information transparency</a>,    <a href="/keywords/1464">vertical differentiation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

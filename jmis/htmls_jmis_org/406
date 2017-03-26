@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/10">    Volume 9 Number 1 1992
+</a> pp. 93-111</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Influence of Individual Differences on Skill in End-User Computing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/736">Harrison, Allison W</a> and     <a href="/contributors/737">Rainer Jr, R Kelly</a>    </div>
+
+<p>ABSTRACT: Using survey data from 776 knowledge workers from a university, this exploratory study generates and tests eight propositions concerning the relationship between individual differences and computer skill. A multiple regression analysis showed that the male gender, younger age, more experience with computers, an attitude of confidence regarding computers, lower math anxiety, and a creative cognitive style are individual difference variables associated with higher computer skill. The regression also indicated that the individual difference variables accounted for 56 percent of the variance associated with computer skill. These findings suggest that organizations should manage EUC using two complementary processes: a global process and an individual process. The global or organizationwide process would be responsible for areas such as standards, controls, and security. The individual process would address issues such as education and training, selection and recruitment, and the introduction of new technology into the workplace.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/552">end user</a>,    <a href="/keywords/365">end-user computing</a>,    <a href="/keywords/553">individual differences</a>,    <a href="/keywords/554">computer skill</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

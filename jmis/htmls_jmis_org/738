@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/101">    Volume 12 Number 3 1995
+</a> pp. 127-153</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Effects of Distributed Group Support and Process Structuring on Software Requirements Development Teams: Results on Creativity and Quality</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1200">Ocker, Rosalie,</a>    <a href="/contributors/204">Hiltz, Starr Roxanne,</a>    <a href="/contributors/208">Turoff, Murray,</a> and     <a href="/contributors/613">Fjermestdad, Jerry</a>    </div>
+
+<p>ABSTRACT: Previous research has indicated that the creative task of deciding upon the initial specifications for a software system can benefit from a structured process to guide group interaction in face-to-face meetings, and can benefit from computer support. This 2 x 2 experiment is the first to look at the joint effects of a distributed asynchronous computer conferencing mode of communication (CC, as compared with face-to-face), and a structured process, on software design outcomes. Subjects were teams of graduate students in computer science and business, who designed an automated post office as a course assignment. The quality of solution produced by the CC groups was judged to be marginally higher, while CC groups were rated as considerably more creative. There were no main effects for the structured/unstructured factor, or any significant interactions.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/887">distributed group support</a>,    <a href="/keywords/888">group creativity</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/889">software requirements analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

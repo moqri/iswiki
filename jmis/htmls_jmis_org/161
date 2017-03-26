@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/87">    Volume 16 Number 4 2000
+</a> pp. 195-224</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Strategic Payoff from EDI as a Function of EDI Embeddedness</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/324">Chatfield, Akemi Takeoka</a> and     <a href="/contributors/326">Yetton, Philip</a>    </div>
+
+<p>ABSTRACT: A key issue facing information technology (IT) researchers and practitioners has been the difficulty in realizing strategic payoff from IT investment. This study, drawn on sociological theories of embeddedness, addresses this key issue, with particular attention to the perspective of EDI network initiator. Cross-case analysis is conducted comparing three initiators of sophisticated EDI networks, who realized different levels of strategic payoffs. Results reveal that the achievement of strategic payoffs is a function of EDI embeddedness, which is defined as how central or peripheral a specific EDI network is to managing interfirm interdependence. In a model of EDI initiator strategic payoff, the authors argue that EDI embeddedness, which is influenced by existing interfirm relationship, moderates the impact of adopter EDI use on initiator strategic payoff derived from the EDI investment. Specifically, while high embeddedness motivates adopter strategic use, low embeddedness deters such use. The model is validated against three reported cases in the literature.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1012">electronic data interchange</a>,    <a href="/keywords/1315">embeddedness</a>,    <a href="/keywords/1316">interfirm cooperation</a>,    <a href="/keywords/1317">interfirm interdependence</a>,    <a href="/keywords/1318">IT investment</a>,    <a href="/keywords/1319">strategic payoff</a>,    <a href="/keywords/762">time-based competition</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

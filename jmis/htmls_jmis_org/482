@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/112">    Volume 23 Number 3 2006
+</a> pp. 71-95</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Online Consumer Search Depth: Theories and New Findings</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/511">Jie, Zhang,</a>    <a href="/contributors/863">Xiao, Fang,</a> and     <a href="/contributors/42">Liu Sheng, Olivia R</a>    </div>
+
+<p>ABSTRACT: The continuous growth of e-commerce makes it critical for firms to understand consumers' search behavior so that e-commerce Web sites and the underlying information systems can be designed to better cater to consumers' needs. This paper extends the classic search model to analyze online consumer search behavior. The analytical results suggest how consumers' search depth is influenced by a variety of factors such as search cost, individual consumer difference, and product characteristics. Evidence is provided using clickstream data of online searches and purchases of music CDs, computer hardware, and airline tickets during the period from July 2002 to December 2002 collected by an Internet marketing company, ComScore Inc. Compared with the search depth reported in previous works, this study finds that consumers are searching more intensely before purchasing online. This reflects the evolution of Internet users and the growth of online retail business.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2172">clickstream data</a>,    <a href="/keywords/2173">consumer search behavior</a>,    <a href="/keywords/2174">online search behavior</a>,    <a href="/keywords/2175">search depth</a>,    <a href="/keywords/2176">search model</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

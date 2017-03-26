@@ -1,0 +1,52 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/128">    Volume 32 Number 3 2015
+</a> pp. 1-2</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>
+<p>The Special Issue on Applied Science/Engineering Research, guest edited by Robert O. Briggs, Jay F. Nunamaker, Jr., and Justin S. Giboney, makes an important contribution to our understanding of the role of design-science research in Information Systems. The “Guest Editors’ Introduction” goes beyond the traditional function of such works. It sets out the epistemological stance of design-centered research against other forms of scientific inquiry and defines—passionately—the role of this work in the advancement of science. This scholarly credo reminds us once again about the distinctive features of knowledge as compared to information: knowledge is always provisional and is always being advanced in a multimethodological collective effort. The first two guest editors are principal contributors to design-oriented research in information systems, a method that distinguishes us from the cognate disciplines. Therefore, it will be highly rewarding for readers to study their introduction and the first paper in the Special Issue, in which they and their coauthors further discuss the role of design research. This also applies to the other papers in the issue that show what we can contribute to the family of disciplines.</p>
+<p>The two papers that open the general section discuss topics that are not very frequently spoken about in our journals: virtue and vice. The first work empirically explores the exciting thesis that information technology (IT) can serve to develop organizational virtues to lie at the foundations of organizational innovation. Sutirtha Chatterjee, Gregory Moody, Paul Benjamin Lowry, Suranjan Chakraborty, and Andrew Hardin ground themselves in Aristotelean virtue ethics. They develop and test a comprehensive model that leads from three organizational IT affordances to the four fundamental virtues and on to improvisational capabilities and innovativeness. The “IT-virtues-innovation” model proposed here opens a new vein of research on organizational information systems (IS). It deserves to be explored, expanded, and challenged in succeeding works.</p>
+<p>To look at the darker side, the next paper moves us to the innovation effects of Machiavellian behavior at the individual level of analysis. The context here is that of innovation contests, an important component of value co-creation, crowdsourced or not. Katja Hutter, Johann Füller, Julia Hautz, Volker Bilgram, and Kurt Matzler parse Machiavellianism into three behavioral traits and find that these have differential effects on the quantity and quality of contribution to contests. Indeed, the researchers find that some personality traits that lead to amoral behavior may have positive effects on innovation. Taken together with the preceding paper, these two works serve as an opening to a new research program in the study of the role of IS in organizational innovation.</p>
+<p>Focus on design as a pragmatic holistic pursuit and as a transdisciplinary research field has acquired new salience and new generality. In particular, design of artifacts broadly understood, such as software, algorithms, architectures, or models, is—or should be—at the core of our discipline. Design science research (DSR) in information systems began with a JMIS paper published a quarter century ago [1]. Progress has been made since; the Special Issue above is one testimony to that. And yet—to be honest—more could have been accomplished. After all, this is our essential endowment among the disciplines that study and aim to positively influence organizations. Here, Nicolas Prat, Isabelle Comyn-Wattiau, and Jacky Akoka expand the foundations of DSR by introducing a taxonomy of evaluation methods of IS artifacts. The taxonomy is parsimonious and, beyond that, reveals the lacunae in our design work. By recursively applying the evaluation criteria to the taxonomy itself, we will see further development.</p>
+<p>Open source software coexists and competes with the more traditional, proprietary one. In the concluding paper of the issue, Michael Sacks studies the nature of this competition. Will both survive? How will the producers of proprietary software be able to differentiate their offering from open source software? Using a formal game-theoretic analysis of this highly competitive arena, the author identifies the market segments to which each of the software-development formats caters and goes on to predict the evolving contours of coexistence of the two types of software. The triad of proprietary producers, open source software communities, and the suppliers of the products complementary to the open source will benefit from the insights offered by this analysis.</p>
+<p>Vladimir Zwass</p>
+<p>Editor-in-Chief</p>
+</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

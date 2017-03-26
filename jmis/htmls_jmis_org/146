@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/84">    Volume 5 Number 1 1988
+</a> pp. 82-100</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Longitudinal Study of Spreadsheet Program Use</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/292">Carlsson, Sven A</a>    </div>
+
+<p>ABSTRACT: This paper reports on results from a longitudinal case study on use of a spreadsheet program (SP). The work reported here focuses on spreadsheet program users' perceptions of the SP and their information environment (including SP models), and changes in users' perceptions of their information environment and the SP. The approach has its roots in Kelly's personal construct theory [31] and in cognitive complexity theories [43, 54, 55]. A version of Kelly's Role Construct Repertory Interview (RCRI) was used to collect data at different points of time over a period of thirteen months. The data were transformed into a measure of integrative complexity and analyzed. The study provides insight into the impact of end-user-developed computer-based models (decision support systems).</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/281">spreadsheet programs</a>,    <a href="/keywords/277">user perception of information systems</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/116">human information processing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

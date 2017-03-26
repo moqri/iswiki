@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/50">    Volume 17 Number 4 2001
+</a> pp. 37-69</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Integrative Contingency Model of Software Project Risk Management</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/144">Barki, Henri,</a>    <a href="/contributors/145">Rivard, Suzanne,</a> and     <a href="/contributors/146">Talbot, Jean</a>    </div>
+
+<p>ABSTRACT: Drawing both from the IS literature on software project risk management and the contingency research in Organization Theory literature, the present study develops an integrative contingency model of software project risk management. Adopting a profile deviation perspective of fit, the outcome of a software development project (Performance) is hypothesized to be influenced by the fit between the project's risk (Risk Exposure) and how project risk is managed (Risk Management Profile). The research model was tested with longitudinal data obtained from project leaders and key users of 75 software projects. The results support the contingency model proposed and suggest that in order to increase project performance a project's risk management profile needs to vary according to the project's risk exposure. Specifically, high-risk projects were found to call for high information processing capacity approaches in their management. However, the most appropriate management approach was found to depend on the performance criterion used. When meeting project budgets was the performance criterion, successful high-risk projects had high levels of internal integration, as well as high levels of formal planning. When system quality was the performance criterion, successful high-risk projects had high levels of user participation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/104">contingency models</a>,    <a href="/keywords/342">software project management</a>,    <a href="/keywords/1397">software project risk</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/119">    Volume 15 Number 1 1998
+</a> pp. 187-212</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Model Management Approach to Business Process Reengineering</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1205">Orman, Levent V</a>    </div>
+
+<p>ABSTRACT: A prescriptive and analytical approach is taken to business process reengineering (BPR). The objectives are to provide precise guidelines for process redesign to take full advantage of the efficiencies created by information technologies, and to develop techniques to evaluate alternative structures. A decision-making paradigm of organizations is adopted, and organizational processes are viewed as collections of decision models. Such a simplified analytical model provides an effective methodology to describe and quantify the impact of information technology on organizational structures and processes. The model explains and quantifies a variety of organizational issues such as: the significance of hierarchical structures in organizations, the need for business process reengineering after the introduction of information technology, and the exact conditions under which information technology may (and should) lead to more or less centralized structures. Reoptimization of business processes after the introduction of information technology is formulated as a dynamic programming problem.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/831">business process reengineering</a>,    <a href="/keywords/1149">decision models</a>,    <a href="/keywords/1150">hierarchies</a>,    <a href="/keywords/1151">model complexity</a>,    <a href="/keywords/1152">model management</a>,    <a href="/keywords/90">organization design</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

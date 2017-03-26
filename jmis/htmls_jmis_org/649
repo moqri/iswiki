@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/21">    Volume 8 Number 1 1991
+</a> pp. 91-106</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Model for Evaluating Information Center Success</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/585">Magal, Simha R</a>    </div>
+
+<p>ABSTRACT: With the growing amount of resources consumed by end-user computing (EUC), its support organization, the information center (IC), is under increasing pressure to justify its existence. This study proposes an instrument and a model for evaluating IC success, based on the user satisfaction construct. Three dimensions of satisfaction are identified: Quality of IC Services, Quality of User-developed Applications (UDA), and User Self-sufficiency. Five hypotheses concerning the relationship among these dimensions and IC success are proposed. The instrument and the model are empirically tested. There is strong evidence of the validity of the instrument. Results indicate that the three dimensions are good predictors of IC success. All of the hypotheses were supported to varying degrees.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/365">end-user computing</a>,    <a href="/keywords/242">information center</a>,    <a href="/keywords/458">evaluation</a>,    <a href="/keywords/123">user satisfaction</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

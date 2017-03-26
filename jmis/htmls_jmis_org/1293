@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/131">    Volume 33 Number 2 2016
+</a> pp. 511-541</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Untangling a Web of Lies: Exploring Automated Detection of Deception in Computer-Mediated Communication</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1845">Ludwig, Stephan,</a>    <a href="/contributors/1846">van Laer, Tom,</a>    <a href="/contributors/1847">de Ruyter, Ko,</a> and     <a href="/contributors/1848">Friedman, Mike</a>    </div>
+
+<p>ABSTRACT: 
+<p>Safeguarding organizations against opportunism and severe deception in computer-mediated communication (CMC) presents a major challenge to chief information officers and information technology managers. New insights into linguistic cues of deception derive from the speech acts innate to CMC. Applying automated text analysis to archival e-mail exchanges in a CMC system as part of a reward program, we assess the ability of word use (micro level), message development (macro level), and intertextual exchange cues (meta level) to detect severe deception by business partners. We empirically assess the predictive ability of our framework using an ordinal multilevel regression model. Results indicate that deceivers minimize the use of referencing and self-deprecation but include more superfluous descriptions and flattery. Deceitful channel partners also overstructure their arguments and rapidly mimic the linguistic style of the account manager across dyadic e-mail exchanges. Thanks to its diagnostic value, the proposed framework can support firms’ decision making and guide compliance monitoring system development.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3685">automated text analysis</a>,    <a href="/keywords/3686">channel partners</a>,    <a href="/keywords/3678">computer-mediated communication</a>,    <a href="/keywords/1755">deception detection</a>,    <a href="/keywords/3687">deception severity</a>,    <a href="/keywords/1756">linguistic cues</a>,    <a href="/keywords/3688">speech act theory</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

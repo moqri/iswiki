@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/60">    Volume 19 Number 2 2002
+</a> pp. 303-325</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Dynamic Effects of Group Support Systems on Group Meetings</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/249">Reinig, Bruce A</a> and     <a href="/contributors/925">Shin, Bongsik</a>    </div>
+
+<p>ABSTRACT: A number of theoretical models have been presented in group support systems (GSS) literature, which suggest that various GSS structures such as anonymity and simultaneity, influence group interaction, which in turn influences group productivity and meeting outcomes. Examples of such theories include the adaptive structuration theory and the balance of forces model and they could generally be described as dynamic or procedural in nature. Much of the empirical research that tests such theories, however, is deterministic in that it often compares final outcomes between various levels of technological support without measuring and testing (1) the influence that the technological structures have on group interaction and group dynamics, and (2) the corresponding influence that group interaction has on meeting outcomes. This paper reports a study that examines the validity of such dynamic theories by examining the relationships between GSS structures, group dynamics, and meeting outcomes over time. Four process constructs (production blocking, free riding, sucker effect, and evaluation apprehension) and three meeting outcome constructs (group cohesion, affective reward, and self-reported learning) were initially selected for the study. Structural equation modeling was used to analyze longitudinal survey data gathered from an experiment conducted with naturally occurring groups. The model tested was found to be valid and GSS was found to be effective in reducing process losses. However, the findings also revealed that process losses vary in the degree to which they influence meeting outcomes and certain meeting outcomes, such as affective reward, were found to be heavily influenced by other meeting outcomes, such as group cohesion and self-reported learning. Theoretical implications of the study and methodology are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/593">adaptive structuration theory</a>,    <a href="/keywords/1138">computer-mediated communication (CMC)</a>,    <a href="/keywords/693">group support systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

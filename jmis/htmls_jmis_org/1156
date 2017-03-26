@@ -1,0 +1,78 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/65">    Volume 28 Number 3 2011
+</a> pp. 5-8</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ Two papers that open this issue of JMIS present theoretical argumentation for and empirical validation of intricate dependencies between the deployment of information technology (IT) and organizational performance. In the first, Paul P. Tallon shows that the alignment between the overall business strategy and IT in the performance of an organizational process spills over into the performance levels of downstream processes. In other words, the business value of projected information systems (IS) should be assessed holistically, with the consideration of effects on downstream processes. Conversely, an underperformance of a business process may have its source in the misalignment between business strategy and IS in an upstream process. The research surfaces the particular importance of properly instrumenting the upstream processes with IT---which affect the entire length of the value chain downstream.
+</p>
+<p>
+ Organizational IT capability, that is, a firm&#8217;s durable and dynamic ability to deploy flexibly and rapidly its IT-based resources, has been asserted to be a differentiator that can underlie sustainable competitive advantage. The authors of the next paper empirically prove this assertion. Jee-Hae Lim, Theophanis C. Stratopoulos, and Tony S. Wirjanto frame this proof by showing lasting path dependence of this capability bundle and thus showing that it leads to lasting differentiation and competitive advantage. The work is another refutation of the "IT doesn&#8217;t matter" cant. The empirics indicate that some firms are able to achieve lasting strategic lead owing to the capabilities and resources grounded in IT. The methodology of this research is an important contribution as well.
+</p>
+<p>
+ Software-as-a-service (SaaS) has rapidly become a competitive way of provisioning organizational IT needs. Based on its advantages and progress, all indications are that SaaS use will grow apace. However, that conclusion is predicated on the high quality of service provided. Metrics are then necessary to assess this quality. Here, Alexander Benlian, Marios Koufaris, and Thomas Hess present and validate a theoretically grounded instrument for such assessment. The inclusiveness and specificity of the instrument&#8217;s dimensions is its advantage. Beyond that, the authors examine the role of the instrument in the users&#8217; intention to continue the use of SaaS, thus contributing to the research stream on IS continuance.
+</p>
+<p>
+ As the transnational model of corporate governance spreads centers of knowledgebased competencies around the world, there arises a need to manage the delivery of knowledge-intensive IT-based services in a disciplined fashion. The authors of the next paper, Su Dong, Monica S. Johar, and Ram L. Kumar, conceptualize these aggregates as knowledge-intensive service delivery networks (KISDNs). They present and test a formal model that captures the influence of the combination of information flows, and workflow and knowledge management decisions on the KISDN performance. Serving as a benchmarking tool, the model can help managers to assess and control the various aspects of these networks in order to deliver business value. This work is a contribution to service science in our field.
+</p>
+<p>
+ Information integration is generally considered a good thing in many contexts. However, in the context of supply-chain management (SCM), this integration can lead to costs, delays, and exposures. In the next paper in the issue, Christina W.Y. Wong, Kee?hung Lai, and T.C.E. Cheng ask: Under what circumstances does such integration in SCM lead to a better performance? The authors develop and validate a comprehensive contingency model that comprises business-environment as well product characteristics to determine the circumstances where greater SCM information integration is beneficial. Managerial, as well as theoretical, implications follow clearly.
+</p>
+<p>
+ The next paper, by Christophe Elie-Dit-Cosaque, Jessie Pallud, and Michel Kalika, takes us to the individual level of analysis. Grounding themselves in the field and demand-control theories, the researchers develop the model of behavioral control perceived by end users with respect to IT. The model of perceived behavioral control for the IT context offered here includes internal and external forces. Empirical validation is presented. The validated model is of both theoretical interest, consequent to the integration of two prominent streams, as well as of pragmatic importance in guiding the effective adoption of and adaptation to IT. A richer conception of user emerges from this work than seen in prior adoption models.
+</p>
+<p>
+ The following papers of this JMIS issue study several aspects of e-commerce. Online auctions have attracted extensive attention of MIS researchers. In this vein, Jesse Bockstedt and Kim Huat Goh contribute an empirical study of seller differentiation. As we know, seller feedback scores are largely high and subject to manipulation that lowers their effectiveness. Therefore, sellers apply a variety of other techniques to enhance their visibility and signal their quality. Based on the real-life lab of eBay, the authors find that these actions are effective, both in terms of view counts and bids.  The authors also identify the perceived seller attributes that lead to higher financial outcomes. The work is a contribution to our knowledge of maturing auction marketplaces, where the feedback scores are no longer a sufficient differentiator for the sellers---and, ultimately, also for the marketplace that uses them as a barrier to entry against its own potential competitors.
+</p>
+<p>
+ The immersive virtual worlds of the metaverse kind, such as Second Life, are a notable achievement of e-commerce where more and more business is transacted, from selling improved "real" estate and virtual goods to running innovation jams. The antecedents of success here are, therefore, of interest to our field. Usability is a key such prerequisite, and Younghwa Lee and Andrew N.K. Chen offer a theory-based empirical study of usability design in such virtual environments. Much of the insight comes from the theory of psychological ownership, which is particularly salient in the immersive environments. This paper offers a comprehensive model and a strong foundation for the design of usable virtual worlds---and for further study of it.
+</p>
+<p>
+ Sangmi Chai, Sanjukta Das, and H. Raghav Rao empirically examine blogs from the vantage point of knowledge and information sharing. Rooted in the theories of social capital and social role, the work studies the factors influencing the sharing behavior and the moderating role of gender in the effect of these factors. The paper convincingly shows that there are significant gender differences in this domain. The results can serve as guidance to site organizers, who should learn, for example, that women are more sensitive to trust issues related to privacy and more concerned about reciprocity in sharing.
+</p>
+<p>
+ The concluding paper of the issue unpacks music piracy on the Internet into unauthorized obtaining and unauthorized sharing with others. The authors, Jingguo Wang, Zhiyong Yang, and Sudip Bhattacharjee, posit and establish empirically that these two aspects have different motives. Using, and contributing to, social learning theory, the authors give us a detailed and nuanced understanding of the often reciprocal aspects of piracy. The results will help in setting up piracy prevention programs.
+</p>
+<p>
+ Vladimir Zwass
+ <br/>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

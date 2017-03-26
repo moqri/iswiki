@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/69">    Volume 6 Number 3 1989
+</a> pp. 119-138</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Application and Research Areas for Hypertext in Decision Support Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1135">Minch, Robert P</a>    </div>
+
+<p>ABSTRACT: Review of decision support system (DSS) research and applications frameworks and literature review of hypertext research reveals many areas where further work may make a valuable contribution in the application of hypertext technology to DSS. These areas are discussed as they relate to user characteristics, decision and problem characteristics, situational and organizational factors, and technological factors. Some research topics that appear to be worthy of further investigation include hypertext's support of the human brain's hemispheric specialization, its isomorphism with generalized problem-solving paradigms such as the state-space approach, its potential to support collaborative work and group DSS, and many technological issues related to the appropriate content, structure, and representation of hypertext networks. In addition, hypertext may be used as a DSS research vehicle to simulate and study various user interface techniques and as a process tracing laboratory. Hypertext offers a great deal of promise as a powerful component of future DSS environments.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/366">hypertext</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/390">user interface</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

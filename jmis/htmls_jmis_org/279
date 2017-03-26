@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/64">    Volume 29 Number 4 2013
+</a> pp. 195-216</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Sparking Creativity: Improving Electronic Brainstorming with Individual Cognitive Priming</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/239">Dennis, Alan R,</a>    <a href="/contributors/493">Minas, Randall K,</a> and     <a href="/contributors/494">Bhagwatwar, Akshay P</a>    </div>
+
+<p>ABSTRACT: Much of human behavior involves subconscious cognition that can be manipulated through "priming"-the presentation of a stimulus designed to subconsciously implant a concept in working memory that alters subsequent behavior. Priming is a well-known phenomenon for individual behavior, but we do not know whether priming can be used to influence group behavior. We developed a Web-based computer game that was designed to improve creativity through priming. Participants were exposed to a priming game and then worked as members of a group using electronic brainstorming (EBS) to generate ideas on a creativity task. Our results show that when users played the game, designed to improve performance, their groups generated significantly more ideas that were more creative than when they were exposed to neutral priming. Our findings extend the literature by providing evidence that individual priming substantially affects group idea generation performance. Avenues for future research include designing EBS software that optimizes group ideation through priming, examining the conditions under which priming has the most substantial impact on ideation performance, and examining whether priming can be used to enhance other group processes (e.g., convergence tasks).</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/812">collaboration</a>,    <a href="/keywords/198">creativity</a>,    <a href="/keywords/890">electronic brainstorming</a>,    <a href="/keywords/197">idea generation</a>,    <a href="/keywords/1382">individual cognition</a>,    <a href="/keywords/3070">priming</a>,    <a href="/keywords/3071">virtual groups</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

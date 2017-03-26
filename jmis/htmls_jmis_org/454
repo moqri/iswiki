@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/57">    Volume 11 Number 4 1995
+</a> pp. 87-114</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Testing the Determinants of Microcomputer Usage via a Structural Equation Model</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/21">Igbaria, Magid,</a>    <a href="/contributors/816">Guimaraes, Tor,</a> and     <a href="/contributors/817">Davis, Gordon B</a>    </div>
+
+<p>ABSTRACT: The objective of this study was to develop and test an integrated conceptual model of microcomputer usage. This study used the technology acceptance model and sought to extend it by investigating the impact of the external factors (i.e., individual, organizational, and system characteristics) on the user acceptance of microcomputer technology. The paper reports the results of a field study investigating the determinants of microcomputer usage. The analyses of the measurement model confirm the existence of two distinct constructs of (1) beliefs-perceived usefulness and perceived ease of use; (2) organizational support-management support and end-user computing (EUC) support; and (3) microcomputer usage-perceived usage and variety of use. The tested conceptual model confirms the effects of individual, organizational, and system characteristics on perceived ease of use and perceived usefulness. The model also confirms the influence of perceived ease of use on perceived usefulness, and the effects of perceived usefulness on perceived usage and variety of use. Results confirm several previously proposed notions, including the effects of individual, organizational, and system characteristics on ease of use and usefulness; the influence of ease of use on usefulness, and the effects of perceived usefulness on usage and variety of use. The results demonstrate the utility of investigating factors contributing to microcomputer usage and the external factors affecting endogenous variables such as system usefulness. The importance of EUC support and management support is corroborated, as well as the need for designing mechanisms such as training programs and newsletters to improve user perceptions of microcomputers.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/817">microcomputer usage</a>,    <a href="/keywords/818">perceived usefulness</a>,    <a href="/keywords/819">questionnaire analysis</a>,    <a href="/keywords/820">technology acceptance model</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

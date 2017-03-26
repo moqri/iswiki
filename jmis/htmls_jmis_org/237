@@ -1,0 +1,55 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/92">    Volume 17 Number 2 2000
+</a> pp. 5-7</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Issue: Technology Strategy for Electronic Marketplaces</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/406">Yu-Ming, Wang</a>    </div>
+
+<p><p>
+ THIS SPECIAL SECTION SHOWCASES NEW RESEARCH that was initially presented at the 33d Hawaii  International Conference on Systems Science (HICSS-33) held in January 2000. The work included here illustrates  contemporary thinking in competitive strategy and technology applied to product design and pricing on the  Internet, the bundling of insurance products and public policy with respect to healthcare coverage, and the  valuation of investments in electronic commerce technologies. Three different mini-tracks from HICSS-33 are  represented by the articles "Economics and Electronic Commerce," "Information Technology and Market  Structure," and "Strategic and Competitive Information Systems." These minitracks continue to be a vibrant forum  for the discussion of current directions in Information Systems and Electronic Commerce research.
+</p>
+<p>
+ In the first article, "Adoption of Internet-Based Product Customization and Pricing Strategies," Rajiv Dewan,  Bing Jing, and Abraham Seidmann (all from the University of Rochester), examine the potential of special features,  such as one-to-one marketing, personalization, and product customization in e-commerce. Today the Internet  provides a new marketplace in which such powerful tracking technologies as web page registration, Internet  cookies, collaborative filtering, and data mining combine to recast the basic relationship between buyers and  sellers. Using these technologies, it is possible for a firm to create a continuous learning relationship with its  customers, and, in the process, exploit the information it gathers to offer customized goods at special prices.  Moreover, it is possible to apply this technique to production, using it to create further leverage for competitive  value. But this also changes the competitive dynamics and relationships among similar firms in the marketplace.  For example, early adopters will greatly benefit from these technologies, since such firms can sell more products  and set a price with higher margins than competing conventional suppliers can. Flexible manufacturing  technologies further enhance these firms' competitive advantage, making it more sustainable. Latecomers, in  contrast, may find themselves in a difficult position. For them, offering customized products becomes a "hook up  or lose out" proposition: to get any customers at all, the late-to-market firms must over-invest in technology to  support product customization at a time when such an approach is no longer a differentiating strategy. The  authors' analytical modeling results show that corporate adoption of product customization and one-to-one  marketing approaches represent an equilibrium strategy brought on by competitive necessity.
+</p>
+<p>
+ The second article shifts gears to examine policy issues in the individual insurance market in the healthcare  industry that are made prominent by changing uses of information technology. In the article entitled "Managing the  Costs of Informational Privacy: Pure Bundling as a Strategy in the Individual Health Insurance Market," Matt E.  Thatcher (University of Arizona) and Eric K. Clemons (University of Pennsylvania) analyze the inefficiencies of  current legislative prescriptions for how to deal with the possibility of health insurance discrimination based upon  genetic screening. Advances in biomedical research and genetic testing make it possible for healthcare  organizations to provide ever more accurate assessments of the risks of specific kinds of health problems that  healthcare consumers are likely to encounter during their lives. Insurance companies, which have recently  invested heavily in advanced data warehousing and data mining technologies, are similarly able to evaluate the  risks associated with insuring specific individuals. The authors apply methods from industrial dynamics to develop  simulation results that describe the efficacy of new approaches to bundling health insurance packages. The  authors propose the idea of a pooling equilibrium, in which healthcare consumers who evaluate insurance  bundles are shown to exhibit the same overall willingness-to-pay for a comprehensive insurance policy. Such  large bundle insurance packages are shown to maximize the number of people who are insured, while  safeguarding the viability of the insurance market, and maintaining equitable costs for those who are insured.
+</p>
+<p>
+ The final article, "Limits to Value in Electronic Commerce-Related IT Investments," by Alina M. Chircu and  Robert J. Kauffman (both of the University of Minnesota), presents a general evaluative framework for business  process-level investments in technology infrastructures and information systems. The authors' conceptual  framework characterizes ways in which the potential value of a technology for an adopter is eroded, resulting in  less desirable levels of realized value. The authors examine several in-depth industry cases involving large-scale  corporate travel systems investments that were studied in a multiyear, industry-sponsored field study. They find  that the value flows that occur after the implementation of such systems are hindered by various kinds of limits to  value, which act as inhibitors of value appropriation for the firm. The authors find that such limits to value can be  overcome by collateral investments in co-specialized assets to the system, such as sponsorship, adoption  subsidies, training, and so on, that unlock potential value. The outcomes of this research offer a theory-based  road map for the study of business value in a variety of e-commerce technology investment settings. They will  also enable corporate investors in Internet-based travel reservation systems to build more realistic expectations  about the potential value of these innovations, and what pieces need to fall into place for these implementations to  be successful.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

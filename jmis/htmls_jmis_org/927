@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/30">    Volume 30 Number 3 2013
+</a> pp. 141-178</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Information Artifact in IT Governance: Toward a Theory of Information Governance</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1464">Tallon, Paul P,</a>    <a href="/contributors/1466">Ramirez, Ronald V,</a> and     <a href="/contributors/547">Short, James E</a>    </div>
+
+<p>ABSTRACT: In recent years, chief information officers have begun to report exponential increases in the amounts of raw data captured and retained across the organization. Managing extreme amounts of data can be complex and challenging at a time when information is increasingly viewed as a strategic resource. Since the dominant focus of the information technology (IT) governance literature has been on how firms govern physical IT artifacts (hardware, software, networks), the goal of this study is to extend the theory of IT governance by uncovering the structures and practices used to govern information artifacts. Through detailed interviews with 37 executives in 30 organizations across 17 industries, we discover a range of structural, procedural, and relational practices used to govern information within a nomological net that includes the antecedents of these practices and their effects on firm performance. While some antecedents enable the speedy adoption of information governance, others can delay or limit the adoption of information governance practices. Once adopted, however, information governance can help to boost firm performance. By incorporating these results into an extended theory of IT governance, we note how information governance practices can unlock value from the ever-expanding mountains of data currently held within organizations.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3196">big data</a>,    <a href="/keywords/3197">data growth</a>,    <a href="/keywords/3198">information artifact</a>,    <a href="/keywords/3199">information governance</a>,    <a href="/keywords/3200">information life cycle management</a>,    <a href="/keywords/3201">information management</a>,    <a href="/keywords/3202">information risk</a>,    <a href="/keywords/2159">information value</a>,    <a href="/keywords/3130">IT governance</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

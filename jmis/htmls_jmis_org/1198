@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/123">    Volume 31 Number 2 2014
+</a> pp. 11-46</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Physical and Electronic Wholesale Markets: An Empirical Analysis of Product Sorting and Market Function</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1704">Overby, Eric</a> and     <a href="/contributors/1145">Mitra, Sabyasachi</a>    </div>
+
+<p>ABSTRACT: Markets can yield significant economic benefits by improving transaction efficiency, but effective design is necessary to achieve these benefits. We compare a physical market to a discrete electronic market in the wholesale used vehicle industry to evaluate how their different designs work for different types of transactions. We find that buyers and sellers balance adverse selection costs and other transaction costs when using the two markets, with the physical market serving as the general exchange and the electronic market serving as a spot market for vehicles with low adverse selection risk. These findings increase our understanding of how sellers and buyers distribute supply and demand between physical and electronic markets in industries in which they coexist. They also increase our understanding of how information technology can improve market function in wholesale environments.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3302">competitive effects of IS</a>,    <a href="/keywords/1817">electronic auctions</a>,    <a href="/keywords/3303">electronic financial markets</a>,    <a href="/keywords/3304">electronic market assessment</a>,    <a href="/keywords/3305">electronic market design</a>,    <a href="/keywords/3306">IT effects on industry structure</a>,    <a href="/keywords/3307">longitudinal research</a>,    <a href="/keywords/1156">market structure</a>,    <a href="/keywords/3308">network economics</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

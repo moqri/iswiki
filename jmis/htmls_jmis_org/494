@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/26">    Volume 24 Number 2 2007
+</a> pp. 261-292</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Team Cognition: Development and Evolution in Software Project Teams</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/882">Jun, He,</a>    <a href="/contributors/884">Butler, Brian S,</a> and     <a href="/contributors/320">King, William R</a>    </div>
+
+<p>ABSTRACT: In software development, team-based work structures are commonly used to accomplish complex projects. Software project teams must be able to utilize the expertise and knowledge of participants without overwhelming individual members. To efficiently leverage individuals' knowledge and expertise, software project teams develop team cognition structures that facilitate their knowledge activities. This study focuses on the emergence and evolution of team cognition in software project teams, and examines how communication activity and team diversity impact the formation of these structures. A longitudinal study was conducted of 51 database development teams. The results suggest that some forms of communication and team diversity affect the formation of team cognition. Frequency of meetings and phone calls were positively related to the formation of team cognition, while e-mail use had no effect. Gender diversity had a strong and positive effect on the development of team cognition and the effect remained stable over time. Implications for the practical potential and limitations of purposive team construction as a strategy for improving software development team performance are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2306">expertise location</a>,    <a href="/keywords/2307">member familiarity</a>,    <a href="/keywords/2308">project teams</a>,    <a href="/keywords/2309">shared task understanding</a>,    <a href="/keywords/2310">software teams</a>,    <a href="/keywords/2311">team communications</a>,    <a href="/keywords/1854">team diversity</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

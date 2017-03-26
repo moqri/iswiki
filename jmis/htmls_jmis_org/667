@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/58">    Volume 18 Number 1 2001
+</a> pp. 57-93</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Toward a Theory of Knowledge Reuse: Types of Knowledge Reuse Situations and Factors in Reuse Success</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1108">Markus, M Lynne</a>    </div>
+
+<p>ABSTRACT: This paper represents a step toward a theory of knowledge reusability, with emphasis on knowledge management systems and repositories, often called organizational memory systems. Synthesis of evidence from a wide variety of sources suggests four distinct types of knowledge reuse situations according to the knowledge reuser and the purpose of knowledge reuse. The types involve shared work producers, who produce knowledge they later reuse; shared work practitioners, who reuse each other's knowledge contributions; expertise-seeking novices; and secondary knowledge miners. Each type of knowledge reuser has different requirements for knowledge repositories. Owing to how repositories are created, reusers' requirements often remain unmet. Repositories often require considerable rework to be useful for new reusers, but knowledge producers rarely have the resources and incentives to do a good job of repurposing knowledge. Solutions include careful use of incentives and human and technical intermediaries.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/812">collaboration</a>,    <a href="/keywords/1424">communities of practice</a>,    <a href="/keywords/1425">experts</a>,    <a href="/keywords/499">group work</a>,    <a href="/keywords/1426">intermediaries</a>,    <a href="/keywords/202">knowledge management</a>,    <a href="/keywords/1427">knowledge repositories</a>,    <a href="/keywords/1428">knowledge reuse</a>,    <a href="/keywords/1429">novices</a>,    <a href="/keywords/1430">organization memory</a>,    <a href="/keywords/1033">teams</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

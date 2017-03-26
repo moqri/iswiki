@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/98">    Volume 5 Number 2 1988
+</a> pp. 39-56</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Semantic Model of Internal Controls in Database Design</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/451">De, Prabuddha</a> and     <a href="/contributors/453">Sen, Arun</a>    </div>
+
+<p>ABSTRACT: The paper attempts to model internal controls in an organization from a database perspective. It provides a three-level architecture to integrate data, process, and control level abstractions. A semantic formalism based on this architecture is presented.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/288">internal controls</a>,    <a href="/keywords/289">data models</a>,    <a href="/keywords/290">constraint specification</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

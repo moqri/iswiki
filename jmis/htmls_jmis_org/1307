@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/132">    Volume 33 Number 3 2016
+</a> pp. 809-842</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Firm Boundaries, Information Processing Capacity, and Performance in Manufacturing Firms</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1864">Gómez, Jaime,</a>    <a href="/contributors/1865">Salazar, Idana,</a> and     <a href="/contributors/1866">Vargas, Pilar</a>    </div>
+
+<p>ABSTRACT: 
+<p>We analyze the alignment between information processing needs and capacities. First, we explore the relationship between firms’ vertical and horizontal boundaries and information technology (IT) capabilities. The literature postulates that less internalization leads firms to invest more in information technology. However, we argue that the use of taper integration and diversification increases the demand for IT-based resources such as IT infrastructure and IT human resources. Second, we propose that the fit between information processing needs and capacity has a positive effect on performance. Our hypotheses are tested on a panel of Spanish manufacturing firms, and the results provide general support for our arguments. One advantage of the data is that they include not only large firms but also small and medium-size manufacturers. From a theoretical perspective, the study contributes to the literature by providing novel insights on how decisions on the vertical dimension condition investments in IT capabilities. It also adds new evidence on the diversification–IT capabilities relationship and studies the consequences of alignment of corporate strategies and IT capabilities on firm performance. From a managerial perspective, our study suggests that changes in the vertical and horizontal limits should be followed by changes in IT capabilities to improve performance.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2838">diversification</a>,    <a href="/keywords/3734">information processing capacity</a>,    <a href="/keywords/1935">information processing needs</a>,    <a href="/keywords/3735">information technology capabilities</a>,    <a href="/keywords/3736">IS–organization fit</a>,    <a href="/keywords/3737">taper integration</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

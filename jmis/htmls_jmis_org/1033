@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/30">    Volume 30 Number 3 2013
+</a> pp. 13-48</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Horizontal Allocation of Decision Rights for On-Premise Applications and Software-as-a-Service</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1591">Winkler, Till J</a> and     <a href="/contributors/253">Brown, Carol V</a>    </div>
+
+<p>ABSTRACT: This study addresses a major gap in our knowledge about the allocation of information technology (IT) decision rights between business and IT units at the application level, including the governance of applications delivered on-premise versus those delivered with a software-as-a-service (SaaS) model. Building on the findings from a multicase qualitative study of organizations that had adopted the same SaaS application, we draw on three theoretical lenses (agency theory, transaction cost economics, and knowledge-based view) to develop a theoretically grounded model with three organization-level factors, three application-level factors, and application-level IT governance. Hypotheses derived from the model, as well as a set of differential hypotheses about factor influences due to on-premise versus SaaS delivery, are tested with survey responses from 207 firms in which application-level governance is operationalized with two dimensions: decision control rights (decision authority) and decision management rights (task responsibility). Three antecedents (origin of the application initiative, scope of application use, business knowledge of the IT unit) were significantly associated with application governance postimplementation, and the on-premise/SaaS subgroup analyses provide preliminary evidence for the mode of application delivery as a moderator of these relationships. Overall, this study contributes to a growing body of research that takes a more modular approach to studying IT governance and provides theoretical explanations for differing application-level governance designs.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/991">agency theory</a>,    <a href="/keywords/3174">application governance</a>,    <a href="/keywords/2601">cloud computing</a>,    <a href="/keywords/3175">field survey</a>,    <a href="/keywords/3130">IT governance</a>,    <a href="/keywords/3176">knowledge-based view</a>,    <a href="/keywords/3177">multigroup analysis</a>,    <a href="/keywords/3178">software-as-a-service</a>,    <a href="/keywords/2071">transaction cost economics</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

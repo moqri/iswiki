@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/67">    Volume 5 Number 4 1989
+</a> pp. 111-124</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Use of Critical Success Factors in Evaluation of Information Systems: A Case Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/188">Bergeron, Francois</a> and     <a href="/contributors/189">Begin, Clermont</a>    </div>
+
+<p>ABSTRACT: This paper discusses the application of the Critical Success Factor (CSF) method as a way of evaluating the information available for planning and control activities. Using a questionnaire in addition to individual interviews and group meetings to collect data on the Critical Success Factors, Rockart's method was successfully applied to assess the availability of critical information needed by the management of a multi-institutional health care arrangement. Results indicated large differences in the information needs of the management team evaluated. The added value of the work is the insights gained by using multiple methods within a general CSF concept. The CSF method is recommended to perform the evaluation of the information function in the context of evaluative research.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/180">critical success factors (CSF)</a>,    <a href="/keywords/125">MIS planning</a>,    <a href="/keywords/330">information systems requirements</a>,    <a href="/keywords/331">evaluative research</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,83 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/122">    Volume 31 Number 1 2014
+</a> pp. 107-110</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Information Systems Support for Shared Understanding</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O</a>    </div>
+
+<p><p>ROBERT O. BRIGGS is a professor of information systems at San Diego State University. He earned his Ph.D. in management information systems at the University of Arizona in 1994. He researches the cognitive foundations of collaboration and uses his findings to design new collaborative work practices and collaboration systems. He is co-founder of the collaboration engineering field and co-inventor of the thinkLets design pattern language for collaborative work processes. He has made exploratory, theoretical, experimental, and technological contributions on team productivity, technology-supported learning, ideation, creativity, consensus, satisfaction, willingness to change, and technology transition. He has designed collaboration systems and collaborative workspaces for industry, academia, government, and the military. He co-chairs the Collaboration Systems and Technology track for the Hawaii International Conference on System Sciences. He lectures worldwide on collaboration theory and practice, and on the philosophy of science.</p>
+<p></p>
+<p>SHARED UNDERSTANDING IS ESSENTIAL TO THE SUCCESS OF ANY ENDEAVOR where people work together. In our field, for example, users, requirements engineers, UI/UX (user interface/user experience) designers, programmers, testers, and a range of other stakeholders interpret and reinterpret system requirements in order to make their contributions [11]. A misinterpretation by any of them has the potential to derail a project. Likewise, every theory of organizational management assumes shared understanding to be a foundation of success. Theory X, for example, assumes an organization will succeed if and only if the boss issues the right commands, the subordinates understand and follow the commands, and the boss detects any deviations from intended outcomes and applies corrective action [12]. Theory Y, by contrast, assumes an organization will succeed if and only if the boss sets the right strategic goals, subordinates correctly interpret those strategic goals and develop realistic subgoals and fulfillment plans, and the subgoals and plans fit together to fulfill strategic goals [6]. Theory Z assumes an organization will succeed if and only if the boss and subordinates achieve consensus on goals and detailed plans, subordinates correctly interpret and implement plans, and the goals and plans start and remain right [7]. Because of its centrality to human achievement, shared understanding is a growing topic of interest to academic researchers in many fields.</p>
+<p></p>
+<p>It can be difficult to establish shared understanding, particularly among people, for example, with different functional backgrounds [8] and organizational cultures [10], as is commonly the case in the information systems (IS) domain. Hence, research in this area is of both theoretical and practical importance. Researchers have investigated shared understanding as an abstract concept [9], in abstract contexts such as wicket problem solving [3] and virtual teams [5], and in specific problem domains as diverse as robotics [2], environmental processes [1], and IS [4].</p>
+<p></p>
+<p>This Special Section of JMIS brings IS solutions to bear on shared understanding from three very different perspectives. In their paper, "Creating Shared Understanding in Heterogeneous Work Groups: Why It Matters and How to Achieve It," Eva Alice Christiane Bittner and Jan Marco Leimeister provide us with a working definition of shared understanding as the degree to which people concur on the value of properties, the interpretation of concepts, and the mental models of cause and effect with respect to an object of understanding. This definition is intriguing because it frames shared understanding as a multidimensional construct, which, in turn, suggests the opportunity and necessity for research streams to explore each of its dimensions. The paper derives and field tests a repeatable structured methodology called "MindMerger" for developing shared understanding among heterogeneous groups of expert professionals in the automobile industry who had to develop training materials to help inexperienced workers execute complex tasks. The study demonstrated that the MindMerger approach did, as anticipated, result in learning behaviors that increased shared understanding of the complex tasks.</p>
+<p></p>
+<p>Liangfei Qiu, Huaxia Rui, and Andrew B. Whinston consider shared understanding from a very different perspective in their paper, "The Impact of Social Network Structures on Prediction Market Accuracy in the Presence of Insider Information." This study explores the effects of differing social network structures on the accuracy of prediction markets in the presence of insider information-information that conveys the state of nature with high precision, but is not shared by all players. The paper found that insider information led to abnormally high performance among people in a balanced social network structure, but had less effect in a social network with a star structure. They also found that the negative effect of public information bias is more pronounced when the underlying network is a star topology.</p>
+<p></p>
+<p>Finally, Nathan W. Twyman, Aaron C. Elkins, Judee K. Burgoon, and Jay F. Nunamaker Jr., in their paper, "A Rigidity Detection System for Automated Credibility Assessment," develop a practical approach for real-time automatic noninvasive detection of kinesic rigidity, a key indicator of the likelihood that a speaker is dissembling or withholding information. Working from a theoretical foundation, researchers designed and developed a new IS that could detect variations in micromovements and flag unexpected periods of rigidity in real time. Prior to this work, such detection required time-consuming manual post hoc frame-by-frame analysis of video by human coders. The study confirmed the existence of kinesic rigidity effects in highly controlled concealed information tests, and developed further theoretical insights to explain the phenomenon.</p>
+<p></p>
+<p>The papers in this Special Section evolved from those selected from the best papers at the Hawaii International Conference on System Sciences. They were resubmitted in expanded versions, refereed anew, and revised multiple times. Each represents a challenging and interesting perspective. We commend them to your reading.</p>
+<p></p>
+<p>REFERENCES</p>
+<p></p>
+<p>1. Brewer, I.; MacEachren, A.M.; Abdo, H.; Gundrum, J.; and Otto, G. Collaborative geographic visualization: Enabling shared understanding of environmental processes. In J.D. Mackinlay, S.F. Roth, and D.A. Keim (eds.), IEEE Symposium on Information Visualization, 2000. InfoVis 2000. Los Alamitos, CA: IEEE Computer Society, 2000, pp. 137-141.</p>
+<p></p>
+<p>2. Bruemmer, D.J.; Few, D.A.; Boring, R.L.; Marble, J.L.; Walton, M.C.; and Nielsen, C.W. Shared understanding for collaborative control. IEEE Transactions on Systems, Man and Cybernetics, Part A: Systems and Humans, 35, 4 (2005), 494-504.</p>
+<p></p>
+<p>3. Conklin, J. Dialogue Mapping: Building Shared Understanding of Wicked Problems. New York: John Wiley & Sons, 2005.</p>
+<p></p>
+<p>4. Hinds, P.J., and Weisband, S.P. Knowledge sharing and shared understanding in virtual teams. In C.B. Gibson, and S.G. Cohen (eds.), Virtual Teams That Work: Creating Conditions for Virtual Team Effectiveness. San Francisco: Jossey-Bass, 2003, pp. 21-36.</p>
+<p></p>
+<p>5. Hsieh, Y. Culture and shared understanding in distributed requirements engineering. In ICGSE'06 International Conference on Global Software Engineering. Los Alamitos, CA: IEEE Computer Society, 2006, pp. 101-108.</p>
+<p></p>
+<p>6. McGregor, D. The human side of enterprise. In H.J. Leavitt, L.R. Pondy, and D.M. Boje (eds.), Readings in Managerial Psychology. Chicago: University of Chicago Press, 1989, pp. 314-324.</p>
+<p></p>
+<p>7. Ouchi, W. Theory Z: How American Business Can Meet the Japanese Challenge. London: Avon Books, 1981.</p>
+<p></p>
+<p>8. Pelled, L.H.; Eisenhardt, K.M.; and Xin, K.R. Exploring the black box: An analysis of work group diversity, conflict, and performance. Administrative Science Quarterly, 44, 1 (1999), 1-28.</p>
+<p></p>
+<p>9. Puntambekar, S. Analyzing collaborative interactions: Divergence, shared understanding and construction of knowledge. Computers & Education, 47, 3 (2006), 332-351.</p>
+<p></p>
+<p>10. Randel, A.E., and Earley, P.C. Organizational culture and similarity among team members' salience of multiple diversity characteristics. Journal of Applied Social Psychology, 39, 4 (2009), 804-833.</p>
+<p></p>
+<p>11. Read, A., and Briggs, R.O. The many lives of an agile story: Design processes, design products, and understandings in a large- scale agile development project. In R.H. Sprague (ed.), Proceedings of the 45th Annual Hawaii International Conference on System Sciences. Los Alamitos, CA: IEEE Computer Society, 2012.</p>
+<p></p>
+<p>12. Taylor, F.W. The Principles of Scientific Management. Norwood, MA: Plimpton Press, 1911.</p>
+</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

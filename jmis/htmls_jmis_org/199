@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/26">    Volume 24 Number 2 2007
+</a> pp. 43-71</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Empirical Investigation of Third-Party Seller Rating Systems in E-Commerce: The Case of buySAFE</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a>    </div>
+
+<p>ABSTRACT: eBay's highly visible feedback-based rating system is also highly flawed, contributing to problems for buyers, which in turn creates problems for sellers. The well-known "market for lemons" phenomenon studied by Akerlof, and the even older Gresham's law effect, are contributing to loss of buyers' confidence in eBay, shrinking sellers' margins, contributing to the erosion of eBay's share price, and, potentially, leading to serious reductions in the value of eBay as an electronic auction site. buySAFE has created an alternative mechanism for reducing buyers' information deficit concerning sellers and their merchandise, involving a third-party certification system and bonding for qualified sellers; the rating is analogous to bond rating services such as Moody's and Standard & Poor's. Analysis of buySAFE's certification and bonding strategies for eBay sellers provides a basis for ongoing theory development related to organizational strategies that recognize the importance of information asymmetries in the digital marketplace and address resolution of consumers' concerns. buySAFE's original business model involves bonding sellers' transactions and protecting consumers for as much as $25,000. This has a number of beneficial effects on the buyers and sellers: it improves the information endowments of the buyers, it increases their willingness to pay for the goods and services offered, and it increases the margins and total revenues of the sellers. Although acceptance of buySAFE has been rapid, it has been slower than anticipated, and slower than theory would suggest. The company's executives are exploring adjusting their approach to the market and finding a way to achieve higher profitability, and working to limit their dependence upon eBay.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1047">information asymmetry</a>,    <a href="/keywords/2279">market for lemons</a>,    <a href="/keywords/2280">online auctions</a>,    <a href="/keywords/2281">online consumer fraud</a>,    <a href="/keywords/2282">online rating systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

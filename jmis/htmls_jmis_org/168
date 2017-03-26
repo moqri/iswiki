@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/89">    Volume 24 Number 3 2007
+</a> pp. 193-225</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Economic Model of Privacy: A Property Rights Approach to Regulatory Choices for Online Personalization</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/334">Chellappa, Ramnath K</a> and     <a href="/contributors/336">Shivendu, Shivendu</a>    </div>
+
+<p>ABSTRACT: Advances in information-acquisition technologies and the increasing strategic importance of this information have created a market for consumers' personal and preference information. Behavioral research suggests that consumers engage in a privacy calculus where they trade off their privacy costs from sharing information against their value from personalization. Through a formal economic model of this personalization-for-privacy (p4p) trade-off, we examine welfare implications by characterizing consumption utilities as "no-free-disposal" functions. We investigate the optimality of four regulatory regimes (through allowance/disallowance of usage-enforcing technologies, and private contracts) by analyzing the strategic interaction between a monopolist who offers personalization services "free of charge" and two consumer types--privacy and convenience seekers. While many privacy watchdog groups have called for technology restrictions and more regulation, our research broadly suggests that society is better off with assignment of property rights over their information to consumers and full allowance of technological control and contractual abilities for the monopolist. However, when private contracts are proscribed, the regulator should also prevent the deployment of usage-enforcing technologies, particularly when the market is predominantly composed of privacy seekers. Interestingly, unlike traditional price-instrument markets for goods with free disposal, a regulator should not only encourage this market's knowledge of consumers' p4p preferences but also the various uses and benefits of preference information to the vendor.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2334">economic modeling</a>,    <a href="/keywords/993">incentives</a>,    <a href="/keywords/2335">Nash bargaining</a>,    <a href="/keywords/2155">personalization</a>,    <a href="/keywords/1355">privacy</a>,    <a href="/keywords/2336">property rights</a>,    <a href="/keywords/2328">social welfare</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

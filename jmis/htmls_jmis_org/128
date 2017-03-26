@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/7">    Volume 28 Number 4 2012
+</a> pp. 39-68</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Supporting Agile Organizations with a Decision Guidance Query Language</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/250">Brodsky, Alexander,</a>    <a href="/contributors/251">Egge, Nathan E,</a> and     <a href="/contributors/252">Wang, X Sean</a>    </div>
+
+<p>ABSTRACT: Decision optimization is widely used in many decision guidance and support systems (DGSS) to support business decisions such as procurement, scheduling, and planning. In spite of rapid changes in users' requirements, the implementation of DGSS is typically rigid, expensive, and not easily extensible, which is in stark contrast to the agile implementation of management information systems (MIS) based on the database management systems (DBMS) and SQL technologies. This paper focuses on the Decision Guidance Query Language (DGQL) designed to (re-)use SQL programs for decision optimization with the goals of making DGSS implementation agile and intuitive and leveraging existing investment in SQL-implemented MIS. The paper addresses two related technical issues with DGQL: (1) how to annotate existing queries to precisely express the optimization semantics, and (2) how to translate the annotated queries into equivalent mathematical programming formulations that can be solved efficiently.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2910">agile organizations</a>,    <a href="/keywords/2227">decisional guidance</a>,    <a href="/keywords/7">decision support</a>,    <a href="/keywords/1877">optimization</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

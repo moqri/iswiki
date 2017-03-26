@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/133">    Volume 33 Number 4 2016
+</a> pp. 1180-1208</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Examination of Effective IT Governance in the Public Sector Using the Legal View of Agency Theory</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/446">Dawson, Gregory S,</a>    <a href="/contributors/1885">Denford, James S,</a>    <a href="/contributors/1886">Williams, Clay K,</a>    <a href="/contributors/1887">Preston, David,</a> and     <a href="/contributors/1888">Desouza, Kevin C</a>    </div>
+
+<p>ABSTRACT: 
+<p>In the private sector, research on information technology (IT) governance has frequently applied the classical view of agency theory and focused on the controlling role played by the board of directors in constraining a potentially opportunistic manager/agent. However, in the public sector, the board of directors does not exist and there may be less need to focus on the controlling aspect of governance and more need to focus on the politically challenging distribution of state resources. In this U.S.-state–based study, we adopt, apply, and extend the legal view of agency theory past its sole focus on the board of directors as the solitary mediating hierarch in order to examine the strategic mediating hierarch role played by the state legislature and then conceptualize and test for the existence of a tactical mediating hierarch played by the IT steering committee and the production role of an independent Office of the Chief Information Officer (OCIO) in using a fee-for-service funding model. We apply these concepts to extend theory to examine the combination of roles that lead to superior outcomes for the state (the principal) versus those necessary for the IT department (the agent). Our results show that by shifting from the control-oriented view of governance in the private sector to a more mediating view in the public sector, important practices may be portable between the public and private sector, despite their widely differing structures.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/991">agency theory</a>,    <a href="/keywords/3789">CIO</a>,    <a href="/keywords/3130">IT governance</a>,    <a href="/keywords/3790">IT in public sector</a>,    <a href="/keywords/476">public sector</a>,    <a href="/keywords/3791">steering committee</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

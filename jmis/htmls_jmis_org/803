@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/24">    Volume 29 Number 2 2012
+</a> pp. 213-256</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Hybrid Relational-Contractual Governance for Business Process Outsourcing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1226">Rai, Arun,</a>    <a href="/contributors/912">Keil, Mark,</a>    <a href="/contributors/1292">Hornyak, Rob,</a> and     <a href="/contributors/1293">Wüllenweber, Kim</a>    </div>
+
+<p>ABSTRACT: We examined 335 business process outsourcing (BPO) ventures to understand the effect of contractual and relational governance factors on BPO satisfaction from the client's perspective. While both contractual and relational factors explain significant variance in BPO satisfaction, relational factors dominate. By examining interactions between key contractual and relational mechanisms, we found that elements of the two governance approaches operate as substitutes with respect to BPO satisfaction. Specifically, the relational mechanism, trust, was found to substitute for contractually specified activity expectations, goal expectations, and contractual flexibility. Similarly, the relational mechanism, information exchange, was found to substitute for contractually specified activity expectations and goal expectations. Finally, the relational mechanism, conflict resolution, was found to substitute for contractually specified goal expectations. Our results can be applied to more effectively realize controls in outsourcing contexts and to design governance systems that integrate contractual and relational governance mechanisms based on the characteristics of client-vendor relationships.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2710">business process outsourcing</a>,    <a href="/keywords/2996">controls</a>,    <a href="/keywords/2997">formal contract</a>,    <a href="/keywords/2998">hybrid governance</a>,    <a href="/keywords/2999">relational governance</a>,    <a href="/keywords/2284">services</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/81">    Volume 3 Number 1 1986
+</a> pp. 65-80</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Organizational Factors Affecting the Success of End-User Computing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/45">Cheney, Paul H,</a>    <a href="/contributors/349">Mann, Robert I,</a> and     <a href="/contributors/44">Amoroso, Donald L</a>    </div>
+
+<p>ABSTRACT: End-user computing is one of the most significant phenomena to occur in the information systems industry in the last ten years [10, 39]. This paper attempts to identify those variables that affect the success or failure of end-user computing within an organization. The variables are classified as controllable, partially controllable, or uncontrollable. A conceptual scheme originally suggested by Ein-Dor and Segev [24] is adopted and applied to end-user computing. Previous research on end-user computing is reviewed and several propositions relating organizational variables to the success of end-user computing are suggested.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/116">human information processing</a>,    <a href="/keywords/158">organizational factors of MIS</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/6">    Volume 11 Number 2 1994
+</a> pp. 157-186</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Implementation of Electronic Data Interchange: An Innovation Diffusion Perspective</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1274">Premkumar, G,</a>    <a href="/contributors/49">Ramamurthy, K,</a> and     <a href="/contributors/1275">Nilakanta, Sree</a>    </div>
+
+<p>ABSTRACT: Electronic data interchange (EDI) has dramatically changed the manner in which interorganizational transactions are conducted. The electronic exchange of transaction documents has had a significant impact on business practices, particularly in the sales and purchase/merchandising functions of organizations. EDT brings in many benefits to the organization such as reduced costs, faster turnaround, better customer service, and in some firms strategic advantage over their competitors. Despite these benefits, firms still have problems in implementing EDI. This study, drawing upon research in innovation theory and information systems, examines the relationship between various innovation characteristics (complexity, two forms of compatibility, costs, relative advantage, and communicability) and various attributes of diffusion (adaptation, internal diffusion, external diffusion, and implementation success) of EDT in organizations. The data for the study were collected from a large-scale field survey of 201 firms in the United States that have implemented EDI. Two senior executives, one from information systems (IS) and the other from the sales/purchase function, provided matched responses to a questionnaire that measured the various research constructs. The results of the multivariate regression analyses revealed that relative advantage, costs, and technical compatibility were the major predictors of adaptation. While relative advantage and duration were important predictors of internal diffusion, technical compatibility and duration were found to be important predictors of external diffusion. Both forms of compatibility (technical and organizational) and costs were found to be important predictors of implementation success in EDI.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/774">diffusion of innovations</a>,    <a href="/keywords/569">electronic data interchange (EDI)</a>,    <a href="/keywords/775">innovation theory</a>,    <a href="/keywords/665">interorganizational systems</a>,    <a href="/keywords/776">systems implementation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

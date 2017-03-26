@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/85">    Volume 1 Number 4 1985
+</a> pp. 5-23</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Managing the Introduction of Information Systems Technology in Strategically Dependent Companies</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/298">Cash Jr, James I</a> and     <a href="/contributors/299">McLeod, Poppy L</a>    </div>
+
+<p>ABSTRACT: The primary focus of computer and communication technology application in some companies has shifted from efficiency/process improvement to strategic/competitive uses. Companies that have become strategically dependent on computer and communications technology have found that the requisite processes of technology forecasting, tracking, research and development, introduction, and management of new technology are unwieldy and almost impossible to operationalize, given traditional administrative and organizational approaches. This paper proposes that a contemporary organization, strategically dependent on computer and communications technology, should: (1) establish an organizational unit with specific responsibility for these processes, and (2) use a contingency framework for the design of ongoing administrative infrastructure to effectively manage new technology. The organizational unit is called the Emerging Technology group, and an example description from Air Products and Chemicals, Inc. is provided. The contingency framework proposed is based on the phases model developed by McKenney and McFarlan.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/56">strategic dependence on MIS</a>,    <a href="/keywords/57">information systems technology</a>,    <a href="/keywords/58">information technology assimilation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

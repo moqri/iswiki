@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/42">    Volume 8 Number 3 1991
+</a> pp. 49-67</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Architecture of an Information System for the Support of Alternative Generation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1083">MacCrimmon, Kenneth R</a> and     <a href="/contributors/1084">Wagner, Christian</a>    </div>
+
+<p>ABSTRACT: The pre-choice stages of the problem solving process are more difficult to support through information systems than choice itself. Systems that facilitate problem formulation and solution finding are typically either expert system programs with narrow application domains or programs dealing with easily quantifiable problems. In contrast, this paper introduces a decision support system, GENI, that operates independent of domain, aiding the user in general problem solving tasks. The system's purpose is to support the problem solving process, rather than be a substitute for the human problem solver, by providing structure and by using different stimuli to prompt the user for data input. To deal with broad classes of complex qualitative problems, no single processing mode is sufficient. Hence the techniques in GENI differ mainly An earlier version of this paper was originally published in the Proceedings of the TwentyFourth Hawaii International Conference on System Sciences (IEEE Computer Society Press, 1991). This research was supported in part by the Social Sciences and Humanities Research Council of Canada and by the U.S. National Science Foundation (Grant SES-9016305). We thank Nick Keenan for his assistance in developing portions of the software described in the paper. in the interface, that is, the types of stimuli displayed, and the types of data recorded. GENI's user interface is built around a standard dialog function that can be modified by means of parameter settings. Experimental results show that differences in the interface content can lead to significant differences in problemsolver performance.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/402">problem solving</a>,    <a href="/keywords/157">problem formulation</a>,    <a href="/keywords/500">alternative generation</a>,    <a href="/keywords/197">idea generation</a>,    <a href="/keywords/501">idea generation software</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/92">    Volume 17 Number 2 2000
+</a> pp. 59-80</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Limits to Value in Electronic Commerce-Related IT Investments</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/371">Chircu, Alina M</a> and     <a href="/contributors/79">Kauffman, Robert J</a>    </div>
+
+<p>ABSTRACT: This paper extends the limits-to-value model of Davern and Kauffman to explore market and process-level factors that impact value flows to firms for their information technology (IT) investments. We characterize IT value in terms of potential value and realized value, and show how each is subject to different effects-- limits to value--that diminish the benefits of the investment. Our typology identifies barriers specific to the valuation process (industry and organizational barriers), and to the conversion process (resource, knowledge and usage barriers). Following the development of our analytical framework from existing economic and organizational theories of IT valuation and technology adoption and diffusion, we analyze a series of case studies of Internet-based travel reservation systems in electronic commerce (EC). These cases provide evidence in support of the usefulness of the framework, and illustrate the extent of the difficulties faced by organizations in making their investments in EC systems pay off.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1309">business value</a>,    <a href="/keywords/399">case study</a>,    <a href="/keywords/1357">corporate travel industry</a>,    <a href="/keywords/1358">conversion barriers</a>,    <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/654">information technology investment</a>,    <a href="/keywords/1359">valuation barriers</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

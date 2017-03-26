@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/98">    Volume 5 Number 2 1988
+</a> pp. 23-37</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Systems Planning for the Enterprise-wide Information Management Complex: The Architectural Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1476">Targowski, Andrew S</a>    </div>
+
+<p>ABSTRACT: An architectural approach is used to provide a framework for understanding the Enterprise-wide Information Management Complex (EWIMC). IMC is proposed as an emerging self-contained business process that interfaces with but remains separate from all other business elements, while providing unique services to those other elements. A generic model of EWIMC itself is presented that breaks down IMC into a set of systems federations, each functionally distinct from one another; each federation, in turn, is composed of more specific systems and each system its subsystems, and so on. Thus, a top-down, hierarchical approach is applied to the concept of IMC to provide a framework for understanding the complexities and interrelationships among its many pieces. The model is offered as a first step in developing a comprehensive overview of EWIMC to replace the numerous fragmented approaches offered in the past. An example of General Motors' architecture is presented. Finally, the System Planning Technique is presented as a tool for defining systems requirements.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/262">information systems architecture</a>,    <a href="/keywords/286">systems planning</a>,    <a href="/keywords/287">generic models of information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/34">    Volume 10 Number 3 1993
+</a> pp. 7-24</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Coordination Challenges in a Computer- Supported Meeting Environment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/785">Horton, Marjorie</a> and     <a href="/contributors/786">Biolsi, Kevin</a>    </div>
+
+<p>ABSTRACT: In this study we observed the coordination activities of groups collaboratively writing in a low-structure computer-supported meeting room. We used video analyses of the sessions to identify well-coordinated and poorly coordinated groups. Through user questionnaires, group members evaluated their work processes and products as well as the computer-supported environment. Writing experts independently rated the quality of the groups' final documents. We discovered that quality of coordination was strongly tied to groups' evaluations of their work processes, work products, and tools. Well-coordinated groups tended to be more efficient than poorly coordinated groups although we observed no differences in the quality of their documents. We also identify what coordination strategies lead to effective group work and offer suggestions for additional tools to facilitate coordination.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/496">collaborative writing</a>,    <a href="/keywords/497">computer-supported cooperative work</a>,    <a href="/keywords/498">computer-supported meeting rooms</a>,    <a href="/keywords/692">coordination</a>,    <a href="/keywords/499">group work</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

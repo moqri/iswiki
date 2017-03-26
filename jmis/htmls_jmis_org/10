@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/9">    Volume 7 Number 1 1990
+</a> pp. 123-140</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Knowledge Acquisition Using Structured Interviewing: An Empirical Investigation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/14">Agarwal, Ritu</a> and     <a href="/contributors/17">Tanniru, Mohan R</a>    </div>
+
+<p>ABSTRACT: The knowledge acquisition problem endures as a bottleneck in the construction of expert system knowledge bases. Despite the recent proliferation of techniques and the availability of more sophisticated methods for this task, the interview technique continues to be widely used, especially in business domains. This paper reports the results of an experiment conducted to compare the unstructured knowledge acquisition interview with a specific type of structured knowledge acquisition interview. Structure for the interview was provided by a domain model of the business decision-making activity that attempted to capture the subjective and qualitative aspects of decision making. Senior managers from industry served as the subjects in the experiment. The interview technique was evaluated along efficiency and effectiveness dimensions. Results indicate improved performance with the structured interviewing method.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/156">expert systems</a>,    <a href="/keywords/271">knowledge acquisition</a>,    <a href="/keywords/419">structured interviewing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

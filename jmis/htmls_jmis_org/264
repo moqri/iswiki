@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/78">    Volume 14 Number 3 1997
+</a> pp. 179-222</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Enabling the Effective Involvement of Multiple Users: Methods and Tools for Collaborative Software Engineering</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/456">Dean, Douglas L,</a>    <a href="/contributors/457">Lee, James D,</a>    <a href="/contributors/460">Pendergast, Mark O,</a>    <a href="/contributors/461">Hickey, Ann M,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: The paper presents results of ongoing research to support effective user involvement during systems development projects. The Collaborative Software Engineering Methodology is presented as a framework that contains mechanisms to support three layers of user involvement: selected user representatives, user groups, and the broader user community. Productivity and user participation of traditional group meetings have been limited by chauffeured facilitation and by support of single-user tools designed for analysts rather than users. The paper introduces electronic meeting systems (EMS) modeling tools designed to allow users to work in parallel to contribute directly during meetings. These tools are easy to use while containing support features traditionally associated with CASE tools. The methodology includes a sequence of requirements abstractions that users engage directly including activity models, data models, scenarios, system use eases, and prototypes. This methodology is designed to help organizations respond to today's rapidly changing information processing needs.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1091">activity modeling</a>,    <a href="/keywords/1092">data modeling</a>,    <a href="/keywords/415">electronic meeting systems</a>,    <a href="/keywords/1093">enterprise analysis</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/698">groupware</a>,    <a href="/keywords/1094">IDEF</a>,    <a href="/keywords/330">information systems requirements</a>,    <a href="/keywords/1095">JAD</a>,    <a href="/keywords/446">software engineering</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

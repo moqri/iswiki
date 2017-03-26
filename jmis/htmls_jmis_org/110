@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/73">    Volume 19 Number 4 2003
+</a> pp. 31-64</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Collaboration Engineering with ThinkLets to Pursue Sustained Success with Group Support Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/235">De Vreede, Gert-Jan,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: Field research and laboratory experiments suggest that, under certain circumstances, people using group support systems (GSS) can be significantly more productive than people who do not use them. Yet, despite their demonstrated potential, GSS have been slow to diffuse across organizations. Drawing on the Technology Transition Model, the paper argues that the high conceptual load of GSS (i.e., understanding of the intended effect of GSS functionality) encourages organizations to employ expert facilitators to wield the technology on behalf of others. Economic and political factors mitigate against facilitators remaining long term in GSS facilities that focus on supporting nonroutine, ad hoc projects. This especially hampers scaling GSS technology to support distributed collaboration. An alternative and sustainable way for organizations to derive value from GSS lies in an approach called 'collaboration engineering': the development of repeatable collaborative processes that are conducted by practitioners themselves. To enable the development of such processes, this paper proposes the thinkLet concept, a codified packet of facilitation skill that can be applied by practitioners to achieve predictable, repeatable patterns of collaboration, such as divergence or convergence. A thinkLet specifies the facilitator's choices and actions in terms of the GSS tool used, the configuration of this tool, and scripted prompts to accomplish a pattern of collaboration in a group. Using thinkLets as building blocks, facilitators can develop and transfer repeatable collaborative processes to practitioners. Given the limited availability of expert facilitators, collaboration engineering with thinkLets may become a sine qua non for organizations to effectively support virtual work teams.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1635">collaboration engineering</a>,    <a href="/keywords/983">collaboration technology</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/820">technology acceptance model</a>,    <a href="/keywords/1202">technology adoption</a>,    <a href="/keywords/1636">technology transfer</a>,    <a href="/keywords/1182">Technology Transition Model</a>,    <a href="/keywords/1637">thinkLets</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

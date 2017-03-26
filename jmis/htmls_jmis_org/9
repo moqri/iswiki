@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/8">    Volume 13 Number 2 1996
+</a> pp. 137-162</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Cognitive Fit in Requirements Modeling: A Study of Object and Process Methodologies</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/14">Agarwal, Ritu,</a>    <a href="/contributors/15">Sinha, Atish P,</a> and     <a href="/contributors/17">Tanniru, Mohan R</a>    </div>
+
+<p>ABSTRACT: Requirements modeling constitutes one of the most important phases of the systems development life cycle. Despite the proliferation of methodologies and models for requirements analysis, empirical work examining their relative efficacy is limited. This paper presents an empirical examination of object-oriented and process-oriented methodologies as applied to object-oriented and process-oriented tasks. The conceptual basis of the research model is derived from the theory of cognitive fit, which posits that superior problem-solving performance will result when the problem-solving task and the problem-solving tool emphasize the same type of information. Two groups of subjects participated in an experiment that required them to construct solutions to two requirements-modeling tasks, one process-oriented and the other object-oriented. One group employed the object-oriented tool while the other used the process-oriented tool. As predicted by the theory of cognitive fit, superior performance was observed when the process-oriented tool was applied to the process-oriented task. For the object-oriented task, however, the performance effects of cognitive fit require further investigation since there was no difference in subject performance across the two tools.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/961">cognitive fit</a>,    <a href="/keywords/555">human factors</a>,    <a href="/keywords/877">object-oriented analysis</a>,    <a href="/keywords/962">process-oriented analysis</a>,    <a href="/keywords/963">requirements modeling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,76 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/41">    Volume 30 Number 2 2013
+</a> pp. 5-8</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Issue: Information Economics and Competitive Strategy</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K,</a>    <a href="/contributors/217">Goh, Kim Huat,</a>    <a href="/contributors/79">Kauffman, Robert J,</a> and     <a href="/contributors/398">Weber, Thomas A</a>    </div>
+
+<p><p>
+ ERIC K. CLEMONS is a professor of operations and information management at the Wharton School of the University of Pennsylvania. His  education includes an S.B. in physics from MIT and an M.S. and Ph.D. in operations research from Cornell University. For the past 30  years, he has focused on systematic study of the transformational effects of information on the strategy and practice of business. More  recently, he has been studying blogging and social media, cloud computing and cloud computing standards, and the challenges to  applying current antitrust law to online business models. He has published over 100 scholarly articles and regularly contributes to  Huffington Post, Business Insider, and Tech Crunch. Dr. Clemons is the founder and project director for the Wharton School's Sponsored  Research Project on Information: Strategy and Economics within the Program for Global Strategy and Knowledge Intensive Organizations.  He participated in the World Economic Forum in Davos, Switzerland, in February 2009 and in the Beijing Forum in November 2011. He is  currently studying the processes needed to create innovative consumer products in China and is active in regulatory and technology policy  work in Japan, Korea, and the European Union.
+</p>
+<p>
+ KIM HUAT GOH is an assistant professor of information systems in the Division of IT and Operations Management in the Nanyang  Business School at Nanyang Technological University. He received his Ph.D. in business administration with a specialization in  Information Systems from the Carlson School of Management, University of Minnesota. His research interests include applying behavioral  economic theories to explain consumer behavior in technology-mediated environments, examining the value of IT, and IT strategy. His  research has appeared in Information Systems Research, Journal of Management Information Systems, MIS Quarterly, and Electronic  Commerce and Research Applications.
+</p>
+<p>
+ ROBERT J. KAUFFMAN is a professor of information systems at the School of Information Systems, Singapore Management University,  where he was the Lee Kuan Yew Faculty Fellow for Research Excellence in 2011 and 2012. He also serves as Associate Dean (Research)  and Deputy Director of the Living Analytics Research Centre. He recently was a Distinguished Visiting Fellow at the Center for Digital  Strategies of the Tuck School of Business, Dartmouth College. His research focuses on technology and strategy, the economics of IT,  technology in financial services and e-business, managerial decision making, and innovations in research methods. His work has appeared  in Information Systems Research, Journal of Management Information Systems, MIS Quarterly, Telecommunications Policy, IBM  Research and Development Journal, Decision Support Systems, Managerial Decisions and Economics, Management Science, Review of  Economics and Statistics, and Operations Research Letters.
+</p>
+<p>
+ THOMAS A. WEBER is a professor at the Management of Technology and Entrepreneurship Institute at the Swiss Federal Institute of  Technology in Lausanne, Switzerland, where he holds the chair of Operations, Economics and Strategy. Between 2003 and 2011, he was a  faculty member in the Department of Management Science and Engineering at Stanford University. Dr. Weber is an ing&#233;nieur des arts et  manufactures (Ecole Centrale Paris) and a diplom-ing&#233;nieur in electrical engineering (Technical University Aachen). He holds an S.M. in  both technology and policy, and electrical engineering and computer science from the Massachusetts Institute of Technology, and a Ph.D.  in managerial science and applied economics from the Wharton School of the University of Pennsylvania. In 2008, he was a visiting faculty  member in the Department of Economics at the University of Cambridge, and in 2009 in the Department of Mathematics at Moscow State  University. Between 1998 and 2002, he was a senior consultant at the Boston Consulting Group. His current research interests include the  economics of information and uncertainty, the design of contracts, and strategy. Dr. Weber's articles have appeared in American Economic  Journal: Microeconomics, Information Systems Research, Decision Support Systems, Economics Letters, Economic Theory, Journal of  Mathematical Economics, Journal of Economic Dynamics and Control, and many other journals. He is the author of Optimal Control Theory  with Applications in Economics (MIT Press, 2011).
+</p>
+<p>
+ THIS SPECIAL ISSUE REPRESENTS THE REVISED AND EXPANDED best papers from the Twenty-Fifth Anniversary Symposium on  Competitive Strategy, Economics and Information Systems held at the 2013 Hawaii International Conference on System Sciences and the  related conference mini-track. It also represents 25 years of continuing progress and evolution in the field, and many years of a pioneering  partnership between the Journal of Management Information Systems and the field of information economics and competitive strategy. JMIS  was perhaps the first academic venue to welcome the field, predating the Workshop on Information Systems and Economics (WISE), and  has provided a welcome home as the field changed, grew, and evolved.
+</p>
+<p>
+ The first three papers help define the past, present, and future of the field. "Firm Strategy and the Internet in U.S. Commercial Banking,"  by Kim Huat Goh and Robert J. Kauffman, starts by examining questions raised by Clemons and Kimbrough in 1986 concerning the  strategic necessity hypothesis, and uses modern econometric analysis to substantiate what was, in 1986, merely a well-argued and logical  guess [1]. By focusing on technology, regulation, and social effects, "Health-Care Security Strategies for Data Protection and Regulatory  Compliance," by Juhee Kwon and M. Eric Johnson, links us to the future of our field. Information technology and information economics  professionals must take a greater role in the regulatory and social welfare challenges that society will face as a result of technological  progress, changed information endowment, increases in capability, and threats to privacy. "The Impact of Cloud Computing: Should the IT  Department Be Organized as a Cost Center or a Profit Center?" by Vidyanand Choudhary and Joseph Vithayathil, ties us back to our  earliest roots, when the field focused on information-based strategy for the information technology (IT) function itself.
+</p>
+<p>
+ The next three papers address information-enabled strategy and competition. "Channel Capabilities, Product Characteristics, and the  Impacts of Mobile Channel Introduction," by Youngsok Bang, Dong-Joo Lee, Kunsoo Han, Minha Hwang, and Jae-Hyeon Ahn, studies the  influence of the introduction of the newest channel, mobile, on channel competition. "The Competitive Business Impact of Using  Telemedicine for the Treatment of Patients with Chronic Conditions," by Balaraman Rajan, Abraham Seidmann, and Earl R. Dorsey, shows  how modern online channel competitive affects competition in medicine; it brings together the newest channel with perhaps the oldest of  professions. "Competing with Piracy: A Multichannel Sequential Search Approach," by Xianjun Geng and Young-Jin Lee, examines how  legitimate channels compete with free illegitimate pirate channels and shows that the intensity of competition in the traditional channels- which, of course, affects pricing-also influences the optimal strategies of legitimate players when competing with pirates.
+</p>
+<p>
+ The final four papers show how online behavior, including behavior of friends in social networks and the presence of online reviews, affect  competition in physical products, information-based products, and services. "Network Structure and Observational Learning: Evidence from  a Location-Based Social Network," by Zhan Shi and Andrew B. Whinston, uses empirical data to demonstrate that observing the behavior of  friends in online social networks affects consumers and potential consumers differently from observing the queuing behavior of strangers.  Interestingly, the "proximity" of the social connection has a dramatic effect on behavior. In "How Do Consumer Buzz and Traffic in Social  Media Marketing Predict the Value of the Firm?" Xueming Luo and Jie Zhang show that social buzz and traffic are closely related in a  virtuous circle, with buzz generating traffic and traffic generating buzz. "Consumer Learning and Time-Locked Trials of Software  Products," by Debabrata Dey, Atanu Lahiri, and Dengpan Liu, shows that the impact of using free trial software products on consumers'  behavior will be affected by the speed with which consumers can actually learn about the product. In other words, the impact of demos on   reducing uncertainty is a function of how quickly users learn true product attributes from the demo packages. Finally, "Reducing Buyers'  Uncertainty About Taste-Related Product Attributes," by Panos M. Markopoulos and Eric K. Clemons, shows how online information and  reduced uncertainty, which they call informedness, affect company strategy by enabling resonance marketing. This builds on a number of  papers previously published in JMIS on this subject, and extends both the mathematical analysis and the understanding of the managerial  implications of resonance marketing.
+</p>
+<p>
+ This Special Issue showcases the research streams in the information systems literature that are being actively pursued by numerous  academic and industry researchers around the world, who are focused on creating new innovations with information economics for  corporate strategy. From the contents, the reader can see that rich and insightful new contributions of knowledge are offered for multiple  industry contexts, including financial services, mobile telephony, health-care services and telemedicine, IT services, and resonance  marketing. Also demonstrated is the extent to which economics and technology-related thinking have the potential to shape the next  generation of business process design and marketing activities in Internet-based selling, the extent of trial use by consumers of software  products prior to purchase, and the way that use of social media may be connected to the value of the firm. In addition, the emphasis that we  have placed on considering the more timeless issues of strategic advantage and strategic necessity, the organization of the IT department  in the firm, and how IT transforms the opportunity for the firm to leverage consumer informedness, reflects the evolution of the scholarship  in information economics and corporate strategy.
+</p>
+<p>
+ If the high effects on technology-led management and strategy from the first 25 years of research in this stream published in JMIS are any  indication, then future research in this area, as we broaden its coverage to include regulation, law, and society issues, offers outstanding  possibilities for the development of relevant new knowledge, and business and industry innovations.
+</p>
+<p>
+ REFERENCE    1. Clemons, E.K., and Kimbrough, S.O. Information systems, telecommunications, and their effects on industrial organization. In C.  Bullen and E.A. Stohr (eds.), Proceedings of the 7th International Conference on Information Systems. San Diego, CA: Association for  Information Systems, 1986, pp. 99-108.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

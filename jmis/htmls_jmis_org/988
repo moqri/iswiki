@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/49">    Volume 18 Number 4 2002
+</a> pp. 87-100</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Contents Matching Defined by Prototypes: Methodology Verification with Books of the Bible</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1531">Visa, Ari,</a>    <a href="/contributors/1532">Toivonen, Jarmo,</a>    <a href="/contributors/1533">Vanharanta, Hannu,</a> and     <a href="/contributors/88">Back, Barbro</a>    </div>
+
+<p>ABSTRACT: It is common that text documents are characterized and classified by key words, index terms, or headings. We have developed a new methodology based on prototype matching. The prototype is an interesting document or a part of an extracted, interesting text. This prototype is matched with the existing document database or with the monitored document flow. The claim is that the new methodology is capable of extracting the contents of the document. To verify this hypothesis, a test with the Bible was designed. Different translations in English, Latin, Greek, and Finnish were selected to test materials. Verification tests that included the search of the ten nearest books to every book of the Bible were performed with a designed prototype version of the software application. The test results are reported in this paper.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1528">Bible</a>,    <a href="/keywords/1529">document classification</a>,    <a href="/keywords/1530">knowledge discovery</a>,    <a href="/keywords/1531">methodology</a>,    <a href="/keywords/1532">prototype matching</a>,    <a href="/keywords/1533">text mining</a>,    <a href="/keywords/1534">verification</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/57">    Volume 11 Number 4 1995
+</a> pp. 33-63</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Model-Driven Approach to Accessing Managerial Information: The Development of a Repository-Based Executive Information System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/346">Chen, Minder</a>    </div>
+
+<p>ABSTRACT: Most executive information systems (EIS) are focusing on the delivery of information to executives on line. Clicking on icons or command buttons, executives can browse through a series of screens of tabular or graphical information organized in a hierarchical structure. There is, however, no underlying model to guide the navigation of the diverse data and applications used by executives. A repository-based and model-driven EIS that captures integrated organization and information system (IOIS) models of an enterprise is therefore needed. A prototype system, called Repository-based Executive Information System (R-EIS), designed to integrate instead of replacing various existing application systems to support managerial information delivery is presented in this paper. This integrated IOIS model can be used directly by executives to assist them in navigating a model from a business perspective in order to gain access to applications and information to support their decision making. The navigation paths become contexts for the information delivered. Executives who can use an explicit organization model in their navigation of large information bases may learn more about their businesses and therefore facilitate organizational learning.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/806">contextual information systems</a>,    <a href="/keywords/807">data warehouses</a>,    <a href="/keywords/438">executive information systems</a>,    <a href="/keywords/808">information delivery</a>,    <a href="/keywords/809">mental model</a>,    <a href="/keywords/810">organization model</a>,    <a href="/keywords/811">repository systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

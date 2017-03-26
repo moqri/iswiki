@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/120">    Volume 30 Number 4 2014
+</a> pp. 13-48</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Neuroscience and a Nomological Network for the Understanding and Assessment of Emotions in Information Systems Research</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1671">Gregor, Shirley,</a>    <a href="/contributors/1672">Lin, Aleck C H,</a>    <a href="/contributors/1673">Gedeon, Tom,</a>    <a href="/contributors/1674">Riaz, Amir,</a> and     <a href="/contributors/1675">Zhu, Dingyun</a>    </div>
+
+<p>ABSTRACT: Human emotions' role in phenomena related to information systems (IS) is increasingly of interest to research and practice, and is now informed by a burgeoning literature in neuroscience. This study develops a nomological network with an overarching view of relationships among emotions and other constructs of interest in IS research. The resulting 3-emotion systems' nomological network includes three interacting emotion systems: language, physiology, and behavior. Two laboratory experiments were conducted to test the nomological network, with six online travel service Web pages used as stimuli. The first study used paper-based self-report measures and qualitative comments, whereas the second included both self-reports and electroencephalography (EEG) measures. An outcome measure of e-loyalty was included in each study. The results of both studies showed positive and negative emotion-inducing stimuli were related to positive and negative emotions when viewing the Web sites as indicated by both self-reports and EEG data. In turn, positive and negative emotions as measured by both self-reports and EEG measures were linked to e-loyalty to some degree. This research is novel and significant because it is possibly the first in-depth study to link the study of emotions in IS with a sound theory base and multiple measurement approaches, including neuroscience measures. It shows that an EEG measure has some predictive power for an outcome such as e-loyalty. Implications of the research are that IS studies should distinguish between the different emotion systems of language and physiology, choose emotion measures carefully, and also recognize the intertwining of the emotion systems and cognitive processing.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3226">emotions in information systems</a>,    <a href="/keywords/534">measurement</a>,    <a href="/keywords/2783">NeuroIS</a>,    <a href="/keywords/3227">neuroscience</a>,    <a href="/keywords/3228">nomological net</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

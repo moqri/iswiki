@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/112">    Volume 23 Number 3 2006
+</a> pp. 17-43</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Enabling Customer-Centricity Using Wikis and the Wiki Way</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1084">Wagner, Christian</a> and     <a href="/contributors/1097">Majchrzak, Ann</a>    </div>
+
+<p>ABSTRACT: Customer-centric business makes the needs and resources of individual customers the starting point for planning new products and services or improving existing ones. While customer-centricity has received recent attention in the marketing literature, technologies to enable customer-centricity have been largely ignored in research and theory development. In this paper, we describe one enabling technology--wikis. Wiki is a Web-based collaboration technology designed to allow anyone to update any information posted to a wiki-based Web site. As such, wikis can be used to enable customers to not only access but also change the organization's Web presence, creating previously unheard of opportunities for joint content development and "peer production" of Web content. At the same time, such openness may make the organization vulnerable to Web site defacing, destruction of intellectual property, and general chaos. In this zone of tension--between opportunity and possible failure--an increasing number of organizations are experimenting with the use of wikis and the wiki way to engage customers. Three cases of organizations using wikis to foster customer-centricity are described, with each case representing an ever-increasing level of customer engagement. An examination of the three cases reveals six characteristics that affect customer engagement--community custodianship, goal alignment among contributors, value-adding processes, emerging layers of participation, critical mass of management and monitoring activity, and technologies in which features are matched to assumptions about how the community collaborates. Parallels between our findings and those evolving in studies of the open source software movement are drawn.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2166">customer-centricity</a>,    <a href="/keywords/2167">knowledge creation</a>,    <a href="/keywords/202">knowledge management</a>,    <a href="/keywords/2168">open source</a>,    <a href="/keywords/2169">wiki</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

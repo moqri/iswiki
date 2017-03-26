@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/34">    Volume 10 Number 3 1993
+</a> pp. 25-41</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Using Group Support Systems and Joint Application Development for Requirements Specification</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1058">Liou, Yihwa Irene</a> and     <a href="/contributors/346">Chen, Minder</a>    </div>
+
+<p>ABSTRACT: The increasing use of integrated computer-aided software engineering (CASE) environments is shifting the bottleneck of systems development from physical design and coding to upstream activities, particularly requirements specification. This paper explores the use of group support systems (GSS) and joint application development (JAD) in the context of CASE environments to facilitate the requirements specification process. We first examine the relevance of GSS, JAD, and CASE to requirements specification. We then propose an integrated framework that is augmented by a domain-analysis methodology. Results of a pilot study that evaluated two process models using tools of a GSS, GroupSystems&Trade;, for requirements specification are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/443">computer-aided software engineering (CASE)</a>,    <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/694">joint application design</a>,    <a href="/keywords/695">joint application development</a>,    <a href="/keywords/696">requirements specification</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

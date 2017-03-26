@@ -1,0 +1,1138 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/102">    Volume 21 Number 1 2004
+</a> pp. 5-10</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ With e-business (an IBM-initiated synonym for e-commerce) entering a stage of early maturity, the value of specific business initiatives in this domain is being properly questioned. Although some of the established methods of assessing the value of information technology (IT) investments carry over into the new context, the Internet-enabled organizational environment requires that we revisit how the payoff is estimated. The Special Section on Measuring Business Value of Information Technology in E-Business Environments, which opens this issue, contains four papers that expand our broadly understood capabilities to assess this value. The Section&#8217;s guest editors, M. Adam Mahmood, Rajiv Kohli, and Sarv Devaraj, introduce to you the contribution of the papers. The subject matter will be continued in the Special Issue of the International Journal of Electronic Commerce, to appear as the fall 2004 issue, under the same guest editorship.
+</p>
+<p>
+ The investments in e-procurement have been a particularly weighty segment of business-to-business e-commerce. Surprisingly to many, e-procurement has not resulted in a wholesale shift to the open Web-based platform. The first paper in the general section of the issue develops a theoretical basis for removing the surprise. Extending the established transaction-cost perspective with the consideration of risks, Robert J. Kauffman and Hamid Mohtadi show that the coexistence of the open and proprietary platforms is indeed economically justified. Moreover, explicit tradeoffs and hybrid solutions are available to the firms in selecting such platforms and controlling the risks. Ironically, the options to control the risks with a greater certainty are generally available to the firms that are in a better position to assume these risks.
+</p>
+<p>
+ The firm-level analysis of the value of e-commerce capability is continued by Kevin Zhu. Adopting the resource-based approach, Zhu shows that the combination of e-commerce capability with established IT infrastructure creates complementarities leading to a superior performance of a firm. The implications for the strategic direction of corporate IT resources are derived. The resource-based approach taken in this work creates complementarities of its own with the transaction-cost perspective of the preceding paper.
+</p>
+<p>
+ &#8220;Analysis paralysis&#8221; is a well-known phenomenon in the development and adaptation of information systems. Knowing when to stop&#8212;and why&#8212;is crucial to performance during the system requirements elicitation. Mitzi G. Pitts and Glenn J. Browne investigate the stopping rules used by practicing systems analysts. The authors categorize these rules and empirically determine which of them are more effective in closing in on a complete set of system requirements. In addition to the theoretical contribution of the work, its practical use is readily apparent.
+</p>
+<p>
+ William J. Doll and his colleagues present and validate a parsimonious instrument for the measurement of the end-user computing satisfaction. The 12-item instrument has been broadly tested and found invariant with respect to the user&#8217;s position, application type, hardware platform, and development mode. The availability of this instrument is an important step in our ability to gauge the success of an information system.
+</p>
+<p>
+ The implementation of the enterprise resource planning (ERP) systems is a well-known source of spectacular&#8212;and very costly&#8212;failures. Since extensive (and extended in time) customization of such a system is a part of the implementation process, a proper relationship needs to be developed between the customizing firm and the owner company. David Gefen argues here that a significant component in developing a successful relationship is the establishment of trust between the customizer and the users in the client firm. Deploying a well-known model of trust, the author finds that, once created, the trusting relationship produces benefits extending to the perceived usefulness of the ERP system itself.
+</p>
+<p>
+ As JMIS enters the third decade of publication, I would like to express my gratitude to our authors, our readers, the Editorial Board, and the technical editors of the Journal. The very special thanks go, as always, to our referees&#8212;the primary guarantors of quality. Here are the reviewers of the Journal of Management Information Systems:
+</p>
+<p>
+ Niv Ahituv
+</p>
+<p>
+ Pervaiz Alam
+</p>
+<p>
+ Paul Alpar
+</p>
+<p>
+ Murugan Anandarajan
+</p>
+<p>
+ Hayward P. Andres
+</p>
+<p>
+ Dorine Andrews
+</p>
+<p>
+ Solomon Antony
+</p>
+<p>
+ Yoris Au
+</p>
+<p>
+ Sulin Ba
+</p>
+<p>
+ Barbro Back
+</p>
+<p>
+ P.R. Balasubramanian
+</p>
+<p>
+ Dirk Baldwin
+</p>
+<p>
+ Donald P. Ballou
+</p>
+<p>
+ Reza Barkhi
+</p>
+<p>
+ Henri Barki
+</p>
+<p>
+ Stuart J. Barnes
+</p>
+<p>
+ Dinesh Batra
+</p>
+<p>
+ Irma Becerra-Fernandez
+</p>
+<p>
+ Salvatore Belardo
+</p>
+<p>
+ Skip Benamati
+</p>
+<p>
+ Michael Benaroch
+</p>
+<p>
+ Fran&#231;ois Bergeron
+</p>
+<p>
+ Anol Bhattacherjee
+</p>
+<p>
+ Sudip Bhattacherjee
+</p>
+<p>
+ M. Brian Blake
+</p>
+<p>
+ Indranil Bose
+</p>
+<p>
+ Carol V. Brown
+</p>
+<p>
+ Robert M. Brown
+</p>
+<p>
+ Glenn J. Browne
+</p>
+<p>
+ Jeffrey Butterfield
+</p>
+<p>
+ Terry A. Byrd
+</p>
+<p>
+ Edward G. Cale, Jr.
+</p>
+<p>
+ Sven Carlsson
+</p>
+<p>
+ Houston H. Carr
+</p>
+<p>
+ William J. Carroll
+</p>
+<p>
+ Robert P. Cerveny
+</p>
+<p>
+ Sergio de Cesare
+</p>
+<p>
+ Debabroto Chatterjee
+</p>
+<p>
+ Patrick Chau
+</p>
+<p>
+ Ramnath K. Chellappa
+</p>
+<p>
+ Andrew N.K. Chen
+</p>
+<p>
+ Hong-Mei Chen
+</p>
+<p>
+ Kuan Chen
+</p>
+<p>
+ Minder Chen
+</p>
+<p>
+ Hsing Kenneth Cheng
+</p>
+<p>
+ Robert T.H. Chi
+</p>
+<p>
+ Roger Chiang
+</p>
+<p>
+ Alina M. Chircu
+</p>
+<p>
+ William C. Chismar
+</p>
+<p>
+ Jong-min Choe
+</p>
+<p>
+ H. Michael Chung
+</p>
+<p>
+ Theodore H. Clark
+</p>
+<p>
+ Roger Clarke
+</p>
+<p>
+ Randolph Cooper
+</p>
+<p>
+ Qizhi Dai
+</p>
+<p>
+ Ronald Dattero
+</p>
+<p>
+ Donald L. Davis
+</p>
+<p>
+ Gordon Depledge
+</p>
+<p>
+ Sarv Devaraj
+</p>
+<p>
+ Rajiv M. Dewan
+</p>
+<p>
+ Gisela von Dran
+</p>
+<p>
+ Peter Duchessi
+</p>
+<p>
+ Omar A. El Sawy
+</p>
+<p>
+ Sean B. Eom
+</p>
+<p>
+ J. Alberto Espinosa
+</p>
+<p>
+ Ming Fan
+</p>
+<p>
+ Bijan Fazlollahi
+</p>
+<p>
+ Steven Feiner
+</p>
+<p>
+ Kirk Fiedler
+</p>
+<p>
+ Edmond P. Fitzgerald
+</p>
+<p>
+ Jerry Fjermestad
+</p>
+<p>
+ Steven W. Floyd
+</p>
+<p>
+ Chiara Francalanci
+</p>
+<p>
+ Dennis Galletta
+</p>
+<p>
+ Edward J. Garrity
+</p>
+<p>
+ Judith Gebauer
+</p>
+<p>
+ David Gefen
+</p>
+<p>
+ Paulo B. Goes
+</p>
+<p>
+ Janis L. Gogan
+</p>
+<p>
+ Thomas Goh
+</p>
+<p>
+ Dale Goodhue
+</p>
+<p>
+ Ram D. Gopal
+</p>
+<p>
+ Sanjay Gosain
+</p>
+<p>
+ Martin D. Goslar
+</p>
+<p>
+ Paul Gray
+</p>
+<p>
+ Saul Greenberg
+</p>
+<p>
+ Robert K. Griffin
+</p>
+<p>
+ Michael D. Grigoriades
+</p>
+<p>
+ Bin Gu
+</p>
+<p>
+ Alok Gupta
+</p>
+<p>
+ Jungpil Hahn
+</p>
+<p>
+ Barbara Haley
+</p>
+<p>
+ Ingoo Han
+</p>
+<p>
+ Bill C. Hardgrave
+</p>
+<p>
+ Paul Hart
+</p>
+<p>
+ Stephen Hayne
+</p>
+<p>
+ Ann Hickey
+</p>
+<p>
+ Starr Roxanne Hiltz
+</p>
+<p>
+ Rudy Hirschheim
+</p>
+<p>
+ Richard Hoffman
+</p>
+<p>
+ John A. Hoxmeier
+</p>
+<p>
+ Paul Hu
+</p>
+<p>
+ Qing Hu
+</p>
+<p>
+ Wayne Huang
+</p>
+<p>
+ Cary Hughes
+</p>
+<p>
+ Kai Lung Hui
+</p>
+<p>
+ Ard Huizing
+</p>
+<p>
+ E. Gerald Hurst
+</p>
+<p>
+ Zahir Irani
+</p>
+<p>
+ Gretchen I. Irwin
+</p>
+<p>
+ Tomas Isakowitz
+</p>
+<p>
+ Bharat A. Jain
+</p>
+<p>
+ James J. Jiang
+</p>
+<p>
+ Linda Ellis Johnson
+</p>
+<p>
+ Robert A. Josefek, Jr.
+</p>
+<p>
+ Kailash Joshi
+</p>
+<p>
+ Boris Jukic
+</p>
+<p>
+ Nenad Jukic
+</p>
+<p>
+ Charles Kacmar
+</p>
+<p>
+ Surinder Kahai
+</p>
+<p>
+ Timo Kakola
+</p>
+<p>
+ Ajit Kambil
+</p>
+<p>
+ P.K. Kannan
+</p>
+<p>
+ Jahangir Karimi
+</p>
+<p>
+ Michael Kattan
+</p>
+<p>
+ Timothy Kayworth
+</p>
+<p>
+ Mark Keil
+</p>
+<p>
+ Chris Kemerer
+</p>
+<p>
+ Julie E. Kendall
+</p>
+<p>
+ William J. Kettinger
+</p>
+<p>
+ Omar E.M. Khalil
+</p>
+<p>
+ Melody Y. Kiang
+</p>
+<p>
+ Ruth King
+</p>
+<p>
+ Rajiv Kishore
+</p>
+<p>
+ Gary Klein
+</p>
+<p>
+ Rajiv Kohli
+</p>
+<p>
+ Esther Koster
+</p>
+<p>
+ Marios Koufaris
+</p>
+<p>
+ Kenneth A. Kozar
+</p>
+<p>
+ Kenneth L. Kraemer
+</p>
+<p>
+ Allan Krebs
+</p>
+<p>
+ Ramayya Krishnan
+</p>
+<p>
+ Uday Kulkarni
+</p>
+<p>
+ Akhil Kumar
+</p>
+<p>
+ Ram Kumar
+</p>
+<p>
+ Mary C. Lacity
+</p>
+<p>
+ Simon S.K. Lam
+</p>
+<p>
+ Karl R. Lang
+</p>
+<p>
+ Tor J. Larsen
+</p>
+<p>
+ Kathy S. Lassila
+</p>
+<p>
+ Heeseok Lee
+</p>
+<p>
+ Ho Geun Lee
+</p>
+<p>
+ Jungwoo Lee
+</p>
+<p>
+ Yang Lee
+</p>
+<p>
+ Zoonky Lee
+</p>
+<p>
+ Dorothy Leidner
+</p>
+<p>
+ Richard Leifer
+</p>
+<p>
+ Katherine N. Lemon
+</p>
+<p>
+ Mary Jane Lenard
+</p>
+<p>
+ Hugo Levecq
+</p>
+<p>
+ Ting-Peng Liang
+</p>
+<p>
+ Nancy Lightner
+</p>
+<p>
+ John Lim
+</p>
+<p>
+ Kai Lim
+</p>
+<p>
+ Yihwa Irene Liou
+</p>
+<p>
+ Astrid Lipp
+</p>
+<p>
+ Henry C. Lucas, Jr.
+</p>
+<p>
+ Mark Lycett
+</p>
+<p>
+ Kalle Lyytinen
+</p>
+<p>
+ William McCarthy
+</p>
+<p>
+ Jane M. Mackay
+</p>
+<p>
+ Roy McKelvey
+</p>
+<p>
+ D. Harrison McKnight
+</p>
+<p>
+ Ephraim R. McLean
+</p>
+<p>
+ Poppy L. McLeod
+</p>
+<p>
+ Simha R. Magal
+</p>
+<p>
+ M. Adam Mahmood
+</p>
+<p>
+ Arvind Malhotra
+</p>
+<p>
+ Yogesh Malhotra
+</p>
+<p>
+ Ji-Ye Mao
+</p>
+<p>
+ Salvatore T. March
+</p>
+<p>
+ James R. Marsden
+</p>
+<p>
+ Ivan Marsic
+</p>
+<p>
+ Anne P. Massey
+</p>
+<p>
+ Charles H. Mawhinney
+</p>
+<p>
+ Jerrold H. May
+</p>
+<p>
+ Roberto J. Mejias
+</p>
+<p>
+ Shaila Miranda
+</p>
+<p>
+ Rajesh Mirani
+</p>
+<p>
+ Ali R. Montazemi
+</p>
+<p>
+ Ramiro Montealegre
+</p>
+<p>
+ Jeanette Moody
+</p>
+<p>
+ Steven Morris
+</p>
+<p>
+ Jolene Morrison
+</p>
+<p>
+ Michael D. Myers
+</p>
+<p>
+ Peter P. Mykytyn, Jr.
+</p>
+<p>
+ Barin N. Nag
+</p>
+<p>
+ Murli Nagasundaram
+</p>
+<p>
+ R. Ryan Nelson
+</p>
+<p>
+ Boon Siong Neo
+</p>
+<p>
+ Fred Niederman
+</p>
+<p>
+ Mark Nissen
+</p>
+<p>
+ Rosalie Ocker
+</p>
+<p>
+ Wonseok Oh
+</p>
+<p>
+ Bob O&#8217;Keefe
+</p>
+<p>
+ Lorne Olfman
+</p>
+<p>
+ James Oliver
+</p>
+<p>
+ Levent Orman
+</p>
+<p>
+ Carl Pacini
+</p>
+<p>
+ Jonathan W. Palmer
+</p>
+<p>
+ Raymond R. Panko
+</p>
+<p>
+ Michael Parent
+</p>
+<p>
+ Jeffrey Parsons
+</p>
+<p>
+ David J. Pauleen
+</p>
+<p>
+ Paul A. Pavlou
+</p>
+<p>
+ Kenneth Peffers
+</p>
+<p>
+ Norman Pendegraft
+</p>
+<p>
+ Mark Pendergast
+</p>
+<p>
+ Robin Pennington
+</p>
+<p>
+ Roger A. Pick
+</p>
+<p>
+ Leo L. Pipino
+</p>
+<p>
+ Jean-Charles Pomerol
+</p>
+<p>
+ Gerald Post
+</p>
+<p>
+ John H. Prager
+</p>
+<p>
+ G. Premkumar
+</p>
+<p>
+ Sandeep Purao
+</p>
+<p>
+ Jim J. Quan
+</p>
+<p>
+ S. Raghunathan
+</p>
+<p>
+ Arik Ragowsky
+</p>
+<p>
+ T.S. Ragu-Nathan
+</p>
+<p>
+ Arun Rai
+</p>
+<p>
+ Rex Kelly Rainer, Jr.
+</p>
+<p>
+ K. Ramamurthy
+</p>
+<p>
+ K.S. Raman
+</p>
+<p>
+ B. Ramesh
+</p>
+<p>
+ Neil C. Ramiller
+</p>
+<p>
+ Richard G. Ramirez
+</p>
+<p>
+ Bharat Rao
+</p>
+<p>
+ H.R. Rao
+</p>
+<p>
+ R. Ravichandran
+</p>
+<p>
+ T. Ravichandran
+</p>
+<p>
+ Sury Ravindran
+</p>
+<p>
+ Amy W. Ray
+</p>
+<p>
+ Louis Raymond
+</p>
+<p>
+ Paul Resnick
+</p>
+<p>
+ William B. Richmond
+</p>
+<p>
+ Frederick Riggins
+</p>
+<p>
+ Suzanne Rivard
+</p>
+<p>
+ Daniel Robey
+</p>
+<p>
+ Michael B. Rogich
+</p>
+<p>
+ Nicholas C. Romano, Jr.
+</p>
+<p>
+ Sherry D. Ryan
+</p>
+<p>
+ Young U. Ryu
+</p>
+<p>
+ Timo Saarinen
+</p>
+<p>
+ Rajiv Sabherwal
+</p>
+<p>
+ Naveed Saleem
+</p>
+<p>
+ G. Lawrence Sanders
+</p>
+<p>
+ Radhika Santhanam
+</p>
+<p>
+ Carol Saunders
+</p>
+<p>
+ George Schell
+</p>
+<p>
+ Petra Schubert
+</p>
+<p>
+ Judy Scott
+</p>
+<p>
+ Ravi Sen
+</p>
+<p>
+ Kishore Sengupta
+</p>
+<p>
+ Vikram Sethi
+</p>
+<p>
+ Theresa M. Shaft
+</p>
+<p>
+ Jim Sheffield
+</p>
+<p>
+ Olivia Sheng
+</p>
+<p>
+ Morgan M. Shepherd
+</p>
+<p>
+ Michael Shields
+</p>
+<p>
+ Siew Kien Sia
+</p>
+<p>
+ Atish P. Sinha
+</p>
+<p>
+ Sumit Sircar
+</p>
+<p>
+ H. Jeff Smith
+</p>
+<p>
+ Michael D. Smith
+</p>
+<p>
+ Charles A. Snyder
+</p>
+<p>
+ William E. Spangler
+</p>
+<p>
+ Rajendra P. Srivastava
+</p>
+<p>
+ Thomas F. Stafford
+</p>
+<p>
+ Sandy Staples
+</p>
+<p>
+ Eric W. Stein
+</p>
+<p>
+ Dick Stenmark
+</p>
+<p>
+ Lee Stepina
+</p>
+<p>
+ John M. Stevens
+</p>
+<p>
+ Mani Subramani
+</p>
+<p>
+ Girish Subramanian
+</p>
+<p>
+ Ramesh Subramanian
+</p>
+<p>
+ Robert T. Sumichrast
+</p>
+<p>
+ Shankar Sunarajan
+</p>
+<p>
+ Arun Sundararajan
+</p>
+<p>
+ Tae Kyung Sung
+</p>
+<p>
+ Roderick I. Swaab
+</p>
+<p>
+ Edward J. Szewczak
+</p>
+<p>
+ Paul P. Tallon
+</p>
+<p>
+ Kar Yan Tam
+</p>
+<p>
+ Bernard C.Y. Tan
+</p>
+<p>
+ Yao-Hua Tan
+</p>
+<p>
+ Mohan R. Tanniru
+</p>
+<p>
+ Alfred Taudes
+</p>
+<p>
+ Angsana A. Techatassanasoontorn
+</p>
+<p>
+ David P. Tegarden
+</p>
+<p>
+ Gary F. Templeton
+</p>
+<p>
+ James T.C. Teng
+</p>
+<p>
+ Hock-Hai Teo
+</p>
+<p>
+ Thompson Teo
+</p>
+<p>
+ Jason B. Thatcher
+</p>
+<p>
+ Matthew Thatcher
+</p>
+<p>
+ Ron Thompson
+</p>
+<p>
+ James Y.L. Thong
+</p>
+<p>
+ John Tillquist
+</p>
+<p>
+ Leon van der Torre
+</p>
+<p>
+ Jonathan K. Trower
+</p>
+<p>
+ Duane Truex
+</p>
+<p>
+ Gregory E. Truman
+</p>
+<p>
+ Ilkka Tuomi
+</p>
+<p>
+ Brad Tuttle
+</p>
+<p>
+ Tuure Tuunanen
+</p>
+<p>
+ N.S. Umanath
+</p>
+<p>
+ Rustam Vahidov
+</p>
+<p>
+ Yaniv Vakrat
+</p>
+<p>
+ Vasja Vehovar
+</p>
+<p>
+ Viswanath Venkatesh
+</p>
+<p>
+ Michael Wade
+</p>
+<p>
+ Steven Walczak
+</p>
+<p>
+ Bin Wang
+</p>
+<p>
+ Michael S. Wang
+</p>
+<p>
+ Shouhong Wang
+</p>
+<p>
+ Y. Richard Wang
+</p>
+<p>
+ Carol Watson
+</p>
+<p>
+ Mary Beth Watson-Manheim
+</p>
+<p>
+ Bruce W. Weber
+</p>
+<p>
+ Thomas Weber
+</p>
+<p>
+ Chih-Ping Wei
+</p>
+<p>
+ Charles E. Wells
+</p>
+<p>
+ Larry West
+</p>
+<p>
+ J. Christopher Westland
+</p>
+<p>
+ Seungjin Whang
+</p>
+<p>
+ Michael E. Whitman
+</p>
+<p>
+ George Widmeyer
+</p>
+<p>
+ Fons Wijnhoven
+</p>
+<p>
+ Charles Willow
+</p>
+<p>
+ Barbara Wixom
+</p>
+<p>
+ Charles A. Wood
+</p>
+<p>
+ Hans Wortmann
+</p>
+<p>
+ D.J. Wu
+</p>
+<p>
+ Mu Xia
+</p>
+<p>
+ Christopher Yang
+</p>
+<p>
+ Byungjoon Yoo
+</p>
+<p>
+ Han Zhang
+</p>
+<p>
+ Ping Zhang
+</p>
+<p>
+ J. Leon Zhao
+</p>
+<p>
+ Lina Zhou
+</p>
+<p>
+ Kevin Zhu
+</p>
+<p>
+ Ilze Zigurs
+</p>
+<p>
+ Moshe Zviran
+</p>
+<p>
+ Wishing you&#8212;and JMIS&#8212;a good decade,
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

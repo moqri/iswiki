@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/93">    Volume 21 Number 3 2004
+</a> pp. 281-314</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>CABSYDD: Case-Based System for Database Design</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/375">Choobineh, Joobin</a> and     <a href="/contributors/376">Lo, Amber W</a>    </div>
+
+<p>ABSTRACT: The majority of the reported research and development efforts on automated techniques and tools for conceptual database design have focused on design from first principles. Very few have used case-based reasoning, where cases of conceptual design are stored, indexed, and used for future designs. Furthermore, there is a general lack of reported research on validating and verifying such systems. In this paper, we describe our approach in using case-based reasoning for conceptual data-base design. To test and demonstrate the feasibility of our approach and its theoretical foundation, two prototype systems were constructed. In the absence of existing matching conceptual design constructs, the first system uses first principles of conceptual design to assist a human designer in arriving at a design for a new problem. In contrast, the second system uses constructs from previously stored design cases. The two are tightly integrated. A novel approach in structuring the case base was developed. Unique aspects of the case-base architecture and its learning mechanism are described. In order to measure user preference, an experiment was designed and conducted. Findings indicate that reuse of schemata not only is preferred by the users over the design from the first principles, but also results in fewer errors.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1863">automated database design</a>,    <a href="/keywords/207">case-based reasoning</a>,    <a href="/keywords/1864">conceptual database design</a>,    <a href="/keywords/236">database design</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/69">    Volume 6 Number 3 1989
+</a> pp. 7-24</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Nick Experimentation: Selected Results Concerning Effectiveness of Meeting Support Technology</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/569">Ellis, Clarence A,</a>    <a href="/contributors/570">Rein, Gail L,</a> and     <a href="/contributors/571">Jarvenpaa, Sirkka L</a>    </div>
+
+<p>ABSTRACT: The Nick Summer Experiment was an empirical study undertaken to explore and increase the understanding of the use of prototype meeting support technology by software design teams working on high-level design problems. Three teams of designers (seven MCC researchers per team) were observed and videotaped while participating in 27 one-hour, face-to-face design meetings in both the electronic meeting room and in a conventional meeting room. The Nick support technologies explicitly aided the affective social meeting structures, as well as the rational task-oriented processes. Analysis of the experimental data revealed some gains in meeting effectiveness and quality from use of the Nick meeting support technologies. The "subchannel" (messaging facility on the electronic workstations) emerged as a potentially effective way for participants to attain more equality and to influence the direction of the meetings. The electronic blackboard helped to increase group focus and attention on completing the task.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/376">electronic meetings</a>,    <a href="/keywords/201">decision room</a>,    <a href="/keywords/377">electronic blackboard</a>,    <a href="/keywords/378">electronic messaging</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

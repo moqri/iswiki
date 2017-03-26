@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/18">    Volume 27 Number 1 2010
+</a> pp. 175-201</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Technology Dominance in Complex Decision Making: The Case of Aided Credibility Assessment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/852">Jensen, Matthew L,</a>    <a href="/contributors/532">Lowry, Paul Benjamin,</a>    <a href="/contributors/856">Burgoon, Jude K,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: The article presents the results of an experiment which involved novices and experts using a decision aid to detect deception in a law enforcement scenario. Both groups improved their assessment accuracy using the decision support system, but tended to ignore it when it contradicted them. The professionals often did not even look at the decision aid's reasons for contradicting them. The theory of technology dominance (TTD) is discussed in this context, and it is noted that the experiment's results contradicted TTD in two respects.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2655">credibility</a>,    <a href="/keywords/2656">credibility assessment</a>,    <a href="/keywords/1754">deception</a>,    <a href="/keywords/1755">deception detection</a>,    <a href="/keywords/107">decision aids</a>,    <a href="/keywords/195">decision making</a>,    <a href="/keywords/2657">theory of technology dominance</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

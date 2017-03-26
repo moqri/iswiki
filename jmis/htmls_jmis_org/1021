@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/104">    Volume 14 Number 4 1998
+</a> pp. 149-166</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Project Memory: Information Management for Project Teams</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1380">Weiser, Mark</a> and     <a href="/contributors/1579">Morrison, Joline</a>    </div>
+
+<p>ABSTRACT: Modern organizations are successfully using project teams to address complex tasks. Yet these teams often use approaches for project data management that may not capture project processes, contexts, rationales, or artifacts in a way that enables new project members to familiarize themselves quickly with the project history. Project information is rarely captured, retained, or indexed so that people external to the project can retrieve and apply it to future tasks. To address the issue of capturing a comprehensive project history that can subsequently be retrieved and applied to current problems, a generalizable object-oriented data model is developed. It decomposes project information into five discrete classes: projects, users, events, meetings, and documents. Through inheritance and domain references, the model describes the people, temporal events (such as meetings or single agenda items within a meeting), and archival documents that are created within a project or support some aspect of the project. These project items can be retrieved based on either contextual information (such as the dates they were created or last revised, who created them, or the projects they pertain to) or user-supplied descriptive keywords. Hypertext-like links can also be created to associate related items. Based on this model, a prototype system, Project Memory, has been developed to validate the model structure and system requirements.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/202">knowledge management</a>,    <a href="/keywords/313">organizational learning</a>,    <a href="/keywords/511">organizational memory</a>,    <a href="/keywords/1117">team memory</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

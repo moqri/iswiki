@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/92">    Volume 17 Number 2 2000
+</a> pp. 29-57</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Managing the Costs of Informational Privacy: Pure Bundling as a Strategy in the Individual Health Insurance Market</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/315">Thatcher, Matt E</a> and     <a href="/contributors/69">Clemons, Eric K</a>    </div>
+
+<p>ABSTRACT: Advances in genetic testing and data mining technologies have increased the availability of genetic information to insurance companies and insureds (applicants and policy holders) in the individual health insurance market (IHIM). Regulators, concerned that insurance companies will use this information to discriminate against applicants who have a genetic risk factor but who are still healthy, have implemented genetic privacy legislation in at least 18 states. However, in previous work we have demonstrated that such legislation will have unintended consequences--it will reduce consumer participation in the market without making those remaining better off. This paper identifies a mechanism, a pure bundling strategy, that insurance companies may implement in this regulatory environment to restore (or maximize) consumer participation in the market and to discourage such discrimination among insureds. This problem is examined through System Dynamics, a simulation-based modeling technique. The results will have significant implications for policy designs implemented by insurance companies, and for legislation implemented by industry regulators, and therefore, for the insurability of the individuals that rely on this market for health insurance coverage.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1351">bundling</a>,    <a href="/keywords/1352">information privacy</a>,    <a href="/keywords/1353">insurance markets</a>,    <a href="/keywords/1354">insurance policy</a>,    <a href="/keywords/1355">privacy</a>,    <a href="/keywords/1356">privacy cost</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/64">    Volume 29 Number 4 2013
+</a> pp. 127-158</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Service Expansion of Product Firms in the Information Technology Industry: An Empirical Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/729">Han, Shu,</a>    <a href="/contributors/730">Kuruzovich, Jason,</a> and     <a href="/contributors/731">Ravichandran, T</a>    </div>
+
+<p>ABSTRACT: The provision of services has become an increasingly important component of the economy of industrialized countries and the revenue stream for many traditional product companies. This is especially true for companies that offer information technology (IT) products. This paper examines factors that are associated with the extent to which IT product companies are able to develop service revenue, which we refer to as service expansion of IT product companies. We identify the characteristics of the product portfolio-specifically, the composition and scope of firm offerings among hardware, application software, and infrastructure software-as key to successful service expansion. We also propose that this relationship is moderated by prior performance of the product business and industry characteristics such as concentration and maturity. Data from IT product vendors spanning five years are used to test the proposed relationships. Overall, this research provides a theoretical foundation for understanding service expansion and diversification in the IT industry as well as practical guidance for IT product companies considering expansion to services.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2288">IT services</a>,    <a href="/keywords/3064">IT stack</a>,    <a href="/keywords/2860">IT vendors</a>,    <a href="/keywords/3065">service diversification</a>,    <a href="/keywords/3066">software product portfolio</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

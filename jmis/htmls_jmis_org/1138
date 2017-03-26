@@ -1,0 +1,79 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/112">    Volume 23 Number 3 2006
+</a> pp. 5-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ The relationship between producers and their customers and, in particular, producers and consumers, has been undergoing a profound change over recent decades. The change has deepened and its pace has accelerated since the Web&#8211;Internet compound has become the ever more significant nexus for the relationships between the producers and their present and potential consumers. The relative power of consumers has grown, driven by two contemporaneous forces, as the proliferation of the Web has coincided with the major constituents of the world&#8217;s population joining the global division of labor, globally oriented consumption, and global competition.
+</p>
+<p>
+ It is of great interest to us here that the consumers have become more active participants in their relationship with the producers. This relationship has expanded beyond the exchange and its shared facilitation (say, via self-service) into the production process itself. A well-defined, and highly visible, consumer segment has been participating in the actual creation of marketable value. In this co-production process, the division between producers and consumers has become a semipermeable membrane, with the osmosis invading the task zone previously occupied exclusively by the producers.
+</p>
+<p>
+ The detailed analysis of the ramifications of this sea change is a task for another day (which I hope to find available). Several key factors need a mention here. Information and telecommunication technologies have become&#8212;in several major ways&#8212;the impetus and the continuing force of change. The nature of products has changed. Information goods are claiming an ever larger share of the product spectrum. Beyond that, many physical products have been morphed into a package of product-service-information. With information products, be they software, massively multiplayer online games, or blogs, the consumers are in possession of the means of production and of the requisite knowledge. With the Internet&#8211;Web compound as an interactive medium and a medium of relationships among the potential consumers, these individuals are in a position to self-organize into production collectives, with varied, yet effective, personal motivations. The acculturation to the permanently unfinished information products, be they Wikipedia, open source software, or a blog, and to the active individual participation in their production, is the vital cultural change propelling the developments in co-production. It can be safely said that the innovation imperative of today&#8217;s organizations necessitates activation of customers as co-producers of value to one degree or another.
+</p>
+<p>
+ It is apparent from the forces, enablers, and impacts of this transformation that our field has vital contributions to make in the understanding of this change. With the deeper understanding, further innovation  will come. The organizational information systems (IS) are changing internally as they are driven by the mandate to center on the customer, and as they assimilate such organizational innovations as open source development or wiki-based communications. The organizational processes and systems will also change as their owners need to open up not only to their organizational partners, but to the various user communities whose participants become customers and, indeed, co-producers of value.
+</p>
+<p>
+ The Special Section on Customer-Centric Information Systems, guest-edited by Ting-Peng Liang and Mohan Tanniru, addresses a number of issues attendant on this momentous reorientation. The authors of the four papers in the Special Section empirically study several nodal aspects of the transformation. They offer theoretically based and empirically verified conclusions about a variety of means of personalized connections with customers over Web interfaces. In their introduction to the Special Section, the Guest Editors offer their framework for the study of customer-centric IS, as well as introduce the papers of the Section.
+</p>
+<p>
+ Strategic alignment between a firm&#8217;s business direction in its competitive context, on the one hand, and the strategic plans for the firm&#8217;s information technology (IT), on the other, is known to be a precondition for positive business impacts. In turn, a number of antecedents of this alignment have been researched, and some of them have even been implemented in various organizations. Knowledge-based theory of the firm, viewing it is as the nexus of a dynamic capability for knowledge integration, is deployed here by Grover S. Kearns and Rajiv Sabherwal to study an effective alignment. The researchers find empirically that specific processes and behaviors aimed at corporate knowledge management, and the development of common knowledge and understandings between the business and IS executives, lead to beneficial alignment results. Project-level planning is found to be a significant component of the overall alignment process.
+</p>
+<p>
+ Enterprise architecture (EA) standards aim to evoke firm-wide compliance with the common infrastructure, data repositories, and applications supporting the core business processes. When used properly, such standards can lead both to economies of nonreplication and reuse and to corporate agility in responding to opportunities or threats from high IT platforms. Here, Wai Fong Boh and Daniel Yellin study how firms that are reasonably advanced in their implementation of EA standards govern their introduction and maintenance, and to what effect. The authors also investigate the principal governance mechanisms through which the standards can lead to an effective utilization of organizational IT resources.
+</p>
+<p>
+ With IT-enabled virtual teams playing a major role in work organization, two papers in this issue study the performance of such teams. Mark A. Fuller, Andrew M. Hardin, and Robert M. Davison empirically analyze the collective efficacy of teams spanning three continents. The authors develop and validate the measure of virtual team efficacy. The work will help in diagnosing the presence of efficacy sources in a team and in effectuating timely remedies when required. Necessary as they are in contemporary work organizations, globally distributed teams face inherent challenges. They cross over a number of boundaries, and the virtuality is generally not an advantage, with its relatively impoverished human contact. These challenges are at the source of conflicts, many of them counterproductive. Here, Atreyi Kankanhalli, Bernard C.Y. Tan, and Kwok-Kee Wei offer and validate a model of the sources and consequences of conflict within global virtual teams. Both works will help in creating IT-based and other interventions when deficiencies are found. The models and the instruments presented here will be a foundation for further research on the effectiveness of globally distributed virtual teams.
+</p>
+<p>
+ Service-oriented architectures (SOA) are gaining traction in supporting supply chains and webs spanning various industries. The Web services, that is, the software components deployed in SOA, have their own supply chains, grounded in the incentives extended to and by various suppliers and intermediaries. In their paper, Qian &#8220;Candy&#8221; Tang and Hsing &#8220;Kenneth&#8221; Cheng analytically study the  optimal pricing strategy of a monopolistic intermediary that facilitates the marketplace of Web services. Since the intermediaries providing technological services and aggregation of complementary Web services are highly active in these marketplaces, the work is relevant to the further development of both the specialized supply chains for Web services and the industry supply chains these facilitate.
+</p>
+<p>
+ Organizational knowledge management (KM) is the subject of research presented by Uday R. Kulkarni, Sury Ravindran, and Ronald Freeze. These authors develop and empirically validate a model of success of organizational KM that incorporates both the supply side (contribution of the explicit knowledge) and the demand side (reuse of the supplied knowledge). The model is quite comprehensive in going well beyond the usually considered motivation factors to the quality of KM systems and their content. The integration of various research approaches represented in the model lays the groundwork for much of the further work on KM.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

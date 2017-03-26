@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/9">    Volume 7 Number 1 1990
+</a> pp. 47-64</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Path Analysis of the Relationship between Competitive Strategy, Information Technology, and Financial Performance</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/614">Floyd, Steven W</a> and     <a href="/contributors/615">Wooldridge, Bill</a>    </div>
+
+<p>ABSTRACT: This study evaluates the impact of competitive strategy on information technology (IT) and of IT on organizational performance. In addition, the research model incorporates indirect performance effects from strategy and IT alignment. Data is drawn from the survey responses of 127 banks and interviews with 68 bank CEOs. Path analysis separates direct, indirect, and spurious effects. Interview data support the quantitative analysis. The results lend statistical support to the strategy--IT relationship described in case studies, and in addition, provide an explanation for inconsistent findings in previous IT performance research.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/38">information systems for competitive advantage</a>,    <a href="/keywords/411">information technology and corporate performance</a>,    <a href="/keywords/412">alignment of IT and business strategy</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

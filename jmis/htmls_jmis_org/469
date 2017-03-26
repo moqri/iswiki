@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/56">    Volume 14 Number 1 1997
+</a> pp. 41-68</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Reengineering the Systems Development Process: The Link Between Autonomous Teams and Business Process Outcomes</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/845">Janz, Brian D,</a>    <a href="/contributors/846">Wetherbe, James C,</a>    <a href="/contributors/817">Davis, Gordon B,</a> and     <a href="/contributors/847">Noe, Raymond A</a>    </div>
+
+<p>ABSTRACT: Increases in employee autonomy and the formation of teams often result from reengineering and process innovation efforts, as do moves to "downsize" or "flatten" organizations. Information systems departments have not been insulated from these trends. In spite of the rising interest in these initiatives, little is known about their impact on the systems development process. Past research in blue-collar contexts suggests that teams produce improvements in performance, while anecdotal evidence in the IS industry suggests that such improvements may never materialize. This paper reports on research conducted with 231 IS professionals from 27 systems development teams across 13 organizations. The results indicate that, while autonomy may lead to increased levels of satisfaction and motivation, the level of team development and an organization's learning capacity may be more important in achieving improved work outcomes.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1024">business process change</a>,    <a href="/keywords/716">business reengineering</a>,    <a href="/keywords/1028">cooperative learning</a>,    <a href="/keywords/1029">employee autonomy</a>,    <a href="/keywords/1030">process improvement</a>,    <a href="/keywords/1031">self-direction</a>,    <a href="/keywords/117">system development</a>,    <a href="/keywords/1032">team development</a>,    <a href="/keywords/1033">teams</a>,    <a href="/keywords/1034">teamwork</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/117">    Volume 11 Number 1 1994
+</a> pp. 101-129</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Extending SQL with Graph Matching and Set Covering for Decision Support Applications</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/878">Jorng-Tzong, Horng,</a>    <a href="/contributors/879">Gwo-Dong, Chen,</a> and     <a href="/contributors/880">Baw-Jhiune, Liu</a>    </div>
+
+<p>ABSTRACT: Graph matching, set covering, and partitioning problems are both theoretically and practically important in decision support systems. Numerous decision support applications have been modeled as graph matching, set covering, and partitioning problems. These include applications in the areas of task assignment, marriage problem, airline crew scheduling, truck deliveries or vehicle routing, political redistricting, and the like. Currently, these applications are supported through programs written in external (to the database system) programming languages that use only the data in the database system. Thus, decision makers or application programmers require extra effort to get required decision support information. As opposed to database systems, the purpose of a model management system (MMS) is to make a wide variety of models available to decision makers so they can apply these models without having to become involved in technical and/or procedural aspects of implementation. The goal of this research is to integrate database systems and model systems for zero-one integer programming problems especially concerning graph matching, set covering, and partitioning problems. Users utilize a single integrated language for both problem formulation and model execution. In order to achieve this goal, we extend relational operators and the query language SQL. The relational operators are extended with six operators, namely, match, maxmatch, cover, mincover, partition, and minpartition. Some of these operators may take a very long time to find an optimal solution. In this article, we adopted genetic algorithms to find a near-optimal solution of this kind of operators. We found they performed well both on the computational effort and on the quality of the solutions through a variety of test problems. These algorithms are bounded by a polynomial time. Therefore, they enable a DBMS to respond to queries involving proposed operators in a restricted amount of time.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/748">genetic algorithms</a>,    <a href="/keywords/749">integer programming</a>,    <a href="/keywords/108">model management systems</a>,    <a href="/keywords/59">relational databases</a>,    <a href="/keywords/401">SQL</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

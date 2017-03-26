@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/37">    Volume 25 Number 2 2008
+</a> pp. 97-123</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Risk of Inadvertent Disclosure: An Analysis of File-Sharing Risk in the Financial Supply Chain</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/873">Johnson, M Eric</a>    </div>
+
+<p>ABSTRACT: Firms face many different types of information security risk. Inadvertent disclosure of sensitive business information represents one of the largest classes of recent security breaches. We examine a specific instance of this problem--inadvertent disclosures through peer-to-peer file-sharing networks. We characterize the extent of the security risk for a group of large financial institutions using a direct analysis of leaked documents. We also characterize the threat of loss by examining search patterns in peer-to-peer networks. Our analysis demonstrates both a substantial threat and vulnerability for large financial firms. We find a statistically significant link between leakage and leak sources including the firm employment base and the number of retail accounts. We also find a link between firm visibility and threat activity. Finally, we find that firms with more leaks also experience increased threat.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2435">data breaches</a>,    <a href="/keywords/2436">file-sharing</a>,    <a href="/keywords/2271">information security</a>,    <a href="/keywords/2437">inadvertent disclosure</a>,    <a href="/keywords/2438">intellectual property leaks</a>,    <a href="/keywords/1966">peer-to-peer networks</a>,    <a href="/keywords/479">risk management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

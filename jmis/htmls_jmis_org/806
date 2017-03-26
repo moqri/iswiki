@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/79">    Volume 6 Number 2 1989
+</a> pp. 93-104</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Information Center Career</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/737">Rainer Jr, R Kelly,</a>    <a href="/contributors/1087">Carr, Houston H,</a>    <a href="/contributors/576">Snyder, Charles A,</a> and     <a href="/contributors/1295">Frolick, Mark N</a>    </div>
+
+<p>ABSTRACT: </p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/365">end-user computing</a>,    <a href="/keywords/242">information center</a>,    <a href="/keywords/344">information systems personnel</a>,    <a href="/keywords/375">career planning in MIS</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

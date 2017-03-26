@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/122">    Volume 31 Number 1 2014
+</a> pp. 47-78</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Talk Before It&#039;s Too Late: Reconsidering the Role of Conversation in Information Systems Project Management</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1682">Mastrogiacomo, Stefano,</a>    <a href="/contributors/1683">Missonier, Stephanie,</a> and     <a href="/contributors/1684">Bonazzi, Riccardo</a>    </div>
+
+<p>ABSTRACT: Effective team coordination is essential for the information systems (IS) projects' success. We present a four-year study, based on design science research, to develop and instantiate a conceptual model-called Coopilot-to improve real-time coordination in IS projects. Coopilot is a simple conversational guide to help IS project managers minimize the number of coordination surprises that arise for teams during their project meetings. Drawing on coordination literature outside the IS research field, we have adapted and instantiated the theory of joint activity developed by psycholinguist Herbert Clark. The results illustrate the value Clark's theory can add to the IS field and both the importance of conversation intended as a new theoretical construct in IS team project coordination as well as the importance of reaching a sufficient level of understanding. Project managers involved in this study who used Coopilot reported both higher levels of confidence that their projects were on a successful path and overall higher levels of team motivation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3298">conversation for coordination</a>,    <a href="/keywords/3299">IS project management</a>,    <a href="/keywords/3300">IS teams</a>,    <a href="/keywords/83">project management</a>,    <a href="/keywords/3301">team coordination</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

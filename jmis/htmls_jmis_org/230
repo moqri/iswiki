@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/19">    Volume 7 Number 2 1990
+</a> pp. 9-28</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Strategic Information Technology Investments: Guidelines for Decision Making</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/393">Weber, Bruce W</a>    </div>
+
+<p>ABSTRACT: As the strategic importance of information technology (IT) has increased, the decision of where and when to allocate resources to IT programs has become more risky and more difficult. Executives are tempted by the opportunities for strategic impact, but struggle with the massive expenditures and uncertainties involved. Evaluating the opportunity afforded by a system and judging its strategic impact in advance have proven difficult, and even when analyses are performed well, they are frequently done on an ad hoc basis. IT can confer advantage under appropriate conditions, and equally important, even when it fails to confer advantage, it may still prove crucial. Both concepts--competitive advantage and strategic necessity--confound traditional financial analysis. We offer seven principles on which to base an evaluation of a strategic IT venture. Although we have not performed a statistically validating study, these principles are expressed as guidelines we believe to be true, based on experience. The guidelines range from modeling the investment decision, through managing risk, to preparing for unanticipated upside and downside implications.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/38">information systems for competitive advantage</a>,    <a href="/keywords/420">investment in information systems</a>,    <a href="/keywords/421">risk assessment for information system projects</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

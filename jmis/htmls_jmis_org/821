@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/68">    Volume 23 Number 4 2007
+</a> pp. 143-161</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>On the Measurement of Ideation Quality</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/249">Reinig, Bruce A,</a>    <a href="/contributors/230">Briggs, Robert O,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: Ideation is a key step in organizational problem solving, so researchers have developed a variety of technological interventions for improving ideation quality, which we define as the degree to which an ideation activity produces ideas that are helpful in attaining a goal. In this paper, we examine the four measures typically used to evaluate ideation quality, including idea-count, sum-of-quality, average-quality, and good-idea-count, and discuss their validity and potential biases. An experimental study comparing three levels of social comparison was used to illustrate the differences in the ideation quality measures and revealed that research conclusions were dependent on the measure used. Based on our analysis of the measures and experimental results, we recommend that only good-idea-count be used as a measure to evaluate ideation treatments and call into question research that has based its findings on the other measures. Finally, we discuss implications for research and other potential approaches to evaluating ideation quality.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2220">construct validity</a>,    <a href="/keywords/890">electronic brainstorming</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/1526">idea quality</a>,    <a href="/keywords/1527">idea quantity</a>,    <a href="/keywords/1757">ideation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

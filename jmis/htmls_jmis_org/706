@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/44">    Volume 10 Number 1 1993
+</a> pp. 33-55</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Microeconomic Production Assessment of the Business Value of Management Information Systems: The Case of Inventory Control</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/281">Mukhopadhyay, Tridas</a> and     <a href="/contributors/886">Cooper, Randolph B</a>    </div>
+
+<p>ABSTRACT: Determining the business value of management information systems (MIS) is hindered by the lack of a strong theoretical foundation. To better understand and evaluate the impact of MIS in organizations, microeconomic production theory is offered as a foundation that relates MIS to decisions and decisions to firm productivity. Based upon analytic and empirical analyses, this production approach is found to be appropriate in more programmed and management or operational control contexts, such as inventory control. The utility of the approach is demonstrated by providing the ability to compare and evaluate alternative MIS as well as to identify optimal MIS configurations. The use of this approach is illustrated in an inventory ordering context.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/644">firm productivity</a>,    <a href="/keywords/645">microeconomics</a>,    <a href="/keywords/646">MIS characteristics</a>,    <a href="/keywords/647">MIS evaluation</a>,    <a href="/keywords/648">production theory</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

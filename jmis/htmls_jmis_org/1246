@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/127">    Volume 32 Number 2 2015
+</a> pp. 71-103</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Industry-Level Analysis of Information Technology Return and Risk: What Explains the Variation?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1774">Ren, Fei</a> and     <a href="/contributors/1775">Dewan, Sanjeev</a>    </div>
+
+<p>ABSTRACT: 
+<p>Motivated by the wide dispersion in the returns on the use of information technology (IT) across industries, we conduct an industry-level examination of IT return and risk, focusing on the moderating role of industry competition, regulation, and technological change. We address the following research questions: What is the impact of IT investment on the return and risk dimensions of industry financial performance? How do industry characteristics moderate the relationship between IT investment and industry performance? Our analysis of these questions finds that higher levels of industry competition are associated with higher IT productivity (contribution of IT to value-added output), lower IT profitability (contribution of IT to industry average return on assets [ROA]), and higher IT risk (contribution of IT to ex ante variability of ROA). This is consistent with the notion that competition induces riskier IT investments, despite the fact that returns tend to be competed away. Higher levels of industry regulation are associated with lower IT returns in both productivity and profitability, but also lower IT risk. Finally, a higher rate of technological change induces both higher IT returns and higher IT risk. A variety of tests indicate that our results are robust. Our results shed light on factors that drive variation in IT performance across industries, and provide useful industry-level performance benchmarks of the return and risk impacts of IT investments.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2768">competition</a>,    <a href="/keywords/3510">industry-level analysis</a>,    <a href="/keywords/654">information technology investment</a>,    <a href="/keywords/3511">IT return and risk</a>,    <a href="/keywords/1306">IT value</a>,    <a href="/keywords/74">productivity</a>,    <a href="/keywords/830">profitability</a>,    <a href="/keywords/3512">regulation</a>,    <a href="/keywords/3513">technological change</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

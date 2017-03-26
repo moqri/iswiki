@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/29">    Volume 22 Number 2 2005
+</a> pp. 141-164</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Buyer&#039;s Efficient E-Sourcing Structure: Centralize or Decentralize?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/428">Dai, Rui,</a>    <a href="/contributors/429">Narasimhan, Sridhar,</a> and     <a href="/contributors/430">Wu, D J</a>    </div>
+
+<p>ABSTRACT: Strategic sourcing, defined as a firm's key business process to identify, evaluate, configure, and negotiate purchases in important spend categories while managing long-term supplier relationships, is playing a significant role in sourcing strategies. The adoption of e-sourcing, defined as the use of business software (for example, using application service providers to conduct online procurement auctions) to automate or augment the aforementioned key business process, has been growing rapidly in recent years. One often-cited benefit of e-sourcing is the predicted savings, which is appealing, given the increasing pressure on cost competitiveness faced by firms. Using queuing techniques, this paper develops an economic model that captures fundamental trade-offs in a firm's e-sourcing business process as characterized by communication complexity, frequency of use, and cost of delay. This allows comparisons of two widely adopted structures for e-sourcing; the centralized structure versus the decentralized structure. Conditions under which the centralized structure is favored over the decentralized structure and vice versa are identified and illustrated with numerical examples and case evidence. These findings are robust in other settings. The paper concludes with a discussion of managerial implications.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1968">communication complexity</a>,    <a href="/keywords/1667">economic analysis</a>,    <a href="/keywords/1969">e-sourcing</a>,    <a href="/keywords/737">organizational structure</a>,    <a href="/keywords/1970">procurement</a>,    <a href="/keywords/352">queuing</a>,    <a href="/keywords/1971">reverse auction</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

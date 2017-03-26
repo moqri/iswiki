@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/130">    Volume 33 Number 1 2016
+</a> pp. 139-170</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Influentials, Imitables, or Susceptibles? Virality and Word-of-Mouth Conversations in Online Social Networks</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1447">Susarla, Anjana,</a>    <a href="/contributors/1824">Oh, Jeong-Ha,</a> and     <a href="/contributors/1008">Tan, Yong</a>    </div>
+
+<p>ABSTRACT: 
+<p>Motivated by the rise of social media platforms that achieve a fusion of content and community, we consider the role of word-of-mouth communications (WOM) structured through a network. Using a data set from YouTube, we examine how cascades of WOM interactions enhance the popularity of videos. We first estimate the impact of channel influence and other network parameters in initiating WOM communications. The probit estimation considers the selection effect in videos that are likely to be associated with a greater propensity to trigger WOM. We find that factors related to a channel’s ability to be a connector and a translator is most likely to result in the incidence of WOM. We then examine how cascades of WOM conversations have persistent impacts on subsequent video popularity. Empirically, the main issue here is heterogeneity in the epidemic potential of a video. Since the threshold might vary across videos, we use a finite mixture model. We also conduct a simultaneous estimation using latent instrumental variables to address endogeneity from unobservables. Our research has implications for researchers and practitioners by highlighting how WOM travels through networks of influence and susceptibility in disseminating awareness, and holds insights in regard to designing social recommendation systems and identifying trending topics in social media.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3123">electronic word of mouth</a>,    <a href="/keywords/3124">eWOM</a>,    <a href="/keywords/3647">finite mixture model</a>,    <a href="/keywords/3648">latent instrumental variables</a>,    <a href="/keywords/3649">opinion cascades</a>,    <a href="/keywords/3650">peer effects</a>,    <a href="/keywords/2912">social media</a>,    <a href="/keywords/3651">social recommendations</a>,    <a href="/keywords/2300">user-generated content</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

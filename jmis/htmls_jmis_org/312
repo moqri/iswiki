@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/9">    Volume 7 Number 1 1990
+</a> pp. 85-100</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Using Two Different Electronic Meeting System Tools for the Same Task: An Experimental Comparison</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/552">Easton, George K,</a>    <a href="/contributors/43">George, Joey F,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/460">Pendergast, Mark O</a>    </div>
+
+<p>ABSTRACT: Various aspects of the design and use of Electronic Meeting Systems (EMS) have been investigated in laboratory and field studies, but until now no one has systematically investigated the role of EMS software on group performance. The current study compares two different EMS software tools in a controlled experiment. Dependent variables are decision quality, number of unique alternatives generated, satisfaction, and consensus. The study found that one software tool produced better quality solutions to a combination creativity and intellective task, but the other helped generate more unique alternatives. Each tool worked best on the task for which it was designed. The findings support the authors' premise that there should be a match between the EMS software tool and the task to be performed. The findings have several implications for the design of EMS software.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/415">electronic meeting systems</a>,    <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/416">software tools</a>,    <a href="/keywords/417">group performance</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

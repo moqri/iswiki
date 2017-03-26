@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/21">    Volume 8 Number 1 1991
+</a> pp. 129-147</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Risk Analysis for Information Technology</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/737">Rainer Jr, R Kelly,</a>    <a href="/contributors/576">Snyder, Charles A,</a> and     <a href="/contributors/1087">Carr, Houston H</a>    </div>
+
+<p>ABSTRACT: As Information Technology (IT) has become increasingly important to the competitive position of firms, managers have grown more sensitive to their organization's overall IT risk management. Recent publicity concerning losses incurred by companies because of problems with their sophisticated information systems has focused attention on the importance of these systems to the organization. In an attempt to minimize or avoid such losses, managers are employing various qualitative and quantitative risk analysis methodologies. The risk analysis literature, however, suggests that these managers typically utilize a single methodology, not a combination of methodologies. This paper proposes a risk analysis process that employs a combination of qualitative and quantitative methodologies. This process should provide managers with a better approximation of their organization's overall information technology risk posture. Practicing managers can use this proposed process as a guideline in formulating new risk analysis procedures and/or evaluating their current risk analysis procedures.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/477">computer security</a>,    <a href="/keywords/478">MIS risk analysis</a>,    <a href="/keywords/479">risk management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

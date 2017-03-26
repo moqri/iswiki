@@ -1,0 +1,56 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/127">    Volume 32 Number 2 2015
+</a> pp. 1-3</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>
+<p>The Special Section on Online Social Connections that opens the issue throws light on two of the effects of the massive social connections enabled online. Crowdsourcing makes organizations more effective and efficient by bringing widely dispersed and diverse knowledge inside the firm. We learn from the first paper in the section how to increase the performance of the virtual teams based on the crowdsourcing platforms. On the other hand, online activities, and those of teenagers in particular, create growing privacy exposures, with the data subject to mining and, possibly, misuse. The second paper in the Special Section makes an empirical assessment of the family preferences with respect to the mining of the data traces left by their teen offspring and suggests the potential regulatory regimes with respect to this relatively vulnerable population. Information technology (IT), as we know well, is not good and not bad. As it has wisely been said, IT is also not neutral because it changes the realm of the possible and enables new forces that deeply affect the way we live. It is good to see that the authors of the Special Section do not leave it all to market forces, which may favor privacy-depriving rents even in the face of competition. The guest editors, Eric K. Clemons, Rajiv M. Dewan, Robert J. Kauffman, and Thomas A. Weber, introduce the papers in greater detail.</p>
+<p>We know full well that the returns from the deployment of IT vary greatly across industries. As yet, the full and satisfactory explanation for this eludes us. In the first paper of the general section, Fei Ren and Sanjeev Dewan provide an extensive empirical analysis showing how the IT investment by an industry is inflected by its characteristics to lead to disparate outcomes in productivity, profitability, and investment risk. The characteristics moderating the effects of an industry’s IT investment are competition and regulation (with roughly opposite effects), and the degree of technological change. The model is comprehensive and the results are robust.</p>
+<p>Take-up and success in the implementation of service-oriented architecture (SOA) has proved to be a challenge, in spite of the apparent advantages of that technology. A new approach to the analysis of the factors of this success (or its absence) is needed. Here, Xitong Li and Stuart E. Madnick use such an approach, expressing the actual process of SOA implementation via systems dynamics. The authors find the presence of the tipping point that can reverse a failure course in the implementation, and lead to ultimate success. The intricate interaction of the human agency and the technology-implementation process can lead into organizational traps—or can be steered to avoid them. This work can certainly be broadened in the future to enhance our knowledge and practice of IT implementation in general.</p>
+<p>The theme of software-process improvement is continued in the paper by Muammer Ozer and Doug Vogel. Taking the knowledge-sharing perspective on the activity of software developers, the researchers are able to relate empirically the effects of this sharing on the developers’ performance. Their model is much enriched by its contextual moderators and highlights the importance of the organizational climate in software development. Arising from task closure theory, the work contributes to it by surfacing the moderators in highly knowledge-intensive tasks, as well as contributing to the practice of software development.</p>
+<p>Three papers in the issue present theory-driven investigations of social networks. The first, by Lara Khansa, Xiao Ma, Divakaran Liginlal, and Sung S. Kim focuses on online question-and-answer (Q&amp;A) communities. As opposed to work- and task-oriented ones, these are highly flexible communities, where both active participation (asking and answering) and passive participation (lurking) are of value, but, clearly, active participation is the sine qua non of a community’s existence. The motivators of the active participants need, therefore, to be very carefully assessed and enacted. The authors take a goal perspective, whereby the setting, pursuit, and automatic activation of the community members’ goals drives their activity. The authors test their model using data from a leading Q&amp;A platform and arrive at theory-driven guidance for such enterprises.</p>
+<p>We well know that the positive brand-related articulations in social networks can lead to increased sales. We know quite a lot, but need to know much more about the effects of various activities. There are two different fonts of contributions in social media: (1) autonomous activity undertaken by individuals/consumers, such as electronic word-of-mouth (eWOM) in user communities; and (2) sponsored activity, supported or generated by the brand owner or the brand agents (e.g., advertisers). Here, Karen Xie and Young-Jin Lee investigate the differential effects of the two, termed, respectively, earned and owned social media, on both online and offline brand sales. The authors find that both have positive effects on sales, but they also find—and this is the point—that the two types of activities have a mutually suppressive effect. Considering that the sponsored activity is under the sponsor’s control, this is an important message to the brands, as are the results concerning the limitations of social media with respect to offline sales.</p>
+<p>Jongtae Yu, Paul Jen-Hwa Hu, and Tsang-Hsiang Cheng study empirically how affect influences self-disclosure on social networks. Self-disclosure is, of course, crucially important to the platforms and to many of their participants. As opposed to prior literature reports, the authors find a highly nuanced relationship between the individual’s affect and the disclosure of personal information. The important takeaway from their work is that affect influences self-disclosure indirectly, through the change in cost–benefit perceived by the individual. The work has implications that go beyond the compass of the present paper and is likely to resonate in other settings.</p>
+<p>IT plays the essential role in the functioning of financial markets. It must—and will—also play such a role in the surveillance of these markets. The two roles of IT are yet to be matched in scope and speed. It is vitally important to the health and transparency of financial markets, often maligned and always indispensable, that the systems for transacting and surveilling be designed from the ground up in an equally transparent fashion. The next paper in the issue contributes to this end by presenting a design theory for market surveillance systems (MSSs). The authors, Xin Li, Sherry X. Sun, Kun Chen, Terrance Fung, and Huaiqing Wang, present and validate with a prototype a theory-driven design for MSSs. They incorporate market-information analysis in their design, to go beyond current MSS limitations. The paper is of twofold significance: It is obviously a foundation for the design of MSSs and it is also a contribution to design science within the IT domain.</p>
+<p>The risk and occurrences of data breaches are part of the way we live now. In the concluding paper of the issue, Ravi Sen and Sharad Borle use several theoretical lenses and multiple data sources to study the effects on the likelihood of data breach of factors such as the firm’s location (state laws), industry sector, path dependence, and investment in IT security (and here the result is unexpected, yet explained). The risk factors brought to light by the authors may be used by firms in assessing the necessary levels of their security expenditures. Taken together with the preceding work, the two papers make another contribution by our discipline to the seeking of confidence that all us need to have in our information systems.</p>
+<p>Vladimir Zwass</p>
+<p>Editor-in-Chief</p>
+</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

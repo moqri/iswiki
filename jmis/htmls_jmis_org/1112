@@ -1,0 +1,97 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/107">    Volume 13 Number 1 1996
+</a> pp. 3-8</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ Two broad themes emerge in this issue of the Journal.  The first three papers investigate the strategic issues of management information systems.  Their authors analyze, respectively, the match between a firm's organizational structure and its information systems architecture, the match between a firm's competitive strategy and the rank and role of its top MIS executive, and the most effective prescriptions for strategic information systems planning.  The second part of the issue is devoted to the end-user aspects in organizational computing, with the users acting-with varying degrees of success-as consumers, participants in the development, and developers of information systems.
+</p>
+<p>
+ In the first paper of the issue, Kirk Dean Fiedler, Varun Grover, and James T.C. Teng empirically relate a novel taxonomy of organizational information-system architecture to the organizational structure.  The authors base their classification on three well-grounded criteria: centralization of information processing, support of organizational communication, and sharing of data and software resources.  An extensive survey finds positive relationships between specific combinations of these characteristics of organizational computing and certain organizational structures.  Although no causality has been established and no prescriptions can be made based on this work, the strong indications of "matches" between certain MIS architectures and specific organizational structures will be of interest to practitioners as well as researchers.
+</p>
+<p>
+ Unlike its predecessor, the next paper in the issue, by Albert L. Lederer and Vijay Sethi, is unabashedly prescriptive with respect to its subject-strategic information systems planning.  In other words, the authors study the process of identifying a portfolio of information systems to support long-term corporate plans.  Their prescriptions are based on extensive survey empirics.  The authors first derive a comprehensive and parsimonious set of prescriptions based on the existing literature and then conduct a survey to tease out those leading to a greater degree of success (or to the greatest satisfaction of planners, which is a very different thing).  The authors find that the planners face the tall task of producing a credible plan promptly.  As we all know, the principal peril of lengthy long-term planning is that its product may become invalid during the very planning process owing to rapidly changing circumstances.
+</p>
+<p>
+ Jahangir Karimi, Yash P. Gupta, and Toni M. Somers study the linkage between a company's competitive strategy (prospectors-analyzers-defenders-reactors) and the rank and role of its top MIS executive.  The researchers also provide new evidence to assist the external-hire versus internal-promotion decision.  Like the authors of the first paper in the issue, they find several "matches."  As is the case with that paper, similar caveats apply, but suggestive implications follow.
+</p>
+<p>
+ Five papers in the second part of this issue of the Journal deal with various aspects of the role and performance  of information-systems users-that is, the members of the organization at large.
+</p>
+<p>
+ Because of perceptual differences between the personnel of information centers and the end users they assist,  end-user participation in the selection of software packages is found indispensable by Ali R. Montazemi, David A.  Cameron, and Kalyan Moy Gupta.  The authors prove that, absent such participation, the use of the packages will  be affected adversely.
+</p>
+<p>
+ John Tillquist studies the potential dichotomy between the intentions of MIS dvelopers and the actual system use  patterns.  His findings indicate that people use a computer system for interpersonal communicaiton in the manner  intended by the develpers when these users believe that the system supports the aspects of work they value.   The incorporation of the work-values approach into the analysis of information systems assisting communication  and collaboration is an important contribution of the paper.  The results can be, perhaps, extended in the future in  the analysis of the many reported cases of the inadequate use of groupware such as Lotus Notes.
+</p>
+<p>
+ The following paper in the issue also addresses user motivations.  Magid Igbaria, Saroj Parasuraman, and Jack J.  Baroudi find empiricall that the perceived usefulness of microcomputer-based systems, as opposed to several  other variables included in the existing motivational models, is the principal motivator of use.  The perceived  system complexity, social pressure, and user skills are also found to affect the usage.  The authors offer  suggestions based on their findings that can promote broader and more appropriate use of microcomputers.
+</p>
+<p>
+ User participation in the development of informaiton systems by informaiton systems professionals has generated  controversy.  Although generally considered a good thing, especially from the point of view of systems  acceptance and institutionalization, on somewhat closer examination it has not always been found to contribute to  the success of the system under development.  Naveed Saleem presents empirical results showing that if user   participation is to have such a beneficial outcome, the selection of the participants with appropriate background is  critical.  Indeed, the users selected to participate should be those with the system-related functional expertise-the  people who will not accept the new system otherwise.  Further, if users possessing such expertise are selected  to participate on the development team, they should be allowed to exert significant influence on the system  design, lest they ultimately reject the system.
+</p>
+<p>
+ System development by end users has recently proliferated ot complement the development by MIS  professionals.  Dana T. Edberg and Brent J. Bowman inject a word of caution.  Their paper compares  performance of end users with that of surrogate MIS professional (also known as MIS students) on several  limited-complexity projects.  The performance of the end users is found wanting compared to that of even  surrogate professionals, in terms of both productivity and product quality.  Much further research is necessary to  define the perimeters of the MIS profession.  However, it would appear that professional expertise is indeed  required for informaiton systems development to professional standards.
+</p>
+<p>
+ In a note conluding the issue, Ram L. Kumar revisits earlier results (reported in this Journal) in applying  option-pricing theory to the justification of MIS investments.  The author shows that even more caution is required  in selecting riskier projects than was previously thought and provides a critierion for identifying the less desirable  investments.
+</p>
+<p>
+ As we enter the thirteenth year of JMIS publication, it gives me great pleasure once again to thank the Editorial  Board, authors, readers, and the entire MIS community for their contribution and support.  It is a special  opportunityy and privilege to thank the Journal's reviewers, who stand behind the quality of each paper and are  the primary guarantors of the quality of the Journal.
+</p>
+<p>
+ Here are the names of the reviewers of the Journal of Management Information Systems:
+</p>
+<p>
+ (a list of the names of the reviewers of JMIS follows)
+</p>
+<p>
+ After several months of sporting the "Under Construction" sign, the electronic home of the Journal is fully  habitable.  Thanks to the efforts of our Electronic Site Editor Tomas Isakowitz and his student crew, the Web site  of the Journal of Management Information Systems is accessible over the Internet as:
+</p>
+<p>
+ http://www.jmis-web.org
+</p>
+<p>
+ We welcome your participation in all the future activities of the Journal-both on paper and in cyberspace.
+</p>
+<p>
+ Vladmir Zwass           Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

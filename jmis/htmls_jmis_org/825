@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/117">    Volume 11 Number 1 1994
+</a> pp. 9-29</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Relating Electronic Mail Use and Network Structure to R&amp;D Work Networks and Performance</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/747">Rice, Ronald E</a>    </div>
+
+<p>ABSTRACT: This study analyzes computer-monitored and self-reported electronic mail usage and network data collected over time from mentors and their summer interns at an R&D organization. Amount and network measures of E-mail usage were significantly associated with work and work familiarity networks, As time passed, interns communicated through E-mail more outside their formal mentor-intern relations. However, amount of E-mail use and most E-mail network measures (such as centrality) were not related to mentors' assessments of interns' performance several months later. An intriguing exception was how interns were located in the overall E-mail network. Surprisingly, overall, most forms of communication were negatively associated with performance ratings. These results imply that it is not necessarily how much one uses an E-mail system, but how the users are positioned in that system's structural context, that may affect R&D performance.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/736">diffusion</a>,    <a href="/keywords/113">electronic mail</a>,    <a href="/keywords/547">implementation</a>,    <a href="/keywords/588">network analysis</a>,    <a href="/keywords/531">organizational computer-mediated communication</a>,    <a href="/keywords/737">organizational structure</a>,    <a href="/keywords/738">R&amp;D networks</a>,    <a href="/keywords/739">R&amp;D performance</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

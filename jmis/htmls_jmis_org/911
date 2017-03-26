@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/70">    Volume 12 Number 4 1996
+</a> pp. 143-160</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Examination of Some Software Development Effort and Productivity Determinants in ICASE Tool Projects</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1442">Subramanian, Girish H</a> and     <a href="/contributors/1443">Zarnich, George E</a>    </div>
+
+<p>ABSTRACT: Integrated computer-aided software engineering (ICASE) tools and their effect on software development effort and productivity have gained interest in recent research. This research studies the applicability of function points and technical complexity factor as software development effort estimators for ICASE projects. In addition, the effect of three factors--ICASE tool type, systems development method, and ICASE tool experience--on software development productivity is studied. ICASE-based software projects from Texas Instruments and Electronic Data Systems were used in this empirical research. Function points accounted for 74 to 82 percent of the variance in software development effort. Technical complexity factor, however, had only a small indirect effect on software effort. While software productivity differences between the ICASE tool types could not be confirmed, productivity was significantly higher for the rapid application development method in comparison with the productivity associated with the traditional systems development life cycle method. Higher levels of ICASE tool experience were associated with significant increases in software productivity.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/909">function points</a>,    <a href="/keywords/910">integrated CASE tools</a>,    <a href="/keywords/911">rapid application development</a>,    <a href="/keywords/912">software development effort estimation</a>,    <a href="/keywords/326">systems development method</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

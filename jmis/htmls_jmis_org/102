@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/68">    Volume 23 Number 4 2007
+</a> pp. 163-184</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Attention Issues in Spatial Information Systems: Directing Mobile Users&#039; Visual Attention Using Augmented Reality</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/210">Biocca, Frank,</a>    <a href="/contributors/211">Owen, Charles,</a>    <a href="/contributors/212">Tang, Arthur,</a> and     <a href="/contributors/213">Bohil, Corey</a>    </div>
+
+<p>ABSTRACT: Knowledge of objects, situations, or locations in the environment can be productive, useful, or even life-critical for mobile augmented reality (AR) users. Users may need assistance with (1) dangers, obstacles, or situations requiring attention; (2) visual search; (3) task sequencing; and (4) spatial navigation. The omnidirectional attention funnel is a general purpose AR interface technique that rapidly guides attention to any tracked object, person, or place in the space. The attention funnel dynamically directs user attention with strong bottom-up spatial attention cues. In a study comparing the attention funnel to other attentional techniques such as highlighting and audio cueing, search speed increased by over 50 percent, and perceived cognitive load decreased by 18 percent. The technique is a general three-dimensional cursor in a wide array of applications requiring visual search, emergency warning, and alerts to specific objects or obstacles, or for three-dimensional navigation to objects in space.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2221">augmented reality</a>,    <a href="/keywords/2222">geospatial information system</a>,    <a href="/keywords/2223">location-based services</a>,    <a href="/keywords/2224">mobile computing</a>,    <a href="/keywords/2225">spatial information systems</a>,    <a href="/keywords/2226">visual attention</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

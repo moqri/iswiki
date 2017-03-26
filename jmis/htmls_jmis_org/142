@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/83">    Volume 19 Number 3 2002
+</a> pp. 43-68</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Model of Neutral B2B Intermediaries</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/280">Byungjoon, Yoo,</a>    <a href="/contributors/192">Choudhary, Vidyanand,</a> and     <a href="/contributors/281">Mukhopadhyay, Tridas</a>    </div>
+
+<p>ABSTRACT: Business-to-business (B2B) electronic commerce has become an important issue in the debate about electronic commerce. How should the intermediary charge suppliers and buyers to maximize profits from such a marketplace. We analyze a monopolistic B2B marketplace owned by an independent intermediary. The marketplace exhibits two-sided network effects where the value of the marketplace to buyers is dependent on the number of suppliers, and the value to suppliers is dependent on the number of buyers and suppliers. When these two-sided network effects exist, we find that the optimal price for buyers and the fraction of buyers in the electronic market are dependent on the switching cost and the strength of the network effect of both types: buyers and suppliers. The same is true for the optimal price for suppliers and the fraction of suppliers in the electronic market. In other words, the parameters that define the buyers also affect the optimal price for suppliers and the fraction of suppliers in the electronic market, and vice versa. Our results also point some counterintuitive optimal pricing strategies that depend on the nature of the industry served by the marketplace.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1607">business-to-business e-commerce</a>,    <a href="/keywords/1608">intermediation</a>,    <a href="/keywords/1609">network effect</a>,    <a href="/keywords/1610">pricing strategy</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

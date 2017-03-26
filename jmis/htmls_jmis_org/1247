@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/127">    Volume 32 Number 2 2015
+</a> pp. 104-133</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Understanding the Dynamics of Service-Oriented Architecture Implementation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1776">Li, Xitong</a> and     <a href="/contributors/783">Madnick, Stuart E</a>    </div>
+
+<p>ABSTRACT: 
+<p>Despite the potential benefits, many organizations have failed in service-oriented architecture (SOA) implementation projects. Prior research often used a variance perspective and neglected to explore the complex interactions and timing dependencies between the critical success factors. This study adopts a process perspective to capture the dynamics while providing a new explanation for the mixed outcomes of SOA implementation. We develop a system dynamics model and use simulation analysis to demonstrate the phenomenon of “tipping point.” That is, under certain conditions, even a small reduction in the duration of normative commitment can dramatically reverse, from success to failure, the outcome of an SOA implementation. The simulation results also suggest that (1) the duration of normative commitment can play a more critical role than the strength, and (2) the minimal duration of normative commitment for a successful SOA implementation is associated positively with the information delay of organizational learning of SOA knowledge. Finally, we discuss the theoretical causes and organizational traps associated with SOA implementation to help IT managers make better decisions about their implementation projects.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3514">normative commitment</a>,    <a href="/keywords/3515">organizational traps</a>,    <a href="/keywords/3516">service-oriented architecture (SOA)</a>,    <a href="/keywords/2629">system dynamics</a>,    <a href="/keywords/3517">tipping point</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

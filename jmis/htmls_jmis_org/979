@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/113">    Volume 13 Number 3 1996
+</a> pp. 65-81</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Lotus Notes and Collaboration: Plus Ã§a change</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1427">Vandenbosch, Betty</a> and     <a href="/contributors/1521">Ginzberg, Michael J</a>    </div>
+
+<p>ABSTRACT: Work in organizations is becoming increasingly focused on collaborative work in groups. Groupware is widely touted as the information technology that can support this new mode of work by fostering collaboration. In a study of Lotus Notes, a popular groupware product, implemented throughout the professional staff of a large American insurance company, we found the impact of groupware to be somewhat different from certain common expectations. While almost everyone was quite pleased with the Notes, implementation and its perceived impact, there was no evidence of a change in the degree of collaboration among organization members. Two key themes are explored as possible explanations for this result: fit of the technology to the organization, and limited training in how best to use this new technology.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/983">collaboration technology</a>,    <a href="/keywords/698">groupware</a>,    <a href="/keywords/542">information systems implementation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

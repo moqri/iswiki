@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/6">    Volume 11 Number 2 1994
+</a> pp. 109-135</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Form-Based Approach to Natural Language Query Processing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/7">Adam, Nabil R,</a>    <a href="/contributors/8">Gangopadhyay, Aryya,</a> and     <a href="/contributors/9">Clifford, James</a>    </div>
+
+<p>ABSTRACT: We describe a methodology for processing data retrieval and update queries using a form-based natural language interface. For the purpose of illustration, we use computer integrated manufacturing (CIM) as the application domain. The interface consists of a set of fourth-generation interface tools (SQL forms), a set of form definitions, a lexicon, and a parser. The forms are developed from the functional and data models of the system. A form definition consists of a form name, a form object, a set of form fields, and a set of fragment grammars. A form object is a single or composite entity that uniquely identifies a form. Form fields consist of database fields whose values can be entered by users (user-defined), and others whose values can be derived by the system (system-defined). Fragment grammars are templates that identify the information requested by user queries. The lexicon consists of all words recognized by the system, their grammatical categories, synonyms, and associations (if any) with database objects and forms. The parser scans a natural language query to identify a form in a bottom-up fashion. The information requested by the user query is determined in a top-down manner by matching the fragment grammars associated with a form against the user query. Extragrammatical inputs with limited deviations from the grammar rules are supported. Elliptical queries are supported by deriving the missing information from those specified in previous queries and forms. Combining a natural language processor with SQL forms allows update queries and prevents violation of database integrity constraints, duplication of records, and invalid data entry.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/78">database management systems</a>,    <a href="/keywords/767">complementarity</a>,    <a href="/keywords/768">natural language interfaces</a>,    <a href="/keywords/769">query processing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

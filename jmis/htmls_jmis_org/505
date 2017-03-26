@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/50">    Volume 17 Number 4 2001
+</a> pp. 97-124</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Choice Model for the Selection of Computer Vendors and Its Empirical Estimation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/792">Kar Yan, Tam</a> and     <a href="/contributors/890">Kai Lung, Hui</a>    </div>
+
+<p>ABSTRACT: Despite the important role of vendors in the IT procurement process, very few studies have considered vendor characteristics and their effects on the decision outcome of IT managers. In this paper, we present a discrete choice model to examine the effects of vendor characteristics on the purchase decisions of IT managers. Our intent is to empirically assess the effects of product variety, brand name, average price, and network externalities in the selection of computer vendors. To ensure that the effects are not technology-dependent, we deliberately use long time series data to calibrate the model. Annual data at the vendor level from 1965 to 1993 is used to infer the choice criteria of IT managers in three computer categories: mainframe, minis, and small systems. Our empirical findings indicate that a broader product line and a strong brand can effectively enhance the choice probability of a vendor. Implications of these findings and possible extensions are also discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1402">brand</a>,    <a href="/keywords/405">choice models</a>,    <a href="/keywords/1403">IT procurement</a>,    <a href="/keywords/1404">network externality</a>,    <a href="/keywords/1405">price</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,76 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/43">    Volume 28 Number 2 2011
+</a> pp. 7-10</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Information and Technology: Understanding New Strategies for Firms, Networks, and Markets</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K,</a>    <a href="/contributors/79">Kauffman, Robert J,</a> and     <a href="/contributors/398">Weber, Thomas A</a>    </div>
+
+<p><p>
+ Eric K. Clemons is a professor of operations and information management at the Wharton School of the University of Pennsylvania. His  education includes an S.B. in Physics from MIT, and an M.S. and Ph.D. in operations research from Cornell University. He has been a  pioneer in the systematic study of the transformational effects of information on the strategy and practice of business. His research and  teaching interests include strategic uses of information systems, the changes that IT enables in the competitive balance between new  entrants and established industry participants, transformation of distribution channels, the structure and governance of the IT functional  area, and the impact of IT on the risks and benefits of outsourcing and strategic alliances. More recently, he has begun studying blogging  and social media, cloud computing and cloud computing standards, and the challenges to applying current antitrust law to online business  models. Dr. Clemons is the founder and project director for the Wharton School's Sponsored Research Project on Information: Strategy  and Economics Within the Program for Global Strategy and Knowledge Intensive Organizations. He participated in the World Economic  Forum in Davos, Switzerland, in February 2009. He is a member of the editorial boards of the Journal of Management Information Systems,  International Journal of Electronic Commerce, and Electronic Commerce Research and Applications. Dr. Clemons has 36 years'  experience on the faculties of Wharton, Cornell, Harvard, the Indian School of Business, and Singapore Management University, and  consulting experience in the private and public sectors both domestically and abroad.
+</p>
+<p>
+ Robert J. Kauffman is a visiting professor of information systems and strategy at the School of Information and the Lee Kong Chian School  of Business at Singapore University. He acts as the Deputy Director of the Living Analytics Research Center, which was formed in March  2011. He is also a Distinguished Visiting Fellow at the Center for Digital Strategies at the Tuck School of Business, Dartmouth College.  He served on the faculty at New York University, the University of Rochester, the University of Minnesota, and Arizona State University, and  visited the Federal Reserve Bank of Philadelphia. His graduate degrees are from Cornell and Carnegie Mellon. His research interests  span IS, economics, marketing and consumer behavior, competitive strategy, and risk management. His articles have appeared in  Management Science, Information Systems Research, Journal of Management Information Systems, MIS Quarterly, Organization  Science, and the Review of Economics and Statistics, among others. He worked in international banking prior to his academic career.
+</p>
+<p>
+ Thomas A. Weber is an associate professor of operations management at the College du Management at the Ecole Polytechnique  FEdErale de Lausanne, Switzerland, where he holds the chair of Operations, Economics and Strategy. Between 2003 and 2011, he was a  faculty member in the Department of Management Science and Engineering at Stanford University. Professor Weber is an IngEnieur des  Arts et Manufactures (Ecole Centrale Paris) and a Diplom-Ingenieur in Electrical Engineering (Technical University Aachen). He holds  S.M. degrees in technology and policy and electrical engineering and computer science from the Massachusetts Institute of Technology,  as well as an M.A. in operations and information management and a Ph.D. in managerial science and applied economics from the Wharton  School of the University of Pennsylvania. In 2008, he was a visiting faculty member in the Department of Economics at the University of  Cambridge, and in 2009 in the Department of Mathematics at Moscow State University. Between 1998 and 2002 he was a senior consultant  at the Boston Consulting Group. His current research interests include the economics of information and uncertainty, the design of  contracts, and strategy. He has been developing new theoretical models and methods that have the potential to change the way in which we  approach social systems, and integrate different levels of analysis. His papers have appeared in American Economic Journal:  Microeconomics, Information Systems Research, Decision Support Systems, Economics Letters, Economic Theory, Journal of  Mathematical Economics, Journal of Economic Dynamics and Control, Journal of Optimization Theory and Applications, Operations  Research, Optimal Control Applications and Methods, and Theory &amp; Decision. He is the author of Optimal Control Theory with  Applications in Economics (MIT Press, 2011).
+</p>
+<p>
+ The papers in this Special Section reflect a spectrum of methods in current research in information systems (IS), competitive strategy, and  economics. On the empirical side, they include case-based analysis, organization theory based on small data sets, survey-based structural  modeling, and innovative econometrics for social networks. On the theory side, they feature dynamic optimization and game-theoretic  modeling. Last, one of the paper offers a blend of both an analytical model and an empirical analysis of a testable model-generated  hypothesis.
+</p>
+<p>
+ Technology diffusion has been studied in great depth over the past 50 years, but work on information diffusion, a significant issue for IS (in  light of emerging social networks and virtual communities), has been scarce outside of the finance and marketing domains. Rajiv Garg,  Michael D. Smith, and Rahul Telang examine the issue of "Measuring Information Diffusion in an Online Community." The authors deal  with homophily, self-selection, influence sources, and preexisting knowledge effects; they study these in the context of a social network that  revolves around the user community associated with Last.fm, a provider of digital music services on the Internet. Using a large, archival  data set, their exploration focuses on how information about songs and music groups diffuses among members of the social network. The  authors offer an empirical analysis that suggests a number of interesting effects of information sharing and diffusion, specifically that  social network peers tend to help other members discover new songs and music groups at a rate in excess of the levels predicted in their  absence.
+</p>
+<p>
+ The next two papers deal with information strategy issues. In "Decommoditization, Resonance Marketing, and Information Technology: An  Empirical Study of Air Travel Services amid Channel Conflict," Nelson F. Granados, Robert J. Kauffman, Hsiangchu Lai, and Huang-chi  Lin offer a theory-testing empirical case study of an airline that has been experimenting with a la carte pricing approaches. The authors'  central premise is that during the past decade, Internet technologies used by digital intermediaries for air travel services distribution have  continued to disadvantage the airlines, despite the airlines' ability to distribute their own services directly to consumers; fees to global  distribution systems, such as Apollo and Sabre, remain among the largest avoidable expenses incurred by airlines. The airlines are  exploring a range of mechanisms to fight back. Using a large data set involving booking records over two years for a single air carrier and  39 city-pair routes, the authors explore two hypotheses: the decommoditization hypothesis and the resonance marketing hypothesis. The  decommoditization hypothesis argues that the airlines can use information technology (IT) to create flexible bundles of air travel services  that cannot yet be represented by the digital intermediaries and, in this way, avoid the excessive and unnecessary fees imposed by the global  distribution systems. The resonance marketing hypothesis suggests that the primary underlying mechanism that makes decommoditization  of an airline's services possible, a la carte pricing, permits consumers to express their exact preferences and buy just what they want,  allowing the airlines to create additional revenue and further differentiate their offerings. The authors find support for the decommoditization  hypothesis but only mixed support for the resonance marketing hypothesis. The high use of bundles is consistent with decommoditization.  The use of these bundles is more mixed in support of the claim that they will produce higher margin business. The authors offer empirical   evidence to show that consumers often customized the airline's standard bundles when they took advantage of a la carte pricing to book  their tickets, but this was most often observed for low-feature standard bundles. In contrast, members of the airline's frequent flyer program  tended to buy high-feature bundles more frequently.
+</p>
+<p>
+ The next paper, "Through a Glass Clearly: Standards, Architecture, and Process Transparency in Global Supply Chains," by Charles  Steinfield, M. Lynne Markus, and Rolf T. Wigand, examines information strategy in global supply chain management. The authors conduct  case study research to explore information transparency, long-distance sourcing arrangements, and the efficacy of point-to-point and hub- based IT architectures in automotive industry interorganizational systems to support financially beneficial outcomes. The authors analyze  the conditions under which data and process standardization are insufficient to produce dramatically different outcomes in terms of supplier  adoption and supply chain performance. They argue that an important complementary asset in the production of higher value is the use of a  hub-type, cloud-computing services--based IT architecture that is shared among organizations in an industry, instead of only by  participating suppliers in one manufacturer's supply chain. Their analysis of "trade lane" performance in automotive industry supply chain  management also shows how information transparency is able to yield much more desirable outcomes for the firms that are willing to  implement standards-based procurement coordination hub IT solutions.
+</p>
+<p>
+ In "R&amp;D Versus Acquisitions: Role of Diversification in the Choice of Innovation Strategy by Information Technology Firms," Rajiv D.  Banker, Sunil Wattal, and Jose M. Plehn-Dujowich examine the propensity of incumbent firms to either acquire a prospective new entrant or  engage in their own R&amp;D effort to discourage other firms from entering the market. A representative consumer in the authors' model has a  taste for product variety and thus implicitly encourages product diversification by the firms. Using a game-theoretic model, the authors  show that the more an incumbent is diversified, the more likely it is to acquire new entrants rather than engage in in-house research. With  the aid of Compustat data for about 1,000 firms, the authors confirm this insight empirically. These findings carry through to the magnitude  of investments in acquisition or R&amp;D as a function of diversification.
+</p>
+<p>
+ Electronic procurement markets are of great concern in the technology, competitive strategy and economics literature. The paper, "A Study  of Sourcing Channels for Electronic Business Transactions," co-authored by Byungjoon Yoo, Vidyanand Choudhary, and Tridas  Mukhopadhyay, examines how senior managers should approach decision making about their participation in private and public  procurement channels in the presence of uncertainty, and what the appropriate levels of IT investment should be. The authors' use of  embedded options enables them to represent managerial flexibility as an option to commit to a sourcing channel at some point in time in the  future, or to do nothing. The authors argue that investing in business-to-business sourcing channel alternatives is a hedging strategy.  Based on a set of justifiable real-world assumptions, the authors show that involvement in multiple e-procurement channels requires  developing greater IT capabilities to make the strategy pay off.
+</p>
+<p>
+ The paper "Innovation and Price Competition in a Two-Sided Market," by Mei Lin, Shaojin Li, and Andrew B. Whinston, puts innovation in  the context of a two-sided market, where a platform's access fees, for both buyers and sellers, can have an effect on sellers' incentives to  engage in product innovation. A pricing equilibrium is derived explicitly for the case of a seller duopoly as a function of the platform's  access prices. Using a dynamic approach for innovation, the authors find that the platform tends to encourage seller innovation by charging  a high price on that side of the market, which also tends to extract seller surplus. The results apply to many online and offline markets, such  as the Microsoft Windows platform. They enable managers to understand pricing strategies when facing a consumer base with varying  marginal utility for quality, on the one hand, and firms that need to decide dynamically how to allocate their R&amp;D investments (over a finite or  infinite decision horizon), on the other.
+</p>
+<p>
+ We thank the HICSS and JMIS reviewers for their thorough and insightful comments on the authors' submissions, and the authors for their  hard work and cooperation to achieve a high standard for this Special Issue. We also express our deep gratitude to our wonderful editorial  assistant, Juliana Tsai. Her great effort smoothed the process for both authors and editors, from start to finish.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

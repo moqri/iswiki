@@ -1,0 +1,88 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/73">    Volume 19 Number 4 2003
+</a> pp. 5-8</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Issue: Information Systems Success</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/235">De Vreede, Gert-Jan,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/236">Sprague Jr, Ralph H</a>    </div>
+
+<p><p>
+ ROBERT O. BRIGGS is Research Coordinator at the Center for the Management of Information at the  University of Arizona and Associate Professor of Collaboration Engineering at Delft University of Technology  in the Netherlands. He is also Director of Research and Development for GroupSystems.com. As a  researcher, he has published more than 60 scholarly works on the theoretical foundations collaboration, and he  applies his findings to the development and deployment of collaborative technology to enhance team  productivity, team creativity, and team satisfaction. His work on organizational transition to collaborative  technology led to new insights about how to conceive of and deploy group support systems so as to create  self-sustaining and growing communities of users. He received his Ph.D. from University of Arizona in  1994.
+</p>
+<p>
+ GERT-JAN DE VREEDE is a Professor at the Department of Information Systems &amp; Quantitative  Analysis at the University of Nebraska at Omaha where he is director of the Peter Kiewit Institute&#8217;s Program  on E-Collaboration. He is also affiliated with the Faculty of Technology, Policy and Management of Delft  University of Technology in the Netherlands, from where he received his Ph.D. His research focuses on the  application, adoption, and diffusion of collaboration technology in organizations, the development of repeatable  collaborative processes, facilitation of group meetings, and the application of collaboration technology in  different sociocultural environments. His articles have appeared in various journals, including the Journal of  Management Information Systems, Journal of Decision Systems, Communications of the ACM, Journal of  Creativity and Innovation Management, DataBase, Group Decision and Negotiation, and Journal of Simulation  Practice and Theory.
+</p>
+<p>
+ JAY F. NUNAMAKER JR. is Regents and Soldwedel Professor of MIS, Computer Science and  Communication and Director of the Center for the Management of Information at the University of Arizona,  Tucson. He has over 40 years of experience in examining, analyzing, designing, testing, evaluating, and  developing information systems. He has served as a test engineer at the Shippingport Atomic Power facility,  as a member of the ISDOS team at the University of Michigan, and as a member of the faculty at Purdue  University, prior to joining the faculty at the University of Arizona in 1974. His research on group support  systems addresses behavioral as well as engineering issues and focuses on theory as well as implementation.  Dr. Nunamaker received his Ph.D. in systems engineering and operations research from Case Institute of  Technology, an M.S. and B.S. in engineering from the University of Pittsburgh, and a B.S. from Carnegie  Mellon University. He has been a registered professional engineer since 1965.
+</p>
+<p>
+ RALPH H. SPRAGUE JR. is Professor and Chairman of the Department of Information Technology  Management in the College of Business Administration at the University of Hawaii. He has over 30 years of  experience in teaching, research, and consulting in the use of computers and information technologies in  organizations. His specialties are Decision Support Systems, Strategic Systems Planning, the Management of  Information Systems, and Electronic Document Management. He has served as Chairman or Cochairman of  the Hawaii International Conference on System Sciences for the past 25 years.
+</p>
+<p>
+ AN INFORMATION SYSTEM (IS) HAS MANY STAKEHOLDERS, each with a different definition of system  success. From a developer&#8217;s perspective, a successful IS may be one that is completed on time and under  budget, with a complete set of features that are consistent with specifications and that function correctly.  From an innovator&#8217;s perspective, a successful system is one that attracts a large, loyal, and growing  community of users. From a management perspective, a successful system may be one that reduces  uncertainty of outcomes and thus lowers risks, and leverages scarce resources. From the end user&#8217;s  perspective, a successful system may be one that improves the user&#8217;s job performance without inflicting  undue annoyance.  The success of an IS is by no means assured from any perspective. In a study of 8,000 projects in 352  companies, the Standish Group found that more than half of software projects undertaken in the United States  fail, which wastes billions of dollars per year. Thus, IS success must be a topic of deep interest to IS  researchers and of vital importance to organizations and society.
+</p>
+<p>
+ This special issue presents eight papers that focus on IS success from a variety of perspectives. All the  papers in this issue build on earlier works that received best paper nominations at the Hawaii International  Conference on System Sciences. Two of them won Best Paper honors&#8212;one by Bruce A. Reinig in 2002, and  one by Robert O. Briggs, Gert-Jan de Vreede, and Jay F. Nunamaker Jr. in 2001.  Leading off this issue is a paper by William H. DeLone and Ephraim R. McLean, &#8220;The DeLone and McLean  Model of Information Systems Success: A Ten-Year Update,&#8221; which presents a ten-year retrospective on  research efforts that apply, validate, challenge, and propose enhancements to the original model. The analysis  shows which propositions of the model received the most robust empirical support. The paper proposes an  updated model that incorporates minor refinements suggested by the findings, and suggests how the updated  model can be used to measure e-commerce system success. It also proposes thoughtful recommendations  regarding current and future measurement of IS success.
+</p>
+<p>
+ Robert O. Briggs, Gert-Jan de Vreede, and Jay F. Nunamaker Jr., in their paper &#8220;Collaboration Engineering  with ThinkLets to Pursue Sustained Success with Group Support Systems,&#8221; draw on the Technology Transition  Model to argue a deployment strategy that increases the long-term success of group support systems (GSS)  facilities. The paper introduces the discipline of collaboration engineering, and argues that packaged  collaboration activities called thinkLets are a means of achieving predictable, repeatable patterns of  collaboration. The paper posits thinkLets as the building blocks of repeatable processes for achieving mission- critical tasks, and argues that these thinkLet-based processes should significantly reduce existing barriers to,  and increase the probability of, successful diffusion of GSS technology.
+</p>
+<p>
+ In his paper &#8220;Toward an Understanding of Satisfaction with the Process and Outcomes of Teamwork,&#8221;  Bruce A. Reinig, as others have done before, argues that satisfaction is a key to system success. This paper  offers a causal theory of satisfaction among people making joint efforts toward a goal. It reports on an   experiment that provides robust empirical support for the model. The paper illustrates that the model can  explain earlier, apparently conflicting results in the team satisfaction literature. IS can be intensely complex combinations of people, hardware, software, data, and procedures. The success  of a development project for such a system depends on an organization&#8217;s ability to address this complexity.  The team of Maarten Sierhuis, William J. Clancey, Chin Seah, Jay P. Trimble, and Michael H. Sims report on  Brahms, a multiagent modeling and simulation environment for designing complex interactions in  human&#8211;machine systems. Their paper, &#8220;Modeling and Simulation for Mission Operations Work System Design,&#8221;  first presents the results of a team that worked to design mission operations for a hypothetical discovery  mission to the Moon. It then presents results of an actual project, the Mars Exploration Rover, and argues  convincingly that the approach is relevant and transferable to other types of business processes in other  types of organizations.
+</p>
+<p>
+ The Internet is, from all these perspectives, perhaps the most successful IS since the advent of the  written word. As management information systems ushered in flatter organizational structures, so the Internet  ushers in globally distributed organizations and online commerce. The Aberdeen group projects that online  business-to-business commerce alone will top $7 trillion by 2004. Using the tag line &#8220;It&#8217;s the process, stupid,&#8221;  Aberdeen posits that an organization&#8217;s biggest barrier to success in this arena is a lack of well-defined  processes for the human component of business transactions. Two of the papers in this issue investigate the  success of global work teams, enabled by the Internet.
+</p>
+<p>
+ The paper &#8220;Because Time Matters: Temporal Coordination in Global Virtual Project Teams,&#8221; by Anne P.  Massey, Mitzi M. Montoya-Weiss, and Yu-Ting &#8220;Caisy&#8221; Hung, explores the role of temporal coordination among  people spread across multiple time zones who used asynchronous communication channels. The paper  examines the performance of 35 teams and reports intriguing correlations between temporal coordination  mechanisms and team success.
+</p>
+<p>
+ J. Alberto Espinosa, Jonathon N. Cummings, Jeanne M. Wilson, and Brandi M. Pearce explore a different  aspect of success for global teams in their paper, &#8220;Team Boundary Issues Across Multiple Global Firms.&#8221; The  paper examines the new challenges occasioned by the emergence of work teams whose members report to  different organizations, at different geographic sites, in different time zones, with different stakes in the  outcome. The paper discusses the issues that arise when teams span boundaries, how the ways boundaries  can be measured, and the impact of boundary-spanning on team outcomes.
+</p>
+<p>
+ In order to succeed, managers need information so they can decide. They must decide so they can  control. They must control so the organization can survive. A successful IS, therefore, must deliver timely,  accurate, and complete information to decision-makers with a minimum of mental and economic cost.  Conventional management information systems tend to focus on numbers and on transactions. However, the  birth of the Internet, the advent of knowledge management systems, and the growth of digital libraries make  available vast quantities of unstructured text-based information. Two of the papers in this issue explore ways  to incorporate this unconventional information into an organization&#8217;s intellectual capital.
+</p>
+<p>
+ Scott Spangler, Jeffrey T. Kreulen, and Justin Lesser, in their paper &#8220;Generating and Browsing Multiple  Taxonomies Over a Document Collection,&#8221; describe a new document retrieval technology for automatically  categorizing and retrieving online documents. The reported system combines a variety of previously disparate  technologies to produce better results than any of the technologies achieves alone.
+</p>
+<p>
+ Finally, in their paper &#8220;A Methodology for Analyzing Web-Based Qualitative Data,&#8221; Nicholas C. Romano Jr.,  Christina Donovan, Hsinchun Chen, and Jay F. Nunamaker Jr., present an early prototype of an intriguing  semiautomated approach to analyzing, codifying, and quantifying unstructured textual marketing feedback  collected over the Internet. Although data in the accompanying study are limited, in early field trials, the  system did provide an accurate predictive measure of the relative magnitude of first week box office sales  for a set of films based on qualitative feedback to film trailers posted on the Web.
+</p>
+<p>
+ Success has many dimensions, and each of the papers in this issue makes a unique contribution to the  understanding of one or more dimensions of IS success. We commend them to your reading.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

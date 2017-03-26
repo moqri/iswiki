@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/111">    Volume 17 Number 3 2000
+</a> pp. 93-114</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Stimulating Thinking: Cultivating Better Decisions with Groupware Through Categorization</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/491">Hilmer, Kelly M</a> and     <a href="/contributors/239">Dennis, Alan R</a>    </div>
+
+<p>ABSTRACT: Previous research shows that groupware improves the exchange of information within groups. However, the additional information does not often lead to better group decisions, probably because individuals fail to process the new information they receive. This study explored the use of groupware processes that required individuals in groups to categorize information, in order to induce group members to better attend to the new information received from others and to integrate it into their own individual decision-making processes. Different groupware processes had different effects on attention to and integration of information, and ultimately on decision quality. Groupware processes that provided categories to organize information and groupware processes that required the receiver of information to categorize information increased attention to information and integration of information, which led to improved individual decision quality.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/195">decision making</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/698">groupware</a>,    <a href="/keywords/1382">individual cognition</a>,    <a href="/keywords/1383">information exchange</a>,    <a href="/keywords/1384">information processing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

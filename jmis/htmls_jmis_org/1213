@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/124">    Volume 31 Number 3 2014
+</a> pp. 106-137</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Autonomous Scientifically Controlled Screening Systems for Detecting Information Purposely Concealed by Individuals</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1691">Twyman, Nathan W,</a>    <a href="/contributors/532">Lowry, Paul Benjamin,</a>    <a href="/contributors/268">Burgoon, Judee K,</a> and     <a href="/contributors/1729">Nunamaker, Jay F</a>    </div>
+
+<p>ABSTRACT: 
+<p>Screening individuals for concealed information has traditionally been the purview of professional interrogators investigating crimes. However, the ability to detect when a person is hiding important information would have high value in many other applications if results could be reliably obtained using an automated and rapid interviewing system. Unfortunately, this ideal has thus far been stymied by practical limitations and inadequate scientific control in current interviewing systems. This study proposes a new class of systems, termed autonomous scientifically controlled screening systems (ASCSS), designed to detect individuals’ purposely hidden information about target topics of interest. These hidden topics of interest could cover a wide range, including knowledge of concealed weapons, privacy violations, fraudulent organizational behavior, organizational security policy violations, preemployment behavioral intentions, organizational insider threat, leakage of classified information, or even consumer product use information. ASCSS represent a systematic synthesis of structured interviewing, orienting theory, defensive response theory, noninvasive psychophysiological measurement, and behavioral measurement. To evaluate and enhance the design principles, we built a prototype automated screening kiosk system and configured it for a physical security screening scenario in which participants constructed and attempted to smuggle a fake improvised explosive device. The positive results provide support for the proposition that ASCSS may afford more widespread application of credibility assessment screening systems.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3367">automated screening kiosk</a>,    <a href="/keywords/3368">autonomous scientifically controlled screening system</a>,    <a href="/keywords/3278">concealed information test</a>,    <a href="/keywords/2656">credibility assessment</a>,    <a href="/keywords/1755">deception detection</a>,    <a href="/keywords/3369">defensive response</a>,    <a href="/keywords/2317">design science</a>,    <a href="/keywords/3370">eye-tracking measures</a>,    <a href="/keywords/3371">orienting response</a>,    <a href="/keywords/3372">physical security</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

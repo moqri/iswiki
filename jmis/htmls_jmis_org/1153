@@ -1,0 +1,70 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/90">    Volume 27 Number 3 2010
+</a> pp. 5-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ INFORMATION SYSTEMS (IS) CONTINUE TO PLAY A VITAL ROLE in the strategic positioning of many firms, and information  technology (IT) is the foundation of numerous companies that define the leading edge of economic development across the world. Our field  continues to make a contribution to the understanding and, we hope, action in this theater. The four papers of the Special Section on  Competitive Strategy, Economics, and Information Systems offer the empirics and analyses of the nodal issues at the intersection of the  captioned domains. The authors investigate the organizational capabilities that impact business process outsourcing and offshoring, bring  economic analysis of digital business into the legal domain with implications for the future development of e?commerce, and analyze  pricing strategies in digital telecommunications and in online search. This work is expected to help us understand the effectiveness of and  foresee the evolution of key digital business models. It is also generative in stimulating the continuing research on IT-based strategies.  The Guest Editors, Eric K. Clemons, Robert J. Kauffman, and Thomas A. Weber, will further introduce the papers to you.
+</p>
+<p>
+ The first paper of the general section investigates empirically the rather under&#173;researched area of IS consulting. Gregory S. Dawson,  Richard T. Watson, and Marie-Claude Boudreau analyze the limitations and mutual contradictions of the agency theory and the theory of  principal--professional relationships, where information/knowledge asymmetry can lead to an opportunistic behavior on both sides. From  this point of departure, the authors proceed to develop and test a theoretical model of relationship constraints in consulting engagements.  Induced from the empirics are the contextualized constraint mechanisms on the opportunistic behavior by either party. As pointed out by the  authors, this theory has broader applicability in business relationships that are ever more intensively based on the inherently asymmetric  endowment in information and knowledge.
+</p>
+<p>
+ The divergence of motives is also at the core of the study of the relationships in the open source software (OSS) projects studied  analytically and empirically by Param Vir Singh and Yong Tan. In such projects, the networks of communications among the participants  emerge as the project progresses, and the asymmetries of information/knowledge among the developers make the emergent social  networks differ in their stability and efficiency. The authors evolve the concept of and the conditions for network stability through a game- theoretic analysis and proceed to validate these results on the data from real-life projects. The results gained here are of importance as we  build the theory of social networks in co?creation contexts, such as OSS development. They also surface practical recommendations for  diagnosing stable structures and guiding them to efficiency. The vast majority of OSS projects have proven unsustainable; the results  presented here could help in this, as well as in other co?creation contexts.
+</p>
+<p>
+ The authors of the next paper shift our attention to the communication networks and relationships in the more formal, organizational  contexts. Yunjie (Calvin) Xu, Hee?Woong Kim, and Atreyi Kankanhalli study empirically information-seeking behavior through the lens of  relational communications. As we know, the information-seeking networks in firms tell us a lot about the actors, their interrelationships, and  ultimately about the effectiveness of their functioning together. By dichotomizing the motivations for the choice of the information source into  the informational and relational ones, and further conditioning the choice on the type of information sought, the authors help us understand  how IT-supported organizational information-seeking social networks take shape.
+</p>
+<p>
+ With online auction sites that attract immense bidder traffic, we have acquired laboratories for the study of auction behavior. Behavioral  economics and behavioral finance, as well as mechanism design, are the beneficiaries of these studies. Here, Robert F. Easley, Charles  A. Wood, and Sharad Barkataki present their study of how bidders limit their offers in order to avoid winner&#8217;s curse as related to the level of  competition in an auction and to the bidder&#8217;s experience. In possession of an extensive data set, the authors are able to obtain fine-grained  results regarding the strategies adopted by bidder cohorts and the economic outcomes of these strategies.
+</p>
+<p>
+ The protection of a country&#8217;s cultural space from the invasion of Internet-based cultural artifacts has been undertaken by a number of  governments, and not always the usual suspects and not always with a malign intent. Digital protectionism has joined the more traditional  domains of protectionism. Economic or quasi-economic tools, such as tariffs, subsidies, and quotas, are among the means at the disposal  of governments. What about their effectiveness? In the next paper, Hsing Kenneth Cheng, Juan Feng, Gary J. Koehler, and Sean Marston  present a formal analysis of this issue. Internet-based digital technologies offer vast opportunities for leakage around any adopted policies  and mechanisms. In view of this, the three categories of protectionist means indeed differ in their effectiveness, with quotas, while  seemingly easy to implement, being the least effective.
+</p>
+<p>
+ Continuing their studies of technostress, Monideepa Tarafdar, Qiang Tu, and T.S. Ragu-Nathan present their empirically grounded  analysis of the impact of this ever more common type of stress on end users. Specifically, the authors investigate the impact of technostress  on users&#8217; satisfaction with IT, as well as on their IT-supported performance. Helpfully, in the pragmatic sense, the researchers study the  impact of the factors that diminish the effects of technostress, such as user involvement, with the concomitant learning, sense of control,  and more meaningful technology appropriation. It is this aspect of this work that makes it particularly important for our understanding and  further study of technostress---and for the organizational practice.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/69">    Volume 6 Number 3 1989
+</a> pp. 25-43</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Electronic Meeting System Experience at IBM</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/459">Vogel, Douglas R,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a>    <a href="/contributors/1539">Martz Jr, William Benjamin,</a>    <a href="/contributors/1540">Grohowski, Ronald,</a> and     <a href="/contributors/1541">McGoff, Christopher</a>    </div>
+
+<p>ABSTRACT: Electronic meeting systems (EMS) have been introduced inside IBM in a cooperative effort between IBM and the University of Arizona to address the demands of an increasingly competitive and turbulent business environment. This paper presents and integrates the results of two field studies intended to evaluate the implications of electronic meeting system use at IBM. The first study focused on session process and outcome effectiveness, efficiency, and user satisfaction at a single IBM site. The second study collected data on EMS tool use and facilitation approach within sessions at four IBM sites. The two studies are complementary in reflecting the impact of computer-based support on group process and outcome. Effectiveness, efficiency, and user satisfaction are generally enhanced independent of type of activity supported or perspective, e.g., participant, facilitator, or session initiator. Facilitation training is a critical requirement for successful integration and application of electronic meeting system software and procedures in the group processes this paper addresses.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/376">electronic meetings</a>,    <a href="/keywords/201">decision room</a>,    <a href="/keywords/379">group decision processes</a>,    <a href="/keywords/380">facilitation of electronic meetings</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

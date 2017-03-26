@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/1">    Volume 25 Number 1 2008
+</a> pp. 301-331</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Role of User Participation in Information Systems Development: Implications from a Meta-Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/882">Jun, He</a> and     <a href="/contributors/320">King, William R</a>    </div>
+
+<p>ABSTRACT: This study synthesizes the research findings of 82 empirical studies on user participation in information systems development (ISD). Various ISD outcomes are addressed using a classification scheme involving two broad categories--attitudinal/behavioral outcomes and productivity outcomes. The results demonstrate that user participation is minimally-to-moderately beneficial to ISD; its effects are comparatively stronger on attitudinal/behavioral outcomes than on productivity outcomes. This attitudinal/behavioral impact may largely be the result of the emphasis that has been placed on user participation by academics and consultants. The results of this analysis are compared to those of a meta-analysis in the broader management context of participation. The results are similar in terms of attitudinal outcomes, but different, and lesser, in terms of productivity outcomes. Since the current status of research in the broad area of participation is that the effects of participation are considered to be problematic, that status and the results of this study suggest that user participation alone may not be sufficient to achieve significantly improved ISD outcomes, and that different strategies should be employed based on the specific goals of ISD projects. If system acceptance is the ultimate goal, user participation should be designed to induce more psychological involvement among potential users. If productivity benefits are the focus, user participation should be designed to provide developers the needed domain knowledge. In sum, user participation should be treated as one of a number of means for ISD projects to be more successful.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/222">information systems development</a>,    <a href="/keywords/1508">meta-analysis</a>,    <a href="/keywords/937">user participation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

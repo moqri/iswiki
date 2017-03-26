@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/11">    Volume 15 Number 2 1998
+</a> pp. 119-152</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Design, Development, and Validation of a Knowledge-Based Organizational Learning Support System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/763">Hine, Michael J</a> and     <a href="/contributors/677">Goul, Michael</a>    </div>
+
+<p>ABSTRACT: It is generally agreed that organizational learning involves the processes of developing and exchanging organizational members' underlying opinions, assumptions, and interpretations of the environment. This exploratory research applies innovative information technology (IT) to support and facilitate organizational learning. The organizational learning process is defined, and inhibitors to the process are identified and translated into system requirements for the design and development of the Organizational Learning Support System (OLSS) toolkit. The OLSS toolkit uses a knowledge-based system to elicit initial interpretations of the environment from organizational members and automatically detects where organizational members' interpretations conflict and where they are in consensus. It uses a heuristic approach to order the presentation of the conflicts to the organizational members. A validation in the form of a pilot study is included.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1164">knowledge-based decision support systems</a>,    <a href="/keywords/512">organizational decision support systems</a>,    <a href="/keywords/313">organizational learning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

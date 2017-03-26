@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/122">    Volume 31 Number 1 2014
+</a> pp. 79-106</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Achieving IT Program Goals with Integrative Conflict Management</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/859">Jiang, James J,</a>    <a href="/contributors/1685">Chang, Jamie Y T,</a>    <a href="/contributors/1686">Chen, Houn-Gee,</a>    <a href="/contributors/1139">Wang, Eric T G,</a> and     <a href="/contributors/860">Klein, Gary</a>    </div>
+
+<p>ABSTRACT: Information technology (IT) programs are collections of projects structured to meet goals established by top management regarding the use of technology. Prior research has established the importance of commitment to the organizational goals set by top management and a shared understanding of the goals among the project teams. However, conflicts occur among project teams due to pursuit of their own goals, their unique approaches to completion of required tasks, and their individual need for limited resources. These conflicts need to be resolved in a fashion that leads to the pursuit of program goals, not the independent goals lodged in individual projects. We develop a model of an IT program environment to study the effects of goal interdependence among projects and shared understanding of organizational goals on promoting integrative conflict management (ICM). ICM techniques yield agreement on decisions in the face of conflicting ideas. In turn, ICM promotes arrival at an agreement about implementation means and commitment to the IT program goals, which are better achieved as a result. The model presents a new perspective for research on conflict that considers the specific resolution process to be a key component in the attainment of goals. Practitioners should instill integrative conflict resolution techniques into program and project processes as a fundamental means of achieving goals critical to the organization.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/702">conflict management</a>,    <a href="/keywords/3266">goal commitment</a>,    <a href="/keywords/3267">goal consensus</a>,    <a href="/keywords/3268">goal understanding</a>,    <a href="/keywords/3269">IT program</a>,    <a href="/keywords/3264">IT projects</a>,    <a href="/keywords/3270">means consensus project integration</a>,    <a href="/keywords/83">project management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

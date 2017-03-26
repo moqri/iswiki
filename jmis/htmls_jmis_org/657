@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/96">    Volume 1 Number 1 1984
+</a> pp. 33-49</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Capturing More Meaning in Databases</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1095">Maier, David</a>    </div>
+
+<p>ABSTRACT: Users must understand the meaning of a database before they can intelligently interpret the data in it. We explore the problem of making databases self-descriptive. We first examine the levels of semantics of data by analogy to the area of programming languages. Next, we consider several semantic data models, which are formal languages for conceptual data description, and how a semantic description can be linked to the objects in a database. We discuss the advantages of making a semantic description part of a database itself and the types of application programs that would use that description. In particular, we focus on PIQUE, a high-level relational query language that uses such semantic information.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/10">database systems</a>,    <a href="/keywords/11">semantic data models</a>,    <a href="/keywords/12">relational query language</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

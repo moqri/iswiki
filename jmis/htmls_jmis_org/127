@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/18">    Volume 27 Number 1 2010
+</a> pp. 123-144</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Bounded Ideation Theory</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O</a> and     <a href="/contributors/249">Reinig, Bruce A</a>    </div>
+
+<p>ABSTRACT: The article presents information on bounded ideation theory (BIT), which is said to be a means of optimizing brainstorming sessions. BIT challenges the rubric that the percentage of good ideas will remain constant as the number of ideas generated rises. It is argued that limitations in solution space, goal congruence, attention span and knowledge typically result in the number of good ideas tapering off on an inflected curve. Six strategies are suggested for improving ideation sessions, which focus on promoting quality at the expense of quantity.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2652">bounded ideation theory</a>,    <a href="/keywords/196">brainstorming</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/1757">ideation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

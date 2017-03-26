@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/88">    Volume 12 Number 2 1995
+</a> pp. 59-82</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Computer Integrated Manufacturing: Empirical Implications for Industrial Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/869">Johansen, John,</a>    <a href="/contributors/870">Karmarkar, Uday S,</a>    <a href="/contributors/871">Nanda, Dhananjay,</a> and     <a href="/contributors/83">Seidmann, Abraham</a>    </div>
+
+<p>ABSTRACT: This paper describes the results of a recent field study of computer integrated manufacturing (CIM) adoption strategies in U.S. manufacturing firms. The purpose of the study was to identify the extent to which CIM technologies are in use in U.S. firms, the impact of a facility's process characteristics on the CIM development process, and the adoption policy being followed implicitly or explicitly. The survey focused on manufacturing process characteristics, the CIM development process, the CIM architecture, and perceived value and benefits. Our results indicate that CIM implementations follow a definite temporal pattern with respect to the adoption of certain information technologies. We also find evidence of labor substitution through CIM, although the direct labor jobs that are lost are partially replaced by engineering and design tasks. While most CIM users find that their CIM projects successfully meet their initial operational goals, the technology seems to be poorly integrated in most sites. More crucially, it appears that CIM does not live up to its promise: it is not being adopted as a strategic information system for competitive missions. The initiative for CIM programs is usually generated from the bottom-up by small groups of technical experts who tend to focus on localized data-processing concerns. This gradual bottom-up approach appears to severely restrain, rather than enable, plant-wide integration for critical crossfunctional business processes such as order fulfillment or the introduction of new products. The decentralized, bottom-up, development pattern of these information systems reinforces the existence of many incompatible divisional islands of automation, thereby negatively affecting the competitive capability of the firm.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/868">adopting of information systems</a>,    <a href="/keywords/869">computer integrated manufacturing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/102">    Volume 21 Number 1 2004
+</a> pp. 137-166</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Proprietary and Open Systems Adoption in E-Procurement: A Risk-Augmented Transaction Cost Perspective</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/79">Kauffman, Robert J</a> and     <a href="/contributors/908">Mohtadi, Hamid</a>    </div>
+
+<p>ABSTRACT: We present an economic model that enables the study of incentives for business-to-business (B2B) e-procurement systems investments that permit inventory coordination and improved operational control. We focus on the information technology adoption behavior of firms in the presence of transaction costs, agency costs and information uncertainty. We conclude that it is appropriate to rethink the prior theory and develop an extended transaction-cost theory perspective that incorporates the possibility of shocks. We distinguish among three kinds of B2B e-procurement systems platforms. Proprietary platform procurement systems involve traditional electronic data interchange (EDI) technologies. Open platform procurement systems are associated with e-market Web technologies. Hybrid platforms involve elements of both. We specify an analytical model that captures the key elements of our perspective, including the conditions under which strong conclusions can be made about the likely observed equilibrium e-procurement solutions of the firms. Our results explain the coexistence of both proprietary and open platforms, showing that larger firms tend to adopt costlier procurement technology solutions, such as proprietary EDI, which provides greater supply certainty. Smaller firms adopt less costly procurement technologies that entail greater supply uncertainties, such as open platform procurement systems. Two guidelines emerge for practitioners: (1) adoption of standard e-procurement platforms needs to be understood in terms of the controllable risk tradeoffs that are offered to small and large firms, and (2) gauging the business value impacts of exogenous shocks is critical to decision-making.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1774">e-procurement</a>,    <a href="/keywords/1775">information system economics</a>,    <a href="/keywords/965">information technology adoption</a>,    <a href="/keywords/867">information technology infrastructure</a>,    <a href="/keywords/1776">open platforms</a>,    <a href="/keywords/1777">proprietary platforms</a>,    <a href="/keywords/946">supply chain management (SCM)</a>,    <a href="/keywords/766">transaction costs</a>,    <a href="/keywords/1778">uncertainty handling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

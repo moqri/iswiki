@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/36">    Volume 10 Number 2 1993
+</a> pp. 55-73</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Diagnosing the Human Threats to Information Technology Implementation: A Missing Factor in Systems Analysis Illustrated in a Case Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1028">Levine, Harold G</a> and     <a href="/contributors/1029">Rossmoore, Don</a>    </div>
+
+<p>ABSTRACT: Information technology (IT) implementation is likely to be a complex and difficult process involving both the technical and social systems of an organization. Much of the theory and practice of organizational IT implementation assumes that organizational decisions--whether technical or social--are consequences of individuals and organizational units objectively collecting, evaluating, and applying information in a rational manner to make choices on behalf of the organization. However, recent data from case studies on IT implementation suggest that rationality may be the exception, rather than the rule. One important limitation, then, of traditional research and systems analysis methods is that they fail to account for the human factors that impact IT implementation. As a result, there is no systematic way to incorporate what we might learn from individual action and practice into the model. A theoretical perspective and research methodology that successfully encompass and expand the normative approach in mainstream science is "action science." Action science is a theory of action that helps explain how, and why, individuals behave as they do; and how their actions impact their organizations. In this paper, our primary goal is to employ an action science perspective to understand how a large financial services firm was inhibited from implementing a major IT effort in a timely, effective, and error-free way because of the thought and action routines of those charged with designing and implementing the system. In particular, we look for disagreements and other, unproductive action routines among these individuals, and evidence of their inability to surface and discuss them. We also review two published studies of IT implementation to show that the level of analysis required by action science is implied, but not made explicit in them. We conclude with a discussion of what constitutes a descriptively adequate account of an IT implementation and the barriers to the production of such an account. We also suggest a competing framework, based on action science, for designing and managing organizational IT change.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/670">action science</a>,    <a href="/keywords/555">human factors</a>,    <a href="/keywords/671">implementation of information technology</a>,    <a href="/keywords/672">organizational change</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

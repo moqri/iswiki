@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/108">    Volume 24 Number 1 2007
+</a> pp. 171-199</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Postimplementation Knowledge Transfers to Users and Information Technology Professionals</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/896">Santhanam, Radhika,</a>    <a href="/contributors/1348">Seligman, Larry,</a> and     <a href="/contributors/895">Kang, David</a>    </div>
+
+<p>ABSTRACT: Although there is substantial research on learning that occurs before adoption of a new information system, there is a dearth of research on postimplementation learning when a new system is assimilated as a routine element of users' work. Hence, during the postimplementation period of a bank's new work flow system, we conducted a longitudinal participant observation study to observe knowledge transfers of users and information technology (IT) professionals assigned to a help desk. We found that although users turned to IT professionals to obtain knowledge related to conceptual understanding and procedures to use the system, they most often turned to other users to obtain knowledge that allowed them to adapt the system to their work. IT professionals, on the other hand, often turned to their colleagues to obtain knowledge that helped them modify the system to emerging innovative uses. These patterns of knowledge transfers can be explained based upon source expertise. Our findings indicate that organizations must sustain designated sources of knowledge such as help desks, but must also establish conduits for users to acquire knowledge from other users and develop innovative uses of the system. A substantial amount of critical knowledge transfers relevant to system adaptation occurred during face-to-face discussions between users and IT professionals, and therefore future research should examine how this would be affected by the outsourcing of technical support functions.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2250">IT professionals</a>,    <a href="/keywords/1905">knowledge transfer</a>,    <a href="/keywords/689">learning</a>,    <a href="/keywords/2251">postimplementation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

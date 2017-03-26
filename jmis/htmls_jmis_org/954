@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/110">    Volume 9 Number 4 1993
+</a> pp. 5-15</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Research in Integrating Learning Capabilities into Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1494">Ting-Peng, Liang</a>    </div>
+
+<p>Developing intelligent information systems has been a focus of recent research. A major component that makes a system intelligent is its learning capabilities. A learning system can adapt itself to new environments and improve its performance with minimum intervention from the developer. In this paper, we review major learning paradigms, examine the role of learning in intelligent information systems, and discuss potential research issues in integrating learning capabilities in information systems design.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/610">intelligent systems</a>,    <a href="/keywords/611">machine learning</a>,    <a href="/keywords/612">system integration</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

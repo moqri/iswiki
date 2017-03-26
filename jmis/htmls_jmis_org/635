@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/96">    Volume 1 Number 1 1984
+</a> pp. 50-62</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Designing Financial Information Systems for Auditability</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1062">Lockman, Abe</a> and     <a href="/contributors/1063">Minsky, Naftaly</a>    </div>
+
+<p>ABSTRACT: The auditing of results produced by computer-based Financial Information Systems requires that auditors be able to evaluate the internal controls of such systems. Because of the integrated nature of the components in current large systems, this has proven to be a quite formidable task. We propose the simplification of such evaluations through the incorporation, during the initial design of the system, of the sorts of basic control disciplines which are used in manual systems. Our approach involves the use of a powerful Authorization Mechanism control environment (based on computer science techniques for authorization and protection) to specify and enforce such control disciplines in a manner which is easily verifiable during the audit process.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/13">system controls</a>,    <a href="/keywords/14">auditing</a>,    <a href="/keywords/15">computer system security</a>,    <a href="/keywords/16">authorization</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/60">    Volume 19 Number 2 2002
+</a> pp. 43-84</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Managing Information Technology Investment Risk: A Real Options Perspective</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/171">Benaroch, Michel</a>    </div>
+
+<p>ABSTRACT: Past information systems research on real options has focused mainly on evaluating information technology (IT) investments that embed a single, a priori known option (such as, deferral option, prototype option). In other words, only once a specific isolated option is identified as being embedded in a target IT investment, does this research call upon using real options analysis to evaluate the option. In effect, however, because real options are not inherent in any IT investment, they usually must be planned and intentionally embedded in a target IT investment in order to control various investment-specific risks, just like financial risk management uses carefully chosen options to actively manage investment risks. Moreover, when an IT investment involves multiple risks, there could be numerous ways to reconfigure the investment using different series of cascading (compound) options. In this light, we present an approach for managing IT investment risk that helps to rationally choose which options to deliberately embed in an investment so as to optimally control the balance between risk and reward. We also illustrate how the approach is applied to an IT investment entailing the establishment of an Internet sales channel.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1586">information technology investment evaluation</a>,    <a href="/keywords/1587">information technology investment management</a>,    <a href="/keywords/1588">information technology investment risk</a>,    <a href="/keywords/654">information technology investment</a>,    <a href="/keywords/1589">option-pricing models</a>,    <a href="/keywords/942">real options</a>,    <a href="/keywords/479">risk management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

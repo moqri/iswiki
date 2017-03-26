@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/124">    Volume 31 Number 3 2014
+</a> pp. 7-34</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Healthcare IT Adoption: An Analysis of Knowledge Transfer in Socioeconomic Networks</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1727">Peng, Gang,</a>    <a href="/contributors/513">Dey, Debabrata,</a> and     <a href="/contributors/514">Lahiri, Atanu</a>    </div>
+
+<p>ABSTRACT: 
+<p>Despite the potential of health information technology (HIT) systems to significantly reduce medical errors, streamline clinical processes, contain healthcare costs, and ultimately improve the quality of healthcare, their adoption by hospitals in the United States has been rather slow. To study this adoption process and get insights into the underlying mechanisms, in this work we synthesize the theories on social networks and knowledge transfer. We propose a research framework in which the absorptive capacity of a potential adopter and the collective disseminative capacity of connected adopters act as two key determinants of knowledge transfer in a socioeconomic network, and these two capacities substitute for each other in affecting HIT adoption. We also propose that, in a network setting, the mechanism of knowledge transfer manifests quite differently from that of social contagion in its impact on the diffusion process at different stages of adoption. Using a large longitudinal data set covering adoption decisions of more than five thousand hospitals across a thirteen-year horizon, we find strong support for our hypotheses. Our analysis shows that knowledge flow in provider networks plays a key role in fostering technology diffusion in initial years, allowing the contagion effect to set in sooner for quicker adoption in later years. Therefore, recent efforts at multiple levels to form integrated healthcare delivery networks should accelerate HIT adoption.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1901">absorptive capacity</a>,    <a href="/keywords/3354">disseminative capacity</a>,    <a href="/keywords/1881">healthcare</a>,    <a href="/keywords/3355">healthcare information system</a>,    <a href="/keywords/3356">healthcare information technology</a>,    <a href="/keywords/3357">healthcare information technology adoption</a>,    <a href="/keywords/3358">integrated healthcare delivery system</a>,    <a href="/keywords/1905">knowledge transfer</a>,    <a href="/keywords/3359">social network</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

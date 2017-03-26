@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/39">    Volume 20 Number 3 2003
+</a> pp. 93-119</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Crafting Rules: Context-Reflective Data Quality Problem Solving</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1009">Lee, Yang W</a>    </div>
+
+<p>ABSTRACT: Motivated by the growing importance of data quality in data-intensive, global business environments and by burgeoning data quality activities, this study builds a conceptual model of data quality problem solving. The study analyzes data quality activities at five organizations via a five-year longitudinal study. The study finds that experienced practitioners solve data quality problems by reflecting on and explicating knowledge about contexts embedded in, or missing from, data. Specifically, these individuals investigate how data problems are framed, analyzed, and resolved throughout the entire information discourse. Their discourse on contexts of data, therefore, connects otherwise separately managed data processes, that is, collection, storage, and use. Practitioners, context-reflective mode of problem solving plays a pivotal role in crafting data quality rules. These practitioners break old rules and revise actionable dominant logic embedded in work routines as a strategy for crafting rules in data quality problem solving.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1726">context-reflective problem solving</a>,    <a href="/keywords/638">data quality</a>,    <a href="/keywords/1727">data quality rules</a>,    <a href="/keywords/1632">information quality</a>,    <a href="/keywords/402">problem solving</a>,    <a href="/keywords/1728">reflection-in-action</a>,    <a href="/keywords/1729">situated practice</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

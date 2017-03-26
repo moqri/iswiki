@@ -1,0 +1,121 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/30">    Volume 30 Number 3 2013
+</a> pp. 7-12</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Issue: Information Technology and Organizational Governance: The IT Governance Cube</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1498">Tiwana, Amrit,</a>    <a href="/contributors/573">Konsynski, Benn,</a> and     <a href="/contributors/1065">Venkatraman, N</a>    </div>
+
+<p><p>
+ AMRIT TIWANA is a professor of MIS in the Terry College of Business at the University of Georgia. He serves as a senior editor at  Information Systems Research and on the boards of Journal of Management Information Systems, Strategic Management Journal, and  IEEE Transactions on Engineering Management. He has also served on MIS Quarterly's editorial board. His work on IT governance has  appeared in Information Systems Research, Journal of Management Information Systems, Strategic Management Journal, Decision  Sciences, ACM Transactions on Software Engineering, California Management Review, and other journals.
+</p>
+<p>
+ BENN KONSYNSKI is the George S. Craft Distinguished University Professor of Business Administration in the Goizueta Business  School at Emory University. He has held faculty positions at the University of Arizona and Harvard Business School. He is the author of  numerous research publications, and served as adviser and board member on public and private corporations.
+</p>
+<p>
+ N. VENKATRAMAN is the David J. McGrath Jr. Professor in Management at the School of Management of Boston University. He  held faculty positions at MIT Sloan School and London Business School. His research centers on the network perspectives on strategy for  the digital age. He has been recognized as one of the top 25 cited researchers in management over the past 25 years by Journal of  Management, Strategic Management Journal, and Thompson/ISI.
+</p>
+<p>
+ INFORMATION TECHNOLOGY (IT) HAS SPAWNED PREVIOUSLY INFEASIBLE FORMS of organizational governance, and  these new logics have simultaneously amplified the need for effective IT governance. For example, contemporary platform ecosystems (e.g.,  Apple's iOS community and Android's developer network), open source development (e.g., Ubuntu Linux), knowledge creation platforms  (e.g., Starbucks' idea-generation wiki and Wikipedia), and massively distributed self-organizing innovation networks (e.g., Innocentive and  Kickstarter) were previously unfeasible. These emergent governance arrangements have altered the conventional notions of organizational  boundaries and have ushered in network-forms different from those found in traditional industry configurations.
+</p>
+<p>
+ How organizations govern their IT activities has similarly evolved into an intricate mosaic of dispersed decision rights spanning  organizations, entities, and institutions-often involving a multiplicity of stakeholders. Such IT governance arrangements defy conventional  dichotomizations such as centralization/decentralization or insourcing/outsourcing of IT activities that were historically pervasive in the IT  governance literature. A complementary stream of work on IT implementation has contributed major insights into the successful  implementation of systems, yet limited attention has been directed to how organizations must govern the use of successfully implemented  systems to realize their latent value. The goal of this Special Issue is to expand the scope of the research conversation to encompass IT- enabled governance of new organizing logics, the symbiotic relationship between IT and organizational governance, and to foster new  theory development at the interface of IT and organizational governance.
+</p>
+<p>
+ The IT Governance Cube as a Conversant for Spotting
+</p>
+<p>
+ Theoretical Blind Spots
+</p>
+<p>
+ THE IT GOVERNANCE CUBE in Figure 1 offers a simple framework for broadening the research conversation. It encompasses  three dimensions along which IT governance research can be positioned. The IT Governance Cube is intended as a shared prop-a  conversant-in our collective conversation of what we already know as a discipline (the shaded cells in the cube) and fertile directions in  which our research conversation can progress (the unshaded cells in the cube). (A study can simultaneously occupy more than one cell in  the cube.)
+</p>
+<p>
+ 1.	Who is governed? This dimension represents the scope or expansiveness of governance and roughly corresponds to the unit of  analysis. This can be a discrete IT application or project, the firm or the IT function within a firm, or an ecosystem of firms. The ecosystem  can either be the increasingly observed ecosystems consisting of large numbers of firms (sometimes numbering in the hundreds of  thousands such as in Apple's iOS ecosystem), crowdsourcing and product co-creation networks, and multifirm supply chains and value  chains, or dyadic segments of larger networks such as interfirm sourcing arrangements. The existing body of research on IT governance  has focused primarily on governance of IT at the firm level and in dyadic interfirm sourcing arrangements. However, less attention has been  directed toward governance of individual IT applications and discrete IT services, and miniscule attention to large-scale ecosystems of  firms and systems. Organizational arrangements that fall between the artificial cells along this axis also offer promising opportunities for  theory development. This includes IT governance in pluralistic organizational arrangements that simultaneously exploit the advantages of  vertical integration and outsourcing by doing both, or arrangements that keep some innovation activity in-house but shift other parts to  complementor markets.
+</p>
+<p>
+ 2.	What is governed? The second dimension pertains to whether what is governed is IT artifacts such as hardware and software, the  content of those artifacts (e.g., data and information), or the stakeholders involved in producing and consuming them. The existing body of  work focuses largely on the IT artifacts and stakeholders, with their content having received the least attention. As we enter the era of big  data and analytics and the strategic assumption of information scarcity gets replaced by information abundance, theory development on this  facet becomes increasingly crucial to understanding how firms can accomplish sense making of massive amounts of real-time data.
+</p>
+<p>
+ 3.	How is it governed? The third dimension represents the mechanisms used to govern. These can be the allocation of decision  rights, formal and informal control mechanisms, or the use of architecture itself as a mechanism for nonovert control. Three broad types of  problems remain understudied along this dimension of the IT Governance Cube. First, prior IT governance research has focused primarily  on control mechanisms and to a lesser degree on decision rights, and often at the project level. Largely overlooked is the role of  architecture, which itself can be a subtle, nonovert, and less costly form of control. Theory development about the role of IT architecture as a  coordination device is especially crucial in massively distributed organizational arrangements where conventional coordination devices  such as hierarchical authority do not readily scale and traditional formal and informal control mechanisms can be too costly to implement.  Second, the dynamics of control evolution and their oscillation between different modes (e.g., formal and informal) remain understudied.  Similarly, configurations of control mechanisms used in massively distributed organizational arrangements such as global expertise  networks and product co-creation communities, and their antecedents and consequences, warrant further attention. Third, more nuanced  conceptualizations of IT governance as partitioning of different classes of decision rights among multiple stakeholders within and across  conventional firm boundaries, and the dynamics of IT governance evolution (e.g., temporal oscillation between extremes of centralization  and decentralization) warrant further attention.
+</p>
+<p>
+ Figure 1 offers only a starting point for theoretically expanding the IT governance conversation; we caution scholars against elevating  it into a theoretical straitjacket.
+</p>
+<p>
+ Figure 1. The IT Governance Cube
+</p>
+<p>
+ Note: The shaded cells represent our existing disciplinary knowledge of IT governance, the circled numbers represent the  contributions of the papers in this special issue, and the remaining cells represents unexplored theoretical territory.
+</p>
+<p>
+ Antecedents and Consequences: Theory Development
+</p>
+<p>
+ Through Permutation
+</p>
+<p>
+ FIGURE 2 SUMMARIZES A LEGO-LIKE antecedent-governance-consequence framework for applying the IT Governance Cube as a  conversant for future research. We urge scholars to begin in the middle in their theory development efforts, that is, first pick a focal cell in  the cube before thinking of antecedents and consequences in their nomological networks. The same antecedents and consequences with a  different cell in the middle can result a distinctively different set of theoretical insights.
+</p>
+<p>
+ On the left-hand side of Figure 2 are three illustrative, broad categories of antecedents of IT governance. These encompass properties  of ITs, properties of the organizations where they are deployed, and properties of their broader environment. We envision two broad sets of  research opportunities. First, while these antecedents have been extensively studied in prior IT governance studies, the focus has largely  been the cell at the intersection of IT artifacts and firm or project level studies that are shaded in Figure 1. We believe that shifting the focus  to other cells can offer entirely new theoretical insights that cumulatively stand on the shoulders of the prior body of work. Second, the  alignment and temporal coevolution of properties of IT, organizations, and their environment has received limited attention. The widespread  but implicit assertion in the extant literature that IT and organizational properties are distinct drivers of how IT is governed should therefore  be replaced by the assertion that they are inseparably intertwined. Future studies that address this niche can offer new theoretical insights  into the emergence and the consequences of misfits among properties of IT (e.g., architectural modularity or interface openness),  organizational properties, and environmental dynamics.
+</p>
+<p>
+ On the right-hand side of Figure 2 are some consequences of IT governance. These have historically encompassed classical  outcomes derived from organization theory: efficiency, effectiveness, flexibility, and more recently ambidexterity. While these are entirely  appropriate, overattention to them also blinds us to much larger opportunities for moving beyond our reference disciplines and for  reciprocating with substantively new theoretical contributions to them. We see three types of opportunities to progress beyond our reference  disciplines and create new theory distinctively original to the information systems discipline. These encompass focusing on innovation  partitioning, orchestration, or evolutionary dynamics as the focal consequences in our nomological networks about IT governance.
+</p>
+<p>
+ First, IT is increasingly the enabler of new organizational forms such as ecosystems and distributed interfirm networks. Its application  enables disruptively new forms of innovation partitioning-division of innovation labor-among individuals, departments, and firms. For  example, platform ecosystems (e.g., iOS and Android) and open source projects (e.g., Linux) use a modularized software foundation that is  instrumental in dividing up innovation work among tens of thousands of autonomous firms. Similarly, IT also enables the repartitioning of  decision rights across organizational boundaries in previously unimaginable ways. A promising consequence for incorporating in our  nomological networks of IT governance is therefore innovation partitioning and self-organization among collaborating actors along the  different levels of the Who dimension in Figure 1. Second, the foundational assertion of a principal-agent relationship is not necessarily  true in emerging organizational forms such as platform ecosystems. In such settings, orchestration, coordination, and integration of the  work of many autonomous parties supplant received notions of authority and control. (We use the word orchestration to refer to influencing  those that one does not control.) Control in such settings can also be bidirectional rather than from a principal to an agent. These  fundamental shifts observed in practice offer fertile research opportunities. Third, we must expand the conversation to include dynamic and  evolutionary organizational consequences of IT governance. These can encompass organizational survival and mortality, organizational  resilience, capacity to morph and evolve, competitive durability, IT-facilitated envelopment of adjacent markets, and mutation of existing firm  offerings into new ones.
+</p>
+<p>
+ However, the unexplored white boxes in Figure 1 must not be replaced by theoretical black boxes. Particularly close attention is  warranted in such permutative theory development to processes and mechanisms that offer causal explanations that will remain necessary  to progress beyond the predominantly predictive focus of IT governance studies to a scientifically necessary explanatory role as well.
+</p>
+<p>
+ Figure 2. Theory Construction Through Permutation
+</p>
+<p>
+ Positioning of the Papers in the Special Issue
+</p>
+<p>
+ THE SPECIAL ISSUE RECEIVED 49 SUBMISSIONS, of which five papers appear here. These papers encompass diverse cells in  Figure 1 as shown in the circled numbers. Three papers use qualitative methods, two focus on IT services, and their authors span globally  dispersed academic institutions and businesses, mirroring the globe-spanning, method-agonistic strengths of our research  community.
+</p>
+<p>
+ Winkler and Brown's study occupies the circled Cell 1 in Figure 1. The paper examines the partitioning of decision rights at the  application level using data from 207 firms, contributing new theoretical insights into how such governance differs across traditional  software applications (which they call "on-premise applications") and those delivered as a service. A noteworthy feature of the study is the  conceptualization of IT decisions rights to encompass both IT authority and responsibility. Di Tullio and Staples (Cell 2 in Figure 1)  explore the control of 184 open source projects to offer nuanced new insights into how they influence coordination and the development  climate relative to their influence used in in-house and outsourced software projects in prior research. This paper therefore expands the  theoretical conversation to orchestration-like consequences. The next two papers introduce complementary ideas that pertain to the  dynamic nature of governance in interfirm settings. The paper by Huber, Fischer, Dibbern, and Hirschheim (Cell 3 in Figure 1) uses case  data from four outsourced software projects to develop new theoretical insights into the dynamic and temporally oscillating nature of the  complementarity and substitution between contractual governance and relational governance. Cao, Mohan, Ramesh, and Sarkar (Cell 4 in  Figure 1) complement Huber et al.'s paper using an in-depth case study to develop a middle-range evolutionary theory to help explain how  vacillation between relational and contractual governance allows organizations to achieve greater ambidexterity in outsourced IT services.  The paper by Tallon, Ramirez, and Short (Cell 5 in Figure 1) uses data from 30 organizations in 17 industries to theoretically develop the  notion of information governance as a complement and extension to the historical focus of prior IT governance studies on IT artifacts such  as hardware and software systems. This paper therefore expands the body of IT governance research along the What dimension,  emphasizing the governance of what flows through IT artifacts. We believe that this is timely given the rise of big data and analytics-driven  decision making in contemporary organizations.
+</p>
+<p>
+ The contributions of the many anonymous reviewers were instrumental in shaping the papers in the Special Issue. We are grateful to  members of the Guest Editorial Board of the Special Issue, which included Andrew Burton-Jones, Ashley Bush, Samer Faraj, J.J. Hsieh,  Jerry Luftman, Arvind Malhotra, Gautam Ray, T. Ravichandran, Mani Subramani, Huseyin Tanriverdi, and Eric van Heck.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

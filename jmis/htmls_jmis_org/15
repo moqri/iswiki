@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/13">    Volume 19 Number 1 2002
+</a> pp. 185-210</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Integrated Performance Model of Information Systems Projects</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/25">Aladwani, Adel M</a>    </div>
+
+<p>ABSTRACT: This study makes an initial attempt to validate an integrated, theoretically driven performance model of information systems (IS) projects. IS project performance is defined in terms of task, psychological, and organizational outcomes. We draw upon different theoretical perspectives including IS, organizational teams, and project management to link six categories of variables to IS project performance: technology characteristics, project characteristics, task characteristics, people characteristics, organizational characteristics, and work processes. Data collected via a field survey of IS project leaders in 84 manufacturing organizations were used to test the proposed model. Support is found for three conclusions: (1) IS project performance is a multidimensional construct, (2) certain preconditions falling into the above categories have to exist to achieve a high performing IS project, and (3) there is a possible cross-relationship among the variables studied by IS research, organizational teams research, and project management research. We discuss the implications of this study for future research and managerial practice.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/222">information systems development</a>,    <a href="/keywords/562">information systems projects</a>,    <a href="/keywords/1574">integrated performance models</a>,    <a href="/keywords/1575">project performance</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

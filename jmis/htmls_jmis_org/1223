@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/125">    Volume 31 Number 4 2015
+</a> pp. 49-87</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Behavioral Roots of Information Systems Security: Exploring Key Factors Related to Unethical IT Use</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1750">Chatterjee, Sutirtha,</a>    <a href="/contributors/1353">Sarker, Suprateek,</a> and     <a href="/contributors/1132">Valacich, Joseph S</a>    </div>
+
+<p>ABSTRACT: 
+<p>Unethical information technology (IT) use, related to activities such as hacking, software piracy, phishing, and spoofing, has become a major security concern for individuals, organizations, and society in terms of the threat to information systems (IS) security. While there is a growing body of work on this phenomenon, we notice several gaps, limitations, and inconsistencies in the literature. In order to further understand this complex phenomenon and reconcile past findings, we conduct an exploratory study to uncover the nomological network of key constructs salient to this phenomenon, and the nature of their interrelationships. Using a scenario-based study of young adult participants, and both linear and nonlinear analyses, we uncover key nuances of this phenomenon of unethical IT use. We find that unethical IT use is a complex phenomenon, often characterized by nonlinear and idiosyncratic relationships between the constructs that capture it. Overall, ethical beliefs held by the individuals, along with economic, social, and technological considerations are found to be relevant to this phenomenon. In terms of practical implications, these results suggest that multiple interventions at various levels may be required to combat this growing threat to IS security.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3407">unethical IT use</a>,    <a href="/keywords/3408">ethics</a>,    <a href="/keywords/3409">information ethics</a>,    <a href="/keywords/3410">information systems security</a>,    <a href="/keywords/3411">nonlinear analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

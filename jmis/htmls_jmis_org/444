@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/35">    Volume 8 Number 2 1991
+</a> pp. 153-166</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Students as Surrogates for Managers in a Decision-making Environment: An Experimental Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/686">Hughes, Cary T</a> and     <a href="/contributors/803">Gibson, Michael Lucas</a>    </div>
+
+<p>ABSTRACT: Administering and controlling a field experiment in the area of information systems is a continuing problem. A solution for many researchers is to use students in controlled laboratory settings as surrogates for real-world decision makers. This practice is often questioned in many business and social sciences disciplines. Research results from attitudinal studies suggest that students' attitudes are not the same as those for whom they are surrogates. Still, some research demonstrates that students and nonstudents respond similarly during decision making. This paper contains the results of an experiment to decide if students and industry decision makers made decisions similarly before and following a training program in the use of a DSS generator. Our analysis of the results suggests that students were not adequate surrogates for industry managers in the decision-making process. Consequently, we dispute the claim that students and nonstudents unequivocally perform similarly during decision making.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/176">decision process attributes</a>,    <a href="/keywords/384">managerial decision making</a>,    <a href="/keywords/492">student surrogates</a>,    <a href="/keywords/174">training</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

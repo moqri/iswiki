@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/67">    Volume 5 Number 4 1989
+</a> pp. 125-136</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Graduate MIS Course in the Schools and Colleges of Business</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/722">Gupta, Jatinder N D</a> and     <a href="/contributors/723">Seeborg, Irmtraud S</a>    </div>
+
+<p>ABSTRACT: A survey of AACSB Schools and Colleges of Business that offer graduate programs indicates that even though more schools are creating independent departments of management/computer information systems, the graduate MIS course is similar to the undergraduate MIS course in about half of the schools and a course later in the program (with a number of prerequisites) in about half of the schools. Due to this disparity in responding schools, the results are mixed. The topics covered by most schools have been covered in MIS courses for a number of years. More recent topics such as strategic uses of MIS, end-user computing, and artificial intelligence are foreseen for the future by some respondents, but they do not appear to have made inroads into the content of the graduate MIS course.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/112">MIS education</a>,    <a href="/keywords/332">graduate MIS course</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

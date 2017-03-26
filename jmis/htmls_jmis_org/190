@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/26">    Volume 24 Number 2 2007
+</a> pp. 141-165</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Comparison of Software Quality Under Perpetual Licensing and Software as a Service</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/192">Choudhary, Vidyanand</a>    </div>
+
+<p>ABSTRACT: Software is available through a number of different licensing models such as the commonly used perpetual licensing model and a relatively new licensing model called software as a service (SaaS). There are several differences between SaaS and perpetual licensing. SaaS licensing offers software using a subscription model, whereas perpetual licensing involves a one-time payment for a perpetual use license and optional additional payments for future upgrades. Prior literature has not considered the impact of these licensing schemes on the publisher's incentive to invest in software quality. We model differences in how new software features are disseminated in SaaS and perpetual licensing. We show that these differences affect the publisher's incentive to invest in product development. We find that the SaaS licensing model leads to greater investment in product development under most conditions. This increased investment leads to higher software quality in equilibrium under SaaS as compared to perpetual licensing. The software publisher earns greater profits and social welfare is higher under SaaS under these conditions.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2291">application service providers</a>,    <a href="/keywords/1334">information goods</a>,    <a href="/keywords/2292">monopoly</a>,    <a href="/keywords/1819">on-demand computing</a>,    <a href="/keywords/1708">pricing</a>,    <a href="/keywords/2293">product development</a>,    <a href="/keywords/2294">software as a service</a>,    <a href="/keywords/2295">software licensing</a>,    <a href="/keywords/1286">software quality</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

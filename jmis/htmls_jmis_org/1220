@@ -1,0 +1,54 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/125">    Volume 31 Number 4 2015
+</a> pp. 1-2</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>
+<p>The papers in the Special section on Cognitive Perspectives on Information Systems that opens this issue of the Journal of Management Information Systems are unified by the common idea of its title: Each of them centers on an aspect of cognition in relation to a nodal information systems (IS) issue. The issues range from information-security violations, ethics breaches, and system vulnerabilities to the use of predictive analytics for phishing detection and knowledge filtering in the online communities of practice. The Guest Editor, Robert O. Briggs, introduces the Special section to you in greater detail.</p>
+<p>Three papers in the general section study the interaction between IS and online consumer behavior. In the first of these, Gediminas Adomavicius, Jesse Bockstedt, and Shawn P. Curley investigate the effects of the bundling of digital goods on consumers’ variety seeking. It has been known that the buyers of consumable goods seek more variety when those goods are bundled rather than when they are being acquired sequentially. The present authors show that this effect does not hold in the case of digital goods and theorize the reasons for this dissimilarity. The result has clear implications for practice. The theoretical analysis the authors provide also expands our horizons in the generalized knowledge of consumer behavior, as more and more of it is enacted in the acquisition of digital products.</p>
+<p>Continuing the theme of consumer behavior, Cheng Yi, Zhenhui (Jack) Jiang, and Izak Benbasat study the effect of the interactivity of online product presentation on attracting buyers to the presented products. The authors design their experiment around experience products and ground their work in the theories of flow and cognitive absorption. They show that product presentation with restricted interaction (as opposed to non- or full interaction) engages potential buyers more deeply and entices them to seek out the presented products offline more readily. Aside from contributing to the theory of online consumer behavior, this result may contribute to resource economies by online retailers.</p>
+<p>Abhijeet Ghoshal, Subodha Kumar, and Vijay Mookerjee seek to establish how recommender systems affect the competition between firms that do offer these facilities to the consumers (“personalizing firms”) and those that do not. Since the consumer is free to buy from a firm of either of the two types after using a recommender, the personalizing firm’s recommender might lose its acumen over time as fewer data points are acquired owing to this balking. The formal game-theoretic analysis presented here shows how the use of the recommenders by the personalizing firms influences the prices and profits of both types of firms. The results presented by the authors may lead smaller online retailers to the conclusion that free riding on the larger retailers’ recommenders is a favorable strategy.</p>
+<p>Online social networks (OSNs) have deep impacts on the psyches of their users, and we still do not fully understand many of them. For example, how does this use affect the sense of loneliness? Sabine Matook, Jeff Cummings, and Hillol Bala review the contradictory findings of their predecessors in this research domain and present the results of their own investigation of OSNs as tools for relationship management. The authors show that the individuals’ relationship orientation, active engagement, and willingness to disclose private information in the OSN context can have a salutary influence on their perceptions of loneliness. The study also demonstrates how certain OSN features can lead to such an outcome. These findings showcase once again the contribution our discipline can make to the contextualized understanding and effective use of information technology.</p>
+<p>This perspective can be taken also on the findings presented by Norman A. Johnson and Randolph B. Cooper in the final paper of the issue. We can see from this work how the use of instant messaging (IM)—as compared to audio channels—can lead to an increased gain in negotiations. The laboratory experiment indicates that the use of IM can more readily extract ending concessions from the opposing negotiators. Since, as the authors point out, negotiation software is now beginning to be provided online for some categories of products and marketplaces, this result is of general importance in the consumer as well as the organizational domains.</p>
+<p>This is the time to remember Sandra Slaughter, our author and a member of our Editorial Board. The outpouring of emotions on her passing was a statement of Sandy’s great worth as a colleague, a friend, and a human being. The work she has published, the countless papers of others she tirelessly worked on over the years as editor and reviewer, will last. There will be scholarly meetings and publications in her memory and devoted to the analysis and continuation of her work. And her memory will live in our scholarly community.</p>
+<p>Vladimir Zwass</p>
+<p>Editor-in-Chief</p>
+</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

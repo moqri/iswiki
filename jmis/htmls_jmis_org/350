@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/86">    Volume 22 Number 1 2005
+</a> pp. 295-319</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Game-Theoretic Model of E-Marketplace Participation Growth</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/641">Galbreth, Michael R,</a>    <a href="/contributors/642">March, Salvatore T,</a>    <a href="/contributors/643">Scudder, Gary D,</a> and     <a href="/contributors/644">Shor, Mikhael</a>    </div>
+
+<p>ABSTRACT: Despite their potential to significantly reduce transaction costs for both buyers and sellers, e-marketplaces have struggled. Recent literature has examined the value propositions of e-marketplaces and proposed conceptual frameworks for their analysis. In this research, we move beyond conceptual analysis by developing a game-theoretic model of return on-investment (ROI)-driven e-marketplace participation growth. This model provides insights into expected e-marketplace growth and participation, and can be used to determine both the viability and expected long-run size of a given e-marketplace. Our results indicate that the pricing policy of the e-market-place intermediary can affect the rate at which participation grows and, therefore, sentiment about its prospects. We focus on e-marketplaces that add value to buyers and sellers by increasing the efficiency of administrative tasks but also simultaneously add value to buyers and reduce value to sellers by lowering prices for goods purchased. Value to participants in these e-marketplaces is determined by the volume of transactions that can be conducted using the e-marketplace, resulting in a two-sided network effect-buyers reacting to sellers and sellers reacting to buyers. The game-theoretic model identifies an e marketplace equilibrium at which participation growth is predicted to stop.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1607">business-to-business e-commerce</a>,    <a href="/keywords/1694">electronic marketplaces</a>,    <a href="/keywords/874">game theory</a>,    <a href="/keywords/1609">network effect</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

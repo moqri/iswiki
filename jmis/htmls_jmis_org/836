@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/44">    Volume 10 Number 1 1993
+</a> pp. 123-139</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Perceptions of Conflict and Success in Information Systems Development Projects</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/537">Robey, Daniel,</a>    <a href="/contributors/1330">Smith, Larry A,</a> and     <a href="/contributors/1331">Vijayasarathy, Leo R</a>    </div>
+
+<p>ABSTRACT: Previous research on the development of information systems has focused on the conflicts among participants and the consequences of satisfactory resolution of those conflicts. In this paper, we test a model of conflict during system development [40,41]. As specified, the model proposed relationships among participation, influence, conflict, and conflict resolution. We extend the model to include project success as an outcome variable. A sample of 84 participants in 17 system development projects in 3 organizations was surveyed. Results support the portions of the model reported earlier [41], show a strong positive relationship between conflict resolution and project success, and show a modest positive relationship between participation and project success.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/657">conflict resolution</a>,    <a href="/keywords/222">information systems development</a>,    <a href="/keywords/658">project success</a>,    <a href="/keywords/659">social conflict</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

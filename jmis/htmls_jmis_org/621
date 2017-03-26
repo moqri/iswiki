@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/20">    Volume 27 Number 4 2011
+</a> pp. 9-41</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Product Reviews and Competition in Markets for Repeat Purchase Products</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1039">Li, Xinxin,</a>    <a href="/contributors/397">Hitt, Lorin M,</a> and     <a href="/contributors/1040">Zhang, Z John</a>    </div>
+
+<p>ABSTRACT: This paper examines how information provided by online reviews influences firmsâ€™ pricing strategy for repeat purchase products. It is commonly understood that online reviews can reduce consumer uncertainty about product characteristics and, therefore, have the potential to increase product demand and firm profits. However, when considering repeat purchase products, online reviews have an additional effect in that they can alter consumersâ€™ propensity to switch among products, which can intensify price competition and lead to lower profits. The strength of these potentially offsetting effects depends on the informativeness of consumer reviews, which is a function of both objective review accuracy and the ability of consumers to obtain information from reviews when their idiosyncratic preferences over product characteristics might differ from the preferences of reviewers. The interplay of these competing effects results in an Sâ€‘shaped relationship between the quality of reviews and firm profits. There exists an optimal level of consumer informedness from the firmsâ€™ perspective, and competing firms may have incentives to facilitate consumer reviews in some markets but not in others. Given firmsâ€™ strategic pricing, consumers may also be worse off as review informativeness increases.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2747">game-theoretic model</a>,    <a href="/keywords/2748">installed customer base</a>,    <a href="/keywords/2688">online product reviews</a>,    <a href="/keywords/1621">price competition</a>,    <a href="/keywords/2749">repeat purchase products</a>,    <a href="/keywords/2750">review informativeness</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

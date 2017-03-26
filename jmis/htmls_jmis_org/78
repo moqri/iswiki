@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/58">    Volume 18 Number 1 2001
+</a> pp. 23-55</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Organization Knowledge Management: A Contingency Perspective</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/163">Becerra-Fernandez, Irma</a> and     <a href="/contributors/164">Sabherwal, Rajiv</a>    </div>
+
+<p>ABSTRACT: Prior research examines several knowledge management processes, considering each as universally appropriate. Instead, we propose that the context influences the suitability of a knowledge management process. We develop a contingency framework, including two attributes of the organizational subunit's tasks: process or content orientation, and focused or broad domain, and links knowledge management processes to them: internalization for focused, process-oriented tasks: externalization for focused, content-oriented tasks; combination for broad, content-oriented tasks; and socialization for broad, process-oriented tasks. The empirical research was done at the Kennedy Space Center (KSC), based on several interviews and survey data from 159 individuals across 8 subunits. The results supported the contingency frame-work. All the knowledge management processes except externalization had a positive impact in the expected cell. At the overall level, combination and externalization, but not internalization and socialization, affect knowledge satisfaction. Some implications for practice and research are identified.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/348">contingency theory</a>,    <a href="/keywords/202">knowledge management</a>,    <a href="/keywords/969">structural equation modeling</a>,    <a href="/keywords/1423">task characteristics</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

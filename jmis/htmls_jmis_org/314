@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/107">    Volume 13 Number 1 1996
+</a> pp. 167-185</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>User-Developed Applications: An Empirical Study of Application Quality and Developer Productivity</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/556">Edberg, Dana T</a> and     <a href="/contributors/557">Bowman, Brent J</a>    </div>
+
+<p>ABSTRACT: As inexpensive microcomputers and easy-to-use software have proliferated throughout organizations, increasing numbers of employees are developing applications. The end-user computing (EUC) literature contains many prescriptions for managing this activity, but there has been little direct empirical examination of the effectiveness of end users as application developers. This paper describes a study in which five different applications were developed independently by paired teams of end users and IS students acting as surrogate IS professionals. This permitted comparison of end users and surrogate IS professionals on the quality of the finished applications and on productivity. The quality analysis focused on technical design and implementation factors as measured by defect counting and a subjective quality attribute rating. Productivity was measured by function point analysis and lines-of-code metrics. The results of the study indicate that the surrogate IS professionals were much more productive and produced higher-quality applications than did the end users. The fact that student surrogates significantly outperformed the end users is particularly interesting since experienced IS professionals might be expected to show even greater differences in productivity and quality. The study should be replicated using IS professionals to confirm the preliminary findings. The results suggest that additional research on the efficacy of end users as application developers is needed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/116">human information processing</a>,    <a href="/keywords/938">programmer productivity</a>,    <a href="/keywords/939">quality of programming</a>,    <a href="/keywords/752">user-developed applications</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

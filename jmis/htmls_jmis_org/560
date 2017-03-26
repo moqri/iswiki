@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/67">    Volume 5 Number 4 1989
+</a> pp. 73-86</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Adopting Systems Development Methods: An Exploratory Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/6">Kozar, Kenneth A</a>    </div>
+
+<p>ABSTRACT: A general opinion is that systems personnel are unlikely adopters of new systems development methods. Thirty-five systems persons from eleven organizations who attended a seminar/workshop on a requirements defining method were surveyed three months after the seminar to determine whether they used the method and factors influencing usage. Factors about the potential adoptee, the current tasks assigned, and the organization and its existing methods were considered as predictors of usage. The study found adopters to be younger, to have spent less time in their organization and in systems work, not to have a current method that they would have to give up, to perceive themselves to be risk takers, and to be more optimistic about their ability to use the method and have it fit in their organization.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/326">systems development method</a>,    <a href="/keywords/327">systems adoption</a>,    <a href="/keywords/328">individual characteristics of MIS professionals</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

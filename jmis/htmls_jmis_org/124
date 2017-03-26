@@ -1,0 +1,79 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/68">    Volume 23 Number 4 2007
+</a> pp. 7-9</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Global Perspectives on Information, Communication, and E-Commerce</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/236">Sprague Jr, Ralph H</a>    </div>
+
+<p><p>
+ Robert O. Briggs is the Director of Academic Affairs for the Institute for Collaboration Science and Professor of Marketing and Management at the University of Nebraska. He is also an Associate Professor of Systems Engineering at the Delft University of Technology in the Netherlands. He earned his Ph.D. in Management and Information Systems from the University of Arizona in 1994. He researches the theoretical foundations of collaboration and applies his findings to the design and deployment of new collaboration technologies and work practices. He is a codeveloper of the Collaboration Engineering discipline, and co-inventor of the ThinkLets design pattern language for collaboration processes.
+</p>
+<p>
+ Jay F. Nunamaker Jr. is Regents and Soldwedel Professor of MIS, Computer Science, and Communication and Director of the Center for the Management of Information at the University of Arizona, Tucson. He received his Ph.D. in operations research and systems engineering from Case Institute of Technology, an M.S. and B.S. in engineering from the University of Pittsburgh, and a B.S. from Carnegie Mellon University. He received his professional engineer&#8217;s license in 1965. In a 2005 journal article in Communications of the AIS, he was recognized as the fourth to the sixth most-productive researcher for the period 1991&#8211;2003. Dr. Nunamaker received the LEO Award from the Association of Information Systems (AIS) at the International Conference on Information Systems (ICIS) in Barcelona, Spain, December 2002, and he was elected as a fellow of the AIS in 2000.
+</p>
+<p>
+ Ralph H. Sprague is a Professor of Information Technology Management in the Shidler College of Business at the University  of Hawaii. He has over 40 years of experience in teaching, research, and consulting in the use of computers and information technologies in organizations. His specialties are decision support systems, strategic systems planning, the management of information systems, and electronic document management. He has served as Chairman or Cochairman of the Hawaii International Conference on System Sciences for the past 30 years.
+</p>
+<p>
+ This Special Section focuses on the interplay of many issues arising when people work together to achieve high-value goals on a global scale. In order to build efficient, effective, and useful global systems, we must accommodate the needs of distributed cross-cultural teams. Among other things, we must establish verifiable, yet defensible, online identities that travel securely across geographic and electronic space. We must accommodate myriad genres for data streams and documents. We must find new ways to direct and focus attention, to forge new representations of familiar entities, to reason together, to negotiate and to build consensus, to hold one another accountable.
+</p>
+<p>
+ Within this general context, the seven papers in this Special Section address challenges of importance and interest to global information systems (IS) endeavors. Consider, for example, the challenge of managing and controlling global information technology (IT) resources. Madhu T. Rao, Carol V. Brown, and William C. Perkins examine the utility of resource dependence theory in the context of global control and coordination of a distributed IS management function among 54 headquarters&#8212;subsidiary pairs spread across 19 countries in their paper, "Host Country Resource Availability and Information System Control Mechanisms in Multinational Corporations: An Empirical Test of Resource Dependence Theory." They report intriguingly mixed findings&#8212;some aspects of the theory were borne out in the field, while others were not.
+</p>
+<p>
+ The next paper, "Interoperability of E-Government Information Systems: Issues of Identification and Data Sharing," by Beno&#238;t Otjacques, Patrik Hitzelberger, and Fernand Feltz, deals with the sensitive legal and administrative challenges to exchanging information about the identities of individuals within a particular national entity and across international borders. This exploratory paper describes the status quo for such practices among 18 of the member states of the European Union. The insights derived here may be useful on a broader scale, as the European Union is a leader in identity protection.
+</p>
+<p>
+ Dongsong Zhang, Paul Benjamin Lowry, Lina Zhou, and Xiaolan Fu examine  the degree to which global differences affect the efforts of cross-cultural teams in their paper, "The Impact of Individualism--Collectivism, Social Presence, and Group Diversity on Group Decision Making Under Majority Influence." The authors investigate how national culture, social presence, and group diversity may correlate with majority influence in a group decision-making context. The paper reports a study of 183 groups which revealed that the ability of a majority to impose its will on a minority varied significantly by culture. The paper offers useful insights for improving the outcome and the effectiveness of group decision making in cross-cultural environments.
+</p>
+<p>
+ Carsten &#216;sterlund, in his paper, "Genre Combinations: A Window into Dynamic Communication Practices," investigates a global phenomenon as he explores the interplay of policy and action in a case study of how organizational members strike a balance between the need for continuity in communicative practices and a need for flexibility in managing a jumble of paper-based and digital IS. Using an emergency room as a rich exemplar, he presents case study data to illustrate that end users often adapt a genre&#8217;s media and form in new ways to achieve their ends.
+</p>
+<p>
+ John Hulland, Michael R. Wade, and Kersi D. Antia consider an aspect of the global electronic marketplace in their paper, "The Impact of Capabilities and Prior Investments on Online Channel Commitment and Performance," which examines a proposed correlation between prior network infrastructure investments and commitment to online marketing channels. As the paper draws on a resource-based view of the firm, it makes a cross-disciplinary argument to explain the commitment and performance benefits that firms derive from their prior investments. The authors demonstrate the utility of their approach with a survey of 550 online retailers. They report some interesting variation in the degree to which rewards vary unequally across firms.
+</p>
+<p>
+ One of the biggest barriers to participation in the global economy is a lack of knowledge about how to conduct collaborative business processes on line. Every aspect of business collaboration incorporates some element of ideation, and many studies have been published about ways to improve idea generation. Bruce A. Reinig, Robert O. Briggs, and Jay F. Nunamaker Jr., in their paper, "On the Measurement of Ideation Quality," report having discovered fundamental flaws in the metrics used to evaluate ideation approaches. The study shows that the same data set would yield three mutually exclusive conclusions depending on which of the metrics was applied. The paper therefore calls into question earlier ideation research based on the biased metrics (including that of the authors). It argues further that the one logically sound metric nonetheless has certain limitations, and proposes an approach to developing new metrics to overcome those constraints.
+</p>
+<p>
+ Finally, the line between the global and the local all but vanishes in the paper "Attention Issues in Spatial Information Systems: Directing Mobile Users&#8217; Visual Attention Using Augmented Reality," by Frank Biocca, Charles Owen, Arthur Tang, and Corey Bohil. The paper tackles a special challenge faced by people who must collaborate with respect to three-dimensional objects in three-dimensional space that one or more of the participants do not actually occupy. Collocated team members use gestures, facial expressions, eye gaze, and proximity to direct the attention of their teammates to objects situated in three-dimensional spaces. These same mechanisms are not available to those who do not occupy the same space. This paper presents an elegant and deceptively simple solution to that challenge.
+</p>
+<p>
+ Each of the papers in this Special Section grew out work that was nominated for best-paper awards at the Hawaii International Conference on System Sciences (HICSS). The paper by Biocca, Owen, Tang, and Bohil won the best-paper award for the HICSS track on Collaboration Systems and Technologies in 2006. Each paper presents an important and provocative perspective on how people may succeed as they work together toward their goals. We commend each of them to your reading.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/14">    Volume 8 Number 4 1992
+</a> pp. 5-25</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Organization Support Systems: Bridging Business and Decision Processes</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/602">Fedorowicz, Jane</a> and     <a href="/contributors/573">Konsynski, Benn</a>    </div>
+
+<p>ABSTRACT: New organizational information demands and emerging information technologies combine to make companywide, or organization support systems (OSS) an organizational imperative. The term OSS refers to the information technology infrastructure that establishes an environment for organizational and individual decision making. Issues that relate attributes of organizational decision and business processes to associated characteristics of platform information technologies are discussed. Some of these linkages may result in new emerging organizational forms. A proposed taxonomy of OSS demonstrates changes in the levels of embedded policy relative to facilitation of flexible organizational structures. This framework suggests research opportunities in areas of design of organizational structures, development of an organizational support systems architecture, and technical and organizational issues in decisions on strategy, structure, and systems. The paper highlights several key challenges in research and management practice.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/525">management support systems</a>,    <a href="/keywords/526">organizational decision-making structure</a>,    <a href="/keywords/527">organizational support systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

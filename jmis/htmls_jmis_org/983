@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/17">    Volume 2 Number 3 1985
+</a> pp. 65-77</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Research on MIS Planning: Some Guidelines from Strategic Planning Research</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1065">Venkatraman, N</a>    </div>
+
+<p>ABSTRACT: Recognizing that MIS planning is fast emerging as an important topic for both practitioners and researchers, this paper develops key guidelines for MIS planning research. By illustrating similarities between the research streams of MIS planning and organizational strategic planning, we derive three major guidelines from a critical review and evaluation of the progress made in the strategic research stream over the last decade. These are: (i) recognition of hierarchy of MIS planning levels and corresponding hierarchy in MIS planning benefits; (ii) specific attention to operationalization of constructs to ensure correspondence between theoretical conceptualization and empirical observation; and (iii) the adoption of an overarching research framework rooted in the contingency theory tradition. We hope that the discussion will stimulate researchers' attention toward developing a program of research on MIS planning.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/125">MIS planning</a>,    <a href="/keywords/126">methodology of MIS planning research</a>,    <a href="/keywords/127">linkage between MIS planning &amp; strategic planning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

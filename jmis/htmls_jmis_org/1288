@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/131">    Volume 33 Number 2 2016
+</a> pp. 482-510</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Examining Hacker Participation Length in Cybercriminal Internet-Relay-Chat Communities</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1836">Benjamin, Victor,</a>    <a href="/contributors/1837">Zhang, Bin,</a>    <a href="/contributors/1729">Nunamaker, Jay F,</a> and     <a href="/contributors/433">Chen, Hsinchun</a>    </div>
+
+<p>ABSTRACT: 
+<p>To further cybersecurity, there is interest in studying online cybercriminal communities to learn more about emerging cyber threats. Literature documents the existence of many online Internet Relay Chat (IRC) cybercriminal communities where cybercriminals congregate and share hacking tools, malware, and more. However, many cybercriminal community participants appear unskilled and have fleeting interests, making it difficult to detect potential long-term or key participants. This is a challenge for researchers and practitioners to quickly identify cybercriminals that may provide credible threat intelligence. Thus, we propose a computational approach to analyze cybercriminals IRC communities in order to identify potential long-term and key participants. We use the extended Cox model to scrutinize cybercriminal IRC participation for better understanding of behaviors exhibited by cybercriminals of importance. Results indicate that key cybercriminals may be quickly identifiable by assessing the scale of their interaction and networks with other participants.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3669">community participation</a>,    <a href="/keywords/3670">cybercrime</a>,    <a href="/keywords/3671">cybercriminal community</a>,    <a href="/keywords/3672">Internet Relay Chat</a>,    <a href="/keywords/3673">participation duration modeling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

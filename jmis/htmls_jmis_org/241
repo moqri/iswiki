@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/96">    Volume 1 Number 1 1984
+</a> pp. 81-101</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Problems in Implementing and Operating a Manufacturing Resource Planning Information System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/413">Cox, James F</a> and     <a href="/contributors/414">Clark, Steven J</a>    </div>
+
+<p>ABSTRACT: Manufacturing information systems are among the most complex to design, implement, and maintain. Few systems are completely successful. This paper provides the framework of one of the most popular manufacturing information systems, a manufacturing resource planning system, discusses the potential benefits of a successful system, and describes the problems associated with operating the system. Problems are classified as being management, technical, and behavioral. Recommendations are provided for each type of problem based on an extensive review of the literature. A discussion is provided of current trends in the manufacturing information system field.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/21">manufacturing resource planning</a>,    <a href="/keywords/22">master scheduling</a>,    <a href="/keywords/23">capacity planning</a>,    <a href="/keywords/24">inventory planning</a>,    <a href="/keywords/25">material requirements planning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

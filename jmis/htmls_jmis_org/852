@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/22">    Volume 28 Number 1 2011
+</a> pp. 273-309</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Role of Communication and Trust in Global Virtual Teams: A Social Network Perspective</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1349">Saonee, Sarker,</a>    <a href="/contributors/86">Manju, Ahuja,</a>    <a href="/contributors/1351">Suprateek, Sarker,</a> and     <a href="/contributors/1352">Kirkeby, Sarah</a>    </div>
+
+<p>ABSTRACT: The importance of communication and trust in the context of global virtual teams has been noted and reiterated in the information systems (IS) literature. Yet precisely how communication and trust influence certain outcomes within virtual teams remains unresolved. In this study, we seek to contribute some clarity to the understanding of the theoretical linkages among trust, communication, and member performance in virtual teams. To this end, we identify and test three proposed models (additive, interaction, and mediation) describing the role of trust in its relationship with communication to explain performance. In testing the relationships, we note that the concepts of communication and trust are inherently relational and not properties of individuals. Thus, we argue that a social network approach is potentially more appropriate than attribute-based approaches that have been utilized in prior research. Our results indicate that the "mediating" model best explains how communication and trust work together to influence performance. Overall, the study contributes to the existing body of knowledge on virtual teams by empirically reconciling conflicting views regarding the interrelationships between key constructs in the literature. Further, the study, through its adoption of the social network analysis approach, provides awareness within the IS research community of the strengths of applying network approaches in examining new organizational forms.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2813">communication</a>,    <a href="/keywords/1646">distributed teams</a>,    <a href="/keywords/1105">global virtual teams</a>,    <a href="/keywords/2814">hybrid teams</a>,    <a href="/keywords/2815">individual performance</a>,    <a href="/keywords/1292">mediation</a>,    <a href="/keywords/2816">networked individualism</a>,    <a href="/keywords/2817">social network analysis</a>,    <a href="/keywords/1108">trust</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

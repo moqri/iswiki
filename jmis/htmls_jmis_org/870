@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/25">    Volume 3 Number 4 1987
+</a> pp. 79-92</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Design of an Investment Portfolio Selection Decision Support System Using Two Expert Systems and a Consulting System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/678">Shane, Barry,</a>    <a href="/contributors/1376">Fry, Mitchel,</a> and     <a href="/contributors/1377">Toro, Reuben</a>    </div>
+
+<p>ABSTRACT: Two expert systems form the basis for the design of a consulting system that provides advice for selecting an investment portfolio for an individual. Current economic indicators are compared with an investor's financial goals and constraints by one expert system to augment the other. The first expert system distributes its domain knowledge to the second. Subsequent to this knowledge sharing, the second expert system matches a person's financial attributes, goals, and risk preferences with investment choices to recommend portfolio mixes. The consulting system suggests portfolio mixes that are preferred by experienced investment counselors within the boundaries of the Decision Support System (DSS) output.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/156">expert systems</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/214">financial portfolio construction</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

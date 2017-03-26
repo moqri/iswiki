@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/30">    Volume 30 Number 3 2013
+</a> pp. 115-140</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Evolution of Governance: Achieving Ambidexterity in IT Outsourcing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/285">Cao, Lan,</a>    <a href="/contributors/286">Mohan, Kannan,</a>    <a href="/contributors/287">Ramesh, Balasubramaniam,</a> and     <a href="/contributors/288">Sarkar, Sumantra</a>    </div>
+
+<p>ABSTRACT: Two types of information technology (IT) outsourcing governance-contractual and relational-are commonly employed to address different goals in IT service management in outsourcing arrangements. Contractual governance helps improve efficiency in an outsourcing relationship, whereas relational governance facilitates satisfying changing business needs. Past literature argues that both forms of governance are important and that an appropriate balance between them is necessary. This study finds that these two forms of governance often conflict with one another. We contribute to the research on IT outsourcing governance by opening the black box of the evolutionary process of achieving ambidexterity in this context. Organizations shift their focus between contractual and relational forms of governance in an attempt to develop practices that address conflicts between the two forms. We present the findings from a qualitative study of an organization that outsourced its IT services. Our findings reveal how a balance between contractual and relational governance can be achieved through a process we call the ambidexterity pendulum.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3191">IT outsourcing</a>,    <a href="/keywords/3192">IT outsourcing governance</a>,    <a href="/keywords/3193">organizational ambidexterity</a>,    <a href="/keywords/650">outsourcing</a>,    <a href="/keywords/3194">outsourcing governance</a>,    <a href="/keywords/3195">pendulum process</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

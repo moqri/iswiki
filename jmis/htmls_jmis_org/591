@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/87">    Volume 16 Number 4 2000
+</a> pp. 99-119</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Technology Value Through Different Normative Lenses</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/997">Lee, Byungtae</a> and     <a href="/contributors/998">Menon, Nirup M</a>    </div>
+
+<p>ABSTRACT: The influence of information technology (IT) investments on organizational performance is revisited. Bounded rationality, organizational controls, and political forces may constrain optimal selection of inputs and appropriate substitution between inputs. For example, firms may not be able to attain an optimal level of IT by substituting IT for labor (for reasons such as pressure from the labor union). Besides estimating a link between IT investments and firm output, this paper presents a study of the link between IT investment levels and the efficiency of processes.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1300">allocative efficiency</a>,    <a href="/keywords/1301">information technology performance</a>,    <a href="/keywords/1302">process efficiency</a>,    <a href="/keywords/1303">technical efficiency</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

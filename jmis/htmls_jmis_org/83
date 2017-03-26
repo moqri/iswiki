@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/48">    Volume 26 Number 4 2010
+</a> pp. 317-358</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Should We Go Our Own Way?: Backsourcing Flexibility in IT Services Contracts</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/171">Benaroch, Michel,</a>    <a href="/contributors/172">Dai, Qizhi,</a> and     <a href="/contributors/79">Kauffman, Robert J</a>    </div>
+
+<p>ABSTRACT: The emergence of new service science approaches to business problems in information technology (IT) services offers new, unusually relevant insights for the senior management of vendors in this business area. This research examines how service-level agreement contract flexibility should be designed when the technological and business market environments result in volatility of demand, based on an understanding of related changes in the cost drivers that underlie IT services contracts. Our approach draws on a blend of well-known methods from financial economics--the real option pricing method and the contingent claims analysis method. In particular, our research examines a setting in which a vendor provides IT services to a client according to a prenegotiated IT services contract in the presence of demand volatility. We analyze the motivation of and value consequences for a vendor that offers the client the flexibility to opt out of the contract. For example, the client might switch to another vendor, or backsource and provide its own services internally. Our core results offer important foundational thinking for how to specify various forms of IT service-related flexibility in terms of put and call options from the point of view of an IT services vendor, so that their value and exercise timing can be estimated. We show that the client firm's demand trigger value for deciding when to backsource its IT services varies, and it depends on the degree of demand volatility as well as the usage-based fees charged by the vendor. Working from our modeling approach, we also are able to characterize the extent to which a vendor can benefit from bearing the costs of making a backsourcing flexibility option available to its client.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2631">contingent claims analysis</a>,    <a href="/keywords/2632">demand trigger value</a>,    <a href="/keywords/2633">demand uncertainty</a>,    <a href="/keywords/2390">financial economics</a>,    <a href="/keywords/2288">IT services</a>,    <a href="/keywords/650">outsourcing</a>,    <a href="/keywords/942">real options</a>,    <a href="/keywords/2290">services science</a>,    <a href="/keywords/2634">valuation</a>,    <a href="/keywords/2635">vendors</a>,    <a href="/keywords/2636">volatility</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

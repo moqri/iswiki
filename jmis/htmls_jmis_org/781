@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/74">    Volume 9 Number 3 1992
+</a> pp. 7-26</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Business Case Framework for Group Support Technology</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1268">Post, Brad Quinn</a>    </div>
+
+<p>ABSTRACT: As groupwork gains recognition, emerging group support technologies raise questions about the merits of these systems relative to group performance and return on investment. Business case variables of efficiency, quality, effectiveness, customer satisfaction and decision making are useful in measuring the potential contribution that group support technologies offer. This paper presents findings from a recent field study that used business case concepts as its design approach. The paper explores the infrastructure development requirements for building a business case study. Such a framework is useful to business decision makers and researchers interested in the deployment of these technologies in complex business environments.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/589">business case evaluation</a>,    <a href="/keywords/590">business teams</a>,    <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/591">group support technology</a>,    <a href="/keywords/499">group work</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

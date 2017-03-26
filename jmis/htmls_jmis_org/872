@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/95">    Volume 14 Number 2 1997
+</a> pp. 103-131</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Exploring the Difficulties of Learning Object-Oriented Techniques</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1384">Sheetz, Steven D,</a>    <a href="/contributors/829">Irwin, Gretchen,</a>    <a href="/contributors/1385">Tegarden, David P,</a>    <a href="/contributors/1175">Nelson, H James,</a> and     <a href="/contributors/1386">Monarchi, David E</a>    </div>
+
+<p>ABSTRACT: Object-oriented (OO) analysis, design, and programming techniques have emerged as potential solutions to the software crisis. However, learning OO techniques can be a difficult process. This study investigates students' perceptions of the difficulties in learning and using OO techniques. Two groups of students who had recently completed a sixteen-week course on OO systems development participated in the study. Cognitive mapping techniques implemented with group support system (GSS) technology were used to gather information on the students' perceptions. The groups used the GSS to identify what was difficult about learning and using OO techniques, classify these concepts into categories, rank the relative importance of each category, and determine the relationships among the categories. Importance rankings of the categories show that learning basic object concepts was most important to and most difficult for the students, followed by design issues, and programming techniques. Composite cognitive maps of the shared perceptions of group members suggest that educators and industry trainers can reduce the difficulties of learning OO concepts by teaching simplified methodologies and controlling difficulties of the programming environment.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/740">cognitive mapping</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/689">learning</a>,    <a href="/keywords/272">object-oriented systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

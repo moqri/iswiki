@@ -1,0 +1,73 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/11">    Volume 15 Number 2 1998
+</a> pp. 3-4</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ THE  SPECIAL  SECTION ON STRATEGIC INFORMATION SYSTEMS,  which opens this issue and will take  you into the interesting settings of the financial and software industries, will be analytically introduced to you by  its Guest Editors, Eric K. Clemons and Bruce W. Weber.
+</p>
+<p>
+ What motivates large-scale outsourcing of information systems? By now, this phenomenon has been studied  extensively. The explanations still range from the firms' falling in step with the general trend of concentrating on  their core competencies in the environment of lowered coordination costs to the more mundane ones of the  outsourcing firms' saving money. It is always difficult, if not impossible, to prove motivations. In the first paper  of the general part of the issue, Michael Alan Smith, Sabyasachi Mitra, and Sridhar Narasimhan go about this task  by inferring the motivations from the available evidence: the financial condition of the firms prior to the  outsourcing. From their analysis of the results, the authors find that what one might call defensive motivations  seem to be operative: Firms move to large-scale outsourcing in order to generate cash and subsequently to  reduce costs.
+</p>
+<p>
+ In the next paper, Patricia A. Essex, Simha R. Magal, and Douglas E. Masteller offer a most comprehensive  empirically based analysis of the factors leading to the success of information centers. The authors develop an  inclusive model for end-user satisfaction with information centers. The model can serve MIS practitioners in  setting up the evaluation criteria for this important component of organizational computing.
+</p>
+<p>
+ Four subsequent papers deploy a variety of approaches in order to deal with several nodal issues in supporting  organizational decision making. In the first of these, Michael J. Hine and Michael Goul present the design of a  system to support interpretive organizational learning, which system they go on to validate. This type of  organizational learning is expected to lead to a higher level of performance by generating rich cognitive  interpretations of environmental events and helping the members of the organization to share these interpretations  meaningfully. The authors use a knowledge-based approach to the representation of interpretations and describe  the results of the use of the resulting system. A system of this type can help avoid premature consensus, while  also generating a set of interpretations that can become a part of the organizational memory and help ratchet up  the firm's performance in the future.
+</p>
+<p>
+ In an interesting analysis of the decision maker's behavior, Niv Ahituv, Magid Igbaria, and Aviem Sella  empirically examine the effects of time pressure and of the degree of information incompleteness on the  performance of top and mid-level commanders. A significant role that the decision maker's experience plays in  confident coping with incomplete information and time constraints is an important take-away from this work.
+</p>
+<p>
+ Brian E. Menneke and Joseph S. Valacich contribute to our understanding of group decision making through a  study of the effects of group history on information sharing and the consequent decision quality and satisfaction  with the decision. The need to enrich the sharing by and within an in-group in the context of a larger group emerges  from this research, and the authors offer several suggestions on the subject. A reader of this issue may add to  these the use of an organizational learning support system developed by Hine and Goul.
+</p>
+<p>
+ In the concluding paper of the issue, David M. Steiger offers a theoretical argument and a framework for  advanced model analysis in the use of decision support systems (DSS). Model-analysis subsystems of DSS are  not included in the most widely used frameworks of these systems, yet they are important to providing the  context for and making sense of a DSS run's results. Based on a theory of understanding, the author proposes a  framework for model analysis that would lead to a higher level of understanding of a problem in the context of the  business environment. We can discern here another echo of the concerns of Hine and Goul's work&lt;197&gt;it is  all about deeper understanding, richer interpretations, and then evolving these through group and organizational  sharing to lead, ultimately, to higher performance levels.
+</p>
+<p>
+ It is my pleasure to thank the outgoing members of the Journal's Editorial Board, Paul Cheney, Raymond  McLeod, Jr., and Naftaly Minsky, for their contribution. It is also my privilege to welcome to the Editorial Board its  new members: Tung X. Bui, Ronald E. Rice, and Iris Vessey.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/132">    Volume 33 Number 3 2016
+</a> pp. 776-808</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Augmented Virtual Doctor Office: Theory-based Design and Assessment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1632">Zahedi, Fatemeh Mariam,</a>    <a href="/contributors/1862">Walia, Nitin,</a> and     <a href="/contributors/1863">Jain, Hemant</a>    </div>
+
+<p>ABSTRACT: 
+<p>Motivated by rising demands for medical care and the recent trends in medical care delivery, this work designs, develops, and evaluates the augmented virtual doctor office (AVDO). AVDO is intended to provide group medical visits in cyberspace (Cyber GMV). This research adopts the design science approach to design AVDO based on the extension of media naturalness (MN) theory. AVDO is implemented in an augmented world setting that integrates real visual cues with a virtual-world technology (Second Life® in this case). The assessment of AVDO is carried out in two ways: (1) through a synthesis of the extended MN theory and technology acceptance theories to assess the relationships of design features as perceived by patients with outcomes that include understanding, perceived effectiveness, trust, and behavior intentions, and (2) through the assessment of AVDO’s proof of value and proof of use as a supplementary channel for the delivery of medical care. Our work shows how the design features significantly influence outcomes and patients’ positive views of the design’s value and use. Theoretical and practical contributions of the work are presented.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3730">augmented virtual doctor office</a>,    <a href="/keywords/3731">augmented worlds</a>,    <a href="/keywords/2317">design science</a>,    <a href="/keywords/3732">group medical visits</a>,    <a href="/keywords/3733">health informatics</a>,    <a href="/keywords/2964">Second Life</a>,    <a href="/keywords/2504">virtual worlds</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

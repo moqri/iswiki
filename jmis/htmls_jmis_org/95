@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/28">    Volume 18 Number 2 2001
+</a> pp. 89-106</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Goods and Vertical Differentiation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/191">Bhargava, Hemant K</a> and     <a href="/contributors/192">Choudhary, Vidyanand</a>    </div>
+
+<p>ABSTRACT: Second-degree price discrimination, that is, vertical differentiation, is widely practiced by firms selling physical goods to consumers with heterogeneous valuations. This strategy leads to market segmentation and has been shown to be optimal by many researchers. On the other hand, researchers have also demonstrated, under certain restrictive conditions, that vertical differentiation may not be optimal for information goods. We analyze vertical differentiation for a monopolist, continuing the practice of modeling consumer valuation as a linear function of product quality and consumer type but generalizing assumptions about marginal costs and consumer distributions. We show that the firm's optimal product line depends on the benefit-to-cost ratio of qualities in the choice vector. We find that a vertical differentiation strategy is not optimal when the highest quality product has the best benefit-to-cost ratio. Many information goods satisfy this property.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1334">information goods</a>,    <a href="/keywords/756">market segmentation</a>,    <a href="/keywords/1461">multiproduct monopoly</a>,    <a href="/keywords/1462">price discrimination</a>,    <a href="/keywords/1463">versioning</a>,    <a href="/keywords/1464">vertical differentiation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

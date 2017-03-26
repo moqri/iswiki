@@ -1,0 +1,71 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/97">    Volume 12 Number 1 1995
+</a> pp. 3-7</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ Radical transformation of business processes within organizations and in the interorganizational business networks, spurred by global competition and enabled by information technology, is a fact of life and we may expect to witness it in years to come.  Business process reengineering (BPR) is the most prominent medium through which the long-forecasted effects of information technology on production and commerce present themselves.  Developing theoretical insights into BPR is, consequently, a vital task for MIS researchers.  The Special Section that opens this issue of the Journal is indeed moving us "Toward a Theory of Business Process Change Management," as it promises in its heading.  This is an impressive accomplishment of the authors and the Guest Editors, William J. Kettinger and Varun Grover.  The papers included in the Special Section analyze the strategies and tactics of BPR, management of information about processes, which is necessary to enable BPR, and the implementation of BPR projects.  The work spans the spectrum of the business transformation depth, from evolutionary to revolutionary.  All papers are thoroughly grounded in practice.  Taken together, the papers surface the fundamental problems and provide the conceptual frameworks necessary for further theory building.  In their introduction to the Special Section, the Guest Editors offer an embryo of BPR theory and introduce the included papers at length.
+</p>
+<p>
+ In the first paper of the general section, Ronald M. Lee and Young U. Ryu introduce the notion and present a prototype of a deontic expert systems as an implementation of the "ought" type of rules.  Based on deontic logic, the system can be used to implement the rules governing rights, duties, and privileges operative in an organization or perhaps even more fruitfully, in interorganizational relationships.  Take strategic alliances: As we know, several prominent interorganizational strategic ventures (such as CONFIRM) have collapsed largely because no norms had been established to allocate responsibilities.  Explicit use of deontic reasoning appears to be a promising alternative to the direct deployment of the speech-act theory., based on Austin's study of performative utterances [3].  One can see how deontic expert systems may help expand the information-system support of organizational memory, constituting a part of the pattern-maintenance subsystem of an organizational memory information system [2].
+</p>
+<p>
+ Related to the previous paper in an attempt to broaden the reach of information systems is the paper by Phillip Ein-Dor and Israel Spiegler, who propose a model supporting natural language access to multiple databases.  In this environment, the difficulties of providing natural language access to a single database are compounded by the presence of several conceptual domains, or contexts, each represented by a member database.  The authors present a system prototype and analyze the feasibility of their approach.  Taken together with the previous paper, this contribution shows how information systems can provide far broader cognitive support to their users than they do today.
+</p>
+<p>
+ The construct of information resource management (IRM) has been used rather loosely for a long time.  Some analysts focus on managing systems and technologies and thus take an efficiency-based view; others take an effectiveness-oriented perspective , relating IRM to supporting the organizational users [1].  Based on an extensive analysis and integration of the available conceptualizations of IRM, Bruce R. Lewis, Charles A. Snyder, and R. Kelly Rainer, Jr., define IRM as a comprehensive approach to all aspects of managing the resources and processes associated with data-oriented activities in an enterprise with an objective of meeting its business needs.  As will be obvious to the reader of the preceding two papers in the issue, "data" are not limited to quantitative entities.  What is more salient, the author parsimoniously surface the dimensions of IRM and offer a survey instrument for measuring them.  Further work should lead, after a refinement and validation of the instrument, to a gold IRM standard and comparisons of how well the information resources are managed and how this relates to the company's performance.
+</p>
+<p>
+ The impact of expert systems on their users' jobs is assessed by Youngohc Yoon and Tor Guimaraes.  The authors find substantial and  multifaceted benefits in this regard.  It appears that the principal gains can be derived from selecting a challenging and vital problem, and an outstanding domain expert.  (The quality of domain experts is, of course, itself a multidimensional construct, with tip experts often being poor, and poorly motivated, communicators.)  A close reading of the paper will reward with more specific insights  into how to benefit from developing and fielding expert systems.
+</p>
+<p>
+ As we enter the twelfth year of JMIS publication, I would like to thank once again the Editorial Board, authors, readers, and the broad MIS community for their contributions and support.  It is a special pleasure and privilege to thank the Journal's reviewers, the primary guarantors of its quality.
+</p>
+<p>
+ Finally, it gives me great pleasure to welcome to our Editorial Board new members: Thomas H. Davenport, WIlliam  R. King, Ronald M. Lee, Tridas Mukhopadhyay, and Abraham Seidman. As the Journal continues to grow and  receives more and more high-quality papers, we shall need their outstanding expertise and energy.
+</p>
+<p>
+ <b>
+  Vladimir Zawss
+ </b>
+ <br/>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

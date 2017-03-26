@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/71">    Volume 26 Number 1 2009
+</a> pp. 225-256</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Design Approach for Collaboration Processes: A Multimethod Design Science Study in Collaboration Engineering</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/241">Kolfschoten, Gwendolyn L</a> and     <a href="/contributors/235">De Vreede, Gert-Jan</a>    </div>
+
+<p>ABSTRACT: Collaboration engineering is an approach for the design and deployment of repeatable collaboration processes that can be executed by practitioners without the support of collaboration professionals such as facilitators. A critical challenge in collaboration engineering concerns how the design activities have to be executed and which design choices have to be made to create a process design. We report on a four-year design science study in which we developed a design approach for collaboration engineering that incorporates existing process design methods, pattern-based design principles, and insights from expert facilitators regarding design challenges and choices. The resulting approach was evaluated and continuously improved in four trials with 37 students. Our findings suggest that this approach is useful to support the design of repeatable collaboration processes. Our study further serves as an example of how a design approach can be developed and improved following a multimethod design science approach.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1635">collaboration engineering</a>,    <a href="/keywords/2317">design science</a>,    <a href="/keywords/1628">facilitation</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/2524">pattern language</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

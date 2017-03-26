@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/60">    Volume 19 Number 2 2002
+</a> pp. 219-248</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Role of Similarity in the Reuse of Object-Oriented Analysis Models</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/829">Irwin, Gretchen</a>    </div>
+
+<p>ABSTRACT: Software reuse--the application of existing software artifacts in the development of a new system--has been claimed to dramatically improve system development productivity and quality. These claims have been particularly pronounced with respect to the reuse of object-oriented (OO) software artifacts. However, the empirical evaluations of these claims are relatively sparse and often inconsistent. This paper begins to address the gap in the literature. A verbal-protocol study was conducted in which analysts created a model for a problem (the target) and were given an example problem and solution (the source) to reuse. The results show little support for reuse in OO analysis. First, reuse had no effect on the quality of the OO analysis models. Subjects given a highly reusable example produced solutions that were no better than those of subjects in the control group. Second, the degree of similarity between the source and target problems did have an effect on the reuse process, although it did not impact the reuse outcome. Subjects given the example with the most similarity to the target problem quickly recognized the reuse potential, attempted a fair amount of reuse, but made several errors stemming from lazy copying. Subjects given an example with a lesser (but still significant) degree of similarity were often unable to recognize the reuse potential, and thus engaged in less rescue activity. Thus, the characteristics of the source-target comparison that facilitate noticing the reuse potential of the source do not necessarily help in applying the source solution to the target problem. These results suggest that the claims associated with reuse should be treated with a healthy dose of skepticism.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1598">analogical reasoning</a>,    <a href="/keywords/877">object-oriented analysis</a>,    <a href="/keywords/519">software reuse</a>,    <a href="/keywords/1599">verbal protocol</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

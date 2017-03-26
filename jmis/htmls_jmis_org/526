@@ -1,0 +1,67 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/24">    Volume 29 Number 2 2012
+</a> pp. 7-10</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Information and Competitive Strategy in a Networked Economy</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/79">Kauffman, Robert J,</a>    <a href="/contributors/398">Weber, Thomas A,</a> and     <a href="/contributors/430">Wu, D J</a>    </div>
+
+<p><p>
+ ROBERT J. KAUFFMAN is currently the 2012-2013 Lee Kuan Yew Fellow for Research Excellence and a  professor of information systems and strategy at the School of Information Systems and the Lee Kong  Chian School of Business at Singapore Management University. He also serves there as associate  dean of research and deputy director of the Living Analytics Research Center. He is also a  Distinguished Visiting Fellow at the Center for Digital Strategies of the Tuck School of Business,  Dartmouth College. Previously he was on the faculty at Arizona State University, the University of  Minnesota, New York University, and the University of Rochester. He also visited in the Research  Department of the Federal Reserve Bank of Philadelphia and worked in international banking and  finance prior to beginning his academic career. His articles have recently appeared in Information  Systems Research, Journal of Management Information Systems, MIS Quarterly, IBM Research and  Development Journal, Decision Support Systems, and Review of Economics and Statistics. Dr.  Kauffman's research focuses on technology and strategy, the economics of IT, technology in  financial services and e-business, managerial decision making, and innovations in research methods.  He served as a co-chair for the 2011 ICIS Doctoral Consortium and will also do this for the 2012  ACM SIGMIS Doctoral Dissertation Award Competition. He played a similar role for the 2012  Summer Institute on Analytics for Business, Consumer and Social Insights at Living Analytics  Research Centre (LARC), and the 2012 International Conference on Electronic Commerce in  Singapore in August 2012.
+</p>
+<p>
+ THOMAS A. WEBER is head of the Management of Technology and Entrepreneurship Institute at the  Swiss Federal Institute of Technology in Lausanne, where he holds the chair of Operations,  Economics and Strategy. Between 2003 and 2011 he was a faculty member in the Department of  Management Science and Engineering at Stanford University. Professor Weber is ing&#233;nieur des arts et  manufactures (Ecole Centrale Paris) and diplom-ing&#233;nieur in electrical engineering (Technical  University Aachen). He holds an S.M. in both technology and policy and electrical engineering and  computer science from the Massachusetts Institute of Technology, and a Ph.D. in managerial science  and applied economics from the Wharton School of the University of Pennsylvania. In 2008, he was a  visiting faculty member in the Department of Economics at the University of Cambridge, and in 2009  in the Department of Mathematics at Moscow State University. Between 1998 and 2002 he was a  senior consultant at the Boston Consulting Group. His current research interests include the  economics of information and uncertainty, the design of contracts, and strategy. Professor Weber's  papers have appeared in American Economic Journal: Microeconomics, Information Systems  Research, Decision Support Systems, Economics Letters, Economic Theory, Journal of Mathematical  Economics, Journal of Economic Dynamics and Control, Journal of Environmental Economics and  Management, Journal of Optimization Theory and Applications, Journal of Regulatory Economics,  Operations Research, Optimal Control Applications and Methods, and Theory &amp; Decision. He is the  author of Optimal Control Theory with Applications in Economics, published by MIT Press in 2011.
+</p>
+<p>
+ D.J. WU is an associate professor of information technology management at the College of  Management, Georgia Institute of Technology. He received his Ph.D. from the Wharton School of the  University of Pennsylvania. His current research interests include electronic markets, economics of  enterprise software, platform ecosystems, and cloud computing economics. Dr. Wu's work has  appeared in journals such as Management Science, MIS Quarterly, Journal of Management  Information Systems, European Journal of Operational Research, Decision Support Systems, among  others. His work won the "Best Paper in Valuing IT Opportunities" award, the "Best Paper in Web- Based Information Systems and Applications" award at ICIS 2006, and the Runner-Up Best  Conference Paper Award at ICIS 2009. He currently serves as an associate editor for Management  Science, Manufacturing and Service Operations Management, and as a senior editor for Production  and Operations Management. He served as a co-chair for the 2011 Workshop on Information  Systems and Economics.
+</p>
+<p>
+ ONE OF THE TRANSFORMATIVE CHANGES OVER THE PAST DECADE has been the way networks have enabled  the distributed generation of value and how businesses and organizations have managed to capture a  portion of this value. This has resulted in a plethora of innovative business ideas and new strategies.  The present special section deals with the incentives for distributed content generation;  counterintuitive network effects in the security software market, which features an intrinsic negative  externality; and the possibility for collaboration between different platforms in a two-sided market.  The included papers offer an interesting mix of theoretical and practical insights. All of the  contributions are rooted in practical applications and present field observations that are instantiated  in a microeconomic model to allow out-of-sample predictions about the mechanisms at hand. Such a  data-driven and at the same time model-based approach is ideal to develop counterintuitive insights  for competitive strategy; the insights become logical consequences of the assumptions in the model- based analysis. The tools vary from network analysis, structural dynamic estimation techniques and  dynamic programming, to game-theoretic modeling.
+</p>
+<p>
+ A surprising side-effect of social networking is the creation of content that, when properly  organized, markedly increases social welfare. Xiaoquan (Michael) Zhang and Chong (Alex) Wang, in  "Network Positions and Contributions to Online Public Goods: The Case of Chinese Wikipedia,"  examine the impact the network structure may have to encourage social content contribution. The  authors take advantage of several natural experiments in China, triggered by various Internet content   blocks between 2004 and 2008, when the government on the mainland made Wikipedia unavailable.  The blocks changed the network positions of the remaining editors, which is used to establish that a  contributor's network centrality tends to significantly influence the editor's incentives to contribute.
+</p>
+<p>
+ A different angle on user incentives is provided by "Content Contribution for Revenue Sharing and  Reputation in Social Media: A Dynamic Structural Model," by Qian Tang, Bin Gu, and Andrew B.  Whinston. Based on an assumption that contributors to YouTube value content views, subscribers to  their respective channels, and reputation, the authors estimate a dynamic structural model for the  payoff function. At the heart of this estimation procedure is the dynamic programming problem that  underlies each agent's intertemporal decision about the intensity of the contribution effort.
+</p>
+<p>
+ Network externalities as the key first-order consequence of the connectedness of many agents have  been thoroughly explored in the literature ever since the early 1970s. Those externalities are usually  positive, because as the number of users, say, in a communication network, increases, the utility of  participating in the network increases for each agent (e.g., by Metcalfe's law, the increase is quadratic  in the number of participants). Debabrata Dey, Atanu Lahiri, and Guoying Zhang provide an  interesting twist on this standard story in their paper "Hacker Behavior, Network Effects, and the  Security Software Market," where a higher penetration, and thus larger, network, tends to decrease a  user's ex ante benefit. This occurs because the likelihood of indirect attacks via unprotected users is  diminished, similar to the well-known vaccination problem. As a result, in a fulfilled-expectations  equilibrium, it becomes unprofitable for firms to fully cover the market.
+</p>
+<p>
+ Finally, Ravi Mantena and Rajib L. Saha provide insights on the "Co-opetition Between  Differentiated Platforms in Two-Sided Markets." They show that co-opetition (competition and  cooperation) between platforms depends on technology asymmetries. While small asymmetries in  platform technologies can translate into large differences in their profitability, large technology  asymmetries soften the degree of competition, generally favoring the sharing of networks. The degree  of cooperation in a network economy therefore depends on the size of the competitive advantage of  the technologically dominant firm. Because of the heterogeneous consumer base, a dominant firm is  unable to capture the entire market, and the authors obtain more nuanced findings than in the usual  setting where customers are of a single type.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

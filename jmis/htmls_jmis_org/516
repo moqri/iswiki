@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/59">    Volume 2 Number 2 1985
+</a> pp. 26-39</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Effect of User-Developed DDS Applications of Forecasting Decision-Making Performance in an Experimental Setting</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/725">Kasper, George M</a>    </div>
+
+<p>ABSTRACT: A primary assumption of decision support systems (DSS) is that their use will result in more effective decision making. Using a repeated measures design, we conducted an experimental gaming study to investigate the effect of user-developed DSS applications on the decision maker's ability to forecast his or her actual gaming results. The findings of this study support the proposition that user-developed DSS models lead to more effective decision making. Subjects in the DSS modeling group made significantly better forecasts of their firm's performance than did those in the nonmodeling group.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/107">decision aids</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

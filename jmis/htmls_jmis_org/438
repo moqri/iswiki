@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/82">    Volume 17 Number 1 2000
+</a> pp. 115-139</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Software Preannouncements and Their Impact on Customers&#039; Perceptions and Vendor Reputation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/790">Hoxmeier, John A</a>    </div>
+
+<p>ABSTRACT: Software preannouncements are often called "vaporware" (systems or features announced long before a ship date). The challenge confronting software vendors and consumers is understanding the balance between the need to inform the market and the negative consequences of unfulfilled promises. Based on signaling theory from marketing science and research, this study looks at the perceived importance of software preannouncement factors on customers, of unfulfilled promises and unreliable software on a company's reputation, and whether vendor dependence changes these perceptions. Database administrators were surveyed on the perceptions of their database software vendor. Fulfilling commitments to software functionality was more strongly correlated with vendor reputation than on-time delivery of the software. Customer dependence on the vendor was not correlated with perceptions of vendor reputation and credibility. Thus, unlike other industries, it seems that vendors can use software delivery time preannouncements for competitive purposes with minimal concern for the impact on customers, provided the software ultimately delivers the features and functionality promised and is largely free of errors.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1338">software preannouncements</a>,    <a href="/keywords/1339">vaporware</a>,    <a href="/keywords/1340">signaling</a>,    <a href="/keywords/1341">corporate reputation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/82">    Volume 17 Number 1 2000
+</a> pp. 245-270</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Business Process Reengineering in the Public Sector: The Case of the Housing Development Board in Singapore</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1235">Thong, James Y L,</a>    <a href="/contributors/1491">Yap, Chee-Sing,</a> and     <a href="/contributors/1492">Seah, Kin-Lee</a>    </div>
+
+<p>ABSTRACT: Our existing knowledge of business process reengineering (BPR) is mainly derived from the experiences of private sector organizations, which have fundamentally different characteristics from public organizations. This paper represents a first step in understanding how BPR may be different in public organizations. Drawing on the public administration literature, it examines the differences between public and private organizations and their implications for BPR. Following that, it examines the BPR experience of a large public organization through an intensive case study. The case analysis shows that while there are similarities in the BPR experiences of public and private organizations, there are also notable differences. In this specific case, there were social and political pressures to reengineer, press publicity to promote BPR, a reengineering team comprised mainly of neutral staff, performance benchmarks adapted from the private sector, high-level approval for redesigned processes, and a pilot site implementation to secure further funding. It concludes with lessons learned for implementing BPR in public organizations.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/831">business process reengineering</a>,    <a href="/keywords/455">information technology</a>,    <a href="/keywords/476">public sector</a>,    <a href="/keywords/399">case study</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

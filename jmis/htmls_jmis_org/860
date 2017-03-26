@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/119">    Volume 15 Number 1 1998
+</a> pp. 9-50</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Differences Between Novice and Expert Systems Analysts: What Do We Know and What Do We Do?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1360">Schenk, K D,</a>    <a href="/contributors/1361">Vitalari, Nicholas P,</a> and     <a href="/contributors/1362">Davis, K Shannon</a>    </div>
+
+<p>ABSTRACT: Due to increased organizational dependence on information systems technology, the effectiveness of the systems analyst is more crucial today than ever. Despite technological advances that have increased the number and quality of tools available to systems analysts, the individual analyst's problem-solving skills remain key to defining good systems requirements. Understanding how expert analysts approach the requirements analysis task may provide insights for improving the effectiveness of novice analysts. This paper examines differences in the problem-solving approaches of novice and expert systems analysts during an information requirements task. Specific weaknesses that set novice and expert analysts apart are identified, and techniques that may be used to strengthen novice skills are suggested. This research supports the current literature on creativity techniques as a strategy for strengthening system analysis skills.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1125">creativity in problem solving</a>,    <a href="/keywords/93">information requirements</a>,    <a href="/keywords/222">information systems development</a>,    <a href="/keywords/1126">novice and expert problem-solving</a>,    <a href="/keywords/273">systems analysis</a>,    <a href="/keywords/1127">systems analyst education</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

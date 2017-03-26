@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/124">    Volume 31 Number 3 2014
+</a> pp. 254-286</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Delivery Consolidation and Service Competition Among Internet Service Providers</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1739">Chiang, I Robert</a> and     <a href="/contributors/1740">Jhang-Li, Jhih-Hua</a>    </div>
+
+<p>ABSTRACT: 
+<p>The infrastructure of the Internet, by and large, is maintained by Internet service providers (ISPs) that cater to regional customers and by Internet backbone providers (IBPs) that serve large organizations and ISPs. Some IBPs have recently branched into content delivery network (CDN) services; separately, other ISPs have started offering on-demand video streaming to compete with pure-play content providers. These developments have intensified the competition in both content delivery and media-streaming markets. For the content delivery market, we study the competition equilibriums by analyzing factors such as market share, cost structure, service pricing, and subscriber preference. Our approach helps identify conditions under which a content provider should choose an IBP over the incumbent CDN for content distribution. We also show how an IBP’s CDN venture affects its interconnection relationship with ISPs. For the streaming service market, we examine conditions under which a content provider would partner with an ISP to lower operating and marketing costs while providing a more streamlined subscriber experience. Analytically, our game-theoretical models can optimize key contracting and pricing strategies for multiple classes of service providers; empirically, insights derived from the proposed models have anticipated events that coincide with several recent developments in content delivery and streaming service markets.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3387">content delivery network</a>,    <a href="/keywords/3388">Internet service provider</a>,    <a href="/keywords/3389">media streaming</a>,    <a href="/keywords/3390">peering and transit</a>,    <a href="/keywords/3391">service pricing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

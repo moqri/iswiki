@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/33">    Volume 26 Number 2 2009
+</a> pp. 69-95</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Personalization in a Two-Dimensional Product Differentiation Model</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/121">Wattal, Sunil,</a>    <a href="/contributors/656">Telang, Rahul,</a> and     <a href="/contributors/281">Mukhopadhyay, Tridas</a>    </div>
+
+<p>ABSTRACT: We use a game-theoretic model to examine how information personalization by firms interacts with different dimensions of product differentiation (namely, horizontal and vertical differentiation). We consider the possibility that consumers attach different importance to various types of product differentiation, and report the equilibrium in terms of the "quality--fit" ratio, which measures the relative strength of preference for quality compared to preference for product fit and is a function of the cost of quality and the cost of product misfit. We also consider how different market structures (whether firms are similar or differentiated on the horizontal dimension ex ante) lead to different equilibriums when firms adopt personalization. We show that personalization by one firm leads to higher profits for both firms if product quality and misfit costs are high and the firms offer similar products ex ante. On the other hand, if firms offer differentiated products, personalization is profitable only if the effectiveness of the personalization technology is high or if both product quality and misfit costs are low. We also highlight conditions under which investments in personalization and product quality can be complements or substitutes to each other. Finally, we show that a firm can respond to a competitor's personalization by either increasing (aggressive response) or decreasing (defensive response) investments in its own quality. Our results provide insights to managers on when to invest in personalization technologies and how to adjust their investments in product quality after the firm (or its competitor) adopts personalization.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/874">game theory</a>,    <a href="/keywords/2535">horizontal and vertical differentiation</a>,    <a href="/keywords/1156">market structure</a>,    <a href="/keywords/2155">personalization</a>,    <a href="/keywords/2536">quality-fit ratio</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/50">    Volume 17 Number 4 2001
+</a> pp. 125-158</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Impact of Information Technology Management Practices on Customer Service</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/900">Karimi, Jahangir,</a>    <a href="/contributors/902">Somers, Toni M,</a> and     <a href="/contributors/901">Gupta, Yash P</a>    </div>
+
+<p>ABSTRACT: Recently, despite huge incentives and subsequent increases in investment in customer relationship management technology, many firms have not been able to increase their customer satisfaction index ratings. The purpose of this paper is to gauge whether IT management practices differ among firms where IT has a major role in transforming marketing, operations, or both, which give the firms advantage by affecting their customer service. Several research hypotheses are tested using data obtained from a survey of 213 IT-leaders in the financial services industry. The results clearly indicate that the IT-leader firms have a higher level of IT management sophistication and a higher role for their IT-leaders compared to IT-enabled customer focus, IT-enabled operations focus, and IT-laggard firms. This paper concludes with the implications for both researchers and practitioners.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1406">customer relationship management</a>,    <a href="/keywords/1407">customer service</a>,    <a href="/keywords/1408">information technology impact</a>,    <a href="/keywords/1409">information technology leader&#039;s role</a>,    <a href="/keywords/1410">information technology management practices</a>,    <a href="/keywords/1369">information technology management sophistication</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

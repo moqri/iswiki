@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/43">    Volume 28 Number 2 2011
+</a> pp. 203-236</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Understanding Nonmalicious Security Violations in the Workplace: A Composite Behavior Model</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/711">Guo, Ken H,</a>    <a href="/contributors/712">Yuan, Yufei,</a>    <a href="/contributors/713">Archer, Norman P,</a> and     <a href="/contributors/714">Connelly, Catherine E</a>    </div>
+
+<p>ABSTRACT: End users are said to be "the weakest link" in information systems (IS) security management in the workplace. They often knowingly engage in certain insecure uses of IS and violate security policies without malicious intentions. Few studies, however, have examined end user motivation to engage in such behavior. To fill this research gap, in the present study we propose and test empirically a nonmalicious security violation (NMSV) model with data from a survey of end users at work. The results suggest that utilitarian outcomes (relative advantage for job performance, perceived security risk), normative outcomes (workgroup norms), and self-identity outcomes (perceived identity match) are key determinants of end user intentions to engage in NMSVs. In contrast, the influences of attitudes toward security policy and perceived sanctions are not significant. This study makes several significant contributions to research on security-related behavior by (1) highlighting the importance of job performance goals and security risk perceptions on shaping user attitudes, (2) demonstrating the effect of workgroup norms on both user attitudes and behavioral intentions, (3) introducing and testing the effect of perceived identity match on user attitudes and behavioral intentions, and (4) identifying nonlinear relationships between constructs. This study also informs security management practices on the importance of linking security and business objectives, obtaining user buy-in of security measures, and cultivating a culture of secure behavior at local workgroup levels in organizations.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1197">information system security</a>,    <a href="/keywords/2845">nonlinear construct relationships</a>,    <a href="/keywords/2846">nonmalicious security violation</a>,    <a href="/keywords/2847">perceived identity match</a>,    <a href="/keywords/2848">perceived security risk</a>,    <a href="/keywords/2849">relative advantage for job performance</a>,    <a href="/keywords/2850">workgroup norms</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

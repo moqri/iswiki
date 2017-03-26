@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/127">    Volume 32 Number 2 2015
+</a> pp. 278-313</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Design Theory for Market Surveillance Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1037">Li, Xin,</a>    <a href="/contributors/1782">Sun, Sherry X,</a>    <a href="/contributors/1783">Chen, Kun,</a>    <a href="/contributors/1784">Fung, Terrance,</a> and     <a href="/contributors/1785">Wang, Huaiqing</a>    </div>
+
+<p>ABSTRACT: 
+<p>Market surveillance systems (MSSs) are information systems that monitor financial markets to combat market abuses. Existing MSSs focus mainly on analyzing trading activities and are often developed through a trial-and-error approach by screening data mining algorithms and features. The void of theoretical direction limits the effectiveness of MSSs and calls for the development of a design theory based on a thorough examination of the meta-requirements of MSSs. Based on the efficient market hypothesis and text understanding theory, this paper argues that market information analysis should be incorporated into MSSs and commonsense knowledge should be employed to connect related events to transactions and provide reference concepts for understanding market context and assessing transaction risk. We show the effectiveness of this proposed design theory through developing and evaluating a prototype system in the context of a real-world stock exchange market. By taking a theory-driven approach, this research shows the possibility and provides guidelines on the use of market information analysis to alleviate the market surveillance problem, which has significant implications for financial markets and the economy given the explosive growth of illegal trading activities worldwide.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1170">design theory</a>,    <a href="/keywords/3534">market surveillance systems</a>,    <a href="/keywords/1533">text mining</a>,    <a href="/keywords/1054">financial markets</a>,    <a href="/keywords/3535">efficient market hypothesis</a>,    <a href="/keywords/3536">text understanding theory</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/120">    Volume 30 Number 4 2014
+</a> pp. 299-326</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Differential Effects of Keyword Selection in Search Engine Advertising on Direct and Indirect Sales</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1666">Lu, Xianghua</a> and     <a href="/contributors/1621">Zhao, Xia</a>    </div>
+
+<p>ABSTRACT: Product sales via sponsored keyword advertising on search engines rely on an effective selection of keywords that describe the offerings. In this study, we consider both the direct sales of the advertised products and indirect sales (i.e., cross-selling) of other products, and examine how specific keywords and general keywords influence these two types of sales differently. We also examine how the cross-selling effects may vary across different types of products (main products and accessories). Our results suggest that the use of specific keywords leans toward improving the direct sales of advertised products, while the use of general keywords leans toward improving the indirect sales of other products. The contribution of keywords to indirect sales is influenced by product type. For main products, the use of specific keywords generates a higher marginal contribution to indirect sales than that of general keywords. For accessory products, the use of general keywords generates a higher marginal contribution to indirect sales than that of specific keywords. The key implication of this study is that sellers focusing on different types of sales (direct or indirect sales) or products (main or accessory products) should consider using different types of keywords in search engine advertising to drive sales.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3261">cross-selling</a>,    <a href="/keywords/3262">keyword advertising</a>,    <a href="/keywords/3263">keywords selection</a>,    <a href="/keywords/2955">online advertising</a>,    <a href="/keywords/1808">search engines</a>,    <a href="/keywords/2719">sponsored search</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

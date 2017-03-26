@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/131">    Volume 33 Number 2 2016
+</a> pp. 421-455</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Detecting Fraudulent Behavior on Crowdfunding Platforms: The Role of Linguistic and Content-Based Cues in Static and Dynamic Contexts</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1851">Siering, Michael,</a>    <a href="/contributors/1852">Koch, Jascha-Alexander,</a> and     <a href="/contributors/1853">Deokar, Amit V</a>    </div>
+
+<p>ABSTRACT: 
+<p>Crowdfunding platforms offer founders the possibility to collect funding for project realization. With the advent of these platforms, the risk of fraud has risen. Fraudulent founders provide inaccurate information or pretend interest toward a project. Within this study, we propose deception detection support mechanisms to address this novel type of Internet fraud. We analyze a sample of fraudulent and nonfraudulent projects published at a leading crowdfunding platform. We examine whether the analysis of dynamic communication during the funding period is valuable for identifying fraudulent behavior—apart from analyzing only the static information related to the project. We investigate whether content-based cues and linguistic cues are valuable for fraud detection. The selection of cues and the subsequent feature engineering is based on theories in areas of communication, psychology, and computational linguistics. Our results should be helpful to the stakeholders of crowdfunding platforms and researchers of fraud detection.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3692">crowdfunding</a>,    <a href="/keywords/1755">deception detection</a>,    <a href="/keywords/3693">fraud detection</a>,    <a href="/keywords/1533">text mining</a>,    <a href="/keywords/3694">content-based cues</a>,    <a href="/keywords/1756">linguistic cues</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

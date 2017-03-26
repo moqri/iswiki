@@ -1,0 +1,88 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/20">    Volume 27 Number 4 2011
+</a> pp. 5-8</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ AS THE SECOND DECADE OF E COMMERCE IS COMING TO A CLOSE, a textured understanding of the operative factors and their  consequences in online markets and online commons is emerging. The three papers opening this issue of JMIS will contribute to this  understanding and show how multiple research methodologies of our field can generate further insights in this rapidly evolving  domain.
+</p>
+<p>
+ In the first of the works, Xinxin Li, Lorin M. Hitt, and Z. John Zhang investigate the influence of online consumer reviews on the pricing  strategies for repeat purchase products. Co-creation of value by consumers has emerged as a potent force in the digital realm, changing  the traditional role division between producers and consumers. In the presence of autonomous or sponsored co-creation, when the rewards  for the created value are of a nonfinancial nature or only indirectly economic, incentives and strategies change [1]. Specific to the present  research, consumer reviews reduce information asymmetry between sellers and buyers, which is particularly salient with respect to the  products that are purchased repeatedly and can thus be subject to switching. With a formal game-theoretic model, the authors establish  how the reviews change the level of consumer informedness and, in turn, affect the price competition in the marketplace. The authors bring  into play several factors and interrelationships, which allows them to derive nuanced insights into strategic pricing that can be deployed by  sellers in the presence of---highly read---consumer reviews.
+</p>
+<p>
+ Much of the consumer surplus in e commerce is derived from the massive assortments of products on offer. As the long tail phenomenon,  this fact is seen as the large share of niche products in various markets that could not be so served cost-effectively prior to the infusion of  the Internet--Web compound. The insight has been in the need of a theory-driven examination with large data sets. This is what Oliver Hinz,  Jochen Eckert, and Bernd Skiera offer here. The empirically based modeling work, deploying a unique data set, offers support for the  hypotheses of mutual reinforcement between the demand by consumers for product variety and sellers&#8217; increasing the product variety in  their repertoire---but only up to a point, and subject to contingencies. These authors offer another nuanced analysis of the factors that  impact the marketplace, including the search technology and the level of e tail use by a given consumer.
+</p>
+<p>
+ Wikipedia is one of the glories of co-creation. It is also a product of a highly---if not uniformly---organized, and diverse, collective. The best  of the Wikipedia articles are unequaled in the quality of their coverage, analysis, and sourcing. The worst are, well, the worst. The point is  that the co-creation ecosystem that has evolved around Wikipedia results in the demonstrable and continuing rise in coverage and, in part,  quality. Considering the benefit Wikipedia has conferred on all of us, the study of the antecedents to article quality is of obvious importance.  Here, Ofer Arazy, Oded Nov, Raymond Patterson, and Lisa Yeo study the effects of the Wikipedia editor groups on the quality of the articles  produced by the group. The empirical work is carried out within the positivist idiom and develops well-grounded theoretical support for the  hypotheses it tests. It offers not only the immediate results relevant to its object of study but also a theoretical framework that will undoubtedly  be evolved and targeted at other peer products.
+</p>
+<p>
+ Information technology (IT) outsourcing has been with us for over 20 years as a large-scale phenomenon. We are still learning. Here, Wen  Guang Qu, Alain Pinsonneault, and Wonseok Oh study how industry characteristics influence the extent of IT outsourcing by its firms. The  authors identify four relevant characteristics of an industry and, using well-known data sets, relate them to the outsourcing intensity within  the industry. The industry-level approach of the study is novel and the results suggest that the level of outsourcing by a firm is preordained  to a large extent by the environmental characteristics of the industry it is a part of. This work opens a door to a series of studies that would  broaden the focus on the industry-level distribution of IT work.
+</p>
+<p>
+ The outcomes of IT-based business process reengineering (BPR) are the object of study by Kemal Altinkemer, Yasin Ozcelik, and Zafer  D. Ozdemir. The reputation of BPR has waxed and waned, but the need for sometimes radical process restructuring has not gone away.  Using firm-level panel data, the authors find the average performance of the affected firms improved, after the transient of the initiation year.  Notably, the grand projects of enterprise-wide BPR are not found superior in their effects on the firm performance to the more narrowly  focused functional-level BPR. This is a weighty contribution to our knowledge about the often controversial practice.
+</p>
+<p>
+ Privacy concerns, and their self-regulatory and regulatory effects, will increasingly influence the digital domain. To what degree do they  affect the balance between the desire for self-disclosure and the perceived need for privacy? Here, Paul Benjamin Lowry, Jinwei Cao, and  Andrea Everard offer an empirically based model in the context of instant messaging (IM)---and across two cultures that differ significantly  on the Hofstede indicators. The authors choose IM as arguably the most potent self-disclosure technology and ground their work in two  well-tested theories. Their results indicate that the privacy concerns will not keep people away from the use of social technologies, but they  also suggest that people will seek out technologies that offer control over self-disclosure---to an extent that is culturally conditioned.
+</p>
+<p>
+ Software markets are heavily influenced by the presence of network externalities. The authors of the next paper bring this factor into their  formal analysis of the competition between the open source software (OSS) and the proprietary software products. The results presented by  Hsing Kenneth Cheng, Yipeng Liu, and Qian (Candy) Tang help the competitors establish the incentives for making, or not making, their  products compatible with those of the other category, depending on the room left in the market for sales to new customers. A set of strategic  choices for the vendors or communities introducing the software emerges from the analysis of the results of the formal modeling.
+</p>
+<p>
+ The great variety of products available online is, as mentioned earlier, a great boon to consumers. It is also a source of confusion,  suboptimal choices, and balking. Along with other means of supporting consumers&#8217; selection process, some firms offer interactive decision  aids, aiming to lead the consumer to a preferred choice. The more traditional aids, focusing on the concrete product features, are now  rivaled by aids helping consumers to identify their more abstract needs to be satisfied by the products. Consumer acceptance of the two  competing approaches is empirically studied in the work presented here by Clemens F. K&#246;hler, Els Breugelmans, and Benedict G.C.  Dellaert. Using construal-level theory, the authors identify the critical role of temporal distance to the consumption in the consumer&#8217;s  preference for the category of the decision aid. This is of clear help to e tailers---and opens a promising track in the research stream  investigating various types of recommenders.
+</p>
+<p>
+ Offshore outsourcing is rife with risks that need to be managed. Intercultural settings amplify the inherent risks of arm&#8217;s-length  relationships. In the next paper of the issue, Radhika P. Jain, Judith C. Simon, and Robin S. Poston examine the issue of vendor silence--- keeping mum about incipient project problems, as well as not actively contributing ideas to a project. In a qualitative study within the context  of U.S. outsourcing to India, the major outsourcing target, the authors aim to find the mechanisms through which vendor silence can be  mitigated. They do find them in the structural and social mechanisms that act on cultural adaptation. This research deserves to be  continued in multiple cross-cultural settings, in order to be generalized into a theory of offshoring across settings differing along specific  cultural attributes.
+</p>
+<p>
+ The authors of the concluding paper, Yinglei Wang and Nicole Haggerty, develop and validate the construct of individual virtual  competence, required to perform effectively in the increasingly virtualized workplaces of today and tomorrow. As a composite of skills,  knowledge, and abilities required to work virtually, this competence helps to explain the individual&#8217;s perceived performance and work  satisfaction. The work offers a useful metric for making decisions in the realm of human resources and a set of capabilities which the  individuals can develop to improve their work outcomes in the modern workplace---or a workspace.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p>
+<p>
+ REFERENCE
+</p>
+<p>
+ 1. Zwass, V. Co-creation: Toward a taxonomy and an integrated research perspective. International Journal of Electronic Commerce, 15, 1  (Fall 2010), 11--48.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

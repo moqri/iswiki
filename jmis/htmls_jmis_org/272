@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/15">    Volume 22 Number 3 2005
+</a> pp. 321-350</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Technology Investment Strategies Under Declining Technology Cost</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/483">Demirhan, Didem,</a>    <a href="/contributors/484">Jacob, Varghese S,</a> and     <a href="/contributors/308">Raghunathan, Srinivasan</a>    </div>
+
+<p>ABSTRACT: Investments in information technology (IT) have become crucial for firms to improve the quality of their products and services. Typically, IT cost for the same performance level declines over time. In a competitive market, a decline in IT cost over time provides a cost advantage to the later entrant, making the early entrant's investment decision problem challenging. In this paper, we study the problem of strategic IT investments in the declining cost scenario using a sequential duopoly model. Our results show that declining IT cost intensifies or relaxes competition between firms depending on whether they are serving quality- or price-sensitive markets. In both cases, the average price per unit quality decreases when the IT cost declines, which benefits consumers. We also show that if the first entrant is uncertain about the extent of its cost disadvantage, the first entrant overinvests (underinvests) in a price-sensitive (quality-sensitive) market as the degree of uncertainty increases.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2035">cost advantage</a>,    <a href="/keywords/2036">declining IT cost</a>,    <a href="/keywords/1667">economic analysis</a>,    <a href="/keywords/874">game theory</a>,    <a href="/keywords/1318">IT investment</a>,    <a href="/keywords/544">information technology strategy</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

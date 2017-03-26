@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/130">    Volume 33 Number 1 2016
+</a> pp. 101-138</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Concurrent IT Sourcing: Mechanisms and Contingent Advantages</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1498">Tiwana, Amrit</a> and     <a href="/contributors/1825">Kim, Stephen K</a>    </div>
+
+<p>ABSTRACT: 
+<p>A growing trend to simultaneously insource and outsource the same information technology (IT) activities (“concurrent IT sourcing”) has not yet received research attention. Although it is widespread and recent empirical studies have detected that in-house IT can complement IT outsourcing, when and how concurrent IT sourcing pays off is not yet understood. This study introduces the notion of concurrent IT sourcing. It then develops two interrelated ideas: concurrent IT sourcing simultaneously enhances in-house and outsourced IT performance: (a) via distinctive mechanisms, but (b) only when vendors’ IT capabilities complement the client’s. Econometric tests using survey data from 233 firms support these ideas. Our novel contribution is to explain when and how concurrent IT sourcing enhances a client firm’s inhouse and outsourced IT performance. The explanatory mechanisms for outsourced IT performance are socialization and modeling of clients’ in-house IT practices by vendors; for in-house IT performance they are knowledge spillovers and ratcheting. For practice, our study shows that when a firm’s in-house capabilities complement its IT vendors’ capabilities, firms can simultaneously outsource and insource the same IT activities to enhance both in-house and outsourced IT performance.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3652">concurrent IT sourcing</a>,    <a href="/keywords/3653">insourcing</a>,    <a href="/keywords/1992">IT capabilities</a>,    <a href="/keywords/3130">IT governance</a>,    <a href="/keywords/650">outsourcing</a>,    <a href="/keywords/3654">plural governance</a>,    <a href="/keywords/3655">seemingly unrelated regression</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

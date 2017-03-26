@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/94">    Volume 16 Number 2 1999
+</a> pp. 47-62</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Systems for Optimal Transaction Implementation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1320">Rickard, John T</a> and     <a href="/contributors/1321">Torre, Nicolo G</a>    </div>
+
+<p>ABSTRACT: In a securities market, the initiator of a large transaction can expect the realized price of his or her trade to be inferior to the current market price immediately prior to his appearance in the market. This "transaction implementation cost" phenomenon is a major concern of institutional money managers, both in portfolio selection and in trade implementation strategy. A considerable amount of current research in finance theory deals with modeling and prediction of these costs for equities trading, and commercial products and services recently have become available for probabilistically estimating real-time transaction implementation costs versus transaction size on a stock-specific basis. Earlier papers described the concept of satisfaction- or preference-based trading, with optimization of trade matching on the basis of mutual preference. A market structure based on this design began trading listed equities on the Pacific Exchange on January 29, 1999 under the trade name OptiMark Registered Trademark. The Nasdaq market plans to begin trading using the OptiMark system later in 1999, followed by the Osaka Securities Exchange and the Toronto Stock Exchange in 2000. A prima-facie benefit of this approach is the ability to specify trading strategies that explicitly account for transaction implementation cost estimates as a function of the trade size. In this paper, the authors present the underlying theoretical framework that unites the concepts of preference-based trading and probabilistic transaction cost estimation. In particular, they develop an analytical generalization of the current market structure constructs of market orders and limit orders. They describe a feasible optimization problem whose solution yields optimal preference profiles, given current market conditions (as reflected by the probability distribution of transaction implementation cost) and a trader-specified coefficient of urgency.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1155">electronic trading</a>,    <a href="/keywords/1251">fuzzy sets</a>,    <a href="/keywords/1252">preference-based trading</a>,    <a href="/keywords/1253">securities markets</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

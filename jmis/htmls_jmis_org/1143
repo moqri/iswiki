@@ -1,0 +1,67 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/26">    Volume 24 Number 2 2007
+</a> pp. 5-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ This issue of JMIS is opened by the Special Section on Applying Information Economics to Corporate Strategy. The Special Section, guest edited by Eric K. Clemons, Rajiv M. Dewan, and Robert J. Kauffman, once again reinforces the understanding that in the digital economy, skillful deployment of information systems (IS) and of their products is a key to corporate success. The organizations failing to learn this lesson will do that at their peril. Yet, as IS have been used in organizations for over half a century, equally perilous is any notion of information technology (IT) implementations bearing low-hanging fruit. The authors of the papers in the Special Section apply economic approaches leavened with the appreciation of the potential of the contemporary IT to their studies of digital marketplaces, the organizational distribution of IT services and decisions on major IT investments, and information products. They apply the tools of information economics to the privacy of personal information and to the information transparency on the corporate Web sites. We are indeed learning to deploy IT strategically in the ever changing environments, with this technology enabling, or driving, the change. The guest editors offer you a far more thorough introduction to the papers they have prepared for publication here.
+</p>
+<p>
+ Time and again, massive investments in IT bear failure in their trail owing to the lack of proper implementation processes. A recent, and tragic, example is the failure of the massive IS deployed across 70 hospitals of the U.S. Department of Defense to track medical records of injured soldiers [1]. Complex processes need to be planned and enacted to bring complex IS into good currency. Far more needs to be learned about the many, and varied, aspects of complex IS implementations--and we are the people to study them. Here, Jahangir Karimi, Toni M. Somers, and Anol Bhattacherjee seek to explain empirically how enterprise resource planning (ERP) systems can be implemented to complement the firm&#8217;s IS resources, leading to beneficial process-level outcomes. The authors take the resource-based view of the firm and classify the IS resources into three categories: knowledge, relationships, and infrastructure, with the first category playing the crucial role according to their findings.
+</p>
+<p>
+ Properly enacted collective knowledge processes are increasingly perceived as vital to organizational well-being. Software project teams have been used for decades to leverage the capabilities of their individual members. Jun He, Brian S. Butler, and William R. King empirically study the formation and evolution of team cognition in database development teams. The researchers find that certain forms of membership diversity and of intrateam communication strongly influence the dynamic aspects of team cognition throughout projects and, in turn, lead to the dispersion of performance across teams.
+</p>
+<p>
+ The final paper of the issue also addresses software development--on the process level. Peng Xu and Balasubramaniam Ramesh study software process tailoring: the adjustment of a software development process that follows a development methodology to the realities of a given context. Using the grounded theory approach, the authors surface the environmental factors and tailoring strategies, and identify their mutual influences. Taken together with the preceding paper, the two works give us a finer-grained understanding of software development than available heretofore.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p>
+<p>
+ Reference
+</p>
+<p>
+ 1. Urbina, I., and Nixon, R. Disuse of system is cited in gaps    in soldiers&#8217; care. New York Times (March 30, 2007), A1, A17.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

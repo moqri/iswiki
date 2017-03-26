@@ -1,0 +1,82 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/55">    Volume 13 Number 4 1997
+</a> pp. 3-5</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ ETHICAL CONSIDERATIONS IN THE IMPLEMENTATION AND DEPLOYMENT of information systems have begun  to receive serious attention from MIS researchers. The three papers opening this issue of the Journal are a  testimony to this.
+</p>
+<p>
+ Knowingly fielding a system that is deficient in quality is, unfortunately, not uncommon in the information  systems (IS) development practice. Asymmetry of information--with the involved information systems  professionals, as opposed to the other members of the organization, knowing about the deficiencies--places  these professionals in the situation of moral hazard, when combined with the incentives to field the system  sooner rather than later. This asymmetry of information prevents the assignment of complete responsibility to the  agents and, according to agency theory, will result in the agents' acting in their own interest rather than in the  interest of the organization on whose behalf they are expected to act. Yet, an ethical person will not act as a  purely utility-maximizing economic agent in a situation of moral hazard. Indeed, such are the results reported in the  first paper of this issue by Brad Tuttle, Adrian Harrell, and Paul Harrison, who investigate how experienced IS  professionals would make a decision in a hypothetical situation of moral hazard. These results indicate that the  increased attention being paid to ethical consciousness raising in the MIS and the broader business community  can pay off.
+</p>
+<p>
+ The software industry suffers multibillion-dollar losses because of software piracy. Deterrent controls (legal  sanctions) and preventive controls (increasing the cost of piracy by technological means) can be used to combat  it. Ram D. Gopal and G. Lawrence Sanders offer an economic model of the effect of these two control strategies  on software piracy and on the performance of software publishers. Only the deterrent controls emerge as an  effective weapon against software piracy. The authors provide an empirical validation of their model in this  regard.
+</p>
+<p>
+ The authors of the next paper, Hsing K. Cheng, Ronald R. Sims, and Hildy Teegen, approach the software  piracy problem from a different angle: They attempt to identify empirically the reasons why people pirate  software. The affordability of software emerges as an important answer, and the authors offer pricing  suggestions for software publishers.
+</p>
+<p>
+ The next two papers in the issue address international computing. Phillip Ein-Dor, Michael D. Myers, and K.S.  Raman present an analysis of the information technology industries in three small developed countries: Israel,  New Zealand, and Singapore. The countries are similar in their ability to rely on their human resources, rather than  on any apparent advantages in natural resources, to achieve their developed-country status. Government policy  emerges as the dominant factor in developing the indigenous information technology industries. The advantages  of smallness appear to lie in the governments' ability to implement their development policies. The lessons from this  work can be drawn--to an extent--on the state and metropolitan levels in larger countries.
+</p>
+<p>
+ Richard T. Watson, Gigi G. Kelly, Robert D. Galliers, and James C. Brancheau consolidate and analyze the  work on the key issues in information systems management in an international perspective. They identify and  define four clusters of countries with somewhat similar key concerns. The authors offer national culture and  economic development as the principal explanatory factors for this differentiation. It is clear that much more work  has to be done to identify the factors more closely, particularly in view of the explanations offered by the  preceding paper.
+</p>
+<p>
+ Electronic commerce (E-commerce) continues to capture the interest of both investigators and practitioners. In  particular, the Internet-based E-commerce is attracting significant attention. Anitesh Barua, Sury Ravindran, and  Andrew B. Whinston propose an analytical model that could help a buyer to maximize payoff from the process of  selecting suppliers over the Internet. Considering that the Internet brings to the buyer's attention a great variety of  suppliers with widely differing capabilities (``Nobody knows you are a dog on the Internet,'' says the caption to a  New Yorker cartoon), search strategies emerge as an important factor in isolating appropriate suppliers. Further  work will lead to strategies with broader applicabilities, supported by software search engines.
+</p>
+<p>
+ The next paper analyzes a range of the organizational effects of a well-known success in the  well-established electronic-commerce model: Singapore's EDI-based hub-and-spoke TradeNet system. Hock-Hai  Teo, Bernard C.Y. Tan, and Kwok-Kee Wei analyze the transformation of the business network that has emerged  after the implementation of TradeNet. The reported gains from several years' worth of TradeNet exploitation  include profound--and measurable--effects in the organizational specialization, informated business processes,  and ``thick'' organizational linkages in the business network. Taken together, the effects are perceptible on the  national level, as implicitly reported by Ein-Dor and his colleagues in their paper in this issue. We shall all witness  with great interest the effects of the Internet on the further fortunes of TradeNet and of the business network that  relies on it.
+</p>
+<p>
+ An interesting and specific problem is addressed in the paper by William B. Fredenberger, Astrid Lipp, and  Hugh J. Watson: What are the information requirements of managers attempting to restore a failing business to  health? Based on a survey of these managers, the authors identify the functional areas that need to be reported  on and the types of reports the managers need to begin turning the firm around. These managers also tell us that  the information they need is usually not available. Might we consider this a symptom of failure? Priorities in shoring  up organizational information systems for a turnaround clearly emerge from the paper.
+</p>
+<p>
+ The concluding paper of the issue concerns the effects of the use of a group decision support systems  (GDSS). In a laboratory experiment involving practicing managers, Simon S.K. Lam shows that the effects of the  GDSS use on the quality of the decision and on the pattern of group communication depend on the nature of the  task, classified into one of three categories. This is yet another contribution to our understanding of the complex  effects of group-support tools.
+</p>
+<p>
+ I think you will find the diverse subjects presented and methodologies deployed stimulating and, in many  cases, you will judge the paper a good read.
+</p>
+<p>
+ I would like to thank our outgoing member of the Editorial Board Jack Baroudi for his contribution and welcome  to the Board new members Izak Benbasat and Magid Igbaria.
+</p>
+<p>
+ VLADIMIR ZWASS Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

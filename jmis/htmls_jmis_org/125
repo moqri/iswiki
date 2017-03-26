@@ -1,0 +1,76 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/1">    Volume 25 Number 1 2008
+</a> pp. 13-16</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Online Coordination and Interaction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/236">Sprague Jr, Ralph H</a>    </div>
+
+<p><p>
+ Robert O. Briggs is Director of Academic Affairs for the Institute for Collaboration Science and Professor of Marketing and Management at the University  of Nebraska. He earned his Ph.D. in Management and Information Systems from the University of Arizona in 1994. He researches the theoretical foundations of collaboration and applies  his findings to the design and deployment of new collaboration technologies and work practices. He is a codeveloper of the collaboration engineering discipline, and coinventor of the ThinkLets design pattern language for collaboration processes. He has published more than 100 scholarly works on theoretical, experimental, and technical aspects of collaboration.
+</p>
+<p>
+ Jay F. Nunamaker Jr. is Regents and Soldwedel Professor of MIS, Computer Science and Communication, and Director of the Center for the Management of Information at the University of Arizona, Tucson. He received his Ph.D. in systems engineering and operations research from Case Institute of Technology, an M.S. and B.S. in engineering from the University of Pittsburgh, and a B.S. from Carnegie Mellon University. Dr. Nunamaker received the LEO Award from the Association of Information Systems at ICIS in Barcelona, Spain, December 2002. This award is given for a lifetime of exceptional achievement in information systems. He was elected as a fellow of the Association of Information Systems in 2000. Dr. Nunamaker has over 40 years of experience in examining, analyzing, designing, testing, evaluating, and developing information systems. He has served as a test engineer at the Shippingport Atomic Power facility, as a member of the ISDOS team at the University of Michigan, and as a member of the faculty at Purdue University, prior to joining the faculty at the University  of Arizona in 1974. His research on group support systems addresses behavioral as well as engineering issues and focuses on theory as well as implementation. He has been a licensed professional engineer since 1965.
+</p>
+<p>
+ Ralph H. Sprague is a Professor of Information Technology Management in the Shidler College of Business at the University of Hawaii. He has over 40 years of experience in teaching, research, and consulting in the use of computers and information technologies in organizations. His specialties are decision support systems, strategic systems planning, the management of information systems, and electronic document management. He has served as chairman or cochairman of the Hawaii International Conference on System Sciences for the past 30 years.
+</p>
+<p>
+ Online work has become a mainstay in the world economy. E-commerce, which reached the $1 trillion mark in 2002, is expected to exceed $10 trillion in 2008. Traditional organizational boundaries are dissolving as entire corporate functions, such as human resources or accounting, may now be replaced with online services hosted by third parties. The burgeoning collaboration technology marketplace offers hundreds of ways for geographically dispersed teams to work together toward their common goals. Thus, information systems (IS) and the global network are now the lifeblood of many organizations. The power and complexity of these systems present organizations with a vast array of new risks and opportunities at all levels as individuals and organizations seek to coordinate their resources and efforts across projects, across organizational lines, and across world markets. This Special Section examines key issues pertaining to online coordination and interaction. These issues range in scope from intersocietal to organizational to individual. Each of the papers in the section addresses  important considerations for deploying, managing, and using information technology (IT) for online coordination and collaboration.
+</p>
+<p>
+ In their paper, "Risk Management of Contract Portfolios in IT Services: The Profit-at-Risk Approach," Robert J. Kauffman and Ryan Sougstad address a crucial management issue with respect to the IS/IT infrastructure required for large-scale online coordination and interaction. In recent years, such infrastructure has become increasingly sophisticated to provide better security, reliability, and performance to organizations who depend on them for mission-critical operations. The technical skills required for 24/7 operations, backups, fault tolerance, and disaster recovery are not in the core competencies of many organizations. These organizations are therefore turning in large numbers to specialized external hosting services for network and server operations. This provides organizations with higher-caliber infrastructure than they might otherwise be able to field, but it also presents both service users and service providers with new risks, some of which they seek to address through service contracts. This paper proposes a new theory for evaluating the trade-offs between contract profitability and service-level risk. Using simulations driven by the theory, they demonstrate that managers can reduce organizational risk by forgoing profit-maximizing contracts in favor of more conservative service-level agreements, yet still achieve high returns. Their work seeks to integrate IT service management with best practices in financial management.
+</p>
+<p>
+ Among the most critical challenges faced by organizations that interact online is the need for work practices that let them conduct business with people whom they have never, and may never, meet. Handshakes, games of golf, late dinners, and other social structures allow potential partners to learn one another&#8217;s values and interests. This facilitates win-win bargaining and the building of lasting working relationships. These social structures also provide prospective partners with means to gauge one another&#8217;s intentions, competence, and attentiveness to critical details, and so to decide whether trust is warranted. Lacking such social structures, those who interact and coordinate online require alternatives for discovering one another&#8217;s interests and choosing whether to trust potential business partners. Two subsequent papers in this Special Section advance improvements for online mechanism that support negotiation and establish trust.
+</p>
+<p>
+ Ahmed Abbasi, Hsinchun Chen, and Jay F. Nunamaker Jr., in their paper, "Stylometric Identification in Electronic Markets: Scalability and Robustness," propose a solution for two serious limitations of current online reputation systems, which are key structures for building trust in online relationships. Reputation systems allow customers to score the credibility scoring of online vendors to improve trust in electronic marketplaces; these systems can be subverted by two kinds of anonymity abuse: easy identity changes and reputation manipulation. This study used a new stylometric approach to evaluate thousands of contributions from hundreds of eBay users. Findings suggest that the new approach may, indeed, mitigate these two threats to the validity of reputation systems.
+</p>
+<p>
+ The paper "Mining Trading Partners&#8217; Preferences for Efficient Multi-Issue Bargaining in E-Business," by Raymond Y.K. Lau, On Wong, Yuefeng Li, and Louis C.K. Ma, reports the design, development, and evaluation of a nonparametric negotiation knowledge discovery method which is underpinned by the Bayesian learning paradigm to improve heterogeneous negotiations in e-marketplaces. Their findings suggest that the new method can speed up the negotiation processes while maintaining the negotiation effectiveness, which may, in turn, yield better outcomes for all parties than could otherwise be obtained.
+</p>
+<p>
+ The move to online coordination and interaction creates challenges for individuals as well as for organizations. In the 1960s, Nobel Laureate Herbert Simon famously prophesied, "In the future, the scarcest resource will be human attention." In the knowledge economy, that future is upon us. One of the most important constraints on an organization&#8217;s ability to create value for its stakeholders is its ability to bring the minds of its experts to bear on the complexities of the task at hand. Demands for human attention resources exceed supply. Yuqing Ren, Sara Kiesler, and Susan R. Fussell  address issues of cognitive limitations among people working in complex and dynamic environments such as hospitals, airlines, and disaster response teams in their paper, "Multiple Group Coordination in Complex and Dynamic Task Environments: Interruptions, Coping Mechanisms, and Technology Recommendations." Using a hospital operating room as a microcosmic exemplar of such environments, they examine the sources, coping mechanisms, and consequences of coordination breakdowns, and identify three factors whose absence may impede effective responses to unexpected interruptions: (1)&#8239;trajectory awareness of what is going on beyond a person&#8217;s immediate workspace, (2)&#8239;IS integration, and (3)&#8239;information pooling and learning at the organizational level. Based on the findings of their in-depth case study, they make technological recommendations to promote trajectory awareness and to automate information gathering and monitoring, so as to facilitate multiple group coordination in complex and dynamic task environments.
+</p>
+<p>
+ The section concludes with a study of collaboration technology innovation across three continents, reported in the paper "Factors in the Global Assimilation of Collaborative Information Technologies: An Exploratory Investigation in Five Regions," by Deepinder S. Bajwa, L. Floyd Lewis, Graham Pervan, Vincent S. Lai, Bj&#248;rn E. Munkvold, and Gerhard Schwabe. Here, the authors apply diffusion of innovation theory to investigate the global assimilation of the class of technologies that most directly support online coordination and interaction. The paper analyzes patterns of collaborative information technology (CIT) adoption across 538 organizations across four continents in terms of influence, decision making, functional integration, and promotion, taking into account organizational size and the size of IT functions within organizations. The paper discusses the implications of its findings for practice and research on assimilation of IS/IT innovations.
+</p>
+<p>
+ Each of the papers in this Special Section grew out of work that was nominated for best-paper awards at the Hawaii International Conference on System Sciences (HICSS). Each paper addresses an important topic with respect to the deployment, management, or application of global-scale IS. We commend each of them to your reading.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

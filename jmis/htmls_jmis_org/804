@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/8">    Volume 13 Number 2 1996
+</a> pp. 205-234</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Structural Model for CASE Adoption Behavior</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1226">Rai, Arun</a> and     <a href="/contributors/1225">Patnayakuni, Ravi</a>    </div>
+
+<p>ABSTRACT: The adoption rate of computer-aided software engineering (CASE) technology continues to be low among information systems departments (ISDs). Some ISDs have reported significant hurdles in propagating CASE usage, while documenting the advantages of the technology. We construct and empirically test a theoretical model to explain CASE adoption behavior. Factors considered include need pull (environmental instability of the ISD and performance gap of the ISD), technology push (internal experimentation and learning from external information sources), and the adoption context (top-management support for the IS function, CASE championship, training availability, and job/role rotation). A national survey of 2,700 ISDs resulted in 405 usable responses for the data analysis. Our analysis suggests a reasonable fit between the model and the data. The results indicate that the need-pull factors do not directly promote CASE adoption behavior. Performance deficit promotes CASE championship behavior while negatively affecting other elements of the adoption context. The instability of ISDs, where the very existence of the ISD may be in question, negatively affects all elements of the adoption context. Learning about CASE from external information sources directly promotes CASE adoption. Both technology push factors positively affect all four elements of the adoption context. Of the contextual elements, CASE training availability, CASE championship, and job/role rotation positively affect CASE adoption behavior. Top management support does not affect CASE adoption behavior, which suggests that such support may be more critical for postadoption stages of the diffusion process.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/970">CASE technology</a>,    <a href="/keywords/971">information technology diffusion</a>,    <a href="/keywords/542">information systems implementation</a>,    <a href="/keywords/972">software engineering innovations</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

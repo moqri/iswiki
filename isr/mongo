@@ -1,0 +1,10 @@
+client = pymongo.MongoClient("mongodb://ian:secretPassword@52.14.152.89:27017/cool_db") # defaults to port 27017
+db = client.cool_db
+# print the number of documents in a collection
+c=db['isr']
+c.drop()
+c=db['polls_post']
+cursor = c.find({})
+for doc in cursor:
+    print doc
+    c.insert_many(doc)

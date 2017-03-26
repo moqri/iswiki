@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/32">    Volume 24 Number 4 2008
+</a> pp. 73-100</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Examining Trust in Information Technology Artifacts: The Effects of System Quality and Culture</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1069">Vance, Anthony,</a>    <a href="/contributors/564">Elie-Dit-Cosaque, Christophe,</a> and     <a href="/contributors/1519">Straub, Detmar W</a>    </div>
+
+<p>ABSTRACT: The topic of trust in information technology (IT) artifacts has piqued interest among researchers, but studies of this form of trust are not definitive regarding which factors contribute to it the most. Our study empirically tests a model of trust in IT artifacts that increases our understanding in two ways. First, it sets forth two previously unexamined system quality constructs--navigational structure and visual appeal. We found that both of these system quality constructs significantly predict the extent to which users place trust in mobile commerce technologies. Second, our study considers the effect of culture by comparing the trust of French and American potential users in m-commerce technologies. We found that not only does culture directly affect user trust in IT artifacts but it also moderates the extent to which navigational structure affects this form of trust. These findings show that system quality and culture significantly affect trust in the IT artifact and point to rich possibilities for future research in these areas.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2349">culture impacts</a>,    <a href="/keywords/2356">institution-based trust</a>,    <a href="/keywords/2006">mobile commerce</a>,    <a href="/keywords/2357">m-commerce portals</a>,    <a href="/keywords/2358">navigational structure</a>,    <a href="/keywords/1899">system quality</a>,    <a href="/keywords/2359">systems use</a>,    <a href="/keywords/2360">trust in IT artifact</a>,    <a href="/keywords/2361">visual appeal</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/74">    Volume 9 Number 3 1992
+</a> pp. 91-121</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Introduction to the ASCEND Modeling System: Its Language and Interactive Environment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1250">Piela, Peter,</a>    <a href="/contributors/1251">McKelvey, Roy,</a> and     <a href="/contributors/1252">Westerberg, Arthur</a>    </div>
+
+<p>ABSTRACT: Recently there has been a growing realization among researchers and practitioners that current technologies do not adequately support mathematical modeling "in the large." In this paper we discuss a technology called ASCEND (Advanced System for Computations in Engineering Design), which addresses this issue. We describe two aspects of the technology: a modeling language and an interactive model-building environment. The ASCEND language is structured, declarative and strongly typed, and incorporates object-oriented extensions. The interactive environment is based on the notion of a concurrent set of tools that reflect the various phases of ASCEND modeling. These tools do not enforce a strict sequence of operations, but rather have been designed to support the flexible access implied by declaratively specified models. We claim that ASCEND offers solutions to several of the issues raised by Arthur Geoffrion in his article, "Computer-based modeling environments," [21] and use categories introduced by him to frame this discussion.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/597">equation-oriented simulation</a>,    <a href="/keywords/598">mathematical modeling</a>,    <a href="/keywords/599">participatory design</a>,    <a href="/keywords/142">structured modeling</a>,    <a href="/keywords/600">user-centered design</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

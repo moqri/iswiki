@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/125">    Volume 31 Number 4 2015
+</a> pp. 158-181</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Exploring Knowledge Filtering Processes in Electronic Networks of Practice</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1755">Fadel, Kelly J,</a>    <a href="/contributors/1756">Meservy, Thomas O,</a> and     <a href="/contributors/852">Jensen, Matthew L</a>    </div>
+
+<p>ABSTRACT: 
+<p>Electronic networks of practice (ENPs) have become an important mechanism for knowledge exchange among loosely connected individuals who share common knowledge interests. While prior research has explored factors that influence knowledge contribution in such networks, less is understood about the process by which individuals evaluate and ultimately adopt knowledge from ENPs. This study examines the process of knowledge filtering in online ENP forums. Drawing from dual process and information-evaluation theories, we hypothesize that performance on a knowledge-filtering task will be influenced by the constancy and directionality of search patterns employed by knowledge seekers. Hypotheses are tested in an experiment that utilized an eye tracker to record gaze data from professional software developers using an experimental ENP forum. By combining information-evaluation and dual process theory perspectives, our results deepen the insights offered in extant information-processing literature by showing that higher filtering accuracy is associated with (a) constant evaluation of some types of information attributes (solution content) but not others (peripheral cues), and (b) increasing attribute-based processing over time.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3418">electronic networks of practice</a>,    <a href="/keywords/3419">filtering</a>,    <a href="/keywords/3420">knowledge evaluation</a>,    <a href="/keywords/3421">constancy</a>,    <a href="/keywords/3422">directionality</a>,    <a href="/keywords/3020">field experiment</a>,    <a href="/keywords/3423">eye tracking</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

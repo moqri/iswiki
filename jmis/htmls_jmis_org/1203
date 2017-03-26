@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/123">    Volume 31 Number 2 2014
+</a> pp. 171-210</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Gifting and Status in Virtual Worlds</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1711">Goode, Sigi,</a>    <a href="/contributors/1712">Shailer, Greg,</a>    <a href="/contributors/1713">Wilson, Mark,</a> and     <a href="/contributors/1714">Jankowski, Jaroslaw</a>    </div>
+
+<p>ABSTRACT: While profitable business models elude many virtual worlds, sales of virtual products are a potentially lucrative source of revenue. One new addition to this strategy is virtual gifting, whereby users purchase virtual products to give to other users. The monetary value of such virtual good transactions is economically significant but no prior study has examined this phenomenon in a strictly virtual context. We apply theory from the economics literature to examine gifting behavior in a virtual world in which users’ social status is reflected in observable social connections (friendships) and interactions (personal messages). We find strong evidence that gifting is associated with future enhancements of the gift giver’s social status, consistent with a social status–seeking motivation, thus confirming a theorized behavior that is difficult to study in the real world. Our study has implications for system proprietors and managers because we show that gift giving increases system use continuance. We identify various antecedents of gift giving, which may assist a manager in identifying users who are most inclined to give gifts and enable the manager to signal the social exchange benefits to users as a way of improving their social connections.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3326">gift economy</a>,    <a href="/keywords/3327">MMOG</a>,    <a href="/keywords/3328">status in virtual worlds</a>,    <a href="/keywords/3329">virtual gifts</a>,    <a href="/keywords/2504">virtual worlds</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

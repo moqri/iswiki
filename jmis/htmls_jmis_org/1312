@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/133">    Volume 33 Number 4 2016
+</a> pp. 942-977</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Understanding Information Systems Integration Deficiencies in Mergers and Acquisitions: A Configurational Perspective</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1871">Henningsson, Stefan</a> and     <a href="/contributors/695">Kettinger, William J</a>    </div>
+
+<p>ABSTRACT: 
+<p>Information systems (IS) integration is a critical challenge for value-creating mergers and acquisitions. Appropriate design and implementation of IS integration is typically a precondition for enabling a majority of the anticipated business benefits of a combined organization. Often, IS integration projects are subject to deficiencies (e.g., loss of the target firm’s business capabilities with expedited integration) that limit value creation. Drawing on a configurational perspective, we reanalyze 37 published case studies of problematic IS integrations and identify the potential deficiencies and how they are produced. Our findings reveal nine causal configurations that together explain deficiency as a consequence of multiple paths of interconnected mechanisms and contextual conditions that drive their actualization. Finally, based on a post hoc analysis of 25 cases where no negative outcomes are reported, we discuss approaches for managing IS integration to avoid realizing the actualization of deficiencies.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3748">acquisitions</a>,    <a href="/keywords/3749">case survey</a>,    <a href="/keywords/3750">configurational perspective</a>,    <a href="/keywords/3751">IS integration</a>,    <a href="/keywords/3752">merger benefits</a>,    <a href="/keywords/3753">merger problems</a>,    <a href="/keywords/3754">mergers</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

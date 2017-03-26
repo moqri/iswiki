@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/13">    Volume 19 Number 1 2002
+</a> pp. 129-150</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Multiparty Negotiation Support: The Role of Visualization&#039;s Influence on the Development of Shared Mental Models</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1451">Swaab, Roderick I,</a>    <a href="/contributors/1452">Postmes, Tom,</a>    <a href="/contributors/1453">Neijens, Peter,</a>    <a href="/contributors/1454">Kiers, Marius H,</a> and     <a href="/contributors/1455">Dumay, Adrie C M</a>    </div>
+
+<p>ABSTRACT: The study examines a method for supporting multiparty negotiations by means of a Negotiation Support System (NSS). More specifically, this study investigated the effect of visualization support on the development of shared mental models among negotiators who resolved a spatial planning dispute. The objective of this study is to determine how to support the development of shared mental models in order to stimulate more productive negotiations. A further goal is to provide guidelines for the design of NSS. Compared with a control condition, visualization improved three aspects of negotiations: visualization support aided negotiators' convergence of perceptions of reality and had positive socio-emotional consequences in terms of increasing cohesiveness and entitativity. As a result, groups with visualization support reached consensus more easily and were more satisfied with the process. In sum, the current study provides support for the idea that presenting negotiators with unambiguous information helps negotiators develop shared mental models.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1566">multiparty negotiation</a>,    <a href="/keywords/592">negotiation support systems</a>,    <a href="/keywords/1567">pro-social climate</a>,    <a href="/keywords/1568">shared mental model</a>,    <a href="/keywords/1569">visualization of information</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

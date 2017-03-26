@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/131">    Volume 33 Number 2 2016
+</a> pp. 456-481</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>What Online Reviewer Behaviors Really Matter? Effects of Verbal and Nonverbal Behaviors on Detection of Fake Online Reviews</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1833">Zhang, Dongsong,</a>    <a href="/contributors/1643">Zhou, Lina,</a>    <a href="/contributors/1834">Kehoe, Juan Luo,</a> and     <a href="/contributors/1835">Kilic, Isil Yakut</a>    </div>
+
+<p>ABSTRACT: 
+<p>The value and credibility of online consumer reviews are compromised by significantly increasing yet difficult-to-identify fake reviews. Extant models for automated online fake review detection rely heavily on verbal behaviors of reviewers while largely ignoring their nonverbal behaviors. This research identifies a variety of nonverbal behavioral features of online reviewers and examines their relative importance for the detection of fake reviews in comparison to that of verbal behavioral features. The results of an empirical evaluation using real-world online reviews reveal that incorporating nonverbal features of reviewers can significantly improve the performance of online fake review detection models. Moreover, compared with verbal features, nonverbal features of reviewers are shown to be more important for fake review detection. Furthermore, model pruning based on a sensitivity analysis improves the parsimony of the developed fake review detection model without sacrificing its performance.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1755">deception detection</a>,    <a href="/keywords/3124">eWOM</a>,    <a href="/keywords/3123">electronic word of mouth</a>,    <a href="/keywords/3666">feature pruning</a>,    <a href="/keywords/3667">fake online reviews</a>,    <a href="/keywords/3668">online reviewer behavior</a>,    <a href="/keywords/2300">user-generated content</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

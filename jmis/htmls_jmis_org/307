@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/101">    Volume 12 Number 3 1995
+</a> pp. 97-125</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>On Automated Discovery of Models Using Genetic Programming: Bargaining in a Three-Agent Coalitions Game</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/104">Dworman, Garett,</a>    <a href="/contributors/105">Kimbrough, Steven O,</a> and     <a href="/contributors/543">Laing, James D</a>    </div>
+
+<p>ABSTRACT: The creation of mathematical, as well as qualitative (or rule-based), models is difficult, time-consuming, and expensive. Recent developments in evolutionary computation hold out the prospect that, for many problems of practical import, machine learning techniques can be used to discover useful models automatically. The prospects are particularly bright, we believe, for such automated discoveries in the context of game theory. This paper reports on a series of successful experiments in which we used a genetic programming regime to discover high-quality negotiation policies. The game-theoretic context in which we conducted these experiments--a three-player coalitions game with sidepayments--is considerably more complex and subtle than any reported in the previous literature on machine learning applied to game theory.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/885">automatic model discovery</a>,    <a href="/keywords/874">game theory</a>,    <a href="/keywords/886">genetic programming</a>,    <a href="/keywords/611">machine learning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

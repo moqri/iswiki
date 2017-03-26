@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/48">    Volume 26 Number 4 2010
+</a> pp. 181-218</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Managers&#039; Judgments of Performance in IT Services Outsourcing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1299">Ramachandran, Vandana</a> and     <a href="/contributors/1300">Gopal, Anandasivam</a>    </div>
+
+<p>ABSTRACT: An important task for managers in information technology (IT) service settings is the judgment of service performance. The complex and intangible nature of IT services, however, renders this task especially difficult. We use a sample of 85 outsourced software development projects to test for the presence of the "input bias," which is defined as the systematic misuse of nondiagnostic input information in forming managerial judgments of outcomes. The service outcome we examine is process performance. The diagnostic inputs are given by objective performance metrics based on the final cost and duration of completed projects, whereas the nondiagnostic inputs are risk anticipations formed by managers prior to the start of the project. We find strong evidence of the input bias, which leads managers' subjective assessments to diverge considerably from objective outcomes, and that it is moderated by contract type. Our study contributes to better service management by improving our understanding of managers' judgments of service performance and how these judgments are formed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/975">decision-making bias</a>,    <a href="/keywords/1178">field studies</a>,    <a href="/keywords/2622">input bias</a>,    <a href="/keywords/2623">IT services outsourcing</a>,    <a href="/keywords/2624">judgment</a>,    <a href="/keywords/2625">regression analysis</a>,    <a href="/keywords/2290">services science</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

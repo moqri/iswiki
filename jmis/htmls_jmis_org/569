@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/46">    Volume 21 Number 2 2004
+</a> pp. 109-135</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Exploitation and Interorganizational Systems Ownership</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/965">Kunsoo, H A N,</a>    <a href="/contributors/79">Kauffman, Robert J,</a> and     <a href="/contributors/966">Nault, Barrie R</a>    </div>
+
+<p>ABSTRACT: We develop a model based on the theory of incomplete contracts for how ownership structure of interorganizational systems (IOS) can affect information exploitation and information technology adoption. Our model yields several propositions that suggest the appropriate strategic actions that a firm may take when there is potential for IOS adopters to question whether adopting the IOS will be value-maximizing. We analyze and illustrate the related strategic thinking in a real-world context involving a financial risk management IOS. We present a case study of the ownership and spin-off of RiskMetrics, developed by New York City--based investment bank, J.P. Morgan, in the late 1980s. The firm first gave RiskMetrics to its correspondent banking, treasury, and investment clients for free, in the context of its clearing account relationship services. Later, the bank spun off the product to an independent company that offered fee-based services. We model the bank's clients in terms of their heterogeneous portfolio risks, and their effects on the value a client can gain from adopting the technology. We also examine the value they may lose if their private portfolio risk information is exploited. A key roadblock to the adoption of the free service may have been the potential for strategic information exploitation by the service provider. When Morgan spun off RiskMetrics with multiparty ownership, wider adoption occurred. Our theory interprets this strategic move as an appropriate means to maximize long-term profits when information exploitation may occur.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1802">economic theory</a>,    <a href="/keywords/1803">financial risk management</a>,    <a href="/keywords/669">incomplete contracts</a>,    <a href="/keywords/528">information sharing</a>,    <a href="/keywords/456">information systems</a>,    <a href="/keywords/665">interorganizational systems</a>,    <a href="/keywords/1804">ownership</a>,    <a href="/keywords/1805">value-at-risk</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

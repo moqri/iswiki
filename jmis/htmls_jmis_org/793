@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/106">    Volume 25 Number 4 2009
+</a> pp. 145-181</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Evaluating Anthropomorphic Product Recommendation Agents: A Social Relationship Perspective to Designing Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1284">Qiu, Lingyun</a> and     <a href="/contributors/157">Benbasat, Izak</a>    </div>
+
+<p>ABSTRACT: In online shopping environments, the product-advising function originally performed by salespeople is being increasingly taken over by software-based product recommendation agents (PRAs). However, the literature has mostly focused on the functionality design and utilitarian value of such decision support systems, mostly ignoring the potential social influence they could exert on their users. The objective of this study is to apply a social relationship perspective to the design of interfaces for PRAs. We investigate the effects of applying anthropomorphic interfaces--namely, humanoid embodiment and voice output--on users' perceived social relationship with a technological and software-based artifact designed for electronic commerce contexts. The findings from a laboratory experiment indicate that using humanoid embodiment and human voice--based communication significantly influences users' perceptions of social presence, which in turn enhances users' trusting beliefs, perceptions of enjoyment, and ultimately, their intentions to use the agent as a decision aid. These results extend the applicability of theories concerning traditional shopper--salesperson relationships to customers' interactions with technological artifacts residing on Web sites--that is, the recommendation agent software--and provide practitioners with guidelines on how to design Internet stores with the goal of building social relationships with online shoppers and enhancing their overall shopping experiences.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2470">avatar</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/2471">human voice</a>,    <a href="/keywords/1329">laboratory experiments</a>,    <a href="/keywords/2228">recommendation agents</a>,    <a href="/keywords/2212">social presence</a>,    <a href="/keywords/2472">text-to-speech (TTS)</a>,    <a href="/keywords/2473">user acceptance of IT</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/21">    Volume 8 Number 1 1991
+</a> pp. 37-62</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Delegation Technologies: Environmental Scanning with Intelligent Agents</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/572">Elofson, Gregg</a> and     <a href="/contributors/573">Konsynski, Benn</a>    </div>
+
+<p>ABSTRACT: Identification and evaluation of relevant trends and patterns are critical steps in an organization's business environment monitoring. Not surprisingly, the "experts" that perform this evaluation are seldom skilled in all the disciplines necessary to accomplish a thorough evaluation of the environmental indicators. While one expert may be skilled at recognizing the potential for political turmoil in a foreign nation, another at Motorola is skilled at recognizing how Japanese government deregulation is meant to complement the development of new products. Moreover, these experts often benefit from each other's skills and knowledge in assessing activity in the organization's environment. Often the interchange among variously skilled analysts becomes a distributed problem-solving activity that creates the high-quality, interdisciplinary analysis essential for an effective environmental monitoring activity. Problems in the environmental monitoring process often occur when a particular expertise, an agent in the problem-solving network, is unavailable, and knowledge from that domain does not play a role in the analysis. The focus of this paper is on the distribution of expertise and the sharing of knowledge in the critical process of environmental monitoring. A technical approach is adapted in this effortâ€”an architecture and a prototype of "delegation technologies" are described that provide the capability of capturing, organizing, and distributing knowledge that may be used by experts in classifying patterns of qualitative indicators in the business environment. The redistribution of responsibilities through the delegation to, and coordination of, intelligent agents is examined.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/468">blackboard model</a>,    <a href="/keywords/469">delegation technology</a>,    <a href="/keywords/470">environmental scanning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

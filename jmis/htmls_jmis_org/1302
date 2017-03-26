@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/132">    Volume 33 Number 3 2016
+</a> pp. 652-683</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Emotion in IT Investment Decision Making with A Real Options Perspective: The Intertwining of Cognition and Regret</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1857">Park, Eun Hee,</a>    <a href="/contributors/287">Ramesh, Balasubramaniam,</a> and     <a href="/contributors/285">Cao, Lan</a>    </div>
+
+<p>ABSTRACT: 
+<p>Real options thinking helps individuals cope with uncertainties in the information technology (IT) investment decision-making process. Our study examines the intertwining of cognition and a specific emotion, regret, in IT real options decision making using a multisite case study of IT investments. We develop a process model that explains the context in which regret is triggered, the strategies used to regulate regret, and how these strategies influence the valuation, creation, exercise, and revaluation of several types of IT real options. Our research highlights that while some regret regulation strategies may be productive, others are counterproductive. Our findings extend the studies on cognition-based models of IT real options by including emotion, which allows us to explore human behavior on a psychological level and offer a more fundamental understanding of IT real options thinking. Practitioners must recognize the presence of regret that could cloud cognition-based analysis and must be sensitive to its impact.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3250">emotion</a>,    <a href="/keywords/3710">IT investment decision</a>,    <a href="/keywords/3711">IT real options decision</a>,    <a href="/keywords/3712">regret</a>,    <a href="/keywords/3713">regret regulation strategy</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

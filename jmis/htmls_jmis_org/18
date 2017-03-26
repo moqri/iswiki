@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/16">    Volume 4 Number 3 1987
+</a> pp. 28-49</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Strategies for End-User Computing: An Integrative Framework</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/26">Alavi, Maryam,</a>    <a href="/contributors/30">Nelson, R Ryan,</a> and     <a href="/contributors/31">Weiss, Ira R</a>    </div>
+
+<p>ABSTRACT: This paper develops a framework consisting of five core strategies or organizational postures vis-a-vis end-user computing (EUC). Following a description of each of the strategies, the authors employed a two-step process to represent (1) how to effectively implement a particular EUC strategy, and (2) when to adopt a particular EUC strategy. The first step, based on some field observations, resulted in a descriptive profiling of the EUC strategies via the management attributes of policy setting and planning, support, and control. The second step produced a prescriptive timing with respect to the phases of EUC strategy evolution. The integrative framework that resulted from this two-step process was based on the premise that EUC technology adoption follows a learning curve phenomenon. In essence, such a framework should serve as a tool, useful to the practitioner in coping with the dynamic environment surrounding the management of end-user computing.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/116">human information processing</a>,    <a href="/keywords/243">strategy formulation</a>,    <a href="/keywords/244">technology assimilation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/64">    Volume 29 Number 4 2013
+</a> pp. 63-96</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Effect Mechanisms of Perceptual Congruence Between Information Systems Professionals and Users on Satisfaction with Service</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/182">Benlian, Alexander</a>    </div>
+
+<p>ABSTRACT: With the proliferation of available electronic service channels for information systems (IS) users such as mobile or intranet services in companies, service interactions between IS users and IS professionals have become an increasingly important factor for organizational business-IT alignment. Despite the increasing relevance of such interactions, the implications of agreement or disagreement on the fulfillment of critical service quality factors for successful alignment and higher user satisfaction are far from being well understood. While prior research has extensively studied the question of matching different viewpoints on IS service quality in organizations, little or no attention has been paid to the role of perceptual congruence or incongruence in the dyadic relationship between IS professionals and users in forming user satisfaction with the IS function. Drawing on cognitive dissonance theory, prospect theory, and perceptual congruence research, this study examines survey responses from 169 matching pairs of IS professionals and users in different organizations and explains how perceptual fit patterns affect user satisfaction with the IS function. The paper demonstrates that perceptual congruence can, in and of itself, have an impact on user satisfaction, which goes beyond what was found before. Moreover, the results of the study reveal the relevance of nonlinear and asymmetric effect mechanisms arising from perceptual (in)congruence that may affect user satisfaction. This study extends our theoretical understanding of the role of perceptual alignment or misalignment on IS service quality factors in forming user satisfaction and lays the foundation for further study of the interplay between perceptions in the dyadic relationship between IS professionals and IS users. Managers who seek to encourage particular behaviors by the IS professionals or IS users may use the results of this study to reconcile the often troubled business-IT relationship.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2924">alignment</a>,    <a href="/keywords/3057">IS service quality</a>,    <a href="/keywords/3058">perceptual congruence</a>,    <a href="/keywords/3059">polynomial modeling</a>,    <a href="/keywords/3060">response surface analysis</a>,    <a href="/keywords/2874">SERVQUAL</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

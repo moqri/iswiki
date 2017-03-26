@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/22">    Volume 28 Number 1 2011
+</a> pp. 311-350</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Cognitive Conflict and Consensus Generation in Virtual Teams During Knowledge Capture: Comparative Effectiveness of Techniques</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/47">Ananth, Chiravuri,</a>    <a href="/contributors/373">Nazareth, Derek L,</a> and     <a href="/contributors/49">Ramamurthy, K</a>    </div>
+
+<p>ABSTRACT: Effective knowledge management has been increasingly cited as critical for businesses to compete successfully. Knowledge acquisition/capture, the first step in knowledge management, continues to be a bottleneck and is exacerbated when experts are geographically distributed. Furthermore, knowledge from multiple experts is likely to generate inconsistent knowledge for a given problem domain. There is thus a compelling need to generate consensus by resolving inconsistencies and conflicts that may occur among experts during the process of knowledge acquisition. This process is more challenging when dealing with virtual teams of experts. This study addresses task-based or cognitive conflicts among experts. A key objective of this study is to examine the effectiveness of two cognitive techniques-the repertory grid (or RepGrid) and Delphi-in generating consensus among experts during the knowledge capture process. A field experiment with geographically distributed real-world network experts involving multiple rounds of interaction over an extended period of time was conducted. Findings from this research indicate that, in the short run, Delphi works better than the RepGrid in reducing conflict and generating consensus. However, the RepGrid technique appears to perform better in the long run. We find similar results for satisfaction with the process and outcome. Our findings also indicate that experts using the RepGrid technique elicited more knowledge as well as higher-quality knowledge than experts using the Delphi technique. To sum up, our study indicates that RepGrid is superior to Delphi, and therefore managers should seriously consider the use of RepGrid in capturing knowledge from multiple and distributed experts when dealing with complex real-world issues.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2818">cognitive conflict</a>,    <a href="/keywords/657">conflict resolution</a>,    <a href="/keywords/2819">consensus generation</a>,    <a href="/keywords/536">Delphi technique</a>,    <a href="/keywords/2820">knowledge capture</a>,    <a href="/keywords/202">knowledge management</a>,    <a href="/keywords/2821">repertory grid technique</a>,    <a href="/keywords/1109">virtual teams</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/94">    Volume 16 Number 2 1999
+</a> pp. 63-90</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Adoption and Utilization of Commercial Software Packages: Exploring Utilization Equilibria, Transitions, Triggers, and Tracks</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/988">Lassila, Kathy S</a> and     <a href="/contributors/989">Brancheau, James C</a>    </div>
+
+<p>ABSTRACT: Researchers and managers are beginning to realize that the full advantages of information technologies are not likely to be realized unless both the information technology and the organizational context are adapted during implementation. This highlights the importance of understanding and managing the relationship between information technology and organizational change. This study takes a new look at an old concept: information system utilization. A theoretical framework grounded in the punctuated equilibrium model contends that the mutual adaptation of commercial software packages and organizational processes follows a discontinuous change pattern where stable periods of utilization are occasionally disturbed by internal and external change triggers. Qualitative data gathered from interviews with software vendor personnel and a representative sample of users provide preliminary support for the existence of utilization equilibrium states. The evidence suggests that, when significant changes occur in the appropriation of technology, the users, or the organization context, the existing equilibrium state is disturbed. Following a temporary transition state characterized by redefinition of the technology and/or its context, the changes are incorporated into altered work processes, and a new equilibrium state develops. Various factors associated with the creation, maintenance, and disruption of equilibrium states are identified. Managers and users can enhance and prolong the useful life of software packages by paying careful attention to implementation efforts that heavily influence initial utilization equilibrium, identifying periods of equilibrium and transition, and managing the internal and external change triggers that influence transitions between equilibrium states.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1254">information system implementation</a>,    <a href="/keywords/1255">information system utilization</a>,    <a href="/keywords/1256">innovation reinvention</a>,    <a href="/keywords/1257">punctuated equilibrium model</a>,    <a href="/keywords/1258">structuration model</a>,    <a href="/keywords/244">technology assimilation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/3">    Volume 9 Number 2 1992
+</a> pp. 77-98</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Systems for Managerial Planning and Control: A Conceptual Examination of Their Temporal Structure</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/66">Ariav, Gad</a>    </div>
+
+<p>ABSTRACT: The managerial functions of planning and control are information-intensive "memory processes," and are inherently temporal. As such, they are a major application domain for temporally oriented information systems (TOIS), which are distinguished by their explicit handling of time and memory. Although TOIS have been studied vigorously in recent years, there has been no attempt to relate them to the temporal concerns pertinent to these managerial processes. This paper systematically examines the structure of, and access to memory in planning and control activities, in an attempt to identify major related design requirements. The examination proceeds as follows: First, a conceptual framework of planning and control is developed. This framework facilitates the examination of memory aspects of these processes, specifically the extent and nature of memory implied by the underlying models and the actual control schemes. The three themes that emerge from this examination are: (1) the fundamental necessity of temporally independent access to data in planning and control applications; (2) the inherent multiplicity of time perspectives upon which the notions of planning and control rest; and (3) the need to develop temporally oriented model management. These themes identify basic temporal functionalities that TOIS need to address. Current research on temporally oriented information systems, as assessed against these criteria, has not come up yet with adequate answers.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/574">design requirements for information systems</a>,    <a href="/keywords/108">model management systems</a>,    <a href="/keywords/575">temporally oriented information systems</a>,    <a href="/keywords/576">planning and control</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

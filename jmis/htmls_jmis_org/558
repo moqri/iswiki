@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/84">    Volume 5 Number 1 1988
+</a> pp. 66-81</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Comparison of the Manipulation of Certainty Factors by Individuals and Expert System Shells</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/948">Kopcso, David,</a>    <a href="/contributors/949">Pipino, Leo,</a> and     <a href="/contributors/950">Rybolt, William</a>    </div>
+
+<p>ABSTRACT: This paper addresses the treatment of uncertainty in expert system shells. A review of the modeling of uncertainty by expert system shells is presented. An experiment to replicate earlier work investigating the manner in which individuals manipulate certainty factors in comparison to commercial shells is discussed. Comparisons are made between seven commercial shells, both personal computer (PC) and mainframe based, and individuals. A significant difference between individuals and shells as well as among shells themselves is indicated. Some implications for both expert system and decision support system (DSS) methodologies are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/156">expert systems</a>,    <a href="/keywords/279">certainty factors</a>,    <a href="/keywords/280">uncertainty in expert systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

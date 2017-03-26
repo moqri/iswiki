@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/17">    Volume 2 Number 3 1985
+</a> pp. 78-86</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Organizational Size and Information System Sophistication</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1011">Lehman, John A</a>    </div>
+
+<p>ABSTRACT: The issue of organizational size versus administrative innovation has long been of interest to economists and policy makers. The literature in this area suggests that there should be a relationship between organizational size and administrative innovation. Empirical studies of information system use have found that in the context of medical information systems, there seems to be a relationship between size and computer use. A recent paper by Gremillion in JMIS reported empirical evidence that the two variables are independent, contrary to the results predicted by established theory. This paper presents the results of a study intended to provide confirmatory evidence of this lack of relationship when some of the constraints of Gremillion's study are relaxed. The results suggest a significant relationship between organizational size and information system sophistication, although this relationship may be muddied by technical and organizational factors.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/28">MIS and organization size</a>,    <a href="/keywords/128">innovation</a>,    <a href="/keywords/129">computer graphics</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

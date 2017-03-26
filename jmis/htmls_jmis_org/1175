@@ -1,0 +1,124 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/120">    Volume 30 Number 4 2014
+</a> pp. 7-12</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Issue: Neuroscience in Information Systems Research</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1656">Liang, Ting-Peng</a> and     <a href="/contributors/1655">vom Brocke, Jan</a>    </div>
+
+<p><p>
+ TING-PENG LIANG is a National Chair Professor of MIS and a research fellow at the Research Center for Mind, Brain, and Learning   at the National Chengchi University, Taiwan. He is on leave from National Sun Yat-sen University, where he is director of the Electronic  Commerce Research Center. His research interests include decision support/intelligence systems, electronic commerce, knowledge  management, and NeuroIS. He has published more than 80 articles in academic journals, including Management Science, Journal of  Management Information Systems, MIS Quarterly, International Journal of Electronic Commerce, and Decision Support Systems, among  others. Dr. Liang is a fellow of the Association for Information Systems, editor-in-chief of the Pacific Asia Journal of the Association for  Information Systems, area editor of Decision Support Systems, co chief editor of the Journal of Electronic Commerce Research, associate   editor of the Journal of Association for Information Systems, and serves on the editorial boards of many other journals.
+</p>
+<p>
+ JAN VOM BROCKE is professor of information systems, the Hilti Chair of Business Process Management, and director of the  Institute of Information Systems at the University of Liechtenstein. His research interests include business process management, design- oriented IS research, Green IS, and NeuroIS. He has contributed to the fundamentals of NeuroIS that have been published in MIS  Quarterly, Journal of Computer Information Systems, and Communications of the Association for Information Systems, among others. Dr.  vom Brocke is president of the Liechtenstein chapter of the Association for Information Systems, an associate editor of Business &amp;  Information Systems Engineering, a member of the editorial review board for the Journal of the Association for Information Systems, and a   co-editor-in-chief of the Journal of Information Technology Theory and Application. He has been serving on the organizing committee of  the annual Gmunden Retreat on NeuroIS since 2010.
+</p>
+<p>
+ COGNITIVE NEUROSCIENCE PROVIDES A NEW LENS through which to study issues related to the design, use, and impact of  information systems (IS). This new line of research, called NeuroIS, allows some behavioral constructs in IS to be investigated at the  brain's functional and subconscious levels. Apart from brain imaging, other neurobiological measurements applied in NeuroIS include  galvanic skin response, heart rate, eye and facial movement, and hormone release. A major value of NeuroIS is that certain latent variables   may be observed directly from body signals to validate and challenge findings from previous behavior studies and to improve information  technology artifact design in design-oriented studies.
+</p>
+<p>
+ However, designing NeuroIS research and interpreting the findings require neuro&#172;biological knowledge, and NeuroIS research is  also confined by the capability of neuroscience instruments. Because of its significant difference from existing methodologies in IS, the  value and the research quality of NeuroIS papers are sometimes difficult to measure, and additional research is needed to capitalize on the   field's potential. Given the potential and the constraints of this new line of research, the main purpose of this Special Issue is to demonstrate   the state of the art in NeuroIS research and to provide a platform for communication among authors, reviewers, and readers of NeuroIS  papers in the IS community.
+</p>
+<p>
+ The papers published in this Special Issue have gone through three rounds of rigorous review. Initially, the Special Issue received 30   submissions, some of which the authors presented at the 2012 Gmunden Retreat on NeuroIS in order to receive feedback. After an initial  screening, 21 papers were sent out for full review by at least one IS scholar, who assessed the relevance of the research issue, and one  cognitive neuroscience scholar, who evaluated the rigor of the methodology. In some cases, additional reviewers were consulted to ensure   the quality of the papers.
+</p>
+<p>
+ Five guidelines, presented further in this Special Issue by vom Brocke and Liang, were used to evaluate the papers' topical relevance  and methodological rigor-that is, their ability to (1) advance IS research, (2) apply the research to standards of neuroscience, (3) justify  the choice of a neuroscience strategy of inquiry, (4) map IS concepts to bio-data, and (5) relate the experimental setting to authentic IS  situations. In the end, we chose seven papers for this Special Issue, each of which demonstrates the state of the art in NeuroIS research  and serves as a keystone for future development of the area. Table 1 shows the IS and neuroscience relevance of the papers.
+</p>
+<p>
+ Shirley Gregor, Aleck C.H. Lin, Tom Gedeon, Amir Riaz, and Dingyun Zhu investigate the role of emotions in IS research and propose   and test a 3 emotion system nomological network. The experimental task was online travel service Web sites, which are highly relevant to  electronic commerce. Both self-reported and electroencephalography (EEG) data were measured to evaluate the proposed theoretical  framework.
+</p>
+<p>
+ Randall K. Minas, Robert F. Potter, Alan R. Dennis, Valerie Bartelt, and Soyoung Bae study information-processing biases in virtual  teams-that is, how individual team members process information in virtual settings compared to face-to-face settings. The authors use a  combination of three neuroscience instruments-EEG, electrodermal activity (EDA), and facial electromyography (EMG)-to evaluate their  hypotheses. Their results show neurological evidence for the confirmation bias in information processing in online team discussions.
+</p>
+<p>
+ Ren&#233; Riedl, Peter N.C. Mohr, Peter H. Kenning, Fred D. Davis, and Hauke R. Heekeren use functional magnetic resonance imaging  (fMRI) to study the neurological differences between interacting with humans versus computerized avatars. They find that people are better    at predicting the trustworthiness of humans than the trustworthiness of avatars, but that the learning rate concerning trustworthiness is  similar whether the interaction is with humans or avatars.
+</p>
+<p>
+ Mengxiang Li, Qiqi Jiang, Chuan-Hoo Tan, and Kwok-Kee Wei study the issue of user-software engagement in mobile gaming using   two constructs, game complexity and game familiarity, in their theoretical framework. To test their hypotheses, the authors conduct two  studies, one that uses self-reported and EEG data and one that uses qualitative interviews. The experiment that uses self-reported and EEG   data reveals that complexity and familiarity both have a significant effect on engagement, contributing to improving game design, a field of   growing importance in information systems research.
+</p>
+<p>
+ Kevin K.Y. Kuan, Yingqin Zhong, and Patrick Y.K. Chau investigate the social influence of two types of recommendation information on   attitude and purchase intention: the number of people who have bought a deal ("buy" information) and Facebook "like" information. An EEG    experiment reveals that positive and negative "buy" information has an asymmetric influence on attitude and intention, whereas "like"  information has a positive influence on intention. The presence of "buy" information tends to generate negative emotion, while the presence   of "like" information tends to generate positive emotion.
+</p>
+<p>
+ Ana Ortiz de Guinea, Ryad Titah, and Pierre-Majorique L&#233;ger investigate the determinants of perceived usefulness (PU) and  perceived ease of use (PEOU) and report neurophysiological data to show their nonlinear effects on behavioral beliefs. Two implicit  constructs, memory load and distraction, and two explicit constructs, engagement and frustration, are hypothesized as potential  determinants. The study's EEG experimental findings indicate that these determinants interact (i.e., have interaction effects). For example,   when engagement is high, distraction does not affect PU, but when engagement is low, neurophysiological distraction has a significant  negative effect on PU.
+</p>
+<p>
+ Vom Brocke and Liang provide a methodological paper for conducting NeuroIS research. This paper is the result of the collective  intelligence of all papers submitted to this Special Issue and the reviewers who provided comments during the review process. It outlines  six phases and five guidelines for conducting a sound NeuroIS study and assessing the quality of NeuroIS research. The paper provides  an IS view on NeuroIS studies, assisting researchers, editors, and readers to capitalize on the potential of neuroscience as a strategy of  inquiry in IS research.
+</p>
+<p>
+ It was both challenging and rewarding to have the opportunity to access many top-quality research papers and to interact with a group   of top-tier scholars in our capacity as guest editors of this Special Issue in NeuroIS. Unfortunately, due to space and time limitations, we  had to reject many papers with very good potential. We hope that the publication of this Special Issue will motivate more research in the  important field of NeuroIS and that it will help to bring the scope of IS research to a new level.
+</p>
+<p>
+ The Special Issue would not have been possible without the strong support and help of the following advisory board and editorial review   board members:
+</p>
+<p>
+ Special Issue Advisory Board
+</p>
+<p>
+ Izak Benbasat (University of British Columbia, Management Information Systems Division)
+</p>
+<p>
+ Angelika Dimoka (Temple University, Center for Neural Decision Making)
+</p>
+<p>
+ Alok Gupta (University of Minnesota, Information and Decision Sciences)
+</p>
+<p>
+ Aleck Lin (National Dong-Hwa University, Department of Arts and Creative Industries)
+</p>
+<p>
+ Ren&#233; Riedl (University of Linz, Institute of Information Engineering)
+</p>
+<p>
+ Vallabh Sambamurthy (Michigan State University, Department of Accounting and Information Systems)
+</p>
+<p>
+ Carol Saunders (University of Central Florida, Department of Management)
+</p>
+<p>
+ Detmar Straub (Georgia State University, Department of Computer Information Systems)
+</p>
+<p>
+ Nai-Shing Yen (National Chengchi University, Research Center for Mind, Brain, and Learning)
+</p>
+<p>
+ Special Issue Editorial Review Board
+</p>
+<p>
+ Anja Achtziger (Zeppelin University, Chair of Social and Economic Psychology)
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/23">    Volume 18 Number 3 2001
+</a> pp. 71-96</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Relationships Between Job Skills and Performance: A Study of Webmasters</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/814">Wade, Michael R</a> and     <a href="/contributors/1543">Parent, Michael</a>    </div>
+
+<p>ABSTRACT: The main purpose of this study is to determine the mix of organizational and technical skills demanded of Webmasters, and the degree to which those skills influence job performance. The study is composed of two parts. First, a job-content analysis of 800 Webmaster positions is conducted in order to determine the mix of skills demanded of Webmasters by employers. Second, a survey of 232 Webmasters is conducted to test the relationships between those skills and job performance. The job-content analysis suggested that employers seek technical skills over organizational skills, and, in contrast, the survey results showed that Webmasters regard organizational skills as more important in performing their jobs. Structured equation modeling on the survey data showed that deficiency in both technical and organizational skills leads to lower job performance. Moreover, the effect of organizational skill deficiencies on job performance was found to be larger than that of technical skill deficiencies. For researchers, the establishment of an empirical link between job skills and job performance opens the field to further research in the skills of information systems personnel. For employers, the results suggest more attention should be paid to attracting organizational skills when recruiting information systems personnel, such as Webmasters.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/1492">individual level performance</a>,    <a href="/keywords/1493">information systems skills</a>,    <a href="/keywords/1494">information systems staffing</a>,    <a href="/keywords/1008">Internet</a>,    <a href="/keywords/1495">organizational skills</a>,    <a href="/keywords/1496">PLS</a>,    <a href="/keywords/1497">technical skills</a>,    <a href="/keywords/1498">webmasters</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

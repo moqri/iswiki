@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/11">    Volume 15 Number 2 1998
+</a> pp. 23-39</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Culturally Induced Information Impactedness: A Prescription for Failure in Software Ventures</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1119">Matheson, Lesley R</a> and     <a href="/contributors/1120">Tarjan, Robert E</a>    </div>
+
+<p>ABSTRACT: The impact of effective information flow in software ventures is analyzed through a recent case in which a hot, lucrative technology was lost on its way to the marketplace. The failure occurred despite the fact that the venture had many components crucial to success, including a proprietary intellectual property position, enormous market demand, a well-qualified, committed team, and sufficient funding. One reason for this failure is the lack of information flows among several parties critical to the success of the venture. This case suggests that in software markets that operate at breakneck pace and have short development cycles, effective information flow is a first-order priority. These blockages in information flows can stem from the nature of the cultures that are created to produce software ideas, especially proprietary technologies. The case also suggests that information can be affected by the clash between U.S. software market characteristics and Japanese business culture. Fortunately, there are inexpensive solutions that can substantially improve the return on investment, especially foreign investment, in new software technologies.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1158">digital watermarking</a>,    <a href="/keywords/528">information sharing</a>,    <a href="/keywords/339">software development</a>,    <a href="/keywords/1159">software products</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

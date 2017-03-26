@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/32">    Volume 24 Number 4 2008
+</a> pp. 153-173</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Gaining Trust Through Online Privacy Protection: Self-Regulation, Mandatory Standards, or Caveat Emptor</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1469">Tang, Zhulei,</a>    <a href="/contributors/1470">Hu, Y U,</a> and     <a href="/contributors/655">Smith, Michael D</a>    </div>
+
+<p>ABSTRACT: Trust is particularly important in online markets to facilitate the transfer of sensitive consumer information to online retailers. In electronic markets, various proposals have been made to facilitate these information transfers. We develop analytic models of hidden information to analyze the effectiveness of these regimes to build trust and their efficiency in terms of social welfare. We find that firms' ability to influence consumer beliefs about trust depends on whether firms can send unambiguous signals to consumers regarding their intention of protecting privacy. Ambiguous signals can lead to a breakdown of consumer trust, while the clarity and credibility of the signal under industry self-regulation can lead to enhanced trust and improved social welfare. Our results also indicate that although overarching government regulations can enhance consumer trust, regulation may not be socially optimal in all environments because of lower profit margins for firms and higher prices for consumers.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2369">consumer information</a>,    <a href="/keywords/2370">consumer surplus</a>,    <a href="/keywords/1008">Internet</a>,    <a href="/keywords/1355">privacy</a>,    <a href="/keywords/2328">social welfare</a>,    <a href="/keywords/1108">trust</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

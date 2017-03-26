@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/127">    Volume 32 Number 2 2015
+</a> pp. 314-341</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Estimating the Contextual Risk of Data Breach: An Empirical Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1369">Sen, Ravi</a> and     <a href="/contributors/1786">Borle, Sharad</a>    </div>
+
+<p>ABSTRACT: 
+<p>Data breach incidents are on the rise, and have resulted in severe financial and legal implications for the affected organizations. We apply the opportunity theory of crime, the institutional anomie theory, and institutional theory to identify factors that could increase or decrease the contextual risk of data breach. We investigate the risk of data breach in the context of an organization’s physical location, its primary industry, and the type of data breach that it may have suffered in the past. Given the location of an organization, the study finds support for application of the opportunity theory of crime and the institutional anomie theory in estimating the risk of data breach incidents within a state. In the context of the primary industry in which an organization operates, we find support for the institutional theory and the opportunity theory of crime in estimating risk of data breach incidents within an industry. Interestingly though, support for the opportunity theory of crime is partial. We find that investment in information technology (IT) security corresponds to a higher risk of data breach incidents within both a state and an industry, a result contrary to the one predicted by the opportunity theory of crime. A possible explanation for the contradiction is that investments in IT security are not being spent on the right kind of data security controls, a fact supported by evidence from the industry. The work has theoretical and practical implications. Theories from criminology are used to identify the risk factors of data breach incidents and the magnitude of their impact on the risk of data breach. Insights from the study can help IT security practitioners to assess the risk environment of their firm (in terms of data breaches) based on the firm’s location, its industry sector, and the kind of breaches that the firm may typically be prone to.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3537">computer crime</a>,    <a href="/keywords/477">computer security</a>,    <a href="/keywords/3538">data breach</a>,    <a href="/keywords/3539">data theft</a>,    <a href="/keywords/2271">information security</a>,    <a href="/keywords/3540">IT security risks</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

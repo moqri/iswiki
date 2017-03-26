@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/99">    Volume 7 Number 4 1991
+</a> pp. 71-89</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Justifying Investments in New Information Technologies</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/535">Dos Santos, Brian L</a>    </div>
+
+<p>ABSTRACT: Dealing with technological advances has been and continues to be a key facet of an information systems (IS) manager's job as new information technologies continue to be introduced at a rapid rate. Among the many problems that new technologies present, one of the first and an extremely important problem that an IS manager must deal with is an economic one: should the firm invest in a project involving the new technology? Traditional capital budgeting approaches do not adequately answer this question. Consequently, they are seldom used. Instead, investments in new IT projects are based upon "gut feel" or "intuition," rather than hard evidence. A major portion of the value of new IT projects accrues from future projects that use the technology. Few benefits are obtained from the initial project. Problems in trying to capture these benefits using traditional capital budgeting approaches are discussed here and an alternative approach to valuing new IT investments is present. This approach is based upon the assertion that future investment in projects that use the new IT are optional. Treating future investments as optional can greatly increase the pre-investment estimated value of a new IT project. In addition, the effects of technological characteristics and business and environmental conditions on the value of new IT investments are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/455">information technology</a>,    <a href="/keywords/456">information systems</a>,    <a href="/keywords/81">cost-benefit analysis</a>,    <a href="/keywords/457">investment justification</a>,    <a href="/keywords/458">evaluation</a>,    <a href="/keywords/459">financial analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

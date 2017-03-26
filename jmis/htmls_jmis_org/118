@@ -1,0 +1,91 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/75">    Volume 16 Number 3 1999
+</a> pp. 5-9</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Exploring the Outlands of the MIS Discipline</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/236">Sprague Jr, Ralph H</a>    </div>
+
+<p><p>
+ Management information systems is by its very nature an eclectic discipline. It is the study of providing  information to people who must make choices about the disposition of valuable resources in a timely, accurate,  and complete manner at a minimum of cognitive and economic cost for acquisition, processing, storage, and  retrieval. It therefore sits at the crossroads of many other disciplines-psychology, economics, computer science,  business, communication, engineering, aesthetics, and the list goes on. When MIS was young, the holy grail at the  heart of our discipline was: "How do we develop information systems that deliver value to the user, on time, and  under budget?" Thirty years later this question is still at the core of our craft. Is MIS a failed discipline? Have we  gone on for almost three decades without making progress? Far from it. Applications that pushed the limits of  human ability in 1974 may now be purchased off the shelf for less than a factory worker's daily wage. As IS  research advanced, so did user expectations. The problems we tackled became increasingly complex. At the  very core of MIS is also the question of how individuals, organizations, and societies can and do change in order  to leverage the value information technology can deliver. From the centralization-decentralization debates of the  early 1970s to the ethical explorations of information haves and have-nots in the 1990s, our research deals with  people's needs, wants, and desires for information. The core of our discipline continues to produce knowledge  that increases the likelihood that people will survive and thrive.
+</p>
+<p>
+ From time to time, though, it is useful for researchers in the mainstream of IS to look outward from the center  of our domain to examine concepts near the borders of our referent disciplines. In this winter's Special Section of  JMIS we have done just that. We have selected five papers that were judged to be among the best at the 1999  Hawaii International Conference on Systems Sciences. Each of these papers might at first glance seem to be an  outlier in some way, somewhat distant from the bright, hot center of our universe. Yet each of them deals with  issues that may have profound significance for dealing with the central questions of MIS.
+</p>
+<p>
+ E-commerce over the World Wide Web is growing at an astronomical pace. Many of the top e-commerce sites  report revenue growth exceeding 100 percent per year. Nicholas Negroponte estimates that e-commerce may  account for more than one trillion dollars by 2002. With the rise of e-commerce has come a rise in cyberfraud. A  1998 study suggested that 85 percent of consumers were reluctant to enter their credit card numbers into a Web  site. Their concerns are not unfounded. Reports abound of clever Web scams and cons that bilk consumers out  of millions of dollars. The American Institute of Certified Public Accountants and the Canadian Institute of  Chartered Accountants proposed WebTrust Assurance services to allay those fears, but until the publication of  the first paper in this issue, "Evidential Reasoning for WebTrust Assurance Services" by Rajendra P. Srivastava  and Theodore J. Mock, the rigorous theoretical logic required to implement WebTrust technology was not available.  This groundbreaking paper has two main objectives. The first is to develop a conceptual framework for evidential  reasoning for the WebTrust assurance, which involves "assuring that Web sites that offer electronic commerce  meet standards of consumer information protection, transaction integrity, and sound business practice." The  second objective is to develop a decision-theoretic model for determining the optimal level of assurance on  important dimensions of the WebTrust assurance service. This may enable the assurance provider to obtain a  sufficient competent evidential matter to achieve an acceptable level of assurance based on a cost-benefit  analysis. Many universities are now either offering or considering offering degrees in e-commerce. Many IS  researchers are deeply involved in various aspects of e-commerce implementation and in analyzing the role it  plays and will play in society. This paper contributes to the foundation upon which much of the future of  e-commerce may build.
+</p>
+<p>
+ Communication researchers have for many years explored how verbal and nonverbal communication patterns  affect a host of phenomena ranging from persuasion to productivity. As the global economy and online  communities collide, more and more organizations have come to depend on collaborative technology to support  distributed teamwork. The communication literature is rich with well-tested, empirically supported models of human  communication. In their paper, "Testing the Interactivity Model: Communication Processes, Partner Assessments,  and the Quality of Collaborative Work," Judee K. Burgoon, Joseph A. Bonito, Bjorn Bengtsson, Artemio Ramirez,  Jr., Norah E. Dunbar, and Nathan Miczo apply communication theory in a very practical way to the design of  interfaces for collaborative technology. They report the results of two experiments that demonstrate, among other  things, that interfaces that promote higher mutuality and involvement tend to promote more favorable perceptions  of partners' credibility and attraction, and those perceptions are systematically related to higher-quality decisions  and more influence. Discussion focuses on the relation between user perceptions, design features, and task  outcomes in human-computer interaction and computer-mediated communication. The implications of this research  for IS researchers who explore virtual teams goes well beyond the findings of this particular study. This paper  demonstrates clearly how the theoretical foundations of our referent disciplines can inform high-quality IS  research.
+</p>
+<p>
+ Information has value to the degree that it is timely (available when choices must be made), accurate (models  the actual state of the world), and complete (leaves no doubt about the probable consequences of choosing one  course of action over another). However, the value of information is offset by the cognitive and economic costs  of acquiring, processing, storing, and retrieving it. In its March-April 1997 issue, Reuters Magazine reported that  during the last thirty years humankind has produced more information than in the previous five thousand. It was  also reported there that the daily New York Times now contains more information than the average  seventeenth-century man or woman would have encountered in a lifetime. A 1998 University of Dublin study  found that 43 percent of managers think that important decisions are delayed and the ability to make decisions  affected as a result of having too much information, and that 44 percent believe that the cost of collecting  information exceeds its value to business. The next paper, "Verifying the Proximity and Size Hypothesis for  Self-Organizing Maps," by Chienting Lin, Hsinchun Chen, and Jay F. Nunamaker, Jr., squarely addresses the cost  side of the information-value equation. For some years, researchers have explored the use of Kohonen neural  networks to automatically organize vast unstructured stores of text and images, such as online medical journal  databases or the World Wide Web. These neural networks would then create visual maps to make it easy for  people to find what they needed in these information stores. Each area on the map bore an automatically   generated concept label, and each was a hyperlink to some set of texts relating to that label. Items that were  closer together on the map were believed to be more closely related than items farther apart on the map. Larger  areas on the map were believed to link to larger numbers of texts than did smaller areas. However, until this  paper, these two beliefs had not been empirically validated. This study found robust support for both hypotheses.  This suggests that neural networks may help reduce the stress and the cost borne by the information  explosion.
+</p>
+<p>
+ There are now more than 600 million pages on the World Wide Web, and that number is growing rapidly. About  70 percent of those pages are written in English, but 30 percent are not. Thus, the content of roughly 180 million  Web pages is not available to English speakers. Automated online translation services for many languages are  now available, but one must know the language of the text in order to know which translator should be used.  Many millions of digital documents exist with no explicit language tag. John Prager, in his paper, "Linguini:  Language Identification for Multilingual Documents," reveals the workings of an ingenious method for automatically  determining the language in which a document has been written. He reports the results of a study demonstrating  that this very efficient approach can identify the language of documents as short as 5-10 percent of the size of  average Web documents with 100 percent accuracy. Combining this technology with automated translation  capability and the neural network technology reported in the previous paper could provide more complete access  to information in other languages without substantially increasing the cognitive cost of acquiring it.
+</p>
+<p>
+ The final paper in the Special Section, "Data Is More Than Knowledge: Implications of the Reversed  Knowledge Hierarchy for Knowledge Management and Organizational Memory," by Ilkka Tuomi, is one of the most  provocative we have seen in years. In a very readable and convincing argument, the author challenges one of  the pillars of our discipline-the knowledge hierarchy. Consider how entrenched the accepted knowledge  hierarchy is in our thinking. It would only be a small stretch to express it like this:
+</p>
+<p>
+ In the beginning were the data, and the data were without meaning. And MIS built a system to process the  data, and the data became information. And the decision makers did interpret the information in the light of their  intelligence guided by experience, and they did assign it meaning, and did make choices based on the information,  and the information became knowledge, and it was good.
+</p>
+<p>
+ The author of this paper begins with an interpretivist philosophy and argues that knowledge needs must  precede information, and that data can only be derived from information. He then argues that vast sums of money  are wasted on knowledge management systems because the developers understand the knowledge hierarchy  backward.
+</p>
+<p>
+ As you read this paper, consider the possibility that, despite the fact that they seem to be mutually exclusive,  both the standard hierarchy and the reverse hierarchy may be correct. Perhaps, as Tuomi asserts, people do first  perceive the world as knowledge, then codify and formalize that knowledge, and then with more effort parse it  into data structures that exactly define its meaning. Only then, he asserts, can it be manipulated by computers.  However, it may also be that once data are in a computer, they require processing to be reassembled into  information that can then be interpreted by decision makers and converted once again to knowledge. You may  agree or disagree with the author, but either way you will find his paper highly engaging. We find that it has  already broadened the way we think about issues ranging from systems analysis to Third Normal Forms. We  commend this paper and the others in the Special Section to your reading.
+</p>
+<p>
+ From the Editor-in-Chief:
+</p>
+<p>
+ We are delighted to welcome to the Editorial Board Alan Dennis of the University of Georgia and Varun Grover  of the University of South Carolina.
+</p>
+<p>
+ Wishing all of you a good millennium,
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ <b>
+  Key words and  phrases
+ </b>
+ :   ,
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

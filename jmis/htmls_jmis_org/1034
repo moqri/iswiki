@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/15">    Volume 22 Number 3 2005
+</a> pp. 351-381</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Negotiation Support Systems in Budget Negotiations: An Experimental Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1592">Wolfe, Christopher J</a> and     <a href="/contributors/1593">Murthy, Uday S</a>    </div>
+
+<p>ABSTRACT: This paper reports the results of an experiment investigating the differences between budget negotiations conducted on an electronic negotiation support system (NSS) and those conducted face-to-face. The negotiation setting consisted of a supervisor and a subordinate negotiating a performance budget for the subordinate. Results revealed that when supervisor performance expectations were incongruent with subordinate capability, face-to-face negotiations hit impasse at a significantly higher rate than NSS negotiations. These results held regardless of the amount of concession needed to reach consensus, and they support the contention that single-issue distributive negotiations, such as budget negotiations, can benefit from the use of an NSS. In a secondary analysis of subordinate performance after the budget negotiation, we found that NSS subordinates perceived more task conflict, which positively influenced postnegotiation performance, whereas face-to-face subordinates perceived less relational conflict, which worked through satisfaction to positively influence postnegotiation performance. This result adds to the literature by clarifying the roles that communication mode plays in a negotiation and a negotiation's aftermath.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2037">budget negotiation</a>,    <a href="/keywords/2038">distributive negotiations</a>,    <a href="/keywords/2039">negotiation impasse</a>,    <a href="/keywords/592">negotiation support systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

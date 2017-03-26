@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/125">    Volume 31 Number 4 2015
+</a> pp. 88-108</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Chasing Lemmings: Modeling IT-Induced Misperceptions About the Strategic Situation as a Reason for Flash Crashes</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1751">Brandt, Tobias</a> and     <a href="/contributors/1752">Neumann, Dirk</a>    </div>
+
+<p>ABSTRACT: 
+<p>Flash crashes, perceived as sharp drops in market prices that rebound shortly after, have turned the public eye toward the vulnerability of information technology-based stock trading. In this paper, we explain flash crashes as the result of actions made by rational agents. We argue that the advancement of information technology (IT), which has long been associated with competitive advantages, may cause ambiguities with respect to the game form that give rise to a hypergame. We employ hypergame theory to demonstrate that a market crash constitutes an equilibrium state if players misperceive the true game. Once the ambiguity is resolved, prices readjust to the appropriate level, creating the characteristic flash-crash effect. By analyzing the interaction with herd behavior, we find that flash crashes may be an unavoidable systemic problem of modern financial markets.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3412">flash crash</a>,    <a href="/keywords/874">game theory</a>,    <a href="/keywords/3413">impact of IT, hypergames</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

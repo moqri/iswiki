@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/112">    Volume 23 Number 3 2006
+</a> pp. 97-127</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Designing Web Sites for Customer Loyalty Across Business Domains: A Multilevel Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/133">Mithas, Sunil,</a>    <a href="/contributors/1142">Ramasubbu, Narayan,</a>    <a href="/contributors/1143">Krishnan, M S,</a> and     <a href="/contributors/1144">Fornell, Claes</a>    </div>
+
+<p>ABSTRACT: Web sites are important components of Internet strategy for organizations. This paper develops a theoretical model for understanding the effect of Web site design elements on customer loyalty to a Web site. We show the relevance of the business domain of a Web site to gain a contextual understanding of relative importance of Web site design elements. We use a hierarchical linear modeling approach to model multilevel and cross-level interactions that have not been explicitly considered in previous research. By analyzing data on more than 12,000 online customer surveys for 43 Web sites in several business domains, we find that the relative importance of different Web site features (e.g., content, functionality) in affecting customer loyalty to a Web site varies depending on the Web site's domain. For example, we find that the relationship between Web site content and customer loyalty is stronger for information-oriented Web sites than for transaction-oriented Web sites. However, the relationship between functionality and customer loyalty is stronger for transaction-oriented Web sites than for information-oriented Web sites. We also find that government Web sites enjoy greater word-of-mouth effect than commercial Web sites. Finally, transaction-oriented Web sites tend to score higher on mean customer loyalty than do information-oriented Web sites.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/637">business value of information technology</a>,    <a href="/keywords/2177">customer loyalty</a>,    <a href="/keywords/2178">customer relationships</a>,    <a href="/keywords/2179">customer satisfaction</a>,    <a href="/keywords/1347">e-commerce</a>,    <a href="/keywords/2180">hierarchical linear modeling</a>,    <a href="/keywords/2181">Web site content</a>,    <a href="/keywords/2151">word of mouth</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

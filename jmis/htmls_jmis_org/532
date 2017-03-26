@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/100">    Volume 30 Number 1 2013
+</a> pp. 227-260</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Service-Oriented Methodology for Systems Development</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/916">Keith, Mark,</a>    <a href="/contributors/135">Demirkan, Haluk,</a> and     <a href="/contributors/677">Goul, Michael</a>    </div>
+
+<p>ABSTRACT: Despite advances in software development practices, organizations struggle to implement methodologies that match the risk in a project environment with needed coordination capabilities. Plan-driven and agile software development methodologies each have strengths and risks. However, most project environments cannot be classified as entirely "risky" or "stable," suggesting the need for hybrid approaches. We leverage a design science approach to implement a novel hybrid methodology based on concepts from the service-oriented paradigm. We motivate the approach using theory on interdependence and coordination, and design the methodology using theory on modularity and service-dominant logic. We also examine the effects of its adoption at a large electrical power company over a three-year period. The results imply that service-oriented theory should be applied to the human processes involved in systems development in order to achieve better fit between project risk, interdependencies, and the selected methodology(ies) in order to improve overall project performance.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2317">design science</a>,    <a href="/keywords/3118">modularization</a>,    <a href="/keywords/83">project management</a>,    <a href="/keywords/3119">service orientation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

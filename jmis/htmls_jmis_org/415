@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/49">    Volume 18 Number 4 2002
+</a> pp. 59-85</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Examination of the Impact of Stimuli Type and GSS Structure on Creativity: Brainstorming Versus Non-Brainstorming Techniques in a GSS Environment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/753">Hender, Jillian M,</a>    <a href="/contributors/456">Dean, Douglas L,</a>    <a href="/contributors/256">Rodgers, Thomas L,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: Of the techniques available for idea generation with group support systems (GSS), little research attention has been given to techniques that challenge problem assumptions or that use unrelated stimuli to promote creativity. When implementing such techniques with GSS, choices must be made regarding how to configure the GSS to deploy the initial creative stimuli and to present the pool of emerging ideas that act as additional stimuli. This paper reports the results of an experiment that compares Electronic Brainstorming (few unnamed rotating dialogues) with Assumption Reversals (many related stimuli, many named dialogues, free movement among dialogues) and Analogies (many unrelated stimuli, many named dialogues, free movement among dialogues). Analogies produced creative, but fewer, ideas, due to the use of unrelated stimuli. Assumption Reversals produced the most, but less creative, ideas, possibly due to fragmentation of the group memory and cognitive inertia caused by lack of forced movement among dialogues.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1524">analogy</a>,    <a href="/keywords/1525">assumption reversal</a>,    <a href="/keywords/196">brainstorming</a>,    <a href="/keywords/198">creativity</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/197">idea generation</a>,    <a href="/keywords/1526">idea quality</a>,    <a href="/keywords/1527">idea quantity</a>,    <a href="/keywords/1329">laboratory experiments</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

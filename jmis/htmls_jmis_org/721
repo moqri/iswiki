@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/96">    Volume 1 Number 1 1984
+</a> pp. 102-111</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Writing Simple Program Generators: A Case Study in Building Productivity Tools</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1187">Norman, Morton</a> and     <a href="/contributors/1188">Muriel, Amador</a>    </div>
+
+<p>ABSTRACT: The development of a program generator for data acquisition and management on a microcomputer is described in a case study. The generator has been used to achieve major gains in productivity of both experienced programmers and naive users. Specific rules and techniques used in developing the program generator are presented, together with design tradeoffs. By implication, these methods are suitable for developing other program generators for a wide variety of applications. The claim is made that writing program generators which are modest in scope and generality is a straightforward and teachable task, rather than an exotic technique. Consequently, software groups are urged to consider developing such productivity tools.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/26">program generators</a>,    <a href="/keywords/27">programming productivity tools</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

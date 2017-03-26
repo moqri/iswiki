@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/2">    Volume 6 Number 1 1989
+</a> pp. 21-40</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Study of Staff Turnover, Acquisition, and Assimiliation and Their Impact on Software Development Cost and Schedule</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/4">Abdel-Hamid, Tarek K</a>    </div>
+
+<p>ABSTRACT: In this article we investigate how staff turnover, acquisition, and assimilation rates affect software development cost and schedule. A system dynamics model of the software development process is employed as our experimentation vehicle. In addition to permitting less costly and less time-consuming experimentation, simulation-type models can provide useful insights into the causes behind the different behavior patterns observed. Our results indicate that staff turnover, acquisition, and assimilation rates can increase a project's cost and duration, by as much as 40 to 60 percent. This suggests that the three staffing variables are indeed critical for the successful development of software systems, as well as for the accurate estimation of software development cost and schedule.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/339">software development</a>,    <a href="/keywords/340">human resource management</a>,    <a href="/keywords/341">project staffing</a>,    <a href="/keywords/342">software project management</a>,    <a href="/keywords/343">software development cost and schedule</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

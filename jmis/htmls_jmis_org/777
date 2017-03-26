@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/33">    Volume 26 Number 2 2009
+</a> pp. 97-121</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Security: Facilitating User Precautions Vis-Ã -Vis Enforcement Against Attackers</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/826">Png, Ivan P L</a> and     <a href="/contributors/1260">Wang, Qiu-Hong</a>    </div>
+
+<p>ABSTRACT: We compare alternative information security policies--facilitating end-user precautions and enforcement against attackers. The context is mass and targeted attacks, taking account of strategic interactions between end users and attackers. For both mass and targeted attacks, facilitating end-user precautions reduces the expected loss of end users. However, the impact of enforcement on expected loss depends on the balance between deterrence and slackening of end-user precautions. Facilitating end-user precautions is more effective than enforcement against attackers when the cost of precautions and the cost of attacks are lower. With targeted attacks, facilitating end-user precautions is more effective for users with relatively high valuation of information security, while enforcement against attackers is more effective for users with relatively low valuation of security.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2537">enforcement</a>,    <a href="/keywords/1628">facilitation</a>,    <a href="/keywords/2271">information security</a>,    <a href="/keywords/2538">mass attacks</a>,    <a href="/keywords/2539">targeted attacks</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

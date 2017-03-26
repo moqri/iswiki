@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/124">    Volume 31 Number 3 2014
+</a> pp. 35-71</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Intermediation in a Sharing Economy: Insurance, Moral Hazard, and Rent Extraction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/398">Weber, Thomas A</a>    </div>
+
+<p>ABSTRACT: 
+<p>A key impediment to sharing is a lender’s concern about damage to a lent item due to unobservable actions by a renter, usually resulting in moral hazard. This paper shows how an intermediary can eliminate the moral hazard problem by providing optimal insurance to the lender and first-best incentives to the renter to exert care, as long as market participants are risk neutral. The solution is illustrated for the collaborative housing market but applies in principle to any sharing market with vertically differentiated goods. A population of renters, heterogeneous both in their preferences for housing quality and with respect to the amount of care they exert in a rental situation, face a choice between collaborative housing and staying at a local hotel. The private hosts choose their prices strategically, and the intermediary sets commission rates on both sides of the market as well as insurance terms for the rental agreement. The latter are set to eliminate moral hazard. The intermediary is able to extract the gains the hosts would earn if transacting directly. Finally, even if hotels set their prices at the outset so as to maximize collusive profits, collaborative housing persists at substantial market shares, regardless of the difference between the efficiencies of hosts and hotels to reduce renters’ cost of effort. The aggregate of hosts, intermediary, and hotels benefits from (a variety in) these effort costs, which indicates that the intermediated sharing of goods is an economically viable, robust phenomenon.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3360">collaborative consumption</a>,    <a href="/keywords/3361">digital economy</a>,    <a href="/keywords/3362">incentive contracting</a>,    <a href="/keywords/1608">intermediation</a>,    <a href="/keywords/995">moral hazard</a>,    <a href="/keywords/3363">optimal insurance</a>,    <a href="/keywords/3364">sharing economy</a>,    <a href="/keywords/1108">trust</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

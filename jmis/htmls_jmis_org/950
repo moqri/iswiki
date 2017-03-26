@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/6">    Volume 11 Number 2 1994
+</a> pp. 209-231</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Engagement of External Expertise in Information Systems Implementation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1235">Thong, James Y L</a> and     <a href="/contributors/1491">Yap, Chee-Sing</a>    </div>
+
+<p>ABSTRACT: Most small businesses lack computer experience and do not have sufficient internal computer expertise. Hence, small businesses are more dependent on external expertise such as consultants and vendors than are larger businesses. This paper compares the information systems (IS) effectiveness of a group of small businesses that engage separate consultants and vendors (consultant-vendor approach) with that of another group of small businesses that engage vendors who also provide consultancy service (vendor-only approach). The results show that small businesses that adopt the vendor-only approach have more effective information systems than small businesses that adopt the consultant-vendor approach. Further, the vendor-only approach results in the same level of consultant effectiveness and a better level of vendor support for small businesses compared with the consultant-vendor approach. The relationship between vendor and other parties in the IS implementation project is found to be an important predictor of IS effectiveness.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/779">consultants</a>,    <a href="/keywords/780">external expertise</a>,    <a href="/keywords/781">small business</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

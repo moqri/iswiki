@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/101">    Volume 12 Number 3 1995
+</a> pp. 9-19</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Requirements Validation via Automated Natural Language Parsing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1171">Nanduri, Sastry</a> and     <a href="/contributors/1172">Rugaber, Spencer</a>    </div>
+
+<p>ABSTRACT: Object-oriented analysis (OOA) has become a popular method for analyzing system requirements. Unfortunately, however, none of the current versions of OOA has included a validation technique tailored to the object-oriented approach. Most, instead, merely recommend document reviews without specifying the kinds of problems to look for. This paper explores the question by applying a natural language parser to a requirements document, extracting candidate objects, methods, and associations, composing them into an object model diagram, and then comparing the results with those determined by manual OOA. To do this, we have adapted an automated natural language parser and used it to examine several high-level system descriptions. The results indicate that, with a modest amount of effort, the technique can give valuable feedback to the analyst.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/875">link grammars</a>,    <a href="/keywords/876">natural language processing</a>,    <a href="/keywords/877">object-oriented analysis</a>,    <a href="/keywords/273">systems analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

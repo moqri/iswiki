@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/37">    Volume 25 Number 2 2008
+</a> pp. 73-95</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>How Has Electronic Travel Distribution Been Transformed?: A Test of the Theory of Newly Vulnerable Markets</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/680">Granados, Nelson F,</a>    <a href="/contributors/79">Kauffman, Robert J,</a> and     <a href="/contributors/681">King, Bradley</a>    </div>
+
+<p>ABSTRACT: Information technology (IT) advances often create turmoil and disturb existing industry structures. In the travel industry, electronic distribution has existed for decades via the global distribution systems (GDSs), reservation systems that were introduced in the early 1980s on mainframe platforms. Yet with the Internet, new digital intermediaries have threatened the viability of these legacy GDSs. We examine this transformation of e-travel distribution to test the theory of newly vulnerable markets, which predicts how markets become vulnerable to fundamental changes triggered by IT. The tenets of newly vulnerable markets theory are supported. The GDS market became newly easy to enter due to a decrease in barriers to entry caused by the Internet and other technologies, attractive to attack due to their out-of-date and inefficient pricing mechanisms, which made opportunistic pickoff possible across customer profitability gradients, and difficult to defend due to their lack of vision and strategic inflexibility. We use our findings to expand the application of this theory to newly vulnerable e-markets, in general.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/486">electronic markets</a>,    <a href="/keywords/2432">meta-search agents</a>,    <a href="/keywords/1604">newly vulnerable markets</a>,    <a href="/keywords/2433">online travel agents</a>,    <a href="/keywords/2434">travel distribution</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

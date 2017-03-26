@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/23">    Volume 18 Number 3 2001
+</a> pp. 195-234</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Approach to Distribution of Object-Oriented Applications in Loosely Coupled Networks</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1277">Purao, Sandeep,</a>    <a href="/contributors/374">Jain, Hemant K,</a> and     <a href="/contributors/373">Nazareth, Derek L</a>    </div>
+
+<p>ABSTRACT: With the move to distributed systems and an increasing emphasis on the use of object-orientation for new system design, effective distribution of object-oriented applications is becoming an important concern for designers. Early research in this area has focused on object-clustering schemes for shared memory configurations that have limited value to business applications, which must be distributed over loosely coupled networks. These applications also exhibit the properties of simpler structural relationships and a large number of instances, demanding approaches closer to fragmentation and allocation instead of clustering. This paper develops an approach to distribution of object-oriented applications over geographically dispersed sites in loosely coupled networks---taking account of concerns such as encapsulation, inheritance, messaging, and implicit joins. The approach consists of two phases. First, we develop a scheme for generating class fragments, which ensures that encapsulation is not violated and inheritance is not stretched across sites. Second, considering the message-intensive operation of object-oriented systems, we devise models for allocation of class fragments to sites that minimize inter-site traffic. A nonarbitrary procedure to compile traffic volume estimates exploiting the notion of implicit joins in object-oriented applications provides the natural linkage between the two phases. A research prototype was implemented to establish feasibility of the proposals. We demonstrate usefulness of the approach by its application for distribution of a real-world information system.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1504">allocation models</a>,    <a href="/keywords/1505">distributed systems</a>,    <a href="/keywords/1506">horizontal fragmentation</a>,    <a href="/keywords/1343">object distribution</a>,    <a href="/keywords/1507">object-oriented development</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

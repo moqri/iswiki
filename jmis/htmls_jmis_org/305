@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/50">    Volume 17 Number 4 2001
+</a> pp. 71-95</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Telecommunications and Economic Activity: An Analysis of Granger Causality</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/541">Dutta, Amitava</a>    </div>
+
+<p>ABSTRACT: The pervasive role of telecommunications in contemporary commerce is well documented, and has dramatically increased the demand for services. Across the world, countries are seeking to improve telecommunications infrastructure and benefit from anticipated increases in economic activity, and a causal relation between the two is often tacitly assumed. This paper analyzes aggregate data at the national level to see if there is any empirical evidence that supports this assumption. We apply the well established Granger test for causality using time series data for levels of telecommunications infrastructure and economic activity from thirty countries. We find that the evidence for causality from levels of telecommunications infrastructure to economic activity is stronger than that for causality in the opposite direction. Moreover, this pattern appears to hold for both industrialized and developing economies, even though the former has strong service sectors that are heavily dependent on telecommunications. These findings provide additional insights into the complex relationship between telecommunications and economic activity. Some potential policy implications are also discussed. Granger causality tests have not seen much application in the IS Literature, and we mention some IS research issues that may benefit from such analysis.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1398">economic activity</a>,    <a href="/keywords/1399">Granger causality</a>,    <a href="/keywords/1400">telecommunications infrastructure</a>,    <a href="/keywords/1401">telecommunications policy</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

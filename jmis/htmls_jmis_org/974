@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/117">    Volume 11 Number 1 1994
+</a> pp. 59-72</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Mathematical Model of Performance of Computer-Mediated Groups during Idea Generation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1132">Valacich, Joseph S</a> and     <a href="/contributors/239">Dennis, Alan R</a>    </div>
+
+<p>ABSTRACT: As the use of computer-mediated systems for group work grows, the need for a better understanding of the impact of such systems becomes more important. Studies of non-computer-mediated group work have long been guided by mathematical models of group interaction and performance, but recent research suggests that these models do not fit the unique capabilities of computer-mediated systems. This article builds on Previous group research to create a mathematical model of computer-mediated group performance which is then tested using data from two prior studies. This testing enabled us to conclude that models of computer-mediated groups run counter to the many guiding models of non-computer-mediated groups. We therefore discuss the implications of these differences in relation to users of this technology and to future developmental and empirical research.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/742">group interaction modeling</a>,    <a href="/keywords/743">group process gains</a>,    <a href="/keywords/744">group process losses</a>,    <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/197">idea generation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

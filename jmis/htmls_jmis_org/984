@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/16">    Volume 4 Number 3 1987
+</a> pp. 50-63</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Embedding a Point-to-Point Network in the Expansion of Infrastructure for Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1525">Veroy, Boris</a> and     <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: Long-term evolution of management information systems toward distributed processing, accompanied of late by the development of inter-organizational systems, has posed increasing demands on the networking infrastructure. Within this framework, point-to-point data communication over a network composed of various media remains the most frequent communication mode. With a large base of network infrastructure in place, the need for incremental capacity increase due to new users who join existing networks has become a recurring problem. Accommodation of new users without downgrading the quality of service that has been provided to existing users requires network capacity expansion. A method is presented for computing the least-cost expansion of link capacities (defined as the number of lines in a link) on a point-to-point path in a network, subject to the constraint on the grade of service. A polynomial-time numerical algorithm is provided, along with the results of computer experiments.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/245">inter-organization systems</a>,    <a href="/keywords/246">network expansion</a>,    <a href="/keywords/247">capacity expansion</a>,    <a href="/keywords/248">multi-link networks</a>,    <a href="/keywords/249">point-to-point networks</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

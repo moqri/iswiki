@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/77">    Volume 22 Number 4 2006
+</a> pp. 207-235</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Interactions Between System Evaluation and Theory Testing: A Demonstration of the Power of a Multifaceted Approach to Information Systems Research</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/864">Jinwei, Cao,</a>    <a href="/contributors/865">Crews, Janna M,</a>    <a href="/contributors/866">Ming, Lin,</a>    <a href="/contributors/867">Deokar, Amit,</a>    <a href="/contributors/268">Burgoon, Judee K,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: Historically, information systems (IS) researchers have questioned which research paradigms, activities, and methods IS research should follow. In this paper, we argue that different research methods and activities may interact with each other, different research paradigms may complement each other due to such interactions, and therefore, a multimethodological, cross-paradigm research approach may result in better IS research than a singular approach. Three existing multimethodological IS research frameworks are reviewed and summarized into an integrated approach. Two types of interactions between different research methods across system evaluation and theory testing research activities are identified. A three-year research study about a computer-based training system for deception detection (Agent99 Trainer) provides a concrete example to demonstrate the existence and research benefits of these two types of interactions, as well as the benefits of a multimethodological, cross-paradigm IS research approach.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2063">IS research framework</a>,    <a href="/keywords/2064">research activity</a>,    <a href="/keywords/1596">research methods</a>,    <a href="/keywords/2065">research paradigm</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

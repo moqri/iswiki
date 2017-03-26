@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/13">    Volume 19 Number 1 2002
+</a> pp. 99-127</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Influence of Multimedia on Improving the Comprehension of Organizational Information</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1050">Lim, Kai H</a> and     <a href="/contributors/157">Benbasat, Izak</a>    </div>
+
+<p>ABSTRACT: Text is the predominant form of organizational information. Comprehending text-based information requires intensive cognitive processing effort on the part of readers. Drawing on multimedia literature, this study identified a characteristic of multimedia presentations, namely complementary cues, which have the potential to improve the comprehensibility of organizational information. A set of hypotheses about the benefits of multimedia over text-based presentations was generated based on the theoretical perspective that we developed. These predictions were tested through a laboratory experiment using a simulated multimedia intranet. Results show that multimedia facilitates the retention and subsequent recall of explanative information but not of descriptive information. Explanative information is organized facts connected by their underlying functional relationships. Descriptive information consists of isolated facts without an explanation of the relationships between these facts. The ability to retain and recall explanative information, in turn, leads to a greater ability to make correct inferences about new organizational situations.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/116">human information processing</a>,    <a href="/keywords/1562">information comprehension</a>,    <a href="/keywords/1563">information presentation</a>,    <a href="/keywords/1564">information recall</a>,    <a href="/keywords/1565">learning and inference</a>,    <a href="/keywords/797">multimedia</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

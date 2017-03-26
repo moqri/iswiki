@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/71">    Volume 26 Number 1 2009
+</a> pp. 73-100</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Engaging Group E-Learning in Virtual Worlds</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/619">Franceschi, Katherine,</a>    <a href="/contributors/162">Lee, Ronald M,</a>    <a href="/contributors/620">Zanakis, Stelios H,</a> and     <a href="/contributors/621">Hinds, David</a>    </div>
+
+<p>ABSTRACT: E-learning has seen tremendous growth in recent years. More and more, university courses are now available online to a potentially global audience. However, a significant shortcoming of e-learning technologies has been poor support for group-oriented learning. We believe that virtual worlds offer a potential solution. Unlike videoconferencing (for instance), virtual worlds provide a shared visual space for students to meet and interact (via avatars). Not only do students share the quasi-realism of a 3D environment where participants can see and hear one another, they also have the capability to manipulate artifacts together. These factors provide a strong sense of group presence, which leads to engaging group learning interactions.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2499">business education</a>,    <a href="/keywords/1549">e-learning</a>,    <a href="/keywords/2500">massively multiplayer online game (MMOG)</a>,    <a href="/keywords/2501">massively multiplayer online role-playing game</a>,    <a href="/keywords/2502">online learning</a>,    <a href="/keywords/2212">social presence</a>,    <a href="/keywords/2503">virtual engagement</a>,    <a href="/keywords/2504">virtual worlds</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

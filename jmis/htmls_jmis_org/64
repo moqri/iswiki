@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/48">    Volume 26 Number 4 2010
+</a> pp. 13-64</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Interdisciplinary Perspective on IT Services Management and Service Science</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/134">Bardhan, Indranil R,</a>    <a href="/contributors/135">Demirkan, Haluk,</a>    <a href="/contributors/136">Kannan, P K,</a>    <a href="/contributors/79">Kauffman, Robert J,</a> and     <a href="/contributors/131">Sougstad, Ryan</a>    </div>
+
+<p>ABSTRACT: The increasing importance of information technology (IT) services in the global economy prompts researchers in the field of information systems (IS) to give special attention to the foundations of managerial and technical knowledge in this emerging arena of knowledge. Already we have seen the computer science discipline embrace the challenges of finding new directions in design science toward making services-oriented computing approaches more effective, setting the stage for the development of a new science--service science, management, and engineering (SSME). This paper addresses the issues from the point of view of service science as a fundamental area for IS research. We propose a robust framework for evaluating the research on service science, and the likely outcomes and new directions that we expect to see in the coming decade. We emphasize the multiple roles of producers and consumers of services-oriented technology innovations, as well as value-adding seller intermediaries and systems integrators, and standards organizations, user groups, and regulators as monitors. The analysis is cast in multidisciplinary terms, including computer science and IS, economics and finance, marketing, and operations and supply chain management. Evaluating the accomplishments and opportunities for research related to the SSME perspective through a robust framework enables in-depth assessment in the present, as well as an ongoing evaluation of new knowledge in this area, and the advancement of the related management practice capabilities to improve IT services in organizations. INSETS: Text Box 1. An Example: SaaS, ASPs, and CRM;Text Box 2. The Services-as-Art Perspective on Service Science....</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2601">cloud computing</a>,    <a href="/keywords/2439">economics</a>,    <a href="/keywords/456">information systems</a>,    <a href="/keywords/2288">IT services</a>,    <a href="/keywords/2602">literature survey</a>,    <a href="/keywords/2603">marketing</a>,    <a href="/keywords/2604">operations</a>,    <a href="/keywords/2605">research directions</a>,    <a href="/keywords/2290">services science</a>,    <a href="/keywords/2606">services management</a>,    <a href="/keywords/2607">services-oriented systems</a>,    <a href="/keywords/2608">system science</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

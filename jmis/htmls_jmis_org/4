@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/4">    Volume 6 Number 4 1990
+</a> pp. 61-82</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Discourse Analysis for Knowledge Acquisition: The Coherence Method</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/5">Abdul-Gader, Abdulla H</a> and     <a href="/contributors/6">Kozar, Kenneth A</a>    </div>
+
+<p>ABSTRACT: Recently there has been a tremendous increase in the development of knowledge-based systems in organizations. The quality of these systems and the cost of their development are largely dependent on the validity and reliability of the techniques used to acquire an expert's knowledge. Knowledge acquisition is the process of extracting domain knowledge from experts and organizing this knowledge into a computer understandable form. In order to improve knowledge-based system performance and make these systems less costly to build, knowledge acquisition techniques must be improved. This paper presents a knowledge acquisition method to augment the existing unstructured elicitation techniques such as protocol analysis and interviews. The Coherence Method is based on AI planning theory [31] and coherence theory [21]. The authors' experience in applying this method to a knowledge-based systems development project is reported. The Coherence Method proved useful in facilitating the understanding of the experts' discourse, especially in early knowledge acquisition interviews. It provided the core knowledge that can guide subsequent knowledge elicitation techniques.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/31">knowledge-based systems</a>,    <a href="/keywords/156">expert systems</a>,    <a href="/keywords/271">knowledge acquisition</a>,    <a href="/keywords/400">discourse analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

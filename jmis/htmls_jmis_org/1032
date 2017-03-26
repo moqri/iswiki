@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/62">    Volume 21 Number 4 2005
+</a> pp. 57-84</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Visual Framework for Knowledge Discovery on the Web: An Empirical Study of Business Intelligence Exploration</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1590">Wingyan, Chung,</a>    <a href="/contributors/2">Hsinchun, Chen,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: Information overload often hinders knowledge discovery on the Web. Existing tools lack analysis and visualization capabilities. Search engine displays often overwhelm users with irrelevant information. This research proposes a visual framework for knowledge discovery on the Web. The framework incorporates Web mining, clustering, and visualization techniques to support effective exploration of knowledge. Two new browsing methods were developed and applied to the business intelligence domain: Web community uses a genetic algorithm to organize Web sites into a tree format; knowledge map uses a multidimensional scaling algorithm to place Web sites as points on a screen. Experimental results show that knowledge map out-performed Kartoo, a commercial search engine with graphical display, in terms of effectiveness and efficiency. Web community was found to be more effective, efficient, and usable than result list. Our visual framework thus helps to alleviate information overload on the Web and offers practical implications for search engine developers.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1869">business intelligence</a>,    <a href="/keywords/748">genetic algorithms</a>,    <a href="/keywords/1872">knowledge map</a>,    <a href="/keywords/1873">multidimensional scaling</a>,    <a href="/keywords/1381">visualization</a>,    <a href="/keywords/1874">Web browsing</a>,    <a href="/keywords/1875">Web community</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,85 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/62">    Volume 21 Number 4 2005
+</a> pp. 7-9</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Context-Driven Information Access and Deployment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/235">De Vreede, Gert-Jan,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/236">Sprague Jr, Ralph H</a>    </div>
+
+<p><p>
+ Robert O. Briggs is a Research Coordinator at the Center for the Management of Information at the University of Arizona, and Associate Professor of Collaboration Engineering at Delft University of Technology in the Netherlands. He is also Director of Research and Development for GroupSystems.com. As a researcher, he has published more than 60 scholarly works on the theoretical foundations of collaboration, and he applies his findings to the development and deployment of collaborative technology to enhance team productivity, team creativity, and team satisfaction. His work on organizational transition to collaborative technology led to new insights about how to conceive of and deploy group support systems so as to create self-sustaining and growing communities of users. He received his Ph.D. from the University of Arizona in 1994.
+</p>
+<p>
+ Gert-Jan de Vreede is a Professor at the Department of Information Systems and Quantitative Analysis at the University of Nebraska at Omaha, where he is director of the Peter Kiewit Institute&#8217;s Program on E-Collaboration. He is also affiliated with the Faculty of Technology, Policy, and Management of Delft University of Technology in the Netherlands, where he received his Ph.D. His research focuses on the application, adoption, and diffusion of collaboration technology in organizations, the development of repeatable collaborative processes, facilitation of group meetings, and the application of collaboration technology in different sociocultural environments. His articles have appeared in various journals, including Journal of Management Information Systems, Journal of Decision Systems, Communications of the ACM, Journal of Creativity and Innovation Management, DataBase, Group Decision and Negotiation, Simulation, and Journal of Simulation Practice and Theory.
+</p>
+<p>
+ Jay F. Nunamaker Jr. is Regents and Soldwedel Professor of MIS, Computer Science and Communication, and Director of the Center for the Management of Information at the University of Arizona, Tucson. Dr. Nunamaker received the LEO Award from the Association of Information Systems at ICIS in Barcelona, Spain, December 2002. This award is given for a lifetime of exceptional achievement in information systems. He was elected as a fellow of the Association of Information Systems in 2000. Dr. Nunamaker has over 40 years of experience in examining, analyzing, designing, testing, evaluating, and developing information systems. He has served as a test engineer at the Shippingport Atomic Power facility, as a member of the ISDOS team at the University of Michigan, and as a member of the faculty at Purdue University, prior to joining the faculty at the University  of Arizona in 1974. His research on group support systems addresses behavioral as well as engineering issues and focuses on theory as well as implementation. Dr. Nunamaker received his Ph.D. in systems engineering and operations research from Case Institute of Technology, an M.S. and B.S. in engineering from the University of Pittsburgh, and a B.S. from Carnegie Mellon University. He has been a licensed professional engineer since 1965.
+</p>
+<p>
+ Ralph H. Sprague Jr. is a Professor and Chairman of the Department of Information Technology in the College of Business at the University of Hawaii. He has over 30 years of experience in teaching, research, and consulting in the use of computer and information technologies in organizations. His specialties are decision support systems, strategic systems planning, the management of information systems, and electronic document management. He has served as chairman or cochairman of the Hawaii International Conference on System Sciences for the past 25 years.
+</p>
+<p>
+ What information consumes is rather obvious: It consumes the attention of its recipients . . . Human attention is the scarcest resource.
+</p>
+<p>
+ &#8212;Herbert A. Simon, economist, Nobel Prize winner
+</p>
+<p>
+ The digital age has given us access to a wealth of information. With those riches come at least two critical questions: (1) How do we assure the permanence of our valuable digital archives? and (2) How can users sift the information they need from the vast ocean of information available to them? This special issue on context-driven information access and deployment takes on both of those questions. Each of the papers in this issue was nominated for a best-paper award in the Hawaii International Conference on System Sciences.
+</p>
+<p>
+ The first paper in this issue addresses the question of permanence. Alan R. Heminger and Don M. Kelley address concerns about the permanent loss of valuable data stored in digital archives when the means and methods used to retrieve the bitstream become obsolete. In their paper, &#8220;Assessing the Digital Rosetta Stone Model for Long-Term Access to Digital Documents,&#8221; the authors report the results of a Delphi assessment among subject-matter experts of the Digital Rosetta Stone, a conceptual model for capturing and maintaining the methods necessary to retrieve digital information stored on obsolete media and to properly interpret it after the software used to create it may also be obsolete. The paper reveals limitations and concerns about the model, and calls us to action with respect to this critically important topic.
+</p>
+<p>
+ The next two papers offer novel approaches to improving information access on the World Wide Web. Weiguo Fan, Michael D. Gordon, and Praveen Pathak offer a new approach to using genetic algorithms to rank order the results of a Web search in their paper, &#8220;Genetic Programming-Based Discovery of Ranking Functions for Effective Web Search.&#8221; The approach exploits both structure and content information from the Web. Their research suggests that the new algorithm outperformed several other well-known ranking algorithms.
+</p>
+<p>
+ In their paper, &#8220;A Visual Framework for Knowledge Discovery on the Web: An Empirical Study of Business Intelligence Exploration,&#8221; Wingyan Chung, Hsinchun Chen, and Jay F. Nunamaker Jr. propose two new algorithms for reducing information overload among people seeking information on the Web. They report the results of empirical experiments that compare the new algorithms with conventional Web search mechanisms, and demonstrate the relative merits of each approach.
+</p>
+<p>
+ The final three papers in this issue address issues of information access and deployment within specific  information-intensive domains. Two of them seek to improve the lot of cancer patients. The paper, &#8220;Data Mining with Combined Use of Optimization Techniques and Self-Organizing Maps for Improving Risk Grouping Rules: Application to Prostate Cancer Patients,&#8221; by Leonid Churilov, Adyl Bagirov, Daniel Schwartz, Kate Smith, and Michael Dally, reports on a new approach that improves on previous methods for assigning prostate cancer patients to homogenous groups to support clinical treatment decisions. The correct classification of risk informs choices about whether or not to apply invasive therapies, which often bring multiple serious side effects. The improvement in risk classification afforded by this new approach may have a direct effect on the length and quality of life for cancer patients.
+</p>
+<p>
+ Jan Marco Leimeister, Winfried Ebner, and Helmut Krcmar report on field studies to analyze the information and interaction needs of cancer patients, and then describe the creation of a pilot mobile virtual community for cancer patients in Germany in their paper, &#8220;Design, Implementation, and Evaluation of Trust-Supporting Components in Virtual Communities for Patients.&#8221; The paper highlights the unique requirements of health-related virtual community systems, with a particular focus on aspects relating to trust that may not be as important in other kinds of virtual communities. The paper discusses social, technical, and economic factors required to create a stable, highly involving virtual community.
+</p>
+<p>
+ The paper, &#8220;Negotiation in Technology Landscapes: An Actor-Issue Analysis,&#8221; by Samuel Bendahan, Giovanni Camponovo, Jean-S&#233;bastien Monzani, and Yves Pigneur propose a new model for supporting stakeholders in large-scale negotiations in environments of high complexity and uncertainty, and then detail a new system based on that model. The system includes new visualization tools for analyzing negotiation outcomes, representing negotiation landscapes, and applying what-if simulations using passive influence, expected outcome and dissatisfaction, power distribution, proximity, and negotiation maps. The model and its associated tools are illustrated in the application of assessing a public WLAN market.
+</p>
+<p>
+ Each of these papers makes a unique contribution to knowledge in the area of information access and deployment. We commend them to your readings.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

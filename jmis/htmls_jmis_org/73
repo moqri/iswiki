@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/55">    Volume 13 Number 4 1997
+</a> pp. 117-137</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Efficient Selection of Suppliers over the Internet</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/152">Barua, Anitesh,</a>    <a href="/contributors/153">Ravindran, Sury,</a> and     <a href="/contributors/154">Whinston, Andrew B</a>    </div>
+
+<p>ABSTRACT: The Internet has become increasingly important to organizations for certain aspects of electronic commerce. Many organizations have set up Web pages to capture the attention of potential buyers and to develop new business relationships. Others have set up indexing services to provide easy search capabilities to prospective buyers. While the unit search and communication costs have been lowered dramatically by the Internet, the cost of evaluating potential suppliers may still be prohibitive, especially for certain types of products and services. Thus, although the Internet makes it possible to locate a large number of new suppliers, an organizational buyer needs to deploy appropriate supplier-selection strategies (such as sequential evaluation with stopping rules versus bidding systems) that consider all cost elements involved in choosing a vendor. We develop an analytical model that allows a buyer to maximize payoff (net of supplier search, communication, and evaluation costs) from the selection process. We analyze how the nature of the product and the buyer's expectations about supplier characteristics determine whether a sequential evaluation or bidding should be used in the selection process. The Internet, when used in conjunction with the proposed strategies, results in a lower total expected cost to the buyer, even though more suppliers are being evaluated, because a better supplier is selected. We describe how intelligent database searching can further increase the efficiency of the proposed selection strategies. We also develop a minimum requirements announcement mechanism, which makes supplier selection through a bidding strategy economically feasible in situations where legal restrictions may bar the use of sequential evaluation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1007">bidding</a>,    <a href="/keywords/802">electronic shopping</a>,    <a href="/keywords/1008">Internet</a>,    <a href="/keywords/1009">search mechanisms</a>,    <a href="/keywords/1010">sequential evaluation</a>,    <a href="/keywords/1011">supplier selection</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/41">    Volume 30 Number 2 2013
+</a> pp. 159-184</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Competing with Piracy: A Multichannel Sequential Search Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/662">Geng, Xianjun</a> and     <a href="/contributors/663">Lee, Young-Jin</a>    </div>
+
+<p>ABSTRACT: We consider an online market where consumers may obtain digital goods from two mutually exclusive channels: a legitimate channel consisting of many law-abiding retailers and a piracy channel consisting of many piracy services. We analyze consumer choice, retailer strategy, and piracy control using a sequential-search approach where information acquisition is costly for some consumers (nonshoppers), yet costless for others (shoppers). First, we show that a nonshopper's channel choice is determined by a simple comparison of two reservation prices. Second, we analyze how piracy threats affect in-channel pricing among retailers. If the in-channel competition intensity among retailers is high, piracy does not affect retailer pricing. If the intensity is medium, retailers respond to piracy by giving up some shoppers and, surprisingly, raising prices. If the intensity is low, the legitimate channel loses some shoppers as well as some nonshoppers to the piracy channel. Third, we consider several mechanisms for fighting piracy and analyze their effects on firm profit and consumer surplus. Reducing piracy quality and increasing piracy search costs are both effective in controlling piracy, yet they affect consumer surplus differently. Reducing the number of piracy services is less effective in controlling piracy.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3156">channel competition</a>,    <a href="/keywords/3157">digital good</a>,    <a href="/keywords/3158">digital piracy</a>,    <a href="/keywords/2693">price dispersion</a>,    <a href="/keywords/2407">search cost</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/119">    Volume 15 Number 1 1998
+</a> pp. 79-98</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Theoretically Grounded Approach to Assist Memory Recall During Information Requirements Determination</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1159">Moody, Janette W,</a>    <a href="/contributors/1160">Blanton, J Ellis,</a> and     <a href="/contributors/45">Cheney, Paul H</a>    </div>
+
+<p>ABSTRACT: The interview has long been a part of the system professional's repertoire of elicitation techniques, used extensively in both requirements analysis and knowledge acquisition. Unfortunately, although interviewing is a widely recommended elicitation technique, the literature offers little in the way of theoretically grounded support or advice on exactly how the interview should be conducted and what format should be used. This paper reports the findings of a study that compared the efficiency and effectiveness of the cognitive interview with the standard information requirements interview in an experiment using reference librarians as interviewees. The cognitive interview was found to be both more effective and more efficient than standard interviewing techniques in eliciting episodic knowledge from reference librarians. Use of the cognitive interview resulted in a richer recall, in terms of both breadth and depth, of details relevant to the task domain.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1133">cognitive interview</a>,    <a href="/keywords/1134">communication tools</a>,    <a href="/keywords/1135">information requirements determination</a>,    <a href="/keywords/1136">information systems development tools</a>,    <a href="/keywords/1137">interviewing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/39">    Volume 20 Number 3 2003
+</a> pp. 41-69</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Design and Implementation of a Corporate Householding Knowledge Processor to Improve Data Quality</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/783">Madnick, Stuart E,</a>    <a href="/contributors/110">Wang, Richard,</a> and     <a href="/contributors/1085">Xiang, Xian</a>    </div>
+
+<p>ABSTRACT: Advances in corporate householding are needed to address certain categories of data quality problems caused by data misinterpretation. In this paper, we first summarize some of these data quality problems and our more recent results from studying corporate householding applications and knowledge exploration. Then we outline a technical approach to a corporate householding knowledge processor (CHKP) to solve a particularly important type of corporate householding problem--entity aggregation. We illustrate the operation of the CHKP by using a motivational example in account consolidation. Our CHKP design and implementation uses and expands on the COntext INterchange (COIN) technology to manage and process corporate householding knowledge.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1717">context mediation</a>,    <a href="/keywords/1718">corporate household</a>,    <a href="/keywords/1719">corporate householding</a>,    <a href="/keywords/1720">database interoperability</a>,    <a href="/keywords/638">data quality</a>,    <a href="/keywords/1721">enterprise knowledge management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

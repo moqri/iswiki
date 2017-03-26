@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/4">    Volume 6 Number 4 1990
+</a> pp. 123-138</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Choice Models for the Evaluation and Selection of Software Packages</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/50">Anderson, Evan E</a>    </div>
+
+<p>ABSTRACT: Microcomputer users are faced with an increasingly difficult choice problem in the evaluation and selection of software packages. For many reasons, users frequently must rely on expert evaluations of the technical functions and features of packages. This paper explores the extent to which multi-attribute choice models are capable of extracting the information content of performance ratings. Five choice models are applied to the expert ratings of software packages in the following areas: word processing, database management systems, and spreadsheet and financial planning. The evaluations and selections made under each model are compared for each software type, and guidelines are suggested for choosing between choice strategies for software evaluation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/404">software selection</a>,    <a href="/keywords/405">choice models</a>,    <a href="/keywords/406">decision theory</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

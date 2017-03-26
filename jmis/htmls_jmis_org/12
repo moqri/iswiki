@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/5">    Volume 4 Number 2 1987
+</a> pp. 34-44</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Assessing Data Reliability in an Information System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/19">Agmon, Nachman</a> and     <a href="/contributors/20">Ahituv, Niv</a>    </div>
+
+<p>ABSTRACT: Information is valuable if it derives from reliable data. However, measurements for data reliability have not been widely established in the area of information systems (IS). This paper attempts to draw some concepts of reliability from the field of quality control and to apply them to IS. The paper develops three measurements for data reliability: internal reliability--reflects the "commonly accepted" characteristics of various data items; relative reliability--indicates compliance of data to user requirements; and absolute reliability--determines the level of resemblance of data items to reality. The relationships between the three measurements are discussed, and the results of a field study are displayed and analyzed. The results provide some insightful information on the "shape" of the database that was inspected, as well as on the degree of rationality of some user requirements. General conclusions and avenues for future research are suggested.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/227">data reliability</a>,    <a href="/keywords/228">quality control of information systems</a>,    <a href="/keywords/229">data validity</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

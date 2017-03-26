@@ -1,0 +1,85 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/40">    Volume 26 Number 3 2009
+</a> pp. 5-7</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ Editorial Introduction
+</p>
+<p>
+ After several decades of developing information systems (IS), we are still learning and we still have a lot to learn about the product and the process of development. The 2009 Standish Group&#8217;s CHAOS report showed that, on the annual basis, only 32 percent of IS projects fully succeeded by having delivered on time, within the budget, and with the required functions and features, while 24 percent of the projects were failures--canceled, or with products delivered and not used [1]. Project governance and management have a lot do with these outcomes. The need to control the projects under a great diversity of sources for system provisioning, from outsourcing to the assimilation of open source software, is a complicating factor. In the first paper of the issue, Amrit Tiwana and Mark Keil present the results of their empirical investigation of the project control used in internal versus outsourced projects and relate these controls to project outcomes. The authors are able to offer a highly nuanced view of control effectiveness, quite remote from that of "control is good" or "autonomy is best" slogans. Grounded theoretically, the work gathers several strands in IS project-control literature into a coherent picture of such control and outlines the directions for further refinement.
+</p>
+<p>
+ Two following contributions to the issue study empirically the phenomena arising from the active participation of consumers in e&#8209;E-E-E-commerce. Called collectively co&#8209;production, these activities are opening the boundaries of contemporary organizations and changing their internal operation and corporate innovation. Crowdsourcing is in, but its methods have to be adapted to corporate needs and truly brought in to enhance corporate processes. In the first of the papers, Li Chen, Paulo Goes, James R. Marsden, and Zhongju Zhang investigate the deployment of internal preference markets for new product development. They use a field experiment in a major company as their research method. The authors focus on the effectiveness of--quite modest--incentives in obtaining superior results through such means as identifying promising emerging technologies for a given corporate context. The authors&#8217; findings contribute both to our understanding of market operations and to the pragmatics of the deployment of this innovative technique for corporate innovation.
+</p>
+<p>
+ With the Internet-Web compound as a powerful means of communication and collaboration, consumers are being drawn into the corporate processes of creating new products. We are just beginning to generalize and theorize from this recent and evolving experience. Johann F&#252;ller, Hans M&#252;hlbacher, Kurt Matzler, and Gregor Jawecki base their work on an extensive data set on consumers who have participated in virtual co-creation. The authors build a model of perceived consumer enjoyment and empowerment, perceptions that should lead consumers to participate in future co-creation projects. As an emerging mode of production, co&#8209;production will certainly evolve as it is supported by ever new approaches, incentives, and tools. If not properly supported and channeled, it may also wither away. This work, and the future research the present authors outline, is important in preventing such an outcome--and in gaining enhanced understanding of active consumption.
+</p>
+<p>
+ In our knowledge society, intellectual property--such as software patents--is a weighty contributor to the capital portfolio of many firms and a potential source of information technology (IT)-based competitive advantage. Software-patent policy is also controversial, with its very raison d&#8217;&#234;tre questioned from its very origins. Further evolution of this policy should serve the society at large, while fostering innovation. In a formal economic analysis within a duopolistic setting, Matt E. Thatcher and David&#160;E. Pingry arrive at the socially optimal policy for patent duration, along with the requirements for obtaining a patent, and the scope of pattern protection. The authors are able to determine the pragmatic advantages of such a policy, while also identifying its drawbacks for research investments. This is a broad foundation for the interpretation of the empirics and for further research.
+</p>
+<p>
+ E&#8209;E-E-E-commerce development, and the consumer intimacy required for effective location-based and contextual m&#8209;E-E-E-commerce in particular, continues to challenge our expectations of privacy. With its essential property of universal cheap access and the anywhere added to the anytime, m&#8209;E-E-E-commerce is now rapidly becoming the driver of e&#8209;E-E-E-commerce. There are three essential ways to approach the privacy of users/consumers: government regulation, self-regulation by industry, and compensation for surrendering some privacy rights (in the countries where such a surrender is legal). Here, Heng Xu, Hock&#8209;Hai Teo, Bernard C.Y. Tan, and Ritu Agarwal use a quasi-experiment to study individuals&#8217; privacy calculus in their intention to disclose private information under the two essential information delivery mechanisms--push and pull. Grounded in the procedural and distributive justice theories, the results help us--the researchers and the practitioners--to discriminate among the efficacy of the three privacy intervention methods. Practitioners, in particular, will gain by learning the results regarding the compensation for location-based E-E-E-commerce in the push mode.
+</p>
+<p>
+ E&#8209;E-E-E-commerce has brought trust into the realm of central concerns of IS research. This journal has published a special issue devoted to trust in online environments, and we continue to receive numerous submissions on the subject. In the present issue, Dongmin Kim and Izak Benbasat deploy a rich theoretical perspective to contribute to the emerging theory of trust in e&#8209;E-E-E-commerce. In an empirical study, the researchers investigate the impact of trust-assuring arguments provided on an electronic storefront as moderated by the price level of the product. Dichotomized in both source and content, the arguments fall into one of four possible categories, and the effect of price is nuanced, with some of the theoretically based expectations gainsaid. The practical significance of the results is clear, as is the contribution by our field to the general trust research.
+</p>
+<p>
+ Two further papers in the issue apply formal methods of economics to nodal questions of the present IS environment. "Free" is a mantra of Internet-based E-E-E-commerce in the domain of digital products, underwritten by the negligible variable costs. "Free" is clearly not a complete business model. It is a means of marketing paid-for products by the supplier or by a third party. Here, Zhengrui Jiang and Sumit Sarkar study how an offer of a fully functional software product influences software diffusion. The authors&#8217; findings show that under certain circumstances such an offer can significantly accelerate the diffusion process and is preferable to the alternative marketing means under the conditions the authors determine. The authors offer suggestions for the implementation of such a stimulation of diffusion, with the subsequent monetization.
+</p>
+<p>
+ Formal economic modeling and analysis have been used extensively to study investments in IS security. Here, Marco Cremonini and Dmitri Nizovtsev provide a game-theoretic analysis in a setting of the interaction between the attackers and the defenders of the system. The authors endogenize the level of attack effort, as well as the information flows between the two parties. Indeed, signaling high security levels is a principal method of defense. The results are general within a broad scope of application. The work opens a new line of research on deterrence based on a strategic control of information disclosure to the attackers. The methods of information disclosure and signaling will certainly be researched in the future.
+</p>
+<p>
+ Auction theory, like trust theory, has seen both extensive use and contributions by our field since the advent of e&#8209;E-E-E-commerce. In the concluding paper of the issue, Subhajyoti Bandyopadhyay and Seema Bandyopadhyay use multiple methods of inquiry to study speed prediction in online bidding. Using theoretically motivated formal modeling, with a confirmatory simulation experiment, the researchers obtain a parameterized predictive model that allows us to estimate the time needed to reach various price levels in an online auction. This is clearly of value to the auction companies, particularly as they are at present in need to enhance their business models. Price evolution in auction settings is an important area of study in its own right.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p>
+<p>
+ Reference
+</p>
+<p>
+ 1. New CHAOS numbers show startling results. Standish Group, Boston, April 23, 2009 (available at http://www1.standishgroup.com/newsroom/chaos_2009.php).
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/115">    Volume 1 Number 3 1984
+</a> pp. 64-104</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>PLEXSYS-84: An Integrated Development Environment for Informational Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/58">Konsynski, Benn R,</a>    <a href="/contributors/946">Kottemann, Jeffrey E,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/947">Stott, Jack W</a>    </div>
+
+<p>ABSTRACT: Integrated Development Environments (IDES) are presented as a unified set of information system development concepts, techniques, and computer-aided tools. An IDE consists of both a complete and unified development methodology and set of computer aids that support use of the methodology. The need for IDES and their characteristics are reviewed. The PLEXSYS-84 IDE is reviewed in relation to these needs and characteristics. Techniques and tools which extend the initial work are placed within the original PLEXSYS-84 framework and are described in some detail.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/52">automation of system development</a>,    <a href="/keywords/53">tools for system development</a>,    <a href="/keywords/54">integrated development environments</a>,    <a href="/keywords/55">system development methodologies</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

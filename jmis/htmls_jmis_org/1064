@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/100">    Volume 30 Number 1 2013
+</a> pp. 123-152</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Managing Interdependent Information Security Risks: Cyberinsurance, Managed Security Services, and Risk Pooling Arrangements</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1621">Zhao, Xia,</a>    <a href="/contributors/1618">Xue, Ling,</a> and     <a href="/contributors/154">Whinston, Andrew B</a>    </div>
+
+<p>ABSTRACT: The interdependency of information security risks often induces firms to invest inefficiently in information technology security management. Cyberinsurance has been proposed as a promising solution to help firms optimize security spending. However, cyberinsurance is ineffective in addressing the investment inefficiency caused by risk interdependency. In this paper, we examine two alternative risk management approaches: risk pooling arrangements (RPAs) and managed security services (MSSs). We show that firms can use an RPA as a complement to cyberinsurance to address the overinvestment issue caused by negative externalities of security investments; however, the adoption of an RPA is not incentive-compatible for firms when the security investments generate positive externalities. We then show that the MSS provider serving multiple firms can internalize the externalities of security investments and mitigate the security investment inefficiency. As a result of risk interdependency, collective outsourcing arises as an equilibrium only when the total number of firms is small.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3103">cyberinsurance</a>,    <a href="/keywords/2271">information security</a>,    <a href="/keywords/3104">interdependent risks</a>,    <a href="/keywords/3105">managed security services</a>,    <a href="/keywords/479">risk management</a>,    <a href="/keywords/3106">risk pooling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/83">    Volume 19 Number 3 2002
+</a> pp. 69-86</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Market Segmentation and Information Development Costs in a Two-Tiered Fee-Based and Sponsorship-Based Web Site</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/842">Riggins, Frederick J</a>    </div>
+
+<p>ABSTRACT: We develop an analytical model of a separating equilibrium for a two-tier fee-based and sponsorship-based information Web site. We examine the monopolist's choice of content quality and price for a fee-based site targeted at high-type consumers and the content quality level for a sponsored site offered free to all consumers. We show how a reduction in the potential for advertising revenues results in lower content quality on the free site, but permits the seller to raise the fee charged to high-type consumers. We also show how differences in consumer tolerances to ads affects content quality, banner ad volume, and usage fees. In particular, the seller can increase profits by making ads more attractive to either high- or low-type consumers, but rarely both at the same time. We show the conditions that determine which consumer segment the seller should seek to improve ad relevancy.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1611">information Web sites</a>,    <a href="/keywords/1612">online market segmentation</a>,    <a href="/keywords/1613">product cannibalization</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

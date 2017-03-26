@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/95">    Volume 14 Number 2 1997
+</a> pp. 33-56</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Competing in Information-Intensive Services: Analyzing the Impact of Task Consolidation and Employee Empowerment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/83">Seidmann, Abraham</a> and     <a href="/contributors/1368">Sundararajan, Arun</a>    </div>
+
+<p>ABSTRACT: We analyze the competitive and economic implications of information technology, the allocation of decision nights, and task bundling during business process reengineering. The popular reengineering literature advocates employee empowerment-decentralizing decision authority and consolidating tasks as complementary strategies. Our analysis reveals, however, that implementing these two changes simultaneously is suboptimal in many cases. Decentralization and consolidation decisions can occur separately or together; the optimal combination depends on the effectiveness of technology aimed at skill enhancement and the customers' sensitivity to time and quality. We identify those process parameters that can cause decentralization and consolidation to have opposite effects on process performance; we also point to other parameters, such as customer-to-customer variability, which can cause them to complement one another. Finally, we explain why, in a time-based competitive marketplace, firms are more likely to centralize their decision-making process while concentrating their information technology investments on enhancing productivity and intraorganizational communications.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/831">business process reengineering</a>,    <a href="/keywords/841">business process redesign</a>,    <a href="/keywords/1049">case manager</a>,    <a href="/keywords/603">decentralization</a>,    <a href="/keywords/1050">economics of information systems</a>,    <a href="/keywords/1051">mass customization</a>,    <a href="/keywords/352">queuing</a>,    <a href="/keywords/1052">strategic and competitive information systems</a>,    <a href="/keywords/1053">triage</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/60">    Volume 19 Number 2 2002
+</a> pp. 7-42</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Shareholder-Wealth and Trading-Volume Effects of Information-Technology Infrastructure Investments</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/327">Chatterjee, Debabroto,</a>    <a href="/contributors/328">Pacini, Carl,</a> and     <a href="/contributors/329">Sambamurthy, V</a>    </div>
+
+<p>ABSTRACT: Despite the rising tide of investments in information technologies (IT) infrastructures, empirical evidence about the effects of such investment moves is scarce. Stock market investors provide one appropriate perspective on the value-creation and growth potential of IT infrastructure investments through their reactions to specific IT infrastructure investment moves by business firms. This research utilizes the event-study analysis approach to examine if IT infrastructure investments are associated with significantly positive abnormal stock market returns and rises in trading volume when firms announce such investments. Drawing upon a sample of IT infrastructure announcements in the early 1990s, this research finds significant evidence that positive abnormal returns and increased trading volume are associated with IT infrastructure investment announcements. Further, when such investments are contrasted with investments in IT applications, evidence exists that infrastructure investments generate greater excess returns and a larger increase in trading volume than applications investments do. The evidence provides empirical support for the potential of IT infrastructure investments to be perceived as a platform for growth and revenue generation opportunities in contemporary business firms.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1584">event study</a>,    <a href="/keywords/1585">investment announcements</a>,    <a href="/keywords/867">information technology infrastructure</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

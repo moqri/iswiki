@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/2">    Volume 6 Number 1 1989
+</a> pp. 5-20</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Effect of Human-Computer Interchange Protocol on Decision Performance</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/724">Hale, David P</a> and     <a href="/contributors/725">Kasper, George M</a>    </div>
+
+<p>ABSTRACT: The concept of a collaborative human-computer interchange was proposed almost thirty years ago. The goal of this paradigm is to design human-computer decision-making systems that think and process information at a level exceeding that of either the human or the computer alone. Technological and conceptual developments have made this holistic partnership increasingly possible. Moreover, recent discussions of human-computer collaborative work have highlighted the system performance advantages of this interchange. In this paper, the notion of human-computer interchange protocols is developed and the importance of these protocols to human-computer collaboration and system performance is argued. Based on data collected in a laboratory setting, empirical support for the proposed holistic effect of human-computer interchange protocols on system performance is provided. Decision performance is significantly improved by interchange protocols that encourage human-computer interaction during the problem-solving process.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/333">human-computer interchange protocols</a>,    <a href="/keywords/334">collaborative human-computer systems</a>,    <a href="/keywords/335">cooperative human-computer systems</a>,    <a href="/keywords/336">human-computer interaction</a>,    <a href="/keywords/337">human-computer interface design</a>,    <a href="/keywords/338">decision performance</a>,    <a href="/keywords/39">decision support systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

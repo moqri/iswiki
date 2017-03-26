@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/38">    Volume 16 Number 1 1999
+</a> pp. 165-188</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Effect of Computer-Mediated Communication on Agreement and Acceptance</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/885">Kahai, Surinder S</a> and     <a href="/contributors/886">Cooper, Randolph B</a>    </div>
+
+<p>ABSTRACT: This study develops and tests a model of relationships among computer-mediated communication systems (CMCS), group processes, and group outcomes. The group outcomes examined are agreement and acceptance. Agreement is the extent to which members of a problem-solving group hold similar views and solutions about the problem at the end of their task. Acceptance is the extent to which members of a problem-solving group acquiesce to the views and solutions of other members, while holding reservations about those views and solutions. The distinction between agreement and acceptance is important because members in agreement are more likely to support the implementation of their solution than are those who merely accept the solution. Based on a laboratory experiment, the authors find that socioemotional communication (both positive--showing friendliness and supportiveness--and negative---showing hostility and rejection) as well as task-oriented communication play important mediating roles between CMCS use and acceptance and agreement. The findings suggest ways to promote agreement through management intervention and CMCS design. In addition, their findings suggest some intriguing avenues for further research, such as the lack of symmetry between the effects of positive and negative socioemotional communication.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1234">acceptance</a>,    <a href="/keywords/1235">agreement</a>,    <a href="/keywords/264">computer-mediated communication systems</a>,    <a href="/keywords/1177">electronic meeting systems technology adoption</a>,    <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/417">group performance</a>,    <a href="/keywords/1236">group processes</a>,    <a href="/keywords/1237">negotiation tasks</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

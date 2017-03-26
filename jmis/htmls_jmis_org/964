@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/98">    Volume 5 Number 2 1988
+</a> pp. 99-108</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Quality of User Documentation: An Instrument Validation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/526">Torkzadeh, Gholamreza</a>    </div>
+
+<p>ABSTRACT: User documentation is an important tool for communication. It enhances the value of an application to the user and, in turn, improves user satisfaction. The impact of user documentation is even more considerable since interest in end-user computing is booming. Yet, there are very few practical managerial tools for measuring the quality of user documentation. This article examines two alternative forms of an instrument for measuring user perceptions of the quality of user documentation. The reliability and validity of these instruments are examined. Using a survey of 618 end-users from 44 firms, the author cross validates this instrument, conducts a factor analysis, and assesses the construct validity of the instrument. Furthermore, the reliability and validity of the instrument is assessed by nature and type of application. The results indicate a strong support for the instrument. With these instruments, management can more easily monitor and control the condition of their firm's user documentation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/297">documentation</a>,    <a href="/keywords/298">user documentation</a>,    <a href="/keywords/123">user satisfaction</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/91">    Volume 7 Number 3 1990
+</a> pp. 107-135</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Comparison of Laboratory and Field Research in the Study of Electronic Meeting Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/239">Dennis, Alan R,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/459">Vogel, Douglas R</a>    </div>
+
+<p>ABSTRACT: Research into the use of Electronic Meeting Systems (EMS) has rapidly increased over the past few years. However, EMS laboratory experiments have often drawn very different conclusions about the effects of EMS use than have EMS field studies--conclusions that at first appear inconsistent. By examining the differences in the design of prior EMS studies, we attempt to better understand the factors that affect the use of EMS technology. It is our contention that these differences in findings are not inconsistent, but rather they reflect different situations that researchers have studied. We identify 24 potentially important differences in organizational contexts, group characteristics, tasks, and EMS environments. In planning future research, EMS researchers need to make explicit design decisions for each of these aspects, and to consider how those choices may affect research results. An analysis of these differences suggests several approaches to enhance the design of future laboratory experiments and field studies.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/415">electronic meeting systems</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/445">research methodologies</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/117">    Volume 11 Number 1 1994
+</a> pp. 131-140</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Business Computing Research Journals: A Normalized Citation Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/776">Holsapple, Clyde W,</a>    <a href="/contributors/777">Johnson, Linda Ellis,</a>    <a href="/contributors/778">Manakyan, Herman,</a> and     <a href="/contributors/1413">Tanner, John R</a>    </div>
+
+<p>ABSTRACT: Several studies have been conducted that rank the relative importance of journals publishing MIS research. Yet the study of business computing systems has grown to encompass not only management information systems, but other business computing systems as well (e.g., decision support systems and business expert systems). In a recent study, journals publishing business computing system research were ranked using a citation analysis methodology. This article extends that study by taking into account the number of years each journal has been published. This normalized ranking scheme is then compared with the original ranking.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/750">business computing research</a>,    <a href="/keywords/751">citation analysis</a>,    <a href="/keywords/532">MIS journals</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

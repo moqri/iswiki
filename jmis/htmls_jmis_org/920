@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/98">    Volume 5 Number 2 1988
+</a> pp. 83-97</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Exploratory Results of a Factor Analysis of Strategic Information: Implications for Strategic Systems Planning</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1460">Szewczak, Edward J</a>    </div>
+
+<p>ABSTRACT: The usefulness of strategic decision support systems (SDSSs) has been a highly discussed, yet under-investigated issue. This paper attempts to help fill the gap between available subjective/argumentative theory and the necessary empirical evidence to evaluate and implement existing claims and design methodologies. An empirical study is described that explicitly focused on the usefulness of information in a strategic decision-making context. Factor analysis was employed in the derivation of five orthogonal dimensions of the usefulness of strategic information. The results suggest that strategic systems planning [20] may be preferable to historical, traditional approaches to providing useful information to strategic decision makers in a SDSS context. A research agenda is discussed that suggests avenues for studying strategic systems planning in the context of various planning processes contributing to SDSS development, of knowledge-based SDSSs, and of strategic expert systems.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/295">strategic information</a>,    <a href="/keywords/296">strategic systems planning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/129">    Volume 32 Number 4 2015
+</a> pp. 40-77</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Platform Desertion by App Developers</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1498">Tiwana, Amrit</a>    </div>
+
+<p>ABSTRACT: 
+<p>Platform desertion, or a developer’s stopping the development of an app for a platform, is a widespread phenomenon to the detriment of platforms. However, the extant literature focuses primarily on why app developers join—not leave—a platform. This app-level study develops two ideas: (a) coordination costs borne by an app’s developer are associated with platform desertion, and (b) these costs are, in turn, shaped by a nuanced interplay between app decision rights and app “microarchitecture” introduced here. We use survey and snapshot archival data spanning 2009–2014 on over 300 apps in the Mozilla Firefox ecosystem to test these ideas. Our novel contribution shows how, by influencing coordination costs, the previously invisible interplay between app decision rights and app microarchitecture shapes an app’s platform desertion. We find that delegating app decision rights to its developer weakens the coordination cost-reducing benefits of decoupling an app from the platform but strengthens those of standardizing its interfaces to the platform. The key theoretical implication is that app decision rights and app microarchitecture symbiotically influence the coordination costs borne by an app’s developer. The key practical implication for platform designers is that the choices about who ought to make what decisions are intertwined with the architecture of the governed information technology artifact.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3589">app developers</a>,    <a href="/keywords/3322">apps</a>,    <a href="/keywords/3590">architecture</a>,    <a href="/keywords/3591">coordination cost</a>,    <a href="/keywords/3592">decision rights</a>,    <a href="/keywords/3593">ecosystems</a>,    <a href="/keywords/3401">mobile apps</a>,    <a href="/keywords/2614">modularity</a>,    <a href="/keywords/3594">platforms</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

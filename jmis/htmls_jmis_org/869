@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/119">    Volume 15 Number 1 1998
+</a> pp. 51-78</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Relevance of Application Domain Knowledge: Characterizing the Computer Program Comprehension Process</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1374">Shaft, Teresa M</a> and     <a href="/contributors/1375">Vessey, Iris</a>    </div>
+
+<p>ABSTRACT: Recent research using professional programmers suggests that knowledge of the application domain plays a major role in the cognitive processes they use to understand computer programs. In general, programmers use a more topdown comprehension process when working in familiar application domains, and a more bottom-up process in unfamiliar domains. The present study builds on that research by further characterizing comprehension processes. The findings show that: (1) certain programmers use different types of comprehension processes depending on their familiarity with the application domain (flexible approach), while others do not (top-down and bottom-up approaches); (2) familiarity with the application domain and the use of a particular comprehension process have marked effects on references programmers make to both application and programming domain knowledge; and (3) programmers who use a flexible comprehension process achieved the highest levels of comprehension. The present research also examines some cognitive determinants of the comprehension process. The findings highlight the need to consider application, as well as programming, domain knowledge as areas of computer programming expertise, to investigate factors influencing use of specific comprehension processes, and to develop tools to support flexible comprehension processes.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1128">application domain</a>,    <a href="/keywords/1129">computer program comprehension</a>,    <a href="/keywords/1130">metacognition</a>,    <a href="/keywords/1131">program understanding</a>,    <a href="/keywords/1132">system maintenance</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

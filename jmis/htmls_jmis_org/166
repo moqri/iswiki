@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/86">    Volume 22 Number 1 2005
+</a> pp. 355-377</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Examining the Role of &quot;Free&quot; Product-Augmenting Online Services in Pricing and Customer Retention Strategies</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/334">Chellappa, Ramnath K</a> and     <a href="/contributors/335">Kumar, K Ravi</a>    </div>
+
+<p>ABSTRACT: As products on the Web are continually enhanced through "free" Web based services that add to the product purchase experience, it is important to understand how these free services may affect pricing and customer retention strategies of an online vendor. This paper argues that product competition on the Web is not for generic products but, rather, for expected and augmented product bundles. Our findings point out that even in the absence of price premiums, variance in the ability to after online services can affect pricing strategies and possibly contribute to online price dispersion. We then go on to suggest that online services affect a vendor's customer retention strategy as they influence the design of the augmented product. We characterize an online vendor's selection of augmenting services as a knapsack problem, and recommend that the online vendor should not only periodically reevaluate the set of services offered to satisfy the expected product requirements, but also assess the customer retention ability of his augmented product. A service does not contribute to customer retention when it has either lost its value to the customer or become required as a part of the expected product. Our solution recommends that a vendor should include new services based on the cost-to-value ratio of each service so as to remain above the loyalty threshold of a consumer. The results from our model partially explain the variety in product offerings of many online vendors, whose competency in providing Web-based services allows them to vary the generic product.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1940">consumer loyalty</a>,    <a href="/keywords/1941">customer retention</a>,    <a href="/keywords/102">knapsack problem</a>,    <a href="/keywords/1942">online pricing</a>,    <a href="/keywords/1943">online services</a>,    <a href="/keywords/1944">product augmentation</a>,    <a href="/keywords/1945">switching behavior</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

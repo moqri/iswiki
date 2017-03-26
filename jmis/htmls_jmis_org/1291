@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/131">    Volume 33 Number 2 2016
+</a> pp. 393-420</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Computer-Mediated Deception: Strategies Revealed by Language-Action Cues in Spontaneous Communication</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1838">Ho, Shuyuan Mary,</a>    <a href="/contributors/1839">Hancock, Jeffrey T,</a>    <a href="/contributors/1840">Booth, Cheryl,</a> and     <a href="/contributors/1841">Liu, Xiuwen</a>    </div>
+
+<p>ABSTRACT: 
+<p>Computer-mediated deception threatens the security of online users’ private and personal information. Previous research confirms that humans are bad lie detectors, while demonstrating that certain observable linguistic features can provide crucial cues to detect deception. We designed and conducted an experiment that creates spontaneous deception scenarios in an interactive online game environment. Logistic regression, and certain classification methodologies were applied to analyzing data collected during fall 2014 through spring 2015. Our findings suggest that certain language-action cues (e.g., cognitive load, affective process, latency, and wordiness) reveal patterns of information behavior manifested by deceivers in spontaneous online communication. Moreover, computational approaches to analyzing these language-action cues can provide significant accuracy in detecting computer-mediated deception.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3678">computer-mediated communication</a>,    <a href="/keywords/2667">computer-mediated deception</a>,    <a href="/keywords/1755">deception detection</a>,    <a href="/keywords/3679">deceptive communications</a>,    <a href="/keywords/3483">human–computer interaction</a>,    <a href="/keywords/2670">interpersonal deception theory</a>,    <a href="/keywords/3680">language-action cues</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

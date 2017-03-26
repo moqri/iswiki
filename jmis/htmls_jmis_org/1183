@@ -1,0 +1,65 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/122">    Volume 31 Number 1 2014
+</a> pp. 5-12</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>TWO SPECIAL SECTIONS OPEN THIS FIRST ISSUE OF OUR THIRTY-FIRST VOLUME. The first, guest edited by James J. Jiang and Gary Klein, contains three papers on information technology (IT) project management. As we all know, the rubber hits the road at the project level, and the execution of corporate strategy and tactics under the conditions of rapid change places high demands on skillful project management. The authors' work ranges from the project transitions of IT professionals to the team coordination on a project, and on to achieving organizational goals with programs consisting of multiple IT projects. Methodological richness of the section should be noted. The Guest Editors further introduce the subject and the content of the Special Section.</p>
+<p></p>
+<p>The Special Section titled "Information Systems Support for Shared Understanding," guest edited by Robert O. Briggs, brings together three papers that focus on using information systems (IS) in the creation of shared understanding as a prerequisite to the coordination of effort. Clearly, aspects of this Special Section are a natural complement to the preceding one. The subjects range from the empirics of using a collaboration-process module in creating such an understanding in heterogeneous work groups (read: the usual type of groups today) through the effects of social networking on surfacing results in a prediction market, on to the design of a system for real- time credibility assessment, a sure help in seeking common ground. This section is also notable for three different methodological commitments of its authors, whose work will be introduced by the guest rditor.</p>
+<p></p>
+<p>In the first paper of the general section, Robert G. Fichman and Nigel P. Melville identify and study empirically a key obstacle to the organizational success with IT innovation, namely a misalignment between a firm's IT innovation posture and its IT resource profile. The authors postulate-and confirm empirically-that such a misalignment will substantially diminish organizational performance resulting from an attempt at innovation. Thus, for example, a firm that pursues an aggressive IT innovation strategy without an endowment of human and organizational resources will meet with more limited success than a firm that matches its intended reach with the complement of its resources. The authors deploy a large dataset to show how the returns to innovation depend on the alignment between the posture and the resource profile.</p>
+<p></p>
+<p>The preconditions for another form of alignment are studied empirically by the authors of the next paper, Heinz-Theo Wagner, Daniel Beimborn, and Tim Weitzel. The authors focus on the business-IT alignment on the operational level and its influence on organizational performance. Their specific contribution here is to conceptualize the antecedents of this alignment in the light of social capital theory with its three dimensions (structural, cognitive, and relational). As the authors show empirically, social capital has to be built up among the business and IT units of a firm to achieve the alignment on the operational level. This perspective allows the authors to provide a significant novel contribution to our comprehension of the long-vaunted alignment. Indeed, the "shared understanding" analyzed in the above Special Section of the issue is a component of the cognitive dimension of the social capital required to achieve the alignment.</p>
+<p></p>
+<p>Innovation contests are a growing aspect of co-creation of value between firms and the communities of their stakeholders. In this form of open innovation, the stakeholders may be primarily characterized as consumers, or users, or enthusiasts. The communities may be autonomous, organized and controlled by these outsiders, or sponsored by a firm. Here, Johann Füller, Katja Hutter, Julia Hautz, and Kurt Matzler present a typology of these users. With social network and cluster analyses, the authors empirically identify six roles the users may play in the community. As we are learning to deploy IT to stimulate open innovation, this research will help us to provide the support and incentives the different categories of contributors need. The paper also adds to our understanding of the hybrid structures that emerge from the technology-supported competition and cooperation of online community members.</p>
+<p></p>
+<p>In our current and future environment of the growing capabilities of computers in the cognitive domain, the apportionment of work between people and machine-based systems has become a central concern. Indeed, it behooves our field to foster systems that bring out the best in humans in cooperation with the other parts of IS. The concluding paper of the issue, by Niek Althuizen and Berend Wierenga, investigates the outcomes of the support of creative problem solving by individuals with a case-based reasoning (CBR) system. CBR is one of the principal technologies that may be deployed to create the technological component of an organizational memory information system (OMIS). The-highly interesting-results obtained by the authors show that the effects of the CBR support are contingent on the type of the individual supported and on the proximity of the cases to the problem domain. The detailed nuanced results presented by the authors challenge some of the established tenets creative cognition theory and are of importance to the practical work apportionment.</p>
+<p></p>
+<p>With the new volume, and the new decade, of JMIS it is my privilege to acknowledge the contribution of our referees, the primary guarantors of the Journal?'s quality. Here are their names:</p>
+<p></p>
+<p>[Omitted for brevity]</p>
+<p></p>
+<p>Let us proceed to the works in this issue.</p>
+<p></p>
+<p>Vladimir Zwass</p>
+<p></p>
+<p>Editor-in-Chief</p>
+</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

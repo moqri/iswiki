@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/70">    Volume 12 Number 4 1996
+</a> pp. 161-185</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Framework to Limit Systems Developers&#039; Legal Liabilities</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/221">Bordoloi, Bijoy,</a>    <a href="/contributors/222">Mykytyn, Kathleen,</a> and     <a href="/contributors/1232">Mykytyn Jr, Peter P</a>    </div>
+
+<p>ABSTRACT: Defects in computer-based systems (CBS) can adversely affect systems development efforts and can present serious legal challenges to developers. Of particular significance are the torts of strict products liability and negligence that can arise as a result of harm or injury resulting from, among other things, poor testing of systems, inadequate warnings, or failure to use state-of-the-art technology. The threat of injury has caused federal and state agencies and legislatures to consider seriously courses of action to inhibit the more injurious effects of such systems. This paper examines these two torts in some detail and illustrates how CBS developers could be threatened as a result of defective systems. We also present a framework for injury assessment and reduction of legal liability that can be used to guide CBS developers in assessing the possibility of injury resulting from development flaws. Further, the framework aids developers in their decision-making process by identifying appropriate measures to take to reduce their legal liability arising from what could be determined to be faulty systems development efforts. In addition, the use of the measures suggested by our framework might provide safer systems to avoid harming individuals.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/913">computer systems legal liability</a>,    <a href="/keywords/914">legal aspects of computing</a>,    <a href="/keywords/339">software development</a>,    <a href="/keywords/915">tort liabilities</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

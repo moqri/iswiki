@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/17">    Volume 2 Number 3 1985
+</a> pp. 37-64</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Effect of Organizational Maturity on End-Users&#039; Satisfaction with Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1089">Mahmood, M Adam</a> and     <a href="/contributors/1093">Becker, Jack D</a>    </div>
+
+<p>ABSTRACT: A field study of information systems (IS) end-users and DP/MIS managers was used to re-examine the appropriateness of Nolan's stage hypothesis and to investigate the effect of organizational maturity on end-users' satisfaction with information systems. The study was motivated by the recent interest in user satisfaction as a surrogate measure of IS organizations' successful performance. The research found a significant relationship between the user satisfaction variables and the Nolan benchmark maturity variables. While the individual maturity variables were found to be weak predictors of the user satisfaction variables, when both sets of variables were grouped accordingly, canonical analysis revealed a significant predictive relationship between the Nolan maturity variables and the level of user satisfaction. Further research based on the findings of the study is suggested as a means of improving the degree of relationship between maturity criteria and users' satisfaction variables.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/122">MIS maturity</a>,    <a href="/keywords/123">user satisfaction</a>,    <a href="/keywords/124">MIS stage model</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

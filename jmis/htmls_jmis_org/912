@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/62">    Volume 21 Number 4 2005
+</a> pp. 173-197</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Choice of Transaction Channels: The Effects of Product Characteristics on Market Evolution</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1444">Sulin, Ba,</a>    <a href="/contributors/1445">Stallaert, Jan,</a>    <a href="/contributors/154">Whinston, Andrew B,</a> and     <a href="/contributors/1446">Han, Zhang</a>    </div>
+
+<p>ABSTRACT: The capabilities of network technologies have facilitated the growth of electronic commerce. Major issues--notably, security and product quality uncertainty--still pose serious challenges to the further adoption of electronic commerce. Traditional market transactions have a long history and well-understood protections for buyers and sellers. In the electronic markets, formal and informal mechanisms such as trusted third parties (TTP) have emerged trying to ensure safe transactions . In this paper, we investigate under what conditions people will stick to the traditional market and face-to-face transactions, and under what conditions electronic transactions will be the convention of the future. Of particular interest is the role of TTPs in facilitating online transactions. Using evolutionary game theory, we present an analytical model of buyer and seller choices and examine which patterns of transactions can be sustained. We further study how the traders' adaptive behavior may influence the outcome of the market evolution. Through this analysis, we demonstrate that the market will show divergence: for commodity products, electronic transactions through TTPs will get established as the convention for market transactions when traders use historical information about other traders' past strategies. For "look and feel" products, the market evolution depends on the initial distribution of the transaction strategies in the population.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/486">electronic markets</a>,    <a href="/keywords/1891">evolutionarily stable equilibrium</a>,    <a href="/keywords/1833">evolutionary game theory</a>,    <a href="/keywords/1892">market evolution</a>,    <a href="/keywords/1893">product characteristics</a>,    <a href="/keywords/1894">stochastically stable equilibrium</a>,    <a href="/keywords/1895">transaction channel</a>,    <a href="/keywords/1896">trusted third party</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

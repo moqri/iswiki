@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/10">    Volume 9 Number 1 1992
+</a> pp. 113-132</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Are Human-Factors People Really So Different?: Comparisons of Interpersonal Behavior and Implications for Design Teams</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/299">McLeod, Poppy L</a>    </div>
+
+<p>ABSTRACT: This study examined differences between human-factors and machine-factors computer professionals in self-reports of their interpersonal behaviors. Three hundred and eleven computer professionals completed an instrument describing their jobs and three categories of their interpersonal behaviorâ€”Dominance, Friendliness, and Task versus Socio-Emotional. Human-factors professionals described their ideal and actual behavior as more dominant than that of other computer professionals. No differences were found for the other two behavior dimensions. Human-factors professionals on the average were more involved with research while machine-oriented professionals were more involved with product development. The findings are discussed with respect to their importance for computer system design teams. It is suggested that interpersonal factors may affect the utilization of human-factors experts.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/555">human factors</a>,    <a href="/keywords/553">individual differences</a>,    <a href="/keywords/556">MIS professionals</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

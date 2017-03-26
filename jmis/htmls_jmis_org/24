@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/21">    Volume 8 Number 1 1991
+</a> pp. 63-89</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Testing a Causal Model of End-User Application Effectiveness</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/44">Amoroso, Donald L</a> and     <a href="/contributors/45">Cheney, Paul H</a>    </div>
+
+<p>ABSTRACT: The purpose of this exploratory research was empirically to examine several logical relationships between key variables in order to create a causal model of end-user application effectiveness. To test the hypotheses, a survey-based field study was conducted in forty large organizations with a total of 506 usable responses. The data were analyzed using the Partial Least Squares (PLS) multivariate path analysis statistical technique. The preliminary empirical evidence provides general support for most of the key relationships contained in the model. Both the model based on the original sample and the validation of that model, based on the holdback sample, had good overall fits to the data. Of the important contributions, the end-users' motivation to develop new applications was found to be the most significant, showing the strongest positive path coefficient with application utilization. Perceived organizational support of EUC was found to be indirectly related to improved end-user information satisfaction and application utilization. Given a limited set of organizational resources, we suggest that managers invest time and money in improving organizational support of EUC where the immediate payoff may not be readily evident.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/365">end-user computing</a>,    <a href="/keywords/471">application development</a>,    <a href="/keywords/472">information system effectiveness</a>,    <a href="/keywords/123">user satisfaction</a>,    <a href="/keywords/473">application utilization</a>,    <a href="/keywords/474">partial least squares (PLS) modeling</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

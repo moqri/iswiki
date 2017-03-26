@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/123">    Volume 31 Number 2 2014
+</a> pp. 285-318</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Understanding Employee Responses to Stressful Information Security Requirements: A Coping Perspective</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1723">D’Arcy, John,</a>    <a href="/contributors/1724">Herath, Tejaswini,</a> and     <a href="/contributors/1725">Shoss, Mindy K</a>    </div>
+
+<p>ABSTRACT: We use coping theory to explore an underlying relationship between employee stress caused by burdensome, complex, and ambiguous information security requirements (termed “security-related stress” or SRS) and deliberate information security policy (ISP) violations. Results from a survey of 539 employee users suggest that SRS engenders an emotion-focused coping response in the form of moral disengagement from ISP violations, which in turn increases one’s susceptibility to this behavior. Our multidimensional view of SRS—comprised of security-related overload, complexity, and uncertainty—offers a new perspective on the workplace environment factors that foster noncompliant user behavior and inspire cognitive rationalizations of such behavior. The study extends technostress research to the information systems security domain and provides a theoretical framework for the influence of SRS on user behavior. For practitioners, the results highlight the incidence of SRS in organizations and suggest potential mechanisms to counter the stressful effects of information security requirements.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3341">coping theory</a>,    <a href="/keywords/3342">ethical orientation</a>,    <a href="/keywords/2271">information security</a>,    <a href="/keywords/3343">moral disengagement theory</a>,    <a href="/keywords/3344">sanctions</a>,    <a href="/keywords/3029">security compliance</a>,    <a href="/keywords/3345">security policies</a>,    <a href="/keywords/3346">security policy violation</a>,    <a href="/keywords/2062">social cognitive theory</a>,    <a href="/keywords/2270">technostress</a>,    <a href="/keywords/3347">workplace stress</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

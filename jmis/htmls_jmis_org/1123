@@ -1,0 +1,85 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/103">    Volume 15 Number 4 1999
+</a> pp. 3-5</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ BUSINESS GLOBALIZATION IS A PHENOMENON BOTH WIDELY observed and widely analyzed, widely  decried and widely praised to boot. Information technology and systems are a vehicle of globalization, which in  turn shapes the MIS of a company that plies the global (or, at any rate, international) waters. International  information systems have not escaped the attention of our researchers, and a number of excellent analytical  pieces have been published over time. Yet, broadly encompassing and empirically based models are still missing.  In the first paper of this issue, William R. King and Vikram Sethi attempt to fill this gap by addressing information  systems of multinational corporations (the authors choose to call the information systems of all companies that  cross national boundaries transnational, thus departing from the Bartlett and Ghoshal [1] use of the term). The  authors offer a new classification of multinational corporations, a taxonomy that is based on five essential  dimensions and that lends itself to the capture of the role of information systems. Based on the existing theory,  King and Sethi in turn develop a set of hypotheses regarding four types of multinationals that they identify and test  on larger multinationals. Although the test may be classified as exploratory, the results clearly point to the validity  of the MNC classification offered here and invite further pursuit of this broadly conceived work.
+</p>
+<p>
+ The organizational level of information systems analysis is maintained in the next paper, by Jae-Nam Lee and  Young-Gul Kim, who discuss and empirically evaluate IS outsourcing. These authors argue that the quality of the  partnership between a firm and the service provider is a key predictor of outsourcing success. They go on to  develop and validate a model that relates the success of outsourcing to the factors that determine partnership  quality. It should not, of course, escape our attention that some of the relationships between the parties to an  outsourcing contract are of such low quality, with opportunism substituting for shared goals, that these  relationships hardly qualify as partnership and bode no success to outsourcing. The present work should have  both theoretical and practical resonance in seeking true outsourcing partnerships of quality.
+</p>
+<p>
+ Some 20 percent of MIS projects that are undertaken are eventually canceled, and 50 percent of those carried  to completion result in systems that fail in one of many possible ways [2]. In the course of many of these  projects, resources were continually allocated, even though the project was being seen as not leading to  success--the phenomenon known as the escalation of commitment to a failing course of action. Mark Keil and  Daniel Robey are looking here at the optimistic side of the issue: They seek the factors that can lead to the  deescalation of such a commitment. Based on the literature, Keil and Robey identify a set of factors and, through  field interviews, develop a model of project deescalation. The nodal points here are the willingness of  organizational actors to bear bad tidings to the senior managers willing to act on them.
+</p>
+<p>
+ Three subsequent papers in the issue deal with various aspects of computer-supported group work. In the  first of these, Shaila M. Miranda and Robert P. Bostrom evaluate the facilitation of task-based meetings. They  compare the effects of the process and content facilitation in both traditional environments and in those relying on  group support systems (GSS). The authors determine empirically that process facilitation positively affects the  meeting process (while content facilitation affects it negatively), which in turn leads to greater participant  satisfaction. One of the implications of this work is the need to train the facilitators carefully, as the distinction  between the two types of facilitation is often subtle.
+</p>
+<p>
+ Alan R. Dennis, Glenda S. Hayes, and Robert M. Daniels, Jr., investigate the use of GSS for business-process  modeling to be carried out during systems analysis. In a work of clear practical importance, the authors perform  and analyze a series of field studies of groups using a well-known structured analysis technique. The results  indicate a highly impressive reduction of time needed for modeling with using the GSS as compared with the the  widely used Joint Application Design (JAD) technique--while the models produced are of comparable quality.
+</p>
+<p>
+ Yet another aspect of GSS use--support of creativity--is explored by John W. Satzinger, Monica J. Garfield,  and Murli Nagasundaram. They conducted an experiment to investigate the influence of the group memory  contained in the GSS on the type of ideas generated by a brainstorming group. It turns out, indeed, that the degree  to which the ideas generated will be a radical departure from the prior thinking can be influenced by the type of  ideas stored in the group memory and displayed during the idea-generation session. A word to the manager: Seed  the group memory with "small" ideas and the group will generate ideas for incremental improvement.  Only remember that a "seeded" group memory is not a true component of an organizational memory  information system.
+</p>
+<p>
+ As organizational information systems are becoming ever more embedded in the outside world and as they  permeate the functioning of the firms ever more intensively, the investigation of what the organizations actually do  about IS security gains weight. Moshe Zviran and William J. Haga offer an empirical study of password usage,  based on a framework they have developed. Depending on your predisposition, you will find the results reported  here disturbing or expected. In either case, the situation calls for far greater attention by IS managers to this first  line of IS defense.
+</p>
+<p>
+ An encompassing model of IS adoption in small businesses is offered by James Y.L. Thong. The model is  generally very well supported by the empirical results obtained by the author. More so than in a large firm,  adoption here depends on the person at the very top. Limited resources also call for a far closer look at the  benefits, and at the existing systems and practices into which the innovation will need to be integrated. Beyond  that, several factors will lead to the success of the adopted system. This thorough work, well grounded in the  innovation literature, is an important step forward in the small-business research stream.
+</p>
+<p>
+ CASE tools enjoy an excellent reputation, with the notable exception of that for actually being used. Yet the  idea of IS developers actually using advanced computer assistance in engineering software is manifestly a good  one (although this is less manifest than the need for a shoemaker's children to be shod, to which it is at times  compared). It behooves us, then, to see which attributes of CASE tools are valued by those developers who  actually use them--and then build on that. Gerald Post, Albert Kagan, and Robert T. Keim report on the empirical  work they performed and then use an interesting statistical technique to discover these attributes. Results  indicate that the developers look for the features directly supporting the hard core of the work--analysis and  prototyping. Of interest to managers, as well as to tool developers and marketers, is the fact that the  organizations of differing size differ with respect to their use of the front-end versus back-end CASE tools.
+</p>
+<p>
+ VLADIMIR  ZWASS
+</p>
+<p>
+ 1. Bartlett, C.A., and Ghoshal, S. Managing Across Borders: The Transnational Solution. Boston, MA:  Harvard Business School Press, 1989.
+</p>
+<p>
+ 2. Harris, K. Worst practices. Executive Edge (December 1998), 20-26.
+</p>
+<p>
+ <b>
+  Key words and  phrases
+ </b>
+ :   ,
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

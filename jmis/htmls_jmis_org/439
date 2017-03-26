@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/52">    Volume 11 Number 3 1994
+</a> pp. 7-41</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>GANNET: A Machine Learning Approach to Document Retrieval</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/2">Hsinchun, Chen</a> and     <a href="/contributors/791">Jinwoo, Kim</a>    </div>
+
+<p>ABSTRACT: Information retrieval using probabilistic techniques has attracted significant attention on the part of researchers in information and computer science over the past few decades. In the 1980s, knowledge-based techniques also have made an impressive contribution to "intelligent" information retrieval and indexing. More recently, information science researchers have turned to other, newer artificial intelligence-based inductive learning techniques including neural networks, symbolic learning, and genetic algorithms. The newer techniques have provided great opportunities for researchers to experiment with diverse paradigms for effective information processing and retrieval. In this article we first provide an overview of newer techniques and their usage in information science research. We then present in detail the algorithms we adopted for a hybrid Genetic Algorithms and Neural Nets based system, called GANNET. GANNET performed concept (keyword) optimization for user-selected documents during information retrieval using the genetic algorithms. It then used the optimized concepts to perform concept exploration in a large network of related concepts through the Hopfield net parallel relaxation procedure. Based on a test collection of about 3,000 articles from DIALOG and an automatically created thesaurus, and using Jaccard's score as a performance measure, our experiment showed that GANNET improved the Jaccard's scores by about 50 percent and it helped identify the underlying concepts (keywords) that best describe the user-selected documents.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/782">intelligent information retrieval</a>,    <a href="/keywords/611">machine learning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

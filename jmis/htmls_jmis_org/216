@@ -1,0 +1,70 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/90">    Volume 27 Number 3 2010
+</a> pp. 7-10</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Competitive Strategy, Economics, and Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K,</a>    <a href="/contributors/79">Kauffman, Robert J,</a> and     <a href="/contributors/398">Weber, Thomas A</a>    </div>
+
+<p>ABSTRACT: <p>
+ ERIC K. CLEMONS is a professor of operations and information management at the Wharton School of the University of Pennsylvania. His  education includes an S.B. in physics from MIT and an M.S. and a Ph.D. in operations research from Cornell University. He has been a  pioneer in the systematic study of the transformational effects of information on the strategy and practice of business. His research and  teaching interests include strategic uses of IS, the changes that IT enables in the competitive balance between new entrants and  established industry participants, transformation of distribution channels, the structure and governance of the IT functional area, and the  impact of IT on the risks and benefits of outsourcing and strategic alliances. Industries of focus include international securities markets and  financial services firms, consumer packaged goods retailing, and travel. He specializes in assessing the competitive implications of IT  and in managing the risks of large-scale implementation efforts. Dr. Clemons is the founder and project director for the Wharton School&#8217;s  Sponsored Research Project on Information: Strategy and Economics Within the Program for Global Strategy and Knowledge Intensive  Organizations. He participated in the World Economic Forum in Davos, Switzerland, in February 2009. He is currently a member of the  editorial boards of the Journal of Management Information Systems and the International Journal of Electronic Commerce. Dr. Clemons  has 35 years of experience on the faculties of Wharton, Cornell, and Harvard and consulting experience in the private and public sectors  both domestically and abroad.
+</p>
+<p>
+ ROBERT J. KAUFFMAN is the W.P. Carey Chair in Information Systems at the W.P. Carey School of Business, Arizona State University.  His degrees are from the University of Colorado at Boulder, Cornell University, and Carnegie Mellon. He has served on the faculties of  New York University, the University of Minnesota, and the University of Rochester and has worked in international banking and finance in  New York City. His research interests span the economics of IS, market transparency and pricing on the Internet, competitive strategy and  technology adoption, and theory development, modeling, and empirical methods for IS research---all in contexts that emphasize senior  management issues.
+</p>
+<p>
+ THOMAS A. WEBER is an assistant professor in the Management Science and Engineering Department of Stanford University, where he  is conducting research on optimal control of nonlinear systems, economics of information and uncertainty, analysis of complex systems, and  corporate strategy and public policy. He holds undergraduate diplomas in industrial and electrical engineering from Ecole Centrale Paris  and the Technical University Aachen, as well as S.M. degrees in technology and policy and in electrical engineering and computer science  from MIT. He also received an M.A. in operations and information management and a Ph.D. in managerial science and applied economics  from the Wharton School of the University of Pennsylvania. During 2008, he was a visiting faculty member at the University of Cambridge.  He was previously a senior consultant at the Boston Consulting Group. He was recently the recipient of the David T. Morgenthaler II  Faculty Scholarship at Stanford. His research interests involve the economics of information and uncertainty and how social systems can be  modeled, designed, and controlled in the presence of uncertainty. He has been developing new theoretical models and methods that have  the potential to change the way in which we approach social systems and integrate different levels of analysis. His published papers have  appeared in American Economic Journal: Microeconomics, Information Systems Research, Decision Support Systems, Economics  Letters, Economic Theory, Journal of Mathematical Economics, Journal of Economic Dynamics and Control, Journal of Optimization  Theory and Applications, Operations Research, Optimal Control Applications and Methods, and Theory &amp; Decision.
+</p>
+<p>
+ THIS SPECIAL SECTION ON COMPETITIVE STRATEGY, economics, and information systems (IS) focuses on important current  themes in this area of the discipline. The papers, whose initial versions were presented in and selected from the Competitive Strategy,  Economics, and Information Systems Mini-Track of the 2010 Hawaii International Conference on System Sciences, address a broad range  of topics, including bundle pricing, price dispersion, business process outsourcing, and the intersection of economics, strategy, and  antitrust law.
+</p>
+<p>
+ The first paper is an empirical study by Jonathan Whitaker, Sunil Mithas, and M.S. Krishnan titled "Organizational Learning and  Capabilities for Onshore and Offshore Business Process Outsourcing." Information technology (IT) and business processing outsourcing  (BPO) have been the subject of much debate in the U.S. business and public policy community and continue to be of interest in IS research.  IS researchers have found it difficult to assemble high-quality data sets for the study of outsourcing, especially data on performance at the  level of the individual firm. In this research, the authors explore data collected by the 2004 InformationWeek 500 Benchmarking Survey. It  provides coverage of the opinions of top management respondents from large firms, and it also supplies data on their IT departments and  IT operations and on their firms&#8217; major IT initiatives. They supplemented their data with additional information from Compustat and Dun &amp;  Bradstreet. They explore a number of issues in a cross-sectional empirical research design, including whether firms that (1) are engaged  in onshore IT outsourcing (ITO) are more likely to also do offshore outsourcing; (2) coordinate international vendors, suppliers, and  employees are more likely to do offshore BPO; (3) have systems capabilities related to IT coordination applications are more likely to  engage in onshore or offshore BPO; (4) have process capabilities related to business codification will be more likely to engage in onshore  and offshore BPO; and (5) are engaged in outsourcing experience mediating effects of IT coordination applications and business process  codification on onshore and offshore BPO. The authors report that firms with experience in ITO and coordination activities are more likely to  become involved in BPO, as are firms that have offshore ITO and other forms of internationalization activities. They also show evidence for  the proposed mediation effects.
+</p>
+<p>
+ "Regulation of Digital Businesses with Natural Monopolies or Third-Party Payment Business Models: Antitrust Lessons from the Analysis  of Google," by Eric K. Clemons and Nehal Madhani, explores issues at the intersection of technology, economics, business strategy, and  the law. Technology affects economic forces, which in turn affect business strategy. The new technology of telecommunications, at the end  of the nineteenth century and the beginning of the twentieth century, created the first opportunities for true participation benefits and positive  network externalities. Social policy suggested that the United States would be best served if all telephone subscribers could talk to one  another, which with the technology of the day, argued for a single network service provider. And yet the United States wanted to be protected  from the potential harm of a monopoly provider of such an important service. The solution was the 1913 Kingsbury Commitment, which  allowed AT&amp;T to continue to operate as the world&#8217;s first private but regulated national monopoly service provider, outside the rules  established by the earlier Sherman Antitrust Act of 1890. The authors argue that modern business models and Internet technology may  interact to create new forms of winner-take-all business models. Just as important, they suggest that third-party business models, like the  one in which Google provides its services free to individual consumers but charges a third party for participation in keyword auctions, may  decouple Google&#8217;s services from the price discipline of the marketplace. They do not argue that Google should or will face antitrust  litigation, and they do not suggest that Google would lose such litigation were it brought. They highlight the areas in which litigators will  need to reconcile mismatches between the law as it was originally applied and the business models that it may need to regulate. In   particular, the authors highlight issues such as the definition of relevant market for electronic search providers, demonstration of  contestability, market preemption through cross-subsidies, and the essential facilities doctrine, where litigators will face their greatest  challenges.
+</p>
+<p>
+ Atanu Lahiri, Rajiv M. Dewan, and Marshall Freimer, in "The Disruptive Effect of Open Platforms on Markets for Wireless Services,"  examine a model of price discrimination in telecommunications services, exploiting the concept of mixed bundling. The authors focus on  application-based pricing in telecommunications, where wireless carriers commonly charge consumers different per-bit prices for the  transmission of voice, Internet, and text messaging; these per-bit prices can differ by several orders of magnitude. Open platforms that  undermine such differential pricing may therefore disrupt an existing business model that is based on extreme and somewhat artificial  differential pricing, because in the end, all carriers are transmitting nothing but bits. Extending the standard second-degree price  discrimination framework to allow for quasi-bundles, the authors show that open platforms may choose to serve certain consumers at a  lower service level or not at all. Consequently, it may be that open platforms can decrease both the consumer surplus and the social  surplus. Firms will capture this reduction in surplus and under some conditions may be expected to prefer open platforms, at least for some  segments of the market. While a change to open platforms undermines the very idea of their current pricing models, under some conditions  this change to open platforms, counterintuitively, may increase producer surplus while decreasing total social welfare. This research  serves as a starting point for examining what happens when open and discriminatory business models interact competitively in the presence  of extreme customer heterogeneity, which is consistent with current market trends.
+</p>
+<p>
+ In the final paper of the Special Section, "Oligopolistic Pricing with Online Search," Lizhen Xu, Jianqing Chen, and Andrew Whinston  revisit the foundations of online search environments. Recognizing that different positioning on a search page can generate different  search costs for users, the authors first examine firms&#8217; pricing strategies when consumers are searching for them in a predetermined  order, provided that adjusting the order is infeasible or sufficiently expensive. In the resulting mixed-strategy pricing equilibrium, each firm  is competing only against the prices of adjacent firms. This "local competition" feature of the equilibrium remains present---in a somewhat  simpler three-firm model---when the authors allow consumers to adjust the search order, as long as the costs for inspecting different  positions on the search page are heterogeneous. The insights from this paper establish a link between the inspection cost heterogeneity on  a given search page and the price dispersion in an intermediated search market.
+</p>
+<p>
+ We thank Juliana Tsai, who acted as the editorial assistant for this Special Section.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

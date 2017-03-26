@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/30">    Volume 30 Number 3 2013
+</a> pp. 279-310</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Impact of Prior Reviews on the Subsequent Review Process in Reputation Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1079">Ma, Xiao,</a>    <a href="/contributors/1080">Khansa, Lara,</a>    <a href="/contributors/1081">Deng, Yun,</a> and     <a href="/contributors/1082">Kim, Sung S</a>    </div>
+
+<p>ABSTRACT: Reputation systems have been recognized as successful online review communities and word-of-mouth channels. Our study draws upon the elaboration likelihood model to analyze the extent that the characteristics of reviewers and their early reviews reduce or worsen the bias of subsequent online reviews. Investigating the sources of this bias and ways to mitigate it is of considerable importance given the previously established significant impact of online reviews on consumers' purchasing decisions and on businesses' profitability. Based on a panel data set of 744 individual consumers collected from Yelp, we used the Markov chain Monte Carlo simulation method to develop and empirically test a system of simultaneous models of consumer review behavior. Our results reveal that male reviewers or those who lack experience, geographic mobility, or social connectedness are more prone to being influenced by prior reviews. We also found that longer and more frequent reviews can reduce online reviews' biases. This paper is among the first to examine the moderating effects of reviewer and review characteristics on the relationship between prior reviews and subsequent reviews. Practically, this study offers businesses effective customer relationship management strategies to improve their reputations and expand their clientele.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3218">consumer review</a>,    <a href="/keywords/2584">elaboration likelihood model</a>,    <a href="/keywords/3219">hierarchical modeling</a>,    <a href="/keywords/3220">MCMC simulation</a>,    <a href="/keywords/3221">reputation systems</a>,    <a href="/keywords/3222">simultaneous equations model</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

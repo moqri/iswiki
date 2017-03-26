@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/36">    Volume 10 Number 2 1993
+</a> pp. 75-105</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Survey Research Methodology in Management Information Systems: An Assessment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1255">Pinsonneault, Alain</a> and     <a href="/contributors/467">Kraemer, Kenneth L</a>    </div>
+
+<p>ABSTRACT: Survey research is believed to be well understood and applied by management information systems (MIS) scholars. It has been applied for several years and it has precise procedures which, when followed closely, yield valid and easily interpretable data. Our assessment of the use of survey research in the MIS field between 1980 and 1990 indicates that this perception is at odds with reality. Our analysis indicates that survey methodology is often misapplied and is plagued by five important weaknesses: (1) single-method designs where multiple methods are needed, (2) unsystematic and often inadequate sampling procedures, (3) low response rates, (4) weak linkages between units of analysis and respondents, and (5) overreliance on cross-sectional surveys where longitudinal surveys are really needed. Our assessment also shows that the quality of survey research varies considerably among studies of different purposes: explanatory studies are of good quality overall, exploratory and descriptive studies are of moderate to poor quality. This article presents a general framework for classifying and examining survey research and uses this framework to analyze the usage of survey research conducted in the past decade in the MIS field. In an effort to improve the quality of survey research, this article makes specific recommendations that directly address the major problems highlighted in the review.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/673">research of management information systems</a>,    <a href="/keywords/445">research methodologies</a>,    <a href="/keywords/674">survey research</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

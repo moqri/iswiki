@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/123">    Volume 31 Number 2 2014
+</a> pp. 245-284</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Collaborative Demand Forecasting: Toward the Design of an Exception-Based Forecasting Mechanism</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1719">Dong, Yan,</a>    <a href="/contributors/1720">Huang, Xiaowen,</a>    <a href="/contributors/1721">Sinha, Kingshuk K,</a> and     <a href="/contributors/1722">Xu, Kefeng</a>    </div>
+
+<p>ABSTRACT: Sharing of truthful information involving business intelligence between supply chain partners is a challenge on account of the asymmetric nature of the information, where one party possesses information such as market intelligence that is neither available in the public domain nor verifiable through third parties. While busesinss-to-business (B2B) technology solutions, such as CPFR (collaborative planning, forecasting, and replenishment), facilitate the sharing of historical information (e.g., transaction records), business intelligence (e.g., potential customer demand) is considered private. Central to CPFR is collaborative demand forecasting (CDF) that allows supply chain partners to share private demand information and incorporate the jointly derived demand forecast into production planning and product replenishment decisions. Implementing CDF, however, is a challenge because of the high costs of the laborious collaboration effort (e.g., to resolve forecast differences). Hence, companies are unable to realize the benefits of CDF and, in turn, the full potential of CPFR. Typically, the issues of information truthfulness and collaboration cost are addressed through an exception management mechanism that defines a range of forecast updates within which collaboration is automated without any human intervention in B2B trading partners. In this paper, we develop incentive-based contracts that explicitly consider the truth-telling behavior and exception resolution in decisions related to the threshold values of demand information. Our first contribution to B2B information management is in establishing the strategic value of exception management and resolution mechanisms in B2B relationships, leading to truthful revelation of demand information. Our second contribution is in developing exception-based incentive contracts, especially in light of the advances in today’s business practices and technology, to address issues associated with unobservable and asymmetric demand information. Specifically, we propose a resolution contract to coordinate the supply chain that directly incorporates both exceptions and resolution in an incentive mechanism. We show that these alternative contracts are all viable solutions in assuring truthful exchange of demand information but excel individually in specific situations and, thus, provide practitioners with alternative demand collaboration tools when price negotiation is not an option.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3334">B2B commerce</a>,    <a href="/keywords/3335">collaborative commerce</a>,    <a href="/keywords/3336">collaborative demand forecasting</a>,    <a href="/keywords/3337">collaborative planning</a>,    <a href="/keywords/3338">exception-based incentive mechanism</a>,    <a href="/keywords/3339">forecasting and replenishment</a>,    <a href="/keywords/528">information sharing</a>,    <a href="/keywords/3340">supply chain management</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

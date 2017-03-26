@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/27">    Volume 29 Number 3 2012
+</a> pp. 157-188</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Organizations&#039; Information Security Policy Compliance: Stick or Carrot Approach?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/347">Chen, Yan,</a>    <a href="/contributors/49">Ramamurthy, K,</a> and     <a href="/contributors/348">Wen, Kuang-Wei</a>    </div>
+
+<p>ABSTRACT: Companies' information security efforts are often threatened by employee negligence and insider breach. To deal with these insider issues, this study draws on the compliance theory and the general deterrence theory to propose a research model in which the relations among coercive control, which has been advocated by scholars and widely practiced by companies; remunerative control, which is generally missing in both research and practice; and certainty of control are studied. A Web-based field experiment involving real-world employees in their natural settings was used to empirically test the model. While lending further support to the general deterrence theory, our findings highlight that reward enforcement, a remunerative control mechanism in the information systems security context, could be an alternative for organizations where sanctions do not successfully prevent violation. The significant interactions between punishment and reward found in the study further indicate a need for a more comprehensive enforcement system that should include a reward enforcement scheme through which the organizational moral standards and values are established or reemphasized. The findings of this study can potentially be used to guide the design of more effective security enforcement systems that encompass remunerative control mechanisms.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3030">coercive control</a>,    <a href="/keywords/3031">compliance theory</a>,    <a href="/keywords/3032">general deterrence theory</a>,    <a href="/keywords/3033">information security policy</a>,    <a href="/keywords/3034">punishment</a>,    <a href="/keywords/3035">remunerative control</a>,    <a href="/keywords/3036">reward</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

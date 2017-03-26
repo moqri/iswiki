@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/22">    Volume 28 Number 1 2011
+</a> pp. 85-114</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Changing the Perspective: Using a Cognitive Model to Improve thinkLets for Ideation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/934">Knoll, Stefan Werner</a> and     <a href="/contributors/935">Horton, Graham</a>    </div>
+
+<p>ABSTRACT: In the field of collaboration engineering, thinkLets describe reusable and transferable collaborative activities to reproduce known patterns of collaboration. This paper focuses on thinkLets of the pattern Generate, which define collaboration activities to produce and share new contributions by a group. We address the question whether the small number of published Generate thinkLets can adequately represent the various approaches contained in published idea generation techniques. We used a cognitive model to analyze 101 idea generation techniques with regard to the underlying mental principles that stimulate the ideation process by deliberately activating larger areas of the knowledge network. We present three changes of perspective based on these principles, which can be used to formalize the underlying mechanisms of idea generation techniques. The paper shows how these three principles can be used to improve Generate thinkLets and discusses how this formalization can improve the applicability of information systems for ideation processes.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2789">change of perspective</a>,    <a href="/keywords/2790">cognitive model of ideation</a>,    <a href="/keywords/1635">collaboration engineering</a>,    <a href="/keywords/197">idea generation</a>,    <a href="/keywords/1637">thinkLets</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

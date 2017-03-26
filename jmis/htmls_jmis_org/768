@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/64">    Volume 29 Number 4 2013
+</a> pp. 7-62</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Systems Success: The Quest for the Independent Variables</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1245">Petter, Stacie,</a>    <a href="/contributors/481">DeLone, William H,</a> and     <a href="/contributors/482">McLean, Ephraim R</a>    </div>
+
+<p>ABSTRACT: In 1992, DeLone and McLean suggested that the dependent variable for information systems (IS) research is IS Success. Their research resulted in the widely cited DeLone and McLean (D&M) IS Success Model, in which System Quality, Information Quality, Use, User Satisfaction, Individual Impact, and Organizational Impact are distinct, but related dimensions of IS success. Since the original IS Success Model was published, research has developed a better understanding of IS success. Meanwhile, comprehensive and integrative research on the variables that influence IS success has been lacking. Therefore, we examine the literature on the independent variables that affect IS success. After examining over 600 articles, we focused our attention on integrating the findings of over 140 studies. In this research, we identify 43 specific variables posited to influence the different dimensions of IS success, and we organize these success factors into five categories based on the Leavitt Diamond of Organizational Change: task characteristics, user characteristics, social characteristics, project characteristics, and organizational characteristics. Next, we identify 15 success factors that have consistently been found to influence IS success: Enjoyment, Trust, User Expectations, Extrinsic Motivation, IT Infrastructure, Task Compatibility, Task Difficulty, Attitudes Toward Technology, Organizational Role, User Involvement, Relationship with Developers, Domain Expert Knowledge, Management Support, Management Processes, and Organizational Competence. Finally, we highlight gaps in our knowledge of success factors and propose a road map for future research.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3055">independent variables</a>,    <a href="/keywords/1162">information system success</a>,    <a href="/keywords/1386">research integration</a>,    <a href="/keywords/3056">success determinants</a>,    <a href="/keywords/863">success factors</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

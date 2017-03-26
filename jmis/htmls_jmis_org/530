@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/52">    Volume 11 Number 3 1994
+</a> pp. 65-85</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Understanding Runaway Information Technology Projects: Results from an International Research Program Based on Escalation Theory</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/912">Keil, Mark,</a>    <a href="/contributors/913">Mixon, Richard,</a>    <a href="/contributors/914">Saarinen, Timo,</a> and     <a href="/contributors/915">Tuunainen, Virpi</a>    </div>
+
+<p>ABSTRACT: Information technology (IT) projects can fail for any number of reasons, and can result in considerable financial losses for the organizations that undertake them. One pattern of failure that has been observed but seldom studied is the runaway project that takes on a life of its own. Such projects exhibit characteristics that are consistent with the broader phenomenon known as escalating commitment to a failing course of action. Several theories have been offered to explain this phenomenon, including self-justification theory and the so-called sunk cost effect which can be explained by prospect theory. This paper discusses the results of a series of experiments designed to test whether the phenomenon of escalating commitment could be observed in an IT context. Multiple experiments conducted within and across cultures suggest that a high level of sunk cost may influence decision makers to escalate their commitment to an IT project. In addition to discussing this and other findings from an ongoing stream of research, the paper focuses on the challenges faced in carrying out the experiments.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/786">escalating commitment</a>,    <a href="/keywords/787">escalation</a>,    <a href="/keywords/788">information systems failure</a>,    <a href="/keywords/789">runaway</a>,    <a href="/keywords/342">software project management</a>,    <a href="/keywords/790">sunk cost</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

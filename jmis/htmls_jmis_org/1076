@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/96">    Volume 1 Number 1 1984
+</a> pp. 3-10</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Management Information Systems-Beyond the Current Paradigm</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: The Journal of Management Information Systems will provide an integrated view of the entire discipline to both researchers and practitioners and will help communicate research and practical advances. In order to define the focal points of the new journal, the developmental trends in MIS as a field of practice and as an academic discipline are analyzed. Support of less structured decisions under the condition of organizational dynamics is found to be of particular importance. At the same time, the environment of information delivery will be determined by cooperative computing, with the end users gaining in a large measure direct access to information. The role of MIS as a crucial component in the evolving knowledge society is stressed. In particular, flexibility of information systems is a factor of social productivity at large.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1">evolution of management information systems</a>,    <a href="/keywords/2">MIS as discipline</a>,    <a href="/keywords/3">individualized decision support</a>,    <a href="/keywords/4">MIS publications</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

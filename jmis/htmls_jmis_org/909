@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/84">    Volume 5 Number 1 1988
+</a> pp. 101-116</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Current and Future Uses of Group Decision Support System Technology: Report on a Recent Empirical Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1519">Straub, Detmar W</a> and     <a href="/contributors/1440">Beauclair, Renee A</a>    </div>
+
+<p>ABSTRACT: Over the last decade group decision support system (GDSS) technology has made enormous advances. This technology has also been studied from conceptual and design perspectives. In this paper we consider how GDSS can be used to improve group decisions in face-to-face conferencing ("decision rooms"), remote site teleconferencing, and remote/local computer conferencing. These prospects have been aided by advances in telecommunications technology and GDSS seems poised for successful integration into modern organizations. This study looks at the actual ways in which GDSS are currently being utilized. The framework for the study was derived from DeSanctis and Gallupe's work; a survey of 135 randomly selected Data Processing Management Association (DPMA) members was used as the sample base. Based on preliminary data analysis, it appears that GDSS are slowly being introduced and supported by information system (IS) departments and that this pattern will be the trend for the immediate future as well. Data analysis will be completed in the near future, but analytical procedures are delineated in the paper. These procedures take two primary forms. Descriptive statistics based on the study data will assess the extent to which organizations are increasing their commitment to GDSS and which current implementations are heaviest in each of the GDSS types. Factor analysis of respondent data will also be used to assess taskgroup usage of GDSS, task groups including: (1) planning, (2) administrative, and (3) data analysis tasks. The study will also assess whether usage of GDSS varies significantly with certain organizational size variables. A better understanding of these relationships should greatly assist IS managers in allocating resources to this new technology and in making the case for GDSS to top management. It should also help GDSS software developers formulate new design features.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/282">teleconferencing</a>,    <a href="/keywords/283">computer conferencing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

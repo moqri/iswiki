@@ -1,0 +1,64 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/30">    Volume 30 Number 3 2013
+</a> pp. 5-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ THE SPECIAL ISSUE ON Information Technology (IT) and Organizational Governance shows, with a spectrum of research papers,  how IT has changed the realm of the possible in the way the decision rights can be placed, formal and informal control mechanisms can be  designed to complement each other, and organizational and interorganizational structures can be architected. The Guest Editors, Amrit  Tiwana, Benn Konsynski, and N. Venkatraman, in introducing the Special Issue to you, introduce the IT Governance Cube as a  systematizing tool for organizing our thinking about the IT-enabled organizational governance, which includes the governance of IT itself.  Using this tool, the Guest Editors introduce the papers of the Special Issue and highlight the lacunae that need to be filled with future  research. The importance of the research presented here is highlighted by the fact that with changing what is possible, IT has a way of  changing over time what is necessary to successfully cooperate and compete in the emerging ecosystems.
+</p>
+<p>
+ It is becoming increasingly obvious that the competitive fitness of organizations depends on their ability to collect, maintain, and deploy  the exponentially growing volumes of data about their operations, customers, competitors, and the global environment in which they  compete. Data management has therefore become a fundamental organizational capability, underlying many others. The distribution of the  decision rights-governance, again-among an organization's business units is a central issue in data management. In the first paper of  the general section, Chander K. Velu, Stuart E. Madnick, and Marshall W. Van Alstyne use the real options theory to address this question.  Based on their formal analysis, the authors offer a framework of recommendations on centralization versus decentralization of data  management based on the degrees of environmental uncertainty and the similarity of business units. The researchers proceed to illustrate  the application of their framework in several contexts to an effect that will be found helpful by future theorists as well as practitioners.
+</p>
+<p>
+ Free sampling of software, an intangible good with generally high functionality and with a very low marginal cost, is a well-established  marketing method. The sampling can be done as freeware (a limited-functionality version for unlimited time) or trialware (the full- functionality product for a limited time). Which tactic should a vendor adopt, particularly in the environment of opinion amplification created  by online reviews? Young-Jin Lee and Yong Tan find empirically that the innovation-diffusion model is applicable to the problem. They  proceed to find the differentiators in the effectiveness of the two sampling methods, in particular, warning about the cannibalization potential  of freeware.
+</p>
+<p>
+ With the penetration of NeuroIS methods into our research toolbox, it has become possible to account for emotion along with cognition  in supporting decision making with information systems. Emotional states obviously affect the quality of decisions; this is particularly so in  the case of rapid-pace, high-stakes decision making necessary for such financial decisions as trading. It is known, for example, that traders  with higher emotion-regulation capabilities perform better. This is precisely the environment the authors of the next paper employ to test  their ideas and design for incorporating biofeedback into a NeuroIS tool that displays the decision-maker's emotional state indicators and  adapts the difficulty of decisions to this state. This work, by Philipp J. Astor, Marc T.P. Adam, Petar Jerc=ic;, Kristina Schaaff, and Christof  Weinhardt, is grounded in the tenets of design science and exercises their proposed system as a serious game. Both the method and the  tool presented here will be of importance in a further development of this promising field.
+</p>
+<p>
+ Two papers in the issue explore advanced facets of the burgeoning e commerce domain of online reviews. Xiao (Sean) Ma, Lara  Khansa, Yun Deng, and Sung S. Kim use an enhanced experimental methodology to investigate the effect of the early reviews on the  subsequent run of reviews and thus on the reputation of the reviews' object. The authors find significant effects of the demographic and  psychographic characteristics of the later reviewers, as well as of the properties of the early reviews, on the biases displayed by the  subsequent reviews. Going further in the reviews' effects, Liqiang Huang, Chuan-Hoo Tan, Weiling Ke, and Kwok-Kee Wei show  empirically the joint effect of the type of the product under review and of the review content characteristics on the assessment of the review  by the consumer. Both papers are grounded in theory and, taken together, contribute to our understanding of how product reputations are  formed online and of the consumers' role in value creation along with the producers.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/26">    Volume 24 Number 2 2007
+</a> pp. 73-102</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Proximity and Information Technology Outsourcing: How Local Are IT Services Markets?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/71">Arora, Ashish</a> and     <a href="/contributors/72">Forman, Chris</a>    </div>
+
+<p>ABSTRACT: We examine the question of which services are tradable within a concrete setting: the outsourcing of information technology (IT) services across a broad cross-section of establishments in the United States. If markets for IT services are local, then we should expect increases in local supply would increase the likelihood of outsourcing by lowering the cost of outsourcing. If markets are not local, then local supply will not affect outsourcing demand. We analyze the outsourcing decisions of a large sample of 99,775 establishments in 2002 and 2004, for two types of IT services--programming and design and hosting. Programming and design projects require communication of detailed user requirements whereas hosting requires less coordination between client and service provider than programming and design. Our empirical results bear out this intuition: the probability of outsourcing programming and design is increasing in the local supply of outsourcing, and this sensitivity to local supply conditions has been increasing over time. This suggests there is some nontradable or "local" component to programming and design services that cannot be easily removed. In contrast, the decision to outsource hosting is sensitive to local supply only for firms for which network uptime and security concerns are particularly acute.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/543">information technology outsourcing</a>,    <a href="/keywords/650">outsourcing</a>,    <a href="/keywords/2283">service tradability</a>,    <a href="/keywords/2284">services</a>,    <a href="/keywords/2285">services outsourcing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

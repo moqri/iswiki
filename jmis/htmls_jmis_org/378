@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/63">    Volume 3 Number 2 1986
+</a> pp. 83-93</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Effects of Decision Support Systems Training and Cognitive Style on Decision Process Attributes</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/685">Green, Gary I</a> and     <a href="/contributors/686">Hughes, Cary T</a>    </div>
+
+<p>ABSTRACT: Decision support systems (DSS) are increasingly being utilized in decision-making situations. However, little is known about why some managers are able to use a DSS effectively and others are not. While numerous factors could affect a manager's use of a DSS, this paper reports the results of an experiment designed to measure two of them: type of training received and cognitive style. A controlled laboratory experiment with pretest and posttest measures was conducted using 63 managers to determine how the type of training and the cognitive styles of managers affected their use of a DSS generator. Analysis of the results shows that there is an interaction between cognitive style and type of training which affected the manager's initial use of a DSS generator. It appears that providing managers with the appropriate type of training should increase the chances for more effective DSS usage.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/174">training</a>,    <a href="/keywords/175">cognitive style</a>,    <a href="/keywords/176">decision process attributes</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

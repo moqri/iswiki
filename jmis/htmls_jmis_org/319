@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/64">    Volume 29 Number 4 2013
+</a> pp. 249-262</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Are Users Threatened by Credibility Assessment Systems?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/567">Elkins, Aaron C,</a>    <a href="/contributors/272">Dunbar, Norah E,</a>    <a href="/contributors/568">Adame, Bradley,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: Despite the improving accuracy of agent-based expert systems, human expert users aided by these systems have not improved their accuracy. Self-affirmation theory suggests that human expert users could be experiencing threat, causing them to act defensively and ignore the system's conflicting recommendations. Previous research has demonstrated that affirming an individual in an unrelated area reduces defensiveness and increases objectivity to conflicting information. Using an affirmation manipulation prior to a credibility assessment task, this study investigated if experts are threatened by counterattitudinal expert system recommendations. For our study, 178 credibility assessment experts from the American Polygraph Association (n = 134) and the European Union's border security agency Frontex (n = 44) interacted with a deception detection expert system to make a deception judgment that was immediately contradicted. Reducing the threat prior to making their judgments did not improve accuracy, but did improve objectivity toward the system. This study demonstrates that human experts are threatened by advanced expert systems that contradict their expertise. As more and more systems increase integration of artificial intelligence and inadvertently assail the expertise and abilities of users, threat and self-evaluative concerns will become an impediment to technology acceptance.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3074">credibility assessment systems</a>,    <a href="/keywords/1755">deception detection</a>,    <a href="/keywords/156">expert systems</a>,    <a href="/keywords/3075">user anxiety</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

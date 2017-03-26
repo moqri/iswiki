@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/37">    Volume 25 Number 2 2008
+</a> pp. 125-144</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Deterrent and Displacement Effects of Information Security Enforcement: International Evidence</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/826">Png, Ivan P L,</a>    <a href="/contributors/1258">Chen-Yu, Wang,</a> and     <a href="/contributors/1259">Qiu-Hong, Wang</a>    </div>
+
+<p>ABSTRACT: We adapt the event study methodology from research in financial economics to study the impact of government enforcement and economic opportunities on information security attacks. We found limited evidence that domestic enforcement deters attacks within the country. However, we found compelling evidence of a displacement effect: U.S. enforcement substantially increases attacks originating from other countries. We also found strong evidence that attackers are economically motivated in that the number of attacks is increasing in the U.S. unemployment rate. Our findings were robust to differences in the effective time window of enforcement and the measurement of vulnerabilities.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2439">economics</a>,    <a href="/keywords/2271">information security</a>,    <a href="/keywords/2440">security attacks</a>,    <a href="/keywords/2441">security enforcement</a>,    <a href="/keywords/2442">unemployment rate</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

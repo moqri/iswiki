@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/28">    Volume 18 Number 2 2001
+</a> pp. 47-63</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Should We Wait?: Network Externalities, Compatibility, and Electronic Billing Adoption</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/78">Au, Yoris A</a> and     <a href="/contributors/79">Kauffman, Robert J</a>    </div>
+
+<p>ABSTRACT: This study examines the adoption of electronic bill presentment and payment (EBPP) technology. EBPP continues to grow and will become a multi-billion dollar e-commerce industry. The technology adoption configuration in this context is quite interesting because it involves four stakeholders: billers, bill consolidators, banks, and consumers. Banks and bill consolidators compete to act as an intermediary between billers and consumers. Network externalities play a significant role: the more billers that adopt the technology, the more consumers are willing to use the services. Our analysis is based on the welfare economics concept of finding the socially optimum adoption configuration and the resulting adoption pattern in a market with sponsored technologies. The results show that due to network externalities, billers are more likely to adopt the existing technology early, though the next technology might be superior to the current one. When the higher costs of early adoption are taken into account, the model shows that billers are more willing to wait, ceteris paribus. Our results also show that anticipation of a new and better, but compatible, technology might cause billers to wait, depending on what benefits they expect by adopting early, and how much cost they anticipate to incur upgrading their technology later.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1455">electronic billing presentment and payment (EBPP)</a>,    <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/1456">financial services network externalities</a>,    <a href="/keywords/1457">standards</a>,    <a href="/keywords/1202">technology adoption</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

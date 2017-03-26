@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/57">    Volume 11 Number 4 1995
+</a> pp. 149-176</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Element Finding: The Impact of a Group Support System on a Crucial Phase of Sense Making</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1114">Massey, Anne P</a> and     <a href="/contributors/1115">Clapper, Danial L</a>    </div>
+
+<p>ABSTRACT: Many of the problem situations facing organizations today are complex and ill-structured, lacking a definitive structure and formulation. The attempt to clearly understand and make sense of these situations is difficult, but crucial, early requirements for effective problem solving. Problem-solving theory suggests that element finding--identifying the elements or variables that are relevant to a problem situation--is one of the earliest essential divergent activities of sense making. This paper details a theoretical framework synthesizing the work of a number of problem-solving research streams to highlight how brainstorming, although with distinct objectives, can be used as a divergent tool during very different phases of the problem-solving process. Using this framework, we empirically explored the impact of electronic brainstorming--a feature of group support systems--on element finding as groups attempted to identify the elements of an ill-structured situation facing them.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/196">brainstorming</a>,    <a href="/keywords/822">cognitive models</a>,    <a href="/keywords/823">group environment</a>,    <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/824">problem structuring and formulation</a>,    <a href="/keywords/825">sense making</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

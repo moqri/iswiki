@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/83">    Volume 19 Number 3 2002
+</a> pp. 121-154</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Query-Driven Approach to the Design and Management of Flexible Database Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/337">Chen, Andrew N K,</a>    <a href="/contributors/338">Goes, Paulo B,</a> and     <a href="/contributors/199">Marsden, James R</a>    </div>
+
+<p>ABSTRACT: The need for timely information in the e-business world provides the impetus to develop a flexible database system with the capability to adapt and maintain performance levels under changing queries and changing business environments. Recognizing the importance of providing fast access to a variety of read-only applications in today's e-business world, we introduce the systems architecture for developing and implementing a flexible database system to achieve considerable gains in processing times of read queries. The key component of a flexible database system is query mining, the concept of determining relationships among query properties, alternative database structures, and query processing times. We validate the flexible database system concept through extensive laboratory experiments, where we embed learning tools to demonstrate the implementation of query mining.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/356">database management</a>,    <a href="/keywords/916">database querying</a>,    <a href="/keywords/1207">data mining</a>,    <a href="/keywords/613">inductive learning</a>,    <a href="/keywords/1282">information retrieval</a>,    <a href="/keywords/386">neural networks</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

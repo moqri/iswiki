@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/77">    Volume 22 Number 4 2006
+</a> pp. 109-142</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Information Systems Security Risk Assessment Model Under the Dempster-Shafer Theory of Belief Functions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1044">Lili, Sun,</a>    <a href="/contributors/1045">Srivastava, Rajendra P,</a> and     <a href="/contributors/1046">Mock, Theodore J</a>    </div>
+
+<p>ABSTRACT: This study develops an alternative methodology for the risk analysis of information systems security (ISS), an evidential reasoning approach under the Dempster-Shafer theory of belief functions. The approach has the following important dimensions. First, the evidential reasoning approach provides a rigorous, structured manner to incorporate relevant ISS risk factors, related countermeasures, and their interrelationships when estimating ISS risk. Second, the methodology employs the belief function definition of riskâ€”that is, ISS risk is the plausibility of ISS failures. The proposed approach has other appealing features, such as facilitating cost-benefit analyses to help promote efficient ISS risk management. The paper elaborates the theoretical concepts and provides operational guidance for implementing the method. The method is illustrated using a hypothetical example from the perspective of management and a real-world example from the perspective of external assurance providers. Sensitivity analyses are performed to evaluate the impact of important parameters on the model's results.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2055">belief function theory</a>,    <a href="/keywords/81">cost-benefit analysis</a>,    <a href="/keywords/2056">evidential reasoning</a>,    <a href="/keywords/1197">information system security</a>,    <a href="/keywords/2057">risk analysis</a>,    <a href="/keywords/1173">sensitivity analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

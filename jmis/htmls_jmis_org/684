@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/60">    Volume 19 Number 2 2002
+</a> pp. 273-302</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Job Satisfaction of Information Technology Workers: The Impact of Career Orientation and Task Automation in a CASE Environment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/420">McMurtrey, Mark E,</a>    <a href="/contributors/195">Grover, Varun,</a>    <a href="/contributors/611">Teng, James T C,</a> and     <a href="/contributors/1125">Lightner, Nancy J</a>    </div>
+
+<p>ABSTRACT: This study investigates the job satisfaction of information technology (IT) professionals in an environment where computer aided software engineering (CASE) tools are used. Although the recent downturn in the economy might have temporarily eased the IT labor shortage, issues of recruitment and retention of qualified personnel are key to the success of IS development projects. This study presents a model of the combination of CASE tool usage and job satisfaction as related to internal career orientation. Two hypotheses based on this model were tested using empirical evidence collected through a survey method. The first examines whether the career orientation of IS personnel influences their job satisfaction. The second incorporates the impact of CASE tool usage on this relationship. The results indicate that in a CASE tool environment, personnel with a predominant technical career orientation have more job satisfaction than those with a predominant managerial orientation. However, there is a significant and positive synergy between the sophistication of the CASE tool used and managerial competence orientation leading to higher job satisfaction. These findings indicate that combating the IT personnel shortage through task automation may also increase worker satisfaction, thereby decreasing turnover. Careful selection of the CASE tool for use may result in this win-win situation.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/584">career orientations</a>,    <a href="/keywords/513">CASE</a>,    <a href="/keywords/222">information systems development</a>,    <a href="/keywords/1602">information technology workers</a>,    <a href="/keywords/345">job satisfaction</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

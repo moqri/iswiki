@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/107">    Volume 13 Number 1 1996
+</a> pp. 145-166</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Empirical Test of the Contingency Approach to User Participation in Information Systems Development</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1346">Saleem, Naveed</a>    </div>
+
+<p>ABSTRACT: User participation in information systems development is considered the key to system success in organizations. The empirical evidence, however, does not support this. A review of the literature suggests that one critical weakness in empirical investigations is inadequacy of operational measures of participation to gauge user influence on system design. Furthermore, there is also a growing consensus that the contradictory evidence may be due to a contingent, rather than a direct, relationship between participation and system success. This conception asserts that the outcome of user participation may depend on various contextual variables. One variable in particular--users' system-related functional expertise--is believed to moderate the outcome of participation. This paper derives the contingent effect of user expertise and reports the results of a controlled laboratory experiment and a field survey conducted to test it. The data suggest that users who perceive themselves as functional experts, relative to others, are unlikely to accept a system unless they exerted a substantive influence on its design. On the other hand, users who perceive themselves as functional nonexperts, relative to others, are likely to accept a system regardless of the extent of their influence on its design. This finding suggests user expertise as a useful criterion for selecting participants to serve on design teams and for determining the appropriate extent of a participant user's influence on system design.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/934">design teams</a>,    <a href="/keywords/935">system acceptance</a>,    <a href="/keywords/220">demand for MIS professionals</a>,    <a href="/keywords/117">system development</a>,    <a href="/keywords/936">system success</a>,    <a href="/keywords/937">user participation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

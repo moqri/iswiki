@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/38">    Volume 16 Number 1 1999
+</a> pp. 17-36</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>MOTC: An Interactive Aid for Multidimensional Hypothesis Generation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/102">Balachandran, Krishnamohan,</a>    <a href="/contributors/103">Buzydlowski, Jan,</a>    <a href="/contributors/104">Dworman, Garett,</a>    <a href="/contributors/105">Kimbrough, Steven O,</a>    <a href="/contributors/106">Shafer, Tate,</a> and     <a href="/contributors/107">Vachula, William J</a>    </div>
+
+<p>ABSTRACT: This paper reports on conceptual development in the areas of database mining and knowledge discovery in databases (KDD). The authors' efforts have also led to a prototype implementation, called MOTC, for exploring hypothesis space in large and complex data sets. Their KDD conceptual development rests on two main principles. First, they use the crosstab representation for working with qualitative data. This is by now standard in on-line analytical processing (OLAP) applications, and the authors reaffirm it with additional reasons. Second, and innovatively, they use prediction analysis as a measure of goodness for hypotheses. Prediction analysis is an established statistical technique for analysis of associations among qualitative variables. It generalizes and subsumes a large number of other such measures of association, depending on specific assumptions the user is willing to make. As such, it provides a very useful framework for exploring hypothesis space in a KDD context. The paper illustrates these points with an extensive discussion of MOTC.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1207">data mining</a>,    <a href="/keywords/1208">data visualization</a>,    <a href="/keywords/1209">hypotheses exploration</a>,    <a href="/keywords/1210">knowledge discovery in databases</a>,    <a href="/keywords/1211">OLAP</a>,    <a href="/keywords/1212">prediction analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

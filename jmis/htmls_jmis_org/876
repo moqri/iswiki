@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/101">    Volume 12 Number 3 1995
+</a> pp. 155-170</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Invoking Social Comparison to Improve Electronic Brainstorming: Beyond Anonymity</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1127">Shepherd, Morgan M,</a>    <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/249">Reinig, Bruce A,</a>    <a href="/contributors/1314">Yen, Jerome,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: This paper presents a study of electronic brainstorming (EBS) that begins with theory building, tool development, and experimentation, and ends with practical guidance for facilitators and developers. The paper argues that social loafing impairs the productivity of EBS groups, and that social comparison is a way to decrease the effect(s) of social loafing. The literature on brainstorming productivity suggests that there is a correlation between the quantity of ideas produced and the number of high-quality ideas produced. By inducing social comparison with a graphical feedback tool and increasing the salience of that social comparison with facilitation techniques, we increased the productivity of EBS groups by 63 percent.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/890">electronic brainstorming</a>,    <a href="/keywords/888">group creativity</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/891">social loafing</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

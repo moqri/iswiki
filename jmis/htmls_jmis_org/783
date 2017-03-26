@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/88">    Volume 12 Number 2 1995
+</a> pp. 161-187</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Modeling Approach to Evaluating Strategic Uses of Information Technology</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1269">Post, Gerald V,</a>    <a href="/contributors/1270">Kagan, Albert,</a> and     <a href="/contributors/1272">Kin-Nam, Lau</a>    </div>
+
+<p>ABSTRACT: Traditional static benefit-cost methods were useful when evaluating transaction processing systems. Strategic benefits are more difficult to evaluate, since they involve dynamic interactions between customers, suppliers, and rivals. In an attempt to gain a competitive advantage, there is a strong incentive to be the first implementor of new technology. However, information technology (IT) costs decline overtime, so there is an incentive to delay implementation. A model is developed that enables managers to evaluate this trade-off and choose the best implementation time. The model emphasizes competition between large firms in a regional (or national) market, interacting with firms in a local market. The model is illustrated with an application to the banking industry. It compares the implementation times of larger regional banks vis-Ã -vis smaller local banks, and shows how the banks might use technology to respond to various changes in the banking industry.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/873">evaluating strategic investments</a>,    <a href="/keywords/874">game theory</a>,    <a href="/keywords/178">strategic information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

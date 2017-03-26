@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/129">    Volume 32 Number 4 2015
+</a> pp. 4-39</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>How the Use of Big Data Analytics Affects Value Creation in Supply Chain Management</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/339">Chen, Daniel Q,</a>    <a href="/contributors/340">Preston, David S,</a> and     <a href="/contributors/1805">Swink, Morgan</a>    </div>
+
+<p>ABSTRACT: 
+<p>Despite numerous testimonials of first movers, the underlying mechanisms of organizations’ big data analytics (BDA) usage deserves close investigation. Our study addresses two essential research questions: (1) How does organizational BDA usage affect value creation? and (2) What are key antecedents of organizational-level BDA usage? We draw on dynamic capabilities theory to conceptualize BDA use as a unique information processing capability that brings competitive advantage to organizations. Furthermore, we employ the technology–organization–environment (TOE) framework to identify and theorize paths via which factors influence the actual usage of BDA. Survey data collected from 161 U.S.-based companies show that: organizational-level BDA usage affects organizational value creation; the degree to which BDA usage influences such creation is moderated by environmental dynamism; technological factors directly influence organizational BDA usage; and organizational and environmental factors indirectly influence organizational BDA usage through top management support. Collectively, these findings provide a theory-based understanding of the impacts and antecedents of organizational BDA usage, while also providing guidance regarding what managers should expect from usage of this rapidly emerging technology.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3585">and phrases: big data</a>,    <a href="/keywords/3586">data analytics</a>,    <a href="/keywords/3587">dynamics capability theory</a>,    <a href="/keywords/969">structural equation modeling</a>,    <a href="/keywords/674">survey research</a>,    <a href="/keywords/3588">TOE framework</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

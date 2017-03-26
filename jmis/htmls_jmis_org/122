@@ -1,0 +1,112 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/77">    Volume 22 Number 4 2006
+</a> pp. 7-11</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Issue: Crossing Boundaries in Information Systems Research</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/236">Sprague Jr, Ralph H</a>    </div>
+
+<p><p>
+ Robert O. Briggs is a Visiting Research Professor at the Center for Distance Education in the College of Rural and Community Development at the University of Alaska, Fairbanks, and an Associate Professor of Systems Engineering at the Delft University of Technology in the Netherlands. In 1994, he earned his Ph.D. from the University of Arizona in Management and Information Systems with a minor in Communication. He researches the cognitive foundations of collaboration and learning, and applies his findings to the development and deployment of collaborative processes and technologies in the workplace. He is coinventor of the thinkLets process and cofounder of the discipline of Collaboration Engineering. As Director of Research and Development for GroupSystems.com, he created the conceptual designs for and helped oversee the development of a new generation of collaboration technology based on the principles of collaboration engineering. He has published more than 90 refereed scholarly works on theoretical, experimental, and applied research on collaboration and learning. He and his coauthors have advanced theories of group productivity, satisfaction, technology transition, creativity, and ideation.
+</p>
+<p>
+ Jay F. Nunamaker Jr. is Regents and Soldwedel Professor of MIS, Computer Science, and Communication, and Director of the Center for the Management of Information at the University of Arizona, Tucson. He received his Ph.D. in Systems Engineering and Operations Research from Case Institute of Technology, an M.S. and B.S. in Engineering from the University of Pittsburgh, and a B.S. from Carnegie Mellon University. Dr. Nunamaker received the LEO Award from the Association of Information Systems at the International Conference on Information Systems (ICIS) in Barcelona, Spain, December 2002. This award is given for a lifetime of exceptional achievement in information systems. He was elected as a fellow of the Association of Information Systems in 2000. He has over 40 years of experience in examining, analyzing, designing, testing, evaluating, and developing information systems. He has served as a test engineer at the Shippingport Atomic Power facility, as a member of the ISDOS team at the University of Michigan, and as a member of the faculty at Purdue University, prior to joining the faculty at the University of Arizona in 1974. His research on group support systems addresses behavioral as well as engineering issues and focuses on theory as well as implementation. He has been a licensed professional engineer since 1965.
+</p>
+<p>
+ Ralph H. Sprague Jr. is a Professor, former Chairman, and Founder of the Department of Information Technology Management in the College of Business Administration at the University of Hawaii. He has over 30 years of experience in teaching, research, and consulting in the use of computer and information technologies in organizations. His specialties are decision support systems, strategic systems planning, the management of information systems, and electronic document management. He has served as Chairman or Cochairman of the Hawaii International Conference on System Sciences for the past 26 years.
+</p>
+<p>
+ The history of information systems (IS) began with isolation. Stand-alone machines in glass boxes cranked out numbers meaningful only to an exclusive few. Only the punch cards and the printouts crossed the glass boundary. When users first crossed the boundary with TTY and CRT terminals, technological isolation still reigned. Each kind of machine had its own operating system. Programs on the same machine did not share data stores or messages. Information did not travel from machine to machine except on magnetic tape via the sneaker-net or from person to person except through the mail.
+</p>
+<p>
+ On December 9, 1968, Douglas Engelbart and a team of 15 researchers from the Augmentation Research Center gave a historic 90-minute demonstration that set a new course for information technology (IT). Beyond the mice, windows, and active cursors, which were demonstrated there, the presentation established a vision for crossing boundaries with IT. Text and graphics capabilities operated seamlessly on the same information; data streamed long distances by wire, people worked in collaboration at a distance to create and maintain shared digital objects. Since that vision was established, the IS/IT community has wrestled with and advanced the effort to break down barriers and span boundaries of many kinds&#8212;technical, social, cognitive, organizational, and societal&#8212;but much work remains to be done on all these fronts.
+</p>
+<p>
+ This special issue of JMIS seeks to advance that work. The papers for this special issue were drawn from the best-paper nominees at the Hawaii International Conference on System Sciences. Each paper addresses a different aspect of crossing boundaries with IS/IT. In keeping with the traditions of JMIS, the papers present diversity of methodological and epistemological approaches. They span the continuum from social to technical treatments.
+</p>
+<p>
+ Crossing Organizational Boundaries
+</p>
+<p>
+ Natalia Levina and Emmanuelle Vaast, in their paper, &#8220;Turning a Community into a Market: A Practice Perspective on Information Technology Use in Boundary Spanning,&#8221; use an ethnographic approach to examine how IT can transform relations across fields of practice within and among organizations. Drawing on Bourdieu&#8217;s practice theory, they focus on the concepts of embodiment and objectification. The paper makes a distinction between &#8220;market-like&#8221; and &#8220;community-like&#8221; boundary-spanning practices.
+</p>
+<p>
+ In their paper, &#8220;Field Experiences with eXtreme Programming: Developing an Emergency Response System,&#8221; Ann Fruhling and Gert-Jan de Vreede report a field study of the relatively new eXtreme Programming (XP) system development methodology in the context of a team developing a multiorganizational emergency response system. The paper provides an excellent overview of agile development methodologies in general and reports critical incidents and draws inferences from them with respect to the strengths and limitations of the XP approach.
+</p>
+<p>
+ Crossing System Boundaries
+</p>
+<p>
+ Khalil Khoumbati, Marinos Themistocleous, and Zahir Irani work toward bridging technical boundaries in their paper, &#8220;Evaluating the Adoption of Enterprise Application Integration in Health-Care Organizations.&#8221; Enterprise application integration (EAI) technology addresses the need to integrate heterogeneous IS in order to enhance quality of organizational services and reduce costs. The paper uses fuzzy cognitive mapping (FCM) techniques to identify causal interrelationships among factors that influence EAI adoption in a particular sector where it has been slow to transition&#8212;the health-care industry.
+</p>
+<p>
+ The paper, &#8220;An Information Systems Security Risk Assessment Model Under the Dempster&#8211;Shafer Theory of Belief Functions,&#8221; by Lili Sun, Rajendra P. Srivastava, and Theodore J. Mock, presents a methodology for analyzing the security risk of IS that cross departmental and organizational boundaries. The paper takes a structured evidential reasoning approach based on the Dempster&#8211;Shafer theory of belief functions to identify relevant information systems security (ISS) risk factors and related countermeasures, estimating the risks and the plausibility of ISS failures. The approach incorporates cost&#8211;benefit analyses to help promote efficient ISS risk management. The method is illustrated with hypothetical real-world examples from the perspective of external assurance providers.
+</p>
+<p>
+ Crossing Boundaries of Space and Time
+</p>
+<p>
+ David L. Paul, in his paper, &#8220;Collaborative Activities in Virtual Settings: A Knowledge Management Perspective of Telemedicine,&#8221; addresses challenges facing people using technology to work together at a distance, with a particular focus on their knowledge management issues. He explores three aspects&#8212;knowledge transfer, knowledge discovery, and knowledge creation in the context of telemedicine projects&#8212;and discusses how these elements play out with respect to project process and perceptions of the results.
+</p>
+<p>
+ Social Boundaries and the Digital Divide
+</p>
+<p>
+ Jolie C.Y. Lam and Matthew K.O. Lee, in their paper, &#8220;Digital Inclusiveness&#8212;Longitudinal Study of Internet Adoption by Older Adults,&#8221; address both the generation gap and the digital divide. They argue that training programs and access to computer facilities are not sufficient to bring socially disadvantaged groups into the worldwide digital discourse. The paper reports a three-part longitudinal study of voluntary adoption of Internet technologies by almost 1,000 older adults (age 55 and above), focusing specifically on self-efficacy and outcome expectations. The study included surveys, laboratory experiments, and cognitive knowledge assessments over a one-year period to illuminate the antecedents of self-efficacy, outcome expectations, and adoption.
+</p>
+<p>
+ Crossing Methodological Boundaries
+</p>
+<p>
+ Jinwei Cao, Janna M.  Crews, Ming Lin, Amit Deokar, Judee K. Burgoon, Jay F. Nunamaker Jr. report on efforts to span the boundaries between research paradigms to improve IS research in their paper, &#8220;Interactions between System Evaluation and Theory Testing: A Demonstration of the Power of a Multifaceted Approach to Information Systems Research.&#8221; They summarize a series of studies conducted throughout a multiyear development project for a computer-based training system, demonstrate how each research approach informed the advancement of technology in a different and useful way, and propose an integrated research framework for IS.
+</p>
+<p>
+ Human/Machine Boundaries
+</p>
+<p>
+ In their paper, &#8220;Discovering Cues to Error Detection in Speech Recognition Output: A User-Centered Approach,&#8221; Lina Zhou, Yongmei Shi, Dongsong Zhang, and Andrew Sears seek to cross the boundaries between humans and computers with a new approach to speech recognition technology. The new approach seeks to detect and correct recognition errors by combining extant data-driven approaches with heuristics from human users. The paper reports the details of the new approach and reports empirical findings that suggest the new approach can improve speech recognition output and aid user error detection, which may break the barrier for mainstream adoption of speech technology in a variety of IS and applications.
+</p>
+<p>
+ Conclusion
+</p>
+<p>
+ In the IS/IT world, we still face many complex challenges of boundaries and isolation. It is interesting to note the degree to which the surface characteristics of today&#8217;s desktop experience were defined by Douglas Engelbart&#8217;s 1968 demonstration&#8212;it set the stage for word processing, slide show presentations, e-mail, chat, desktop video, and other elements that are common today. At the time of this writing, one can browse the World Wide Web to locate sloan.stanford.edu/MouseSite/1968Demo.html and view the filmed record of that event. It is well worth the time because, below the surface, the demonstration embodies tantalizing concepts of boundary spanning that are still not part of the conventional way of thinking about computers. In our world, for example, applications and people now have many ways to share and exchange data&#8212;a great step forward from the early days of glass-box isolation. In Englebart&#8217;s world, though, neither data nor computer capabilities are contained by the boundaries of an application. The data simply appear, and the user calls free-range capabilities as if they were genies to transform the data on command.
+</p>
+<p>
+ There is inspiration yet to be found in Englebart&#8217;s early work, but it is also important to note that some of the challenges addressed by the papers in this Special Issue were not conceived in 1968. Each of these papers extends our understanding of spanning boundaries with IS in a different direction and in a unique way. We commend each of them to your reading.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

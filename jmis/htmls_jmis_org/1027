@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/6">    Volume 11 Number 2 1994
+</a> pp. 75-107</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Researching the Costs of Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1587">West Jr, Lawrence A</a>    </div>
+
+<p>ABSTRACT: This paper explores the issue of scale economies in the construction of information systems. Economic theory is used to identify transaction attributes that contribute to scale economies and the concept of an information system is then decomposed into separable components. Each component is analyzed with respect to the availability of one or more of the sources of scale economy. The analysis finds that each component possesses at least some potential for realizing scale economies and that some components may realize very large per-unit cost savings as scale of system use or capability is expanded. The implications of these findings for the organization of information services, including outsourcing, are highlighted and illustrated with consistent examples from IS-intensive industries. Future research is proposed with respect to the actual nature of IS scale economies; the presence of scope economies with respect to multicomponent systems; the relative importance of production costs, transaction costs, and benefits as determinants of acquisition choice; and the impact of IS acquisition method on the organization of firms and industries.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/764">economies of scale</a>,    <a href="/keywords/640">information economics</a>,    <a href="/keywords/765">information services</a>,    <a href="/keywords/766">transaction costs</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

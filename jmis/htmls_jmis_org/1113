@@ -1,0 +1,71 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/70">    Volume 12 Number 4 1996
+</a> pp. 3-4</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ DATA QUALITY IS A PERSISTENT AND SERIOUS PROBLEM, underlying untrustworthiness of many information systems.  Absence of quality is by far not limited to the lack of accuracy.  This point is emphasized by Richard Y. Wang and Diane M. Strong, who in the opening paper of this issue present a multidimensional parse of the notion of data quality.  They use the methods of marketing research developed to determine the characteristics of product quality in order to derive a four-pronged conceptualization of data quality.  These characteristics reflect not only the intrinsic quality, such as accuracy, but also contextual suitability, quality of the chosen data representation, and quality of the provided access to the data.  An important feature of this work is that the framework has been derived from the stated needs of data consumers.  Indeed, preliminary evidence shows that the use of the framework can contribute to a better understanding of what data quality means in a specific organizational context.
+</p>
+<p>
+ Two papers center on strategic organizational issues.  A set of organizational factors that may facilitate of inhibit the development of strategic information systems by a firm has been isolated by William R. King and Thompson S. H. Teo.  Starting with a comprehensive list of the potential facilitators and inhibitors compiled or inferred from the literature, the researchers conducted an extensive survey, and with the aid of statistical techniques obtained a compact set of facilitators and inhibitors.  Since the latter in particular are rarely discussed, both other researchers and practitioners will benefit from thinking through this set of deciding factors.
+</p>
+<p>
+ As business globalization progresses apace, some firms competing in a heavily affected industry, such as financial services, rely heavily on information technologies to integrate their operations in order to serve their multinational customers.  Others do not.  Jahangir Karimi, Yash P. Gupta, and Toni M. Somers find that a firm's competitive strategy and the maturity of its information technology are important predictors of its response to major milestones in globalization, such as free trade or regional unification agreements.  It is vital that MIS managers be keenly attuned to the factors that would mediate their firm's response to the ongoing environmental change.
+</p>
+<p>
+ Information systems outsourcing may receive waves of good or bad press, but it is a major avenue of service delivery.  Varun Grover, Myun Joong Cheon, and James T.C. Teng study several factors of outsourcing success and find that this success is strongly correlated with the outsourcing of systems operations and telecommunications-indeed, anecdotal evidence suggests that these are the most frequently outsourced functions.  Rather predictably, service quality and reaching a degree of partnership between the service provider and the customer firm are important to success.  Future investigators would do well to study the effects of the length of these relationships on the one hand and the nature of service contracts on the other on the success achieved.
+</p>
+<p>
+ Two papers that follow deal with information systems development.  Shouhong Wang offers a methodology for object-oriented systems analysis.  The methodology formalizes some aspects of the analysis procedure, relying on the four types of object classes identified by the author by studying the protocols of actual systems analyses.  An experimental study has shown advantages of the proposed method of object-oriented analysis as compared with structured systems analysis.  Protocol analysis of the work of experienced developers can lead to further formalization of the methodology.
+</p>
+<p>
+ Girish H. Subramanian and George E. Zarnich study the productivity associated with the use of integrated computer-aided  software engineering (ICASE) tools.  In agreement with other recent work, the authors find the function point measure of the proposed system to be a good predictor of the development effort. However, the authors also find that the technical complexity factor (which serves to adjust the function point measure) does not help in gauging the extent of work in the ICASE environment.  Since the envisaged complexity of the specific project is highly variable and clearly important, substitutes have to be sought.  The authors find that particularly beneficial is the use of ICASE tools combined with rapid prototyping.
+</p>
+<p>
+ Information technology pervades all aspects of our life-and information systems may even endanger it.  While far from completely formed, legal mechanisms exist to partly protect the customers of IS developers and the public from faulty systems.  It is well that the developers be aware of these mechanisms and use this knowledge in their decision making.  Bijoy Bordoloi, Kathleen Mykytyn, and Peter P. Mykytyn, Jr. Present a framework for assessing the possibility of an injury that could result from the development of  a faulty system and assessing the legal liability associated with fielding a given system.  It should be obvious that this is not a substitute for a quality system development process or an ethical approach to the issue.  It is, rather, a necessary precursor or an adjunct to the development of many systems.
+</p>
+<p>
+ Robert L. Leitheiser and Salvatore T. March explore the influence of the representation method chosen for the database structure on the ease of learning and of use of the database system.  This work complements research that investigates the influence of the selected query language on these outcomes.  The authors find that the way in which the database structure is presented to the users may have dramatic effects on user performance.
+</p>
+<p>
+ What behavioral factors influence the performance of organizational accounting information systems, perhaps the most common functional information system?  A detailed study performed by Jong-min Choe not only identifies the influence factors, but shows that their effects depend on the stage of the system's evolution in the firm.  For example, even such a home truth as the benefits of the involvement of top management cannot be taken for granted, and the extent of the benefit reaped from the training and education of end users also depends on the system's evolution stage.
+ <br/>
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

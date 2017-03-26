@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/77">    Volume 22 Number 4 2006
+</a> pp. 337-376</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Use of Cognitive Maps and Case-Based Reasoning for B2B Negotiation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/960">Kun-Chang, Lee</a> and     <a href="/contributors/961">Soon-Jae, Kwon</a>    </div>
+
+<p>ABSTRACT: Conventional approaches to business-to-business (B2B) negotiation use primary negotiation terms (PNTs) such as price or order quantity for modeling and analysis, but pay little attention to such secondary negotiation terms (SNTs) as resource availability and corporate culture. This paper argues that SNTs also contribute to good negotiation decisions because PNTs and SNTs are closely interlinked in the form of causal relationships. Moreover, B2B negotiation demands a practical and useful framework that can reuse past negotiation knowledge and perform â€˜what-ifâ€™ analysis. This paper proposes a framework that consists of formalization, reuse, and problem-solving phases. The framework first formalizes TAKBN (tacit knowledge about B2B negotiation) with both PNTs and SNTs using a cognitive map and case-based reasoning, then stores them in case bases as cases that can be retrieved for later use and problem solving. This framework provides a platform with which decision makers can study past B2B negotiation cases, apply them to current B2B negotiation problems, and simulate different negotiation situations before making decisions. The framework has been tested using two practical scenarios. A structured, 13-item questionnaire was rigorously developed and applied to evaluate the validity of the proposed framework based on 16 B2B negotiation experts' judgments. Statistical tests proved that the proposed framework could improve decision performance significantly in B2B negotiations.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2078">B2B negotiation</a>,    <a href="/keywords/207">case-based reasoning</a>,    <a href="/keywords/2079">causal relationship</a>,    <a href="/keywords/2080">cognitive map</a>,    <a href="/keywords/2081">primary negotiation terms</a>,    <a href="/keywords/2082">secondary negotiation terms</a>,    <a href="/keywords/1361">tacit knowledge</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

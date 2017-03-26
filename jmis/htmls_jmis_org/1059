@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/24">    Volume 29 Number 2 2012
+</a> pp. 11-40</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Network Positions and Contributions to Online Public Goods: The Case of Chinese Wikipedia</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1637">Zhang, Xiaoquan</a> and     <a href="/contributors/1638">Wang, Chong</a>    </div>
+
+<p>ABSTRACT: We study the effect of collaboration network structure on the contribution behavior of participating editors in Wikipedia. Collaboration in Wikipedia is organized around articles, and any two editors co-editing an article have a collaborative relationship. Based on the economic theories about network games and social role theory, we propose that an editor's position in the collaboration network influences the editor's decisions about her total contribution as well as the allocation of her efforts. By leveraging panel data collected from the Chinese language version of Wikipedia and a natural experiment resulting from blocking it in mainland China, we find strong support for the proposed effect of network position on contribution behavior. Our analysis further reveals that different aspects of an individual's network position have distinct implications. This research enhances our understanding about how collaboration network structure shapes individual behavior in online mass collaboration platforms.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2973">effort allocation</a>,    <a href="/keywords/2974">mass collaboration</a>,    <a href="/keywords/2975">natural experiment</a>,    <a href="/keywords/2976">network centrality</a>,    <a href="/keywords/2977">online public goods</a>,    <a href="/keywords/2498">Wikipedia</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

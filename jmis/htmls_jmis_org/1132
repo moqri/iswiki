@@ -1,0 +1,64 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/39">    Volume 20 Number 3 2003
+</a> pp. 5-7</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ INFORMATION SYSTEMS ARE INCREASINGLY BECOMING an essential infrastructure of our supply webs, our marketplaces, our utilities, our communications and transportation networks, indeed of our lives. The  advent of the Internet and the Web, the nonproprietary software standards, the common protocols, the emerging uniform patterns of use all enable integration on a variety of levels. Grids of our civilization are increasingly based on integrated information technologies (IT). This is, of course, an immense benefit. It is also an immense vulnerability&#8212;on many levels and to many and various threats. Our research field has many  contributions to make to the reduction and containment of these vulnerabilities. Fundamental approaches are necessary to make software-driven networks of transactions, services, and relationships more reliable, more secure, and more resilient. The field of MIS possesses the intellectual endowment to visibly lead in research on systems combining people with IT in organizational settings. Indeed, the points of dramatic failure are frequently the issues arising from human interaction with technology and from the way these interactions are composed into organizational functioning. In many systems, these should be the lines of defense, rather than defeat.
+</p>
+<p>
+ It is time we have addressed in a programmatic way this large opportunity to contribute. A marked contribution to this very large pursuit is actually already being made in the MIS research. The Guest Editors of our Special Section on Assuring Information Quality, Donald Ballou, Stuart Madnick, and Richard Wang, have been the long-time leaders in the field captioned in their section. The four papers they have selected address several fundamental issues concerning the data quality necessary to assure information quality. The Guest Editors will introduce this very important area and the papers to you.
+</p>
+<p>
+ The contribution of IT to firm productivity has been studied intensely, and particularly so since Robert Solow declared himself unable to find the effects of IT in productivity statistics, thereby initiating the problem of the &#8220;productivity paradox.&#8221; Recently, in the same rather unobvious venue, Solow wrote about &#8220;the rather sudden and unexpected acceleration of productivity in the U.S. after 1995, which was not shared by other industrial countries. Very likely some of it was the late-arriving benefits of information technology&#8221; [3, p. 51]. As any other capital input, IT has to be deployed well and appropriately to the organizational and marketplace contexts in order to render benefit. It has also become apparent that, like its predecessor transformational technologies, IT engenders productivity effects on a national scale only after an extensive lag. This journal has published much of the work investigating IT productivity, starting with one of the earliest scholarly empirics on the subject [1]. In the present issue, building on the work previously published in JMIS, Jing &#8220;Jim&#8221; Quan, Qing Hu, and Paul J. Hart analytically study the effects of IT on firm&#8217;s performance under a duopoly. Using their model, the authors are able to draw distinctions between the nature of investments leading to enhanced performance by a firm and others, depending also on the nature of the markets in which the firm operates.
+</p>
+<p>
+ Software development for information systems has been managed with two principal techniques. In the process approach, development methods and performance criteria are specified. In the structure approach, standards, procedures, and organizational structures are prescribed. In the next paper of the general section, Sarma R. Nidumolu and Mani R. Subramani attempt a synthesis of these into four possible managerial control modes. Using a survey, the authors then study the comparative effectiveness of these control modes in the software industry. Among the results of the study is the effectiveness of combining the standardization of performance criteria with the autonomy of methods deployed to achieve the given level of performance.
+</p>
+<p>
+ Trust deficit has been one of the reasons for the slow take-up of the business-to-consumer e-commerce (also known as e-tail). This fact has, in turn, precipitated extensive research interest in trust in the field of MIS.  A typology of trust operative in e-commerce has been developed [2]. In their paper in the present issue, Robin Pennington, H. Dixon Wilcox, and Varun Grover investigate the role of the system trust, engendered by  institutional structures. This form of trust derives from guarantees, vendor ratings, and seals of approval. Based on their survey-driven empirics, the authors are able to formulate several recommendations for practice  and broader research.
+</p>
+<p>
+ Organized and maintained with IT support, virtual teams have become organizational units of growing importance. With the expanding offshore outsourcing of knowledge work, we may expect the ever-increasing reliance on this organizational form. The virtuality of the team is clearly not an advantage when it comes to leading it. Through action research, David J. Pauleen has identified here three fundamental steps team leaders  use to build relationships with team members. Through rich case descriptions, the author is able to convey the  subtleties of succeeding (or not) during each of these steps.
+</p>
+<p>
+ As collaborative applications proliferate, user training needs to change. David King and Radhika Santhanam engaged in a longitudinal field study of a work flow application in order to refine the initial framework they had developed for the training process. The authors are able to offer an enhanced framework,  rooted in the understanding of collective processes of incremental knowledge appropriation during the actual ,   use of the system. The exploratory study will undoubtedly lead to further research on &#8220;learning while doing&#8221; with the support of collective systems.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

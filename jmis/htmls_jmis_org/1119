@@ -1,0 +1,70 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/104">    Volume 14 Number 4 1998
+</a> pp. 3-4</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ INFORMATION TECHNOLOGY HAS ENABLED A GREAT VARIETY of organizational workspace arrangements  by offering communication, coordination, and collaboration capabilities to knowledge workers. The authors of the  three papers in this issue's Special Section explore such issues as the organizational factors of satisfaction in  telecommuting arrangements, the emergence of trust in global virtual teams, and the community-building  experience using Web-based groupware. You may note the key notions of satisfaction, trust, and community in  high profile. The Guest Editor of the Special Section, Magid Igbaria, introduces the papers in greater detail.
+</p>
+<p>
+ In the first paper of the general section, Paul J. Hart and Carol S. Saunders investigate rather similar issues,  but they use a radically different unit of analysis. Hart and Saunders study the roles of trust (largely on the  supplier's side) and power (mostly that of the customer) in the information partnerships emerging from the use of  bilateral electronic data interchange (EDI). Among other results, trust was found to be related to a more diverse  use of EDI, a finding of importance to both researchers and practitioners.
+</p>
+<p>
+ Software reuse is currently on the very top of information-technology agendas. In their broad analytical  survey of the area, Yongbeom Kim and Edward A. Stohr accentuate the organizational, economic, behavioral, and  legal issues that may lead to the success or failure of a technologically best conceived program. The authors  derive from their framework a specific research program for the area.
+</p>
+<p>
+ The creation of IS-based organizational memory is a vital component of the recent drive toward knowledge  management by many leading organizations. In many of these firms, project teams have emerged as a basic unit  of work. Mark Weiser and Joline Morrison present a design of project memory system that helps capture and  make accessible for future use the comprehensive history of the project, incorporating the history of both the  process and the product. The availability of such memories can shorten the learning time and increase  performance level on future projects in the owner firm. The experience with a prototype system is evaluated.
+</p>
+<p>
+ John W. Satzinger and Lorne Olfman discuss the unexpected results of their laboratory experiments  concerning the interface consistency of end-user applications. The consistency of such interfaces is, of course,  touted as an absolute good. The authors, however, find that inconsistent visual appearance of the applications  resulted in a greater accuracy of user performance. Satzinger and Olfman provide a theoretical explanation of  their results and offer suggestions for interface designers.
+</p>
+<p>
+ Human resource management in the information-systems area, with the high demand it places on  well-performing professionals, is a challenge. Proper organizational socialization can lead to a more stable work  environment and higher levels of performance, including innovation. Ruth C. King and Vikram Sethi show  empirically which socialization tactics lead to desirable behaviors of information-systems professionals. Their  work opens a rich field for future research and has direct implications for practice.
+</p>
+<p>
+ In the concluding paper of the issue, Mary Jane Lenard, Gregory R. Madey, and Pervaiz Alam present the  design and discuss the validation of a hybrid information system developed to support a semistructured decision  process. The system combines a statistical decision-support type of model with an expert system in order to  achieve a greater requisite variety of responses. The hybrid system has been developed for the auditors' need to  assess the ability of a firm to continue as a going concern. The validation suite has shown the effective synergy  of the hybrid approach in an exploratory use by novice auditors.
+</p>
+<p>
+ <b>
+  Key words and  phrases
+ </b>
+ :  ,
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

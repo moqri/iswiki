@@ -1,0 +1,70 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/95">    Volume 14 Number 2 1997
+</a> pp. 3-4</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ THE PAPERS IN THE SPECIAL SECTION ON STRATEGIC and competitive information systems that opens this  issue analyze, respectively, the consequences of alternative information regimes in the insurance marketplace, of  alternative allocations of decision rights and tasks in a firm, and of alternative trading mechanisms in securities  markets--all of them strategic choices enabled by information technology. Each of the papers shows how some  of the options borne by information systems are blind alleys of government regulation, organizational structuring,  or market building--while others can lead to superior long-term performance. The Guest Editors of the Special  Section, Eric K. Clemons and Bruce W. Weber, whose authorial and editorial efforts have produced or enhanced  the papers in the section, describe it in their own introduction.
+</p>
+<p>
+ The organizations of our information society are recognizably different from their predecessors in the  industrial age with respect to structure, allocation of decision rights, and the nature of incentives--what some call  the architecture of organizations. Yet, until now, information systems have been considered the bearers of  options in this architecture, rather than carriers of directed change. For example, until now, the existing empirically  based literature has not associated decentralization of authority with the use of information systems. The work  by Lorin M. Hitt and Erik Brynjolfsson, reported here, may change this view. Using multi-industry firm-level data on  large U.S. corporations, these authors show that high levels of investments in information systems are linked to  decentralization, an increased role for knowledge work, and incentives that rely on workers' increased autonomy.  Echoing the analyses presented in the Special Section, the paper argues that only some of the options are fruitful  as information technology pervades the operation of organizations--and those are the options that abide. By  setting out a theoretical framework and supporting it with exploratory empirics, Hitt and Brynjolfsson initiate a  broad and important research program.
+</p>
+<p>
+ Object-oriented systems development had undoubtedly emerged as the new paradigm, slowly supplanting the  methodologies dubbed structured. However, this different way of thinking about the world being modeled by the  information system is relatively difficult to master. Steven D. Sheetz, Gretchen Irwin, David P. Tegarden, H. James  Nelson, and David E. Monarchi establish empirically the principal sources of the difficulty and suggest remedies.  Their paper is of significant interest not only because of the presented results, but also because of the way they  were obtained--the cognitive mapping technique deployed by the researchers using a group support system.
+</p>
+<p>
+ The extent and nature of desirable end-user participation in systems development continue to be open issues.  Here, James D. McKeen and Tor Guimaraes empirically identify five core participative behaviors that are  significantly related to user satisfaction with the resulting information system; they also identify a long list of  participative behaviors desirable in the development of more complex systems. These results should have a  bearing on our understanding of the appropriate role of offshore development.
+</p>
+<p>
+ Destination information systems are identified as a distinct type of interorganizational information system by  Hong-Mei Chen and Pauline J. Sheldon, who describe a coherent set of design requirements and the architecture  of these systems. Designed to service broadly understood travel needs, these systems may be expected to be  available in the future over the World Wide Web, which should sharply change the nature of intermediation in  travel commerce.
+</p>
+<p>
+ Jerry L. Maier, R. Kelly Rainer, and Charles A. Snyder investigate the preferred ways organizations with  different innovation-oriented postures scan for information about information technology. The authors find  surprising uniformity in these scanning behaviors.
+</p>
+<p>
+ The performance of artificial neural networks in decision problems where the events need to be dichotomized  into two categories with unequal probabilities of occurrence is the subject of Bharat A. Jain and Barin N. Nag.  Ex-ante identification of the future success or failure of a business venture going public is one such problem of  (considerable) interest. It would be an overstatement to say that all will be revealed to readers of this issue's final  paper, but the authors do show that neural networks can compete effectively with the statistical techniques being  used for such purposes today.
+</p>
+<p>
+ VLADIMIR ZWASS
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

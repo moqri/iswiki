@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/113">    Volume 13 Number 3 1996
+</a> pp. 45-63</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Spreadsheet Presentation and Error Detection: An Experimental Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/587">Galletta, Dennis F,</a>    <a href="/contributors/645">Hartzel, Kathleen S,</a>    <a href="/contributors/646">Johnson, Susan E,</a>    <a href="/contributors/647">Joseph, Jimmie L,</a> and     <a href="/contributors/648">Rustagi, Sandeep</a>    </div>
+
+<p>ABSTRACT: The pervasiveness and impact of electronic spreadsheets have generated serious concerns about their integrity and validity when used in significant decision-making settings. Previous studies have shown that few of the errors that might exist in any given spreadsheet are found, even when the reviewer is explicitly looking for errors. It was hypothesized that differences in the spreadsheets' presentation and their formulas could affect the detection rate of these errors. A sample of 113 M.B.A. students volunteered to search for eight errors planted in a one-page spreadsheet. The spreadsheet was presented in five different formats. A 2 x 2 design specified that four groups were given apparently conventional spreadsheets for comparing paper and screen and the presence or absence of formulas. A fifth group received a special printed spreadsheet with formulas visibly integrated into the spreadsheet printed in a small font directly under the resultant values. As in previous studies, only about 50 percent of the errors were found overall. Subjects with printed spreadsheets found more errors than their colleagues with screen-only spreadsheets but they took longer to do so. There was no discernible formula effect; subjects who were able to refer to formulas did not outperform subjects with access to only the final numbers. The special format did not facilitate error finding. Exploratory analysis uncovered some interesting results. The special experimental integrated paper format appeared to diminish the number of correct items falsely identified as errors. There also seemed to be differences in performance that were accounted for by the subjects' self-reported error-finding strategy. Researchers should focus on other factors that might facilitate error finding, and practitioners should be cautious about relying on spreadsheets' accuracy, even those that have been "audited."</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/980">electronic spreadsheets</a>,    <a href="/keywords/981">information systems audits</a>,    <a href="/keywords/982">spreadsheet validation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

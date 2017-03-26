@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/29">    Volume 22 Number 2 2005
+</a> pp. 165-191</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Information Technology Standards Choices and Industry Structure Outcomes: The Case of the U.S. Home Mortgage Industry</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1429">Wigand, Rolf T,</a>    <a href="/contributors/1588">Steinfield, Charles W,</a> and     <a href="/contributors/1108">Markus, M Lynne</a>    </div>
+
+<p>ABSTRACT: Vertical IS standards prescribe data structures and definitions, document formats, and business processes for particular industries, in contrast to generic information technology (IT) standards, which concern IT characteristics applicable to many industries. This paper explores the potential industry structure effects of vertical information systems (IS) standards through a case study of the U.S. home mortgage industry. We review theoretical arguments about the potential industry structure effects of standards for interorganizational coordination, and we compare the characteristics of XML-based vertical IS standards with those of electronic data interchange (EDI) to gauge the applicability of prior literature. We argue that the lower costs and wider accessibility of XML-based standards that use the Internet can result in significant changes to the structure of the mortgage industry. However, the nature of industry change will depend on the specific ways In which standards are implemented by organizations in the industry--there are many patterns of implementation with potentially different effects at the industry level of analysis. We illustrate these theoretical arguments with data from our case.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1972">adoption</a>,    <a href="/keywords/1973">effects of standards</a>,    <a href="/keywords/547">implementation</a>,    <a href="/keywords/1974">industry-level effects</a>,    <a href="/keywords/1975">industry structure</a>,    <a href="/keywords/1976">IS standards</a>,    <a href="/keywords/1977">IT choices</a>,    <a href="/keywords/1978">vertical standards</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

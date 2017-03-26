@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/113">    Volume 13 Number 3 1996
+</a> pp. 83-112</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Machine-Learning Approach to Automated Negotiation and Prospects for Electronic Commerce</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1203">Oliver, Jim R</a>    </div>
+
+<p>ABSTRACT: This paper shows how a system of artificial adaptive agents, using a genetic algorithm-based learning technique, can learn strategies that enable it to effectively participate in stylized business negotiations. The negotiation policies learned are evaluated on several dimensions including joint outcomes, nearness to the efficient frontier, and similarity to outcomes of human negotiations. The results are promising for integrating such agents into practicable electronic commerce systems. What a system might look like is discussed, as are ways in which particular classes of business negotiations could be supported or even entirely automated.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/140">electronic commerce</a>,    <a href="/keywords/748">genetic algorithms</a>,    <a href="/keywords/611">machine learning</a>,    <a href="/keywords/984">negotiation support</a>,    <a href="/keywords/985">software agents</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

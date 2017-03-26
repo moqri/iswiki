@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/51">    Volume 10 Number 4 1994
+</a> pp. 183-211</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Organization Designs for the Management of End-User Computing: Reexamining the Contingencies</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/253">Brown, Carol V</a> and     <a href="/contributors/224">Bostrom, Robert P</a>    </div>
+
+<p>ABSTRACT: To date, little research has been directed at the management infrastructure for end-user computing (EUC) from an organization design perspective. This study reports on the testing of a previously published contingency model in which two different structural forms are modeled for four states of EUC implementation: (1) an organic design (characterized by a decentralized, highly participatory form of decision making with loose controls), and (2) a mechanistic design (characterized by centralized decision making with a more tightly controlled form of management). Based on questionnaire data from 63 companies, statistical support is found for only the two states of EUC implementation for which a mechanistic design is modeled. Although only moderate support for this contingency model is found, the results of this study provide additional evidence for the effectiveness of a more controlled approach to EUC management under a low EUC growth objective at an early stage of implementation. This finding has important implications for other EUC management models and organization design options for assimilating new information technologies in general. The article concludes with recommendations for future empirical research, including a revised contingency model.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/104">contingency models</a>,    <a href="/keywords/365">end-user computing</a>,    <a href="/keywords/168">information systems management</a>,    <a href="/keywords/90">organization design</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

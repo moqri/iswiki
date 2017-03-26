@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/95">    Volume 14 Number 2 1997
+</a> pp. 133-150</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Successful Strategies for User Participation in Systems Development</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1122">McKeen, James D</a> and     <a href="/contributors/816">Guimaraes, Tor</a>    </div>
+
+<p>ABSTRACT: Past MIS research has indicated a mixed relationship between user participation and user satisfaction with system development projects, suggesting that user participation is not equally effective in all situations. This has led researchers to investigate the contexts within which user participation can be used to improve user satisfaction. This study builds on this past body of research by examining the relationship between specific user participative behaviors and user satisfaction in different contextual situations in order to identify the most successful participative behaviors. To do this, data were collected from 151 independent system development projects in eight different organizations. The context of development was described by two factors--task complexity and system complexity. As suggested in the literature, the combination of these two contextual factors determine the need for user participation. The relationship between specific participative behaviors and user satisfaction was then examined where the need for participation was high and those results were compared with situations with a lower need for participation. Not all participative behaviors were equally effective in all situations. Depending on the level of task complexity and system complexity, some user participative behaviors resulted in improved user satisfaction, while others had no relationship with satisfaction. The results add to earlier studies by identifying those specific user participative behaviors most beneficial under different contexts. The implications apply to both practitioners involved in the development of systems and academicians seeking to explain where and how user participation should be used. Strategies based on the results are suggested for the most appropriate involvement for users during system development.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1064">participative behaviors</a>,    <a href="/keywords/1065">system complexity</a>,    <a href="/keywords/117">system development</a>,    <a href="/keywords/1066">task complexity</a>,    <a href="/keywords/937">user participation</a>,    <a href="/keywords/123">user satisfaction</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

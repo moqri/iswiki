@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/38">    Volume 16 Number 1 1999
+</a> pp. 189-206</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Expert, Linear Models, and Nonlinear Models of Expert Decision Making in Bankruptcy Prediction: A Lens Model Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/377">Choong Nyoung, Kim</a> and     <a href="/contributors/378">McLeod Jr, Raymond</a>    </div>
+
+<p>ABSTRACT: Analysis of human judgment and decision making provides useful methodologies for examining the human decision process and substantive results. One such methodology is a lens model analysis. The authors used such a model to study how well a model of expert decisions can capture a valid strategy in the decision process. The study also addresses whether a model of an expert can be more accurate than the expert. The predictive accuracy (predictive validity) of two linear (statistical) models and two nonlinear models of human experts is compared. The results indicate that nonlinear models can capture factors (valid nonlinear strategy) that contribute to the experts' predictive accuracy. However, linear models cannot capture the valid nonlinear strategy as well as nonlinear models. One linear model and two nonlinear models performed as well as the overall average of a group of experts. However, all of the models were outperformed by the most accurate expert. By combining validity of decision strategy with characteristics of modeling algorithms, it is possible to explain why certain algorithms perform better than others.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1238">decision strategy</a>,    <a href="/keywords/1239">human expert</a>,    <a href="/keywords/613">inductive learning</a>,    <a href="/keywords/1240">lens model</a>,    <a href="/keywords/1241">linear model</a>,    <a href="/keywords/1242">nonlinear model</a>,    <a href="/keywords/1243">predictive validity</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

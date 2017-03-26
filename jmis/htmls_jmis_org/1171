@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/120">    Volume 30 Number 4 2014
+</a> pp. 83-114</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Trusting Humans and Avatars: A Brain Imaging Study Based on Evolution Theory</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1657">Riedl, René,</a>    <a href="/contributors/1658">Mohr, Peter N C,</a>    <a href="/contributors/1659">Kenning, Peter H,</a>    <a href="/contributors/732">Davis, Fred D,</a> and     <a href="/contributors/1660">Heekeren, Hauke R</a>    </div>
+
+<p>ABSTRACT: Avatars, as virtual humans possessing realistic faces, are increasingly used for social and economic interaction on the Internet. Research has already determined that avatar-based communication may increase perceived interpersonal trust in anonymous online environments. Despite this trust-inducing potential of avatars, however, we hypothesize that in trust situations, people will perceive human faces differently than they will perceive avatar faces. This prediction is based on evolution theory, because throughout human history the majority of interaction among people has taken place in face-to-face settings. Therefore, unlike perception of an avatar face, perception of a human face and the related trustworthiness discrimination abilities must be part of the genetic makeup of humans. Against this background, we conducted a functional magnetic resonance imaging experiment based on a multiround trust game to gain insight into the differences and similarities of interactions between humans versus human interaction with avatars. Our results indicate that (1) people are better able to predict the trustworthiness of humans than the trustworthiness of avatars; (2) decision making about whether or not to trust another actor activates the medial frontal cortex significantly more during interaction with humans, if compared to interaction with avatars; this brain area is of paramount importance for the prediction of other individuals' thoughts and intentions (mentalizing), a notably important ability in trust situations; and (3) the trustworthiness learning rate is similar, whether interacting with humans or avatars. Thus, the major implication of this study is that although interaction on the Internet may have benefits, the lack of real human faces in communication may serve to reduce these benefits, in turn leading to reduced levels of collaboration effectiveness.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3231">agent</a>,    <a href="/keywords/2470">avatar</a>,    <a href="/keywords/3232">brain</a>,    <a href="/keywords/3233">cognitive neuroscience</a>,    <a href="/keywords/3234">evolutionary psychology</a>,    <a href="/keywords/3235">evolution theory</a>,    <a href="/keywords/3236">functional magnetic resonance imaging (fMRI)</a>,    <a href="/keywords/3237">medial frontal cortex (MFC)</a>,    <a href="/keywords/3238">mentalizing</a>,    <a href="/keywords/2783">NeuroIS</a>,    <a href="/keywords/3239">theory-of-mind (TOM)</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

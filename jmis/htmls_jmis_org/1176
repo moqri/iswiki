@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/120">    Volume 30 Number 4 2014
+</a> pp. 115-150</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Enhancing User-Game Engagement Through Software Gaming Elements</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1667">Li, Mengxiang,</a>    <a href="/contributors/1668">Jiang, Qiqi,</a>    <a href="/contributors/794">Tan, Chuan-Hoo,</a> and     <a href="/contributors/796">Wei, Kwok-Kee</a>    </div>
+
+<p>ABSTRACT: User-game engagement is vital for building and retaining a customer base for software games. However, few studies have investigated such engagement during gameplay and the impact of gaming elements on engagement. Drawing on the theoretical foundation of engagement, we meticulously deduced two cognitive-related gaming elements of a software game, namely, game complexity and game familiarity, and argued that these elements have individual and joint effects on user-game engagement. This research adopted multimethod empirical investigations to validate our conceptions. The first investigation used electroencephalography and a self-report survey to study quantitatively the cognitive activities of user-game engagement. The second investigation adopted the qualitative interview method to triangulate the findings from the quantitative data. This research contributes to theory in two ways, namely, conceptualizing and empirically examining user-game engagement as well as theorizing and demonstrating how the two gaming elements affect user-game engagement. This work contributes to the gaming practice by providing a set of design principles for gaming elements.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3229">electroencephalography</a>,    <a href="/keywords/2783">NeuroIS</a>,    <a href="/keywords/3240">online games</a>,    <a href="/keywords/3241">software games</a>,    <a href="/keywords/3242">user-game engagement</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

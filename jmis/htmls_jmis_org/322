@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/16">    Volume 4 Number 3 1987
+</a> pp. 94-113</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Multiple Criteria Decision Support System for Global Financial Planning</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/574">Eom, Hyun B,</a>    <a href="/contributors/575">Lee, Sang M,</a>    <a href="/contributors/576">Snyder, Charles A,</a> and     <a href="/contributors/577">Ford, F Nelson</a>    </div>
+
+<p>ABSTRACT: This paper presents a goal programming (GP) model-based multiple criteria decision support system (DSS) for global financial planning of a multinational corporation (MNC). The GP model-based DSS provides a major technological breakthrough for presenting solutions for the critical issues in global financial planning and provides substantial improvement over existing approaches. The strategic DSS allows the financial managers of an MNC to choose an appropriate global financing strategy to satisfice the multiple, and often conflicting, management goals and to effectively analyze the trade-offs among costs, foreign exchange risks, political risks, and managerial motivation goals.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/257">multiple criteria decision making</a>,    <a href="/keywords/258">goal programming</a>,    <a href="/keywords/259">financing and capital structure</a>,    <a href="/keywords/260">multinational corporations</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/114">    Volume 2 Number 4 1986
+</a> pp. 70-84</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Using a Knowledge-Based Decision Support System in Strategic Planning Decisions: An Empirical Study</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/677">Goul, Michael,</a>    <a href="/contributors/678">Shane, Barry,</a> and     <a href="/contributors/679">Tonge, Fred M</a>    </div>
+
+<p>ABSTRACT: A knowledge-based decision support system (DSS) that guides, instructs, and provides reasoning was used to identify strategic opportunities, problems, and crises. The system's objective is to improve subsequent decisions by novice users to a level commensurate with that of more experienced decision makers. An empirical study, using an independent groups design, was conducted to examine the effects of a knowledge-based DSS on performance in the "problem-finding" or initial stage of the strategic planning process. The results of the study indicate that using knowledge-based DSS can improve the decision maker's ability to identify and assess problems in unstructured environments. The experimental treatments were (1) using a DSS with a complete knowledge base, (2) using a DSS with a 10% subset of the complete knowledge base, and (3) using no DSS. Several performance measures of the decision-making process are presented.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/146">expert subsystems in decision support</a>,    <a href="/keywords/144">knowledge bases</a>,    <a href="/keywords/147">effectiveness of decision support systems</a>,    <a href="/keywords/39">decision support systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

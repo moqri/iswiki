@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/23">    Volume 18 Number 3 2001
+</a> pp. 157-193</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Dynamic Work Distribution in Workflow Management Systems: How to Balance Quality and Performance</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/956">Kumar, Akhil,</a>    <a href="/contributors/957">Van Der Aalst, Wil M P,</a> and     <a href="/contributors/958">Verbeek, Eric M W</a>    </div>
+
+<p>ABSTRACT: Today's workflow management systems offer work items to workers using rather primitive mechanisms. Although most workflow systems support a role-based distribution of work, they have problems dealing with unavailability of workers as a result of vacation or illness, overloading, context-dependent suitability, deadlines, and delegation. As a result, the work is offered to too few, too many, or even the wrong set of workers. Current practice is to offer a work item to one person, thus causing problems when the person is not present or too busy, or to offer it to a set of people sharing a given role, thus not incorporating the qualifications and preferences of people. Literature on work distribution is typically driven by considerations related to authorizations and permissions. However, workflow processes are operational processes where there is a highly dynamic trade-off between quality and performance. For example, an approaching deadline and an overloaded specialist may be the trigger to offer work items to less qualified workers. This paper addresses this problem by proposing a systematic approach to dynamically create a balance between quality and performance issues in workflow systems. We illustrate and evaluate the proposed approach with a realistic example and also compare how a workflow system would implement this scenario to highlight the shortcomings of current, state of the art workflow systems. Finally, a detailed simulation model is used to validate our approach.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1502">metrics for work distribution</a>,    <a href="/keywords/1373">workflow management</a>,    <a href="/keywords/1503">workflow systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/71">    Volume 26 Number 1 2009
+</a> pp. 197-224</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Leveraging Crowdsourcing: Activation-Supporting Components for IT-Based Ideas Competition</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1013">Leimeister, Jan Marco,</a>    <a href="/contributors/1016">Huber, Michael,</a>    <a href="/contributors/1017">Bretschneider, Ulrich,</a> and     <a href="/contributors/1015">Krcmar, Helmut</a>    </div>
+
+<p>ABSTRACT: Ideas competitions appear to be a promising tool for crowdsourcing and open innovation processes, especially for business-to-business software companies. Active participation of potential lead users is the key to success. Yet a look at existing ideas competitions in the software field leads to the conclusion that many information technology (IT)--based ideas competitions fail to meet requirements upon which active participation is established. The paper describes how activation-enabling functionalities can be systematically designed and implemented in an IT-based ideas competition for enterprise resource planning software. We proceeded to evaluate the outcomes of these design measures and found that participation can be supported using a two-step model. The components of the model support incentives and motives of users. Incentives and motives of the users then support the process of activation and consequently participation throughout the ideas competition. This contributes to the successful implementation and maintenance of the ideas competition, thereby providing support for the development of promising innovative ideas. The paper concludes with a discussion of further activation-supporting components yet to be implemented and points to rich possibilities for future research in these areas.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2518">activation</a>,    <a href="/keywords/2519">crowdsourcing</a>,    <a href="/keywords/2520">Enterprise Resource Planning software</a>,    <a href="/keywords/2521">ideas competition</a>,    <a href="/keywords/993">incentives</a>,    <a href="/keywords/76">motivation</a>,    <a href="/keywords/2522">open innovation</a>,    <a href="/keywords/2523">theory-driven design</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

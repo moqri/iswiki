@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/75">    Volume 16 Number 3 1999
+</a> pp. 57-70</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Verifying the Proximity and Size Hypothesis for Self-Organizing Maps</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/362">Chienting, Lin,</a>    <a href="/contributors/2">Hsinchun, Chen,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: The Kohonen Self-Organizing Map (SOM) is an unsupervised learning technique for summarizing high-dimensional data so that similar inputs are, in general, mapped close to one another. When applied to textual data, SOM has been shown to be able to group together related concepts in a data collection and to present major topics within the collection with larger regions. This article presents research in which the authors sought to validate these properties of SOM, called the Proximity and Size Hypotheses, through a user evaluation study. Building upon their previous research in automatic concept generation and classification, they demonstrated that the Kohonen SOM was able to perform concept clustering effectively, based on its concept precision and recall 7 scores as judged by human experts. They also demonstrated a positive relationship between the size of an SOM region and the number of documents contained in the region. They believe this research has established the Kohonen SOM algorithm as an intuitively appealing and promising neural-network-based textual classification technique for addressing part of the longstanding "information overload" problem.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1278">document clustering techniques</a>,    <a href="/keywords/1175">experimental research</a>,    <a href="/keywords/693">group support systems</a>,    <a href="/keywords/1279">self-organizing maps</a>,    <a href="/keywords/1280">unsupervised learning algorithms</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/4">    Volume 6 Number 4 1990
+</a> pp. 83-101</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Derived Relations with Exceptions: Decision Support Capabilities</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/435">Dattero, Ronald,</a>    <a href="/contributors/436">Ramirez, Richard G,</a> and     <a href="/contributors/375">Choobineh, Joobin</a>    </div>
+
+<p>ABSTRACT: Despite the widespread use of relational database management systems, their decision support capabilities have been limited. These limitations include: (1) very limited support for expression of general statements and exceptions, (2) limited capabilities for what-if analysis, and (3) problems with the way derived data is handled. This paper shows that additional power can be placed in relational database systems via a new construct called Derived Relations with Exceptions (DRES). DRES are a superset of relational views that provide greater decision support capabilities in that they handle exceptions to general rules and can operate in a hypothetical mode that provides an easier way to experiment with alternative scenarios in a what-if fashion. DRES are implemented by extending the SQL database language.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/59">relational databases</a>,    <a href="/keywords/372">database view modeling</a>,    <a href="/keywords/401">SQL</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/102">    Volume 21 Number 1 2004
+</a> pp. 263-288</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>What Makes an ERP Implementation Relationship Worthwhile: Linking Trust Mechanisms and ERP Usefulness</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/175">Gefen, David</a>    </div>
+
+<p>ABSTRACT: To a large extent, trust determines expected utility derived from business transactions where the trusting party is dependent upon others, but lacks control over them. In many instances, this typifies the relationship between clients and an enterprise resource planning (ERP) customization vendor. This exploratory study examines how trust is built during an ERP implementation, and the relative weight of this trust compared with the perceived qualities of the implemented ERP itself in determining clients' assessment that the business relationship with the vendor is worthwhile. The data, collected from companies that were involved in the process of implementing a new ERP with the on-site assistance of a certain customization vendor, show that all three trust antecedents suggested by Zucker's seminal study of trust--process-based, characteristic-based, and institution-based mechanisms--contribute significantly to client trust. The data also show that client trust in this customization vendor and the perceived usefulness of the ERP both contribute to client assessment that their business relationship with the vendor is worthwhile, showing that both getting the job done and creating a trust-based relationship contribute to this assessment. The implications of the importance of creating trust in ERP implementation and the means of doing how to do so are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1555">Enterprise Resource Planning</a>,    <a href="/keywords/1789">ERP implementation</a>,    <a href="/keywords/820">technology acceptance model</a>,    <a href="/keywords/1108">trust</a>,    <a href="/keywords/1790">trust antecedents</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

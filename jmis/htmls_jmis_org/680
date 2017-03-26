@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/74">    Volume 9 Number 3 1992
+</a> pp. 145-115</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Convergence of Organizational and End-User Computing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/482">McLean, Ephraim R</a> and     <a href="/contributors/1123">Kappelman, Leon A</a>    </div>
+
+<p>ABSTRACT: Given the growing prominence of end-user computing (EUC), a survey was conducted among the senior information systems executives, from a broad-based cross-section of consumer-goods manufacturing firms, on the patterns of computing within their companies. The results indicated (1) that the definition of end-user computing is expanding considerably within their organizations; (2) that this expansion is blurring the distinction between end-user computing and traditional information systems: and (3) that these developments are, on the whole, successful and are likely to be even, more so in the future. These findings suggest the need for a closer working relationship between information systems professionals and end users, building what might be called a "partnership for success."</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/365">end-user computing</a>,    <a href="/keywords/224">management of information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

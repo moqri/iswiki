@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/133">    Volume 33 Number 4 2016
+</a> pp. 1034-1058</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Targeted Twitter Sentiment Analysis for Brands Using Supervised Feature Engineering and the Dynamic Architecture for Artificial Neural Networks</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1876">Ghiassi, Manoochehr,</a>    <a href="/contributors/1877">Zimbra, David,</a> and     <a href="/contributors/1878">Lee, Sean</a>    </div>
+
+<p>ABSTRACT: 
+<p>Social media communications offer valuable feedback to firms about their brands. We present a targeted approach to Twitter sentiment analysis for brands using supervised feature engineering and the dynamic architecture for artificial neural networks. The proposed approach addresses challenges associated with the unique characteristics of the Twitter language and brand-related tweet sentiment class distribution. We demonstrate its effectiveness on Twitter data sets related to two distinctive brands. The supervised feature engineering for brands offers final tweet feature representations of only seven dimensions with greater feature density. Reducing the dimensionality of the representations reduces the complexity of the classification problem and feature sparsity. Two sets of experiments are conducted for each brand in three-class and five-class tweet sentiment classification. We examine five-class classification to target the mild sentiment expressions that are of particular interest to firms and brand management practitioners. We compare the proposed approach to the performances of two state-of-the-art Twitter sentiment analysis systems from the academic and commercial domains. The results indicate that it outperforms these state-of-the-art systems by wide margins, with classification F1-measures as high as 88 percent and excellent recall of tweets expressing mild sentiments. Furthermore, they demonstrate the tweet feature representations, though consisting of only seven dimensions, are highly effective in capturing indicators of Twitter sentiment expression. The proposed approach and vast majority of features identified through supervised feature engineering are applicable across brands, allowing researchers and brand management practitioners to quickly generate highly effective tweet feature representations for Twitter sentiment analysis on other brands.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/616">artificial neural networks</a>,    <a href="/keywords/3761">feature engineering</a>,    <a href="/keywords/3762">sentiment analysis</a>,    <a href="/keywords/2912">social media</a>,    <a href="/keywords/3763">supervised feature engineering</a>,    <a href="/keywords/3073">Twitter</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

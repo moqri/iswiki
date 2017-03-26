@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/40">    Volume 26 Number 3 2009
+</a> pp. 103-133</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Optimal Policy for Software Patents: Model and Comparative Implications</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/315">Thatcher, Matt E</a> and     <a href="/contributors/314">Pingry, David E</a>    </div>
+
+<p>ABSTRACT: We use a duopoly model of quality--price competition between a software innovator and an imitator to determine the socially optimal software patent policy and to assess the social welfare implications of alternative patent policies. We find that the optimal patent policy is to grant patent protection for the entire life of the innovative software product (i.e., set infinite patent length) and to set the novelty and nonobviousness requirement for attaining a patent (i.e., patent height) and the scope of patent protection (i.e., patent width) such that both the innovator and imitator produce higher-quality products than they would in the free market. This policy not only maximizes social welfare but also makes the innovator, imitator, and consumers better off than in the free market. However, counter to intuition, we find that firms exhibit lower research and development intensity under the socially optimal patent policy than they do under free market competition. While highly stylized, the model offers a useful framework within which researchers and regulators can think about the economic trade-offs among three patent policy parameters (length, height, and width) simultaneously.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2569">patent height</a>,    <a href="/keywords/2570">patent length</a>,    <a href="/keywords/2571">patent policy</a>,    <a href="/keywords/2572">patent width</a>,    <a href="/keywords/2573">quality-price competition</a>,    <a href="/keywords/2574">R&amp;D intensity</a>,    <a href="/keywords/2575">software patents</a>,    <a href="/keywords/2576">vertical product differentiation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

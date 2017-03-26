@@ -1,0 +1,70 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/8">    Volume 13 Number 2 1996
+</a> pp. 3-4</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ The three papers in the special section on strategic and competitive information systems that opens this issue address, respectively, the redesign of interorganizational business processes, supported by interorganizational information systems; why more money spent on information technology (IT) is associated with lower average total spending by organizations, particularly by large ones; and the deployment of IT in contesting the marketplace by segmenting the customers and pricing accordingly. The Guest Editors of the Special Section, Eric K. Clemons and Bruce W. Weber, introduce those papers at greater length and more analytically.
+</p>
+<p>
+ The papers in the general part of the issue form two distinct sections.  The first three papers provide an analysis of information systems development from several organizational perspectives, while the three remaining papers deal with the adoption and diffusion of information technology in organizations.  Interestingly, both concerns overlap in the last paper of the issue.
+</p>
+<p>
+ Information systems are complex.  The complexity of software as their driving component has several underlying factors, including the varied and multifaceted interactions with the system's environment, the very large number of states that can be assumed by software during the system's operation, malleability and the resulting ease of corruption, and modifiability as the basic rationale for employing software.  This complexity expresses itself in the uncertainty in software development, which leads, in turn, to the violation of at least one, and often all, of the precepts of "on time, within budget, and up to the specifications."  Indeed, with the system specifications generally a moving target, even the precepts themselves are dubious.  The appropriate coordination of information systems development projects is, therefore, a continuing concern.
+</p>
+<p>
+ Sarma R. Nidumolu articulates and explores two perspectives on this coordination.  According to the first perspective, the project performance is determined by the fit between the coordination mechanism and the uncertainty of a given development project, as determined by the uncertainty in the user requirements.  According to the second, software project coordination is the exercise of appropriate risk management.  Thus, greater uncertainty regarding the requirements leads to greater project risk.  Nidumolu's study of a large number of actual projects finds both perspectives, but in particular the first one, lacking in explanatory power.  It appears that a synthesis of the two approaches, combined with a classification of projects with respect to their uncertainty, is in order.  Pending further theoretical work, the author offers several empirically derived suggestions for better project coordination based on such a synthesis.
+</p>
+<p>
+ Eric W. Stein and Betty Vandenbosch find information system development efforts generally lacking on a very different count-that of organizational learning.  These authors discuss projects that aim to develop and advanced information system, that is, a system that goes to the very marrow of the firm's functioning and becomes a model of an important aspect of this functioning.  Such projects are opportunities to challenge the extant assumptions in the organization and can lead to the development of new models of business and the resulting improvement of organizational performance.  The authors suggest that such opportunities are usually missed.  They offer a systematic set of recommendations to ameliorate this state of affairs, and thus further the rule-remaking higher-level learning.
+</p>
+<p>
+ That determining user requirements is the crucial phase of information systems development is rather implicit in the preceding two articles, but is explicit in the third paper of the systems-development section.  Ritu Agarwal, Atish P. Sinha, and Mohan Tanniru compare the object-oriented and process-oriented methodologies for establishing these requirements.  Using the cognitive-fit approach, they explore whether a process-oriented tool for requirements modeling will lead to a superior performance when applied to a process-oriented task.  It does indeed.  However, no such fit is found in the object-oriented domain.  Since this result begs a number of questions regarding the practice, instrumentation, and study in this newer and very important domain of computing, it is expected that these questions will be asked in the future and answered through further work.
+</p>
+<p>
+ The organizational adoption of information technology is an abiding aspect of MIS practice and research.  Kar Yan Tam offers a longitudinal study of the diffusion of mainframe computing.  He finds that price elasticity of the technology rapidly increases as diffusion progresses.  The author suggests that the results have general applicability and thus can be used both to price IT artifacts and to steer the adoption behavior.
+</p>
+<p>
+ Patrick Y.K. Chau takes a closer look at the factors of perceived usefulness and ease of use or the widely accepted technology acceptance model.  He posits that one should distinguish between near-term, instrumental, usefulness and long-term usefulness.  Long-term usefulness is reflected, for example, in the user's career prospects and symbolic gains, such as enhanced status.  This long-term usefulness is found to exert a lower, but perceptible, degree of influence on the adoption behavior.  Based on his operationalization and data set, with all of their limitations, Chau also questions the value of the ease of use as a persistent stimulus to the use of technology.
+</p>
+<p>
+ The final paper of the issue, by Arun Rai and Ravi Patnayakuni, brings together the concerns of both regular sections by investigating the adoption of computer-aided software engineering (CASE) technology.  This adoption process is still problematic in terms of its benefits and (consequently or not) its scope.  Parsing the adoption factors into the need-pull and technology-push categories, the authors find several catalysts and inhibitors of CASE adoption.  Since these tools are-and will be-redefined as time goes on, the results reported here will no doubt be refined further.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

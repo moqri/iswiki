@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/4">    Volume 6 Number 4 1990
+</a> pp. 41-60</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>London&#039;s Big Bang: A Case Study of Information Technology, Competitive Impact, and Organizational Change</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/393">Weber, Bruce W</a>    </div>
+
+<p>ABSTRACT: The London Stock Exchange's Big Bang on October 27, 1986, marked the arrival of sweeping and long-awaited deregulation. Numerous changes occurred simultaneously, including elimination of fixed brokerage commissions, a marked increase in the number of market participants, changes in the structure and ownership of trading firms, and, perhaps most importantly, swift movement of securities trading away from the floor of the Exchange, This remains the most rapid and complete regulatory reform of any market, and the most striking example to date of a regulatory event engineered to benefit the local financial industry. The transformation was accomplished in large part through the Exchange's implementation of a screen-based dealing system. Since the overhaul of its established securities trading practices, London's financial markets have undergone profound change while continuing to operate smoothly; a number of benefits have been realized.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/397">information systems and securities trading</a>,    <a href="/keywords/178">strategic information systems</a>,    <a href="/keywords/398">London&#039;s Big Bang</a>,    <a href="/keywords/399">case study</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

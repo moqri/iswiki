@@ -1,0 +1,61 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/11">    Volume 15 Number 2 1998
+</a> pp. 5-7</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Strategic Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/393">Weber, Bruce W</a>    </div>
+
+<p>ABSTRACT: <p>
+ FOR THE NINTH YEAR, THE SPECIAL SECTION ON STRATEGIC INFORMATION SYSTEMS appears in the  Journal of Management Information Systems to present innovative research on the impact of information  systems on organizational strategy and performance, and on the structure of new electronic markets. Earlier  versions of all three papers included here were presented and published in the Proceedings of the Hawaii  International Conference on Systems Science--31 in January 1998. These papers were selected from the  tightly coupled HICSS minitracks on Strategic and Competitive Information Systems and Market  Technostructure.
+</p>
+<p>
+ The papers in the special section this year emphasize how information technology can transform firms'  capabilities and market structures, but how organizational factors often preclude the best potential utilization of the  IT innovations. In particular, IT facilitates richer and more effective interaction in financial markets and can lead to  more liquid and cost-effective trading for market participants. Two of the papers examine IT innovations in  financial markets; the other focuses on the organizational challenges in exploiting IT innovations.
+</p>
+<p>
+ The first paper, "The Formal and Systematic Specification of Market Structures and Trading  Services," by Martin Reck of the University of St. Gallen, proposes a specification language for designing  market trading systems and detailing their functionality. The method makes explicit and formal the operations of  the market and the trading rules imposed. Use of the author's proposed language in trading system development  will integrate strategic considerations in market structure definition with technical factors in trading system  specification and program design. A result should be better market designs and more flexible information systems  to support trading.
+</p>
+<p>
+ In the second paper, "Culturally Induced Information Impactedness: A Prescription for Failure in Software  Ventures," Lesley R. Matheson, Research Scientist at Inter-Trust Technologies, and Robert E. Tarjan, of  Princeton University, describe a sequence of events in which organizational responses undermined the successful  development and implementation of new software.
+</p>
+<p>
+ The third paper in the minitrack is "Restructuring Insti~tutional Block Trading: An Overview of the  OptiMark System" by Eric K. Clemons and Bruce W. Weber. The paper is a case study examining a  next-generation trading system, OptiMark, in which traders submit not ordinary buy and sell orders, but profiles  that resemble supply and demand curves. The system will become operational in Fall 1998 as part of the Pacific  Exchange (PCX), and will create an entirely new way of trading large blocks of stocks, which could have profound  implications for stock exchanges and Wall Street firms.
+</p>
+<p>
+ These three papers offer a cross section of the important, current research being conducted on strategic  information systems and their impacts on markets and organizations. The future is also bright for this area of  research. As business innovators continue to harness expanding computer and network capabilities, there will be  further advances in the strategic applications of IT. These advances will provide a growing set of opportunities to  examine the implications and impacts of strategic information systems, and to guide the next generation of IT  innovations.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,61 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/77">    Volume 22 Number 4 2006
+</a> pp. 5-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ The editorial policy of the Journal of Management Information Systems since its inception has been that of inclusiveness and of representing the field of information systems in its entirety. The papers published in the Journal are expected to significantly influence our understanding of how systems can be organized effectively to include people and information technology artifacts in order to provide process information and information products within an organizational setting. The Special Issue on Crossing Boundaries in Information Systems Research, guest edited by Robert O. Briggs, Jay F. Nunamaker  Jr., and Ralph H. Sprague Jr., furthers this objective. The Guest Editors introduce the papers and their significance to you. The issue vividly illustrates the extent of the contribution our field is making to the family of disciplines&#8212;and to the world we live in.
+</p>
+<p>
+ In the first paper in the general section of the Journal, Wonseok Oh, Michael J. Gallivan, and Joung W. Kim use the event studies method to drill in on the equities market response to the transactional risks arising from information systems out&#173;sourcing. The authors identify five kinds of transactional risks attendant on outsourcing and focus on the potential negative marketplace responses to the outsourcing announcements. The significance of this contribution is in taking a close and well-executed look at the dark side of outsourcing, which has not been illuminated so far by such research. Starting with the perspective on the potential negative outcomes, the authors are able to offer specific and meaningful recommendations not only for the conduct of outsourcing but also for the conduct of announcements.
+</p>
+<p>
+ With cheap information technology and ubiquitous Internet-Web connectivity, we can expect further explosive growth of corporate databases and of the need to integrate them across individual organizations, merging enterprises, or partnering firms. A number of methods have been developed for the integration of heterogeneous databases. Detecting the correspondences among the attributes of these databases is a crucial and highly computation-intensive step in the integration process. Here, Huimin Zhao and Ehsan S. Soofi propose and evaluate empirically an approach to identifying the attribute correspondences across such databases, grounded in information theory. The method is of both theoretical and practical interest.
+</p>
+<p>
+ The research on business-to-business e-commerce tends to concentrate on the design of transactional marketplaces with a variety of ownership and of governance rules. However, much business among firms is done by negotiation, and this is where lasting relationships are forged (or forgone). Kun-Chang Lee and Soon-Jae Kwon propose and test an information system supported negotiation framework that allows the parties to include secondary negotiation terms (say, resource availability) along with the primary ones (such as price). The authors  combine the use of cognitive maps with case-based reasoning to build up a memory of negotiation cases and use practical scenarios to test their framework. Multimodal electronic marketplaces that combine spot and forward transactions with negotiations support will benefit from this work.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

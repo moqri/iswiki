@@ -1,0 +1,67 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/39">    Volume 20 Number 3 2003
+</a> pp. 9-11</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Section: Assuring Information Quality</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/108">Ballou, Donald,</a>    <a href="/contributors/783">Madnick, Stuart E,</a> and     <a href="/contributors/110">Wang, Richard</a>    </div>
+
+<p><p>
+ ASSURING THE QUALITY OF INFORMATION is both important and difficult. But achieving high-quality information is a battle that is never really won, in part because what constitutes victory is not clear, as different parties have differing views as to the definition of success. Yet all concerned agree that striving to achieve or acquire high-quality information needs to be a high priority, as the consequences of not having it can be devastating. The very existence of the organization can be threatened by poor information quality (IQ).
+</p>
+<p>
+ The issue of IQ is not new, as, throughout history, people have benefited by, and suffered from, the quality of information made available to them. An obvious example is information made available to military commanders during battles. What is new in the past several decades is the explosion in the quantity of information and the increasing reliance of most segments of society on that information. An information economy is clearly dependent upon the quality of one of its primary building blocks.
+</p>
+<p>
+ Of necessity, industry has, from the beginning of the computer age, had to address the issue of the quality of data. When systems were primarily accounting- and financial-driven, the emphasis tended to be on the assurance of the data&#8217;s accuracy. In the past dozen or so years, the increasing use of information as a strategic resource has highlighted the multifaceted nature of IQ and has increased the complexity in attempting to assure IQ. The very concept of IQ is somewhat nebulous, but an effective, widely used definition for IQ is &#8220;fitness for use.&#8221; &#8220;Perfect&#8221; IQ, whatever that means, is difficult, if not impossible, to achieve, but neither is it necessary. If users of the data feel that its quality, which can be described by such attributes as accuracy, completeness, timeliness, and consistency, is sufficient for their needs, then, from their perspective, at least, the quality of the information available to them is fine. Most research, whether conceptual or field-oriented, has used as its starting point this concept that the focus of assuring IQ should be to achieve a level of quality that is sufficient from the perspective of its users.
+</p>
+<p>
+ IQ research, in the information systems world at least, by its very nature is an applied discipline. Because IQ is such an important issue to practitioners, research regarding it should be grounded in the need, broadly defined, of organizations to assure IQ and in the difficulties encountered in attempting to do so. This does not mean that IQ researchers do not engage in work of a more fundamental, conceptual nature. One IQ research stream has been the study of exactly what IQ is. Work in this area has been both conceptual and field- oriented, with one reinforcing the other, and, as a result, there is now general agreement in both academia and industry as to the context for discussing IQ. As in most research areas, both conceptual and field studies are critical. Conceptual works provide insights that guide field studies, whereas the latter provide ideas for research topics and constitute validation for conceptual frameworks.
+</p>
+<p>
+ This special section contains four papers that illustrate some of the issues of concern to IQ researchers as  well as various approaches and methodologies for addressing them. All have conceptual components that are tested and explored in actual organizational settings. Leading off this issue is a paper by Yang W. Lee and Diane M. Strong entitled &#8220;Knowing-Why About Data Processes and Data Quality.&#8221; This paper analyzes the role of various parties in the data production process and offers insights into how different modes of knowledge affect data quality. For example, the authors find that data collectors with why-knowledge about the data production process contribute to a greater degree than might be anticipated to the production of better quality data. Such insights are gleaned from an extensive field study, which in turn was motivated and guided by a synthesis of various research streams.
+</p>
+<p>
+ The second paper, &#8220;The Design and Implementation of a Corporate Householding Knowledge Processor to Improve Data Quality,&#8221; coauthored by Stuart Madnick, Richard Wang, and Xiang Xian, addresses an important category of data quality problems caused by data misinterpretation. For example, even a simple question, such as &#8220;How much did MIT buy from IBM this year?&#8221; has multiple answers that might be right or wrong&#8212;depending on the context. This paper outlines a technical approach to a corporate householding knowledge processor (CHKP) to solve a particularly important type of corporate householding problem, entity aggregation, and illustrates the operation of the CHKP by using a motivational example in account consolidation. The CHKP design and implementation uses and expands on the context interchange technology,  developed at MIT, to manage and process corporate householding knowledge.
+</p>
+<p>
+ The next paper, &#8220;Time-Related Factors of Data Quality in Multichannel Information Systems,&#8221; by Cinzia Cappiello, Chiara Francalanci, and Barbara Pernici is an excellent example of the use of modeling in the area of IQ. The authors develop expressions for the currency and completeness of data in the context of multiple channels, each supporting multiple functions within an organization. Their model allows for varying levels of integration of the organization&#8217;s databases, and it can be used to study the impact of various refresh periods for online data. A validation is performed via a simulation in the context of empirical data regarding various categories of financial institutions.
+</p>
+<p>
+ The fourth paper, by Yang W. Lee, &#8220;Crafting Rules: Context-Reflective Data Quality Problem Solving,&#8221; offers refreshing insights into an emerging practice, data quality problem solving and provides a novel way of understanding how practitioners reflect-in-action. It analyzes how data problems are framed, analyzed, and resolved throughout the entire information discourse. It also explains how rules on data quality practice revise  the actionable dominant logic embedded in organizational work routines. For example, the author finds that the ,   discourse on contexts of data connects otherwise separately managed data processes, that is, collection, storage, and use. These insights are gleaned from an extensive five-year longitudinal study of data quality practice in five organizations.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

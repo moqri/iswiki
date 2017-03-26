@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/83">    Volume 19 Number 3 2002
+</a> pp. 155-183</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Effects of Local Versus Global Schema Diagrams on Verification and Communication in Conceptual Data Modeling</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1220">Parsons, Jeffrey</a>    </div>
+
+<p>ABSTRACT: Much research in conceptual data modeling has focused on developing techniques for view integration, or combining local conceptual schemas into a global schema. Local schemas are argued to be important in verifying conceptual data requirements before proceeding to database design. View integration is claimed to fulfill two purposes: First, a global conceptual schema is a prerequisite to logical design and implementation. Second, global schemas are thought to be useful in improving organizational communication among diverse user groups with different perspectives and information needs. However, performing view integration is difficult. Moreover, there is no empirical evidence that global schemas either impede local verification or support communication. Drawing on classification research, this paper develops and tests claims about the impact of schema structure (local versus global) on verification and communication. Local schemas are hypothesized to better support verification than global schemas. When different local views contain conflicting structure, local schemas are expected to be superior in supporting communication. However, when local views contain complementary structure, global schemas are expected to be superior in supporting communication. A laboratory experiment was conducted to test these predictions. The results support the hypotheses. Implications for the practice of database design and for further research are considered.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1622">classification theory</a>,    <a href="/keywords/1623">conceptual database models</a>,    <a href="/keywords/1624">database schemas</a>,    <a href="/keywords/1625">empirical data modeling research</a>,    <a href="/keywords/1626">view integration</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

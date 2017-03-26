@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/110">    Volume 9 Number 4 1993
+</a> pp. 83-101</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Impact of Data Accuracy on System Learning</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1201">O&#039;Leary, Daniel E</a>    </div>
+
+<p>ABSTRACT: The purpose of this paper is to study the impact of database accuracy on system learning. The paper assumes a basic model of an information system with a database, a rulebase, and an embedded machine learning approach that is used to add rules to the rulebase. The system learns from its database, changes to that database, and the examination of other databases. The results in this paper can be of use in the analysis of the design and behavior of such learning systems. It is found that the information system accuracy impacts the magnitude of a measure of goodness of individual roles. Thus, if only rules of a certain magnitude are kept, then some rules will be discarded because of database inaccuracy, unless that inaccuracy is accounted for. In addition, by accounting for database inaccuracy, the direction of the impact on measure of goodness can be determined. In some cases, the impact on the direction is monotonic. This finding allows us to understand the impact of database inaccuracy, without explicitly taking account of that inaccuracy. Further, information system accuracy can impact the resulting order of importance of rules, within a set of rules. Since only those higher-ranked rules are kept, database accuracy and measure of goodness can impact what rules are retained in the rulebase of the system. As a result, it is important to account for the information system accuracy in learning information systems.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/252">artificial intelligence</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/156">expert systems</a>,    <a href="/keywords/611">machine learning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

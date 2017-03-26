@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/50">    Volume 17 Number 4 2001
+</a> pp. 223-249</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Empirical Investigation of User Requirements Elicitation: Comparing the Effectiveness of Prompting Techniques</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/262">Browne, Glenn J</a> and     <a href="/contributors/263">Rogich, Michael B</a>    </div>
+
+<p>ABSTRACT: Eliciting requirements from users and other stakeholders is of central importance to information systems development. Despite this importance, surprisingly little research has measured the effectiveness of various requirements elicitation techniques. The present research first discusses theory relevant to information requirements determination in general and elicitation in particular. We then develop a model of the requirements elicitation process. This model and its underlying theory were then used to construct a new requirements elicitation prompting technique. To provide a context for testing the relative effectiveness of the new technique, two other questioning methodologies were also operationalized as prompting techniques: (1) the interrogatories technique, which involves asking "who," "what," "when," "where," "how," and "why" questions, and (2) a semantic questioning scheme, which involves asking questions based on a theoretical model of knowledge structures. To measure the usefulness of the prompting techniques in eliciting requirements, a set of generic requirements categories was adapted from previous research to capture requirements evoked by users. The effectiveness of the three methods in eliciting requirements for a software application was then tested in an experiment with users. Results showed that the new prompting technique elicited a greater quantity of requirements from users than did the other two techniques. Implications of the findings for research and systems analysis practice are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1190">information system development</a>,    <a href="/keywords/1419">prompting techniques</a>,    <a href="/keywords/1420">requirements elicitation</a>,    <a href="/keywords/273">systems analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

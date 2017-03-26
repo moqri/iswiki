@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/96">    Volume 1 Number 1 1984
+</a> pp. 11-32</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Eliciting Decision-Makers&#039; Information Requirements: Application of the Rep Test Methodology</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/24">Grudnitski, Gary</a>    </div>
+
+<p>ABSTRACT: Many information systems fail to achieve their promised potential because of the inability of the analyst to design a system attuned to the needs of the decision-maker. To remedy this situation, it is essential to develop new methodologies that facilitate the process of defining distinct decision parameters, understandable by the decision-maker, the analyst, and others in the organization. The primary purpose of this paper is to present and apply the Rep Test, a methodology for eliciting the information used, or desired to be used, by decision-makers. The information elicited and the salient characteristics decision-makers attach to this information are further analyzed and interpreted by examining the results of information sources scaled on information attributes.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/5">user requirements</a>,    <a href="/keywords/6">systems analysis methodologies</a>,    <a href="/keywords/7">decision support</a>,    <a href="/keywords/8">measurement of psychological space</a>,    <a href="/keywords/9">concept-formation tests</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

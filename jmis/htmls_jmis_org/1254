@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/127">    Volume 32 Number 2 2015
+</a> pp. 8-39</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Task Division for Team Success in Crowdsourcing Contests: Resource Allocation and Alignment Effects</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1787">Dissanayake, Indika,</a>    <a href="/contributors/1078">Zhang, Jie,</a> and     <a href="/contributors/399">Gu, Bin</a>    </div>
+
+<p>ABSTRACT: 
+<p>Advances in information technology bring changes to the nature of work by facilitating companies to go beyond the wisdom of their workforce and tap into the “wisdom of the crowd” via online crowdsourcing contests. In these contests, active and motivated individuals collaborate in the form of self-organized teams that compete for rewards. Using a rich data set of 732 teams in 52 contests collected from the crowdsourcing platform, Kaggle.com, from its launch in April 2010 to July 2012, we studied how the allocation of members’ social and intellectual capital within a virtual team affects team performance in online crowdsourcing contests. Our econometric analysis uses a rank-ordered logistic regression model, and suggests that the effect of a member’s social and intellectual capital on team performance varies depending on his or her roles. Though a team leader’s social capital and a team expert’s intellectual capital significantly influence team performance, a team leader’s intellectual capital and a team expert’s social capital do not. Further, we found that the alignment of a member’s social and intellectual capital within a team has a significant influence on team performance. Moreover, the intensity of the competition moderates the impact. When a contest is highly competitive, the social and intellectual capital alignment negatively affects team performance, and when the competitive intensity is low, this alignment positively affects team performance. Our findings provide insights into improving performance in team-based competitions in crowdsourcing communities.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2519">crowdsourcing</a>,    <a href="/keywords/3541">crowdsourcing contests</a>,    <a href="/keywords/523">econometrics</a>,    <a href="/keywords/3542">intellectual capital</a>,    <a href="/keywords/1447">social capital</a>,    <a href="/keywords/2817">social network analysis</a>,    <a href="/keywords/3543">team competition</a>,    <a href="/keywords/1109">virtual teams</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

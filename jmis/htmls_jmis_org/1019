@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/2">    Volume 6 Number 1 1989
+</a> pp. 59-85</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Assessment of the Contingency Theory of Management Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1576">Weill, Peter</a> and     <a href="/contributors/1577">Olson, Marorethe H</a>    </div>
+
+<p>ABSTRACT: This paper explores the use of contingency theory in the field of Management Information Systems (MIS). The development of contingency theory in MIS is compared to the development of organization theory. The assumptions of fit, performance as a dependent variable, rational actors, and a deterministic model in both organizational research and MIS research are critiqued. The dominant influence of contingency theory is demonstrated through a review of empirical studies published in JMIS and MIS Quarterly. Of the 177 articles during the period studied, 59 percent were empirical and over 70 percent of these were judged to follow a contingency model. Based on our assessment of this research, we conclude that research in MIS has been hampered by the use of a naive meta-theory, conflicting empirical results with low explained variance, ill-defined concepts of performance and fit, and a narrow perspective of researchers. We give some recommendations for improving the theoretical basis of MIS, including advocating more subjectivist, less functional, and less deterministic research approaches. We also suggest a wider selection of methodologies including qualitative case studies, longitudinal studies, and ethnographic approaches. Finally, we conclude that significantly more theory-building is required in defining the MIS construct.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/347">discipline of MIS</a>,    <a href="/keywords/348">contingency theory</a>,    <a href="/keywords/349">organization theory</a>,    <a href="/keywords/350">research methodology in MIS</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

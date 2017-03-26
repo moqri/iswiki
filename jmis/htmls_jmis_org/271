@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/73">    Volume 19 Number 4 2003
+</a> pp. 9-30</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The DeLone and McLean Model of Information Systems Success: A Ten-Year Update</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/481">DeLone, William H</a> and     <a href="/contributors/482">McLean, Ephraim R</a>    </div>
+
+<p>ABSTRACT: Ten years ago, we presented the DeLone and McLean Information Systems (IS) Success Model as a framework and model for measuring the complex-dependent variable in IS research. In this paper, we discuss many of the important IS success research contributions of the last decade, focusing especially on research efforts that apply, validate, challenge, and propose enhancements to our original model. Based on our evaluation of those contributions, we propose minor refinements to the model and propose an updated DeLone and McLean IS Success Model. We discuss the utility of the updated model for measuring e-commerce system success. Finally, we make a series of recommendations regarding current and future measurement of IS success.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1631">evaluation of information systems</a>,    <a href="/keywords/947">impact of information technology</a>,    <a href="/keywords/1632">information quality</a>,    <a href="/keywords/392">information systems success</a>,    <a href="/keywords/905">service quality</a>,    <a href="/keywords/1633">systems quality</a>,    <a href="/keywords/1634">use of information systems</a>,    <a href="/keywords/123">user satisfaction</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,55 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/132">    Volume 33 Number 3 2016
+</a> pp. 621-623</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: 
+<p>We have all come to rely on the user-generated content that goes under the names of consumer reviews, electronic word of mouth (eWOM), and user opinions. This content is a part of value cocreation by customers of the firms whose hotels, cars, books, electronics, and restaurants they review on infomediary sites. This is obviously good for consumers. Or is it? In the first paper of the issue, Panos M. Markopoulos, Ravi Aron, and Lyle H. Ungar look at the phenomenon with the beady eyes and formal apparatus of information economics and are here to tell us that perhaps we should be more critical. That is, critical not of the reviews themselves, which have been and continue to be thoroughly researched by our field, but of the role of the reviews in informing customers. The authors demonstrate that firms have also come to rely on consumer reviews—as a partial substitute for providing customer information themselves, with the attendant savings increasing the firms’ profits. The researchers go on to demonstrate that this tripartite system of informing consumers actually may take away from consumer welfare. The results are highly interesting and will undoubtedly be found controversial—which should lead to further research. Of course, the relative independence of consumer reviews has the value of disclosure and transparency that might not be expected to be provided by the producers. However, the assessment of the authors calls for a rebalancing of the roles in providing customer information.</p>
+<p>The authors of the next paper, Eun Hee Park, Balasubramaniam Ramesh, and Lan Cao significantly enhance our knowledge about the use of real options in the valuation of information technology (IT) investments by including the role of emotion in decision making. The authors focus specifically on the role of regret. In their qualitative research reported here, they deploy the setting of decisions regarding the adoption of RFID (radio-frequency identification) technology by four organizations. Both productive and counterproductive strategies of decision making in the presence of regret are surfaced. The consideration of cognitive and emotional aspects of decision making allows us to gain a richer understanding of the real options approach in the IT context. It is also in line with gains reached in economics by the behavioral approach taken in recent decades.</p>
+<p>Jordan B. Barlow and Alan R. Dennis look empirically for the emergence of collective intelligence in virtual groups that use computer-mediated communication. Such emergence has been asserted and found by the prior research in the domain. The present authors do not find it. This negative finding will no doubt lead to controversy. Most important, it will lead to further research into the functioning of virtual groups and their instrumentation. Clearly, not all tasks are equally suitable to virtual handling—and yet, ever more frequently this operation will be called for. This work should stimulate a broader and more granular investigation of IT-supported virtual groups. At a deeper level, it will bring under closer scrutiny the construct of collective intelligence.</p>
+<p>We cannot do enough to increase information systems (IS) security. In fact, we are not doing enough. However, our field is now contributing a broad research program that addresses behavioral IS security. Here, Bonnie Brinton Anderson, Anthony Vance, C. Brock Kirwan, Jeffrey L. Jenkins, and David Eargle show empirically how the brain habituates to security warning messages. Their use of functional magnetic resonance imaging (fMRI) allows them to directly observe this habituation. Furthermore, the authors devise dynamic polymorphic warnings aimed at defeating habituation and they proceed to show that such warning designs are indeed effective. This is a contribution to our security arsenal as well as a demonstration of the effectiveness of the NeuroIS approach in our research.</p>
+<p>As the apportionment of tasks between humans and “machines” is changing rapidly and drastically, the construct of trust acquires ever greater salience. Different designs of decision-support (and, increasingly, decision-making) technology will lead to different levels of trusting beliefs on the part of users. Beyond that, they might lead to beliefs of a different nature, with competence, integrity, and benevolence identified as three kinds of such beliefs. Recommendation agents (RAs) are a broadly used technology that appears in many implementations, from online shopping sites to personal assistants. In the next paper, Weiquan Wang and Izak Benbasat take a granular approach to tease out empirically which performance factors displayed by an RA lead to what trusting beliefs in the user. Suggestions for RA designs follow from these results.</p>
+<p>The task-apportionment theme is continued in the next work, by Fatemeh Mariam Zahedi, Nitin Walia, and Hemant Jain. The authors offer a theory-based design for an augmented virtual doctor office, devised to support group medical visits online. Group medical visits is a relatively recent trend aimed at efficiency and, perhaps, also cocreation with a group of patients. In the physical world, privacy issues may be difficult to surmount. In the augmented physical-virtual world, the preservation of privacy can be built into the design, and the appropriate aspects of the patient information compartmentalized and kept private. The authors provide a twofold assessment of their design and contribute to the design-theory line of IS research. This work can be extended to other settings.</p>
+<p>The role of IT in defining the boundaries of the firm in the organizational design and in the firm’s performance is a well-researched topic that remains open to further investigation in many of its aspects, particularly when the research is based on a comprehensive data set. This multifaceted subject is pursued here by Jaime Gómez, Idana Salazar, and Pilar Vargas, who test their hypotheses against the data relating to Spanish manufacturing firms that include large, medium-size, and small manufacturers. The authors pay particular attention to the effects of taper integration, which combines in different ways the market and hierarchy approaches in organizational design, and of diversification on the firms’ information-processing needs and on the resulting IT capabilities. We obtain a more nuanced view of an important domain.</p>
+<p>Ferdinand Thies, Michael Wessel, and Alexander Benlian study the effects of the social interaction on platforms in the context of crowdsourcing venues. The relative influence of eWOM (opinion) and actors’ popularity (inferred from actions) on funding decisions is investigated with the use of a large data set of crowdsourcing campaigns conducted on Indiegogo. Among other effects, the authors demonstrate how social interactions act as quality indicators on these platforms and serve to contain investment risks. They further show how these interactions can make the platform itself thrive.</p>
+<p>A novel combination of social network analysis and text mining over a variety of data sources allows Michael T. Lash and Kang Zhao to offer a method for early prediction of a movie’s profitability. Indeed, it is early enough to influence investment decisions. Beyond that, the decision support system devised by the authors can suggest to users who the profit-maximizing cast members might be. No doubt this system can be deployed alongside the consideration of artistic merit as well (task apportionment again). The authors demonstrate the superiority of their forecasting method with respect to the existing benchmark methods of prediction. This research work indeed shows that our discipline is not remote from the concerns of the world at large. It contributes to both theory and practice.</p>
+<p>Privacy breaches are, regrettably, a matter of routine these days. Customer data entrusted to a firm is often liberated by miscreants. These breaches need to be followed by the effective recovery of customer relationships. Such a tactic should be a part of the broader sociotechnical recovery protocol. In the concluding paper of the issue, Ben C.F. Choi, Sung S. Kim, and Zhenhui (Jack) Jiang show what “effective” means in this context. They base their work on the theory of justice and use a scenario approach to gain a large data set of responses by consumers online. This contributes to our understanding of the perception of privacy violation by consumers. It also offers practical guidelines for companies affected by a breach—for which all firms should be prepared.</p>
+</p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

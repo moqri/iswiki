@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/70">    Volume 12 Number 4 1996
+</a> pp. 187-213</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Influence of Database Structure Representation on Database System Learning and Use</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1018">Leitheiser, Robert L</a> and     <a href="/contributors/642">March, Salvatore T</a>    </div>
+
+<p>ABSTRACT: Successful use of a computerized database by end users requires both an understanding of the structure of the database and knowledge of the available query language. Previous research has focused almost exclusively on query languages with little concern for how database structure is represented. This paper reports on an experiment that explores the influence of database structure representation on the ability of users to learn and use a database system. Four alternative representations of the same databases are developed and compared. These representations differ in semantics, symbols, and means of representing relationships. Interestingly, representation features that aid in communicating the contents of a database appear to hinder the learning of the SQL query language. We conclude that database representation is an important factor in database use and that the interaction between a database structure representation and a query language may dramatically affect database leaning and use.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/916">database querying</a>,    <a href="/keywords/439">entity-relationship model</a>,    <a href="/keywords/917">relational model</a>,    <a href="/keywords/555">human factors</a>,    <a href="/keywords/918">interface design</a>,    <a href="/keywords/401">SQL</a>,    <a href="/keywords/174">training</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

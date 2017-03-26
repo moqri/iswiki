@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/105">    Volume 4 Number 1 1987
+</a> pp. 25-41</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>On the Plausibility and Scope of Expert Systems in Management</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/517">Dhar, Vasant</a>    </div>
+
+<p>ABSTRACT: Over the last decade there have been several efforts at building knowledge-based "expert systems," mostly in the scientific and medical arenas. Despite the fact that almost all such systems are in their experimental stages, designers are optimistic about their eventual success. In the last few years, there have been many references to the possibility of expert systems in the management literature. However, what is lacking is a clear theoretical perspective on how various management problems differ in nature from problems in other domains and the implications of these differences for knowledge-based decision support systems for management. In this paper, I examine some of these differences, what they suggest in terms of the functionality that a computer-based system must have in order to support organizational decision making, and the scope of such a system as a decision aid. The discussion is grounded in the context of a computer-based system called PLANET that exhibits some of the desired functionality.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/156">expert systems</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/218">knowledge-based approach to decision support</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

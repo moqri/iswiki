@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/122">    Volume 31 Number 1 2014
+</a> pp. 173-202</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>A Rigidity Detection System for Automated Credibility Assessment</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1691">Twyman, Nathan W,</a>    <a href="/contributors/567">Elkins, Aaron C,</a>    <a href="/contributors/268">Burgoon, Judee K,</a> and     <a href="/contributors/3">Nunamaker Jr, Jay F</a>    </div>
+
+<p>ABSTRACT: Credibility assessment is an area in which information systems research can make a major impact. This paper reports on two studies investigating a system solution for automatic, noninvasive detection of rigidity for automated interviewing. Kinesic rigidity has long been a phenomenon of interest in the credibility assessment literature, but until now was infeasible as a veracity indicator in practical use cases. An initial study unexpectedly revealed the occurrence of rigidity in a highly controlled concealed information test setting, prompting the design and implementation of an automated rigidity detection system for interviewing. A unique experimental evaluation supported the system concept. The results of the second study confirmed the kinesic rigidity found in the first, and provided further theoretical insights explaining the rigidity phenomenon. Although additional research is needed, the evidence from this investigation suggests that credibility assessment can benefit from a rigidity detection system.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3276">automated interviewing systems</a>,    <a href="/keywords/3277">computer vision</a>,    <a href="/keywords/3278">concealed information test</a>,    <a href="/keywords/2656">credibility assessment</a>,    <a href="/keywords/1755">deception detection</a>,    <a href="/keywords/3279">freeze response</a>,    <a href="/keywords/3280">kinesic rigidity</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

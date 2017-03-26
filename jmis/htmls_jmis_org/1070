@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/99">    Volume 7 Number 4 1991
+</a> pp. 51-70</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Adoption Patterns and Attitudinal Development in Computer-Supported Meetings: An Exploratory Study with SAMM</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1387">Zigurs, Ilze,</a>    <a href="/contributors/501">DeSanctis, Gerardine,</a> and     <a href="/contributors/1649">Billingsley, Julie</a>    </div>
+
+<p>ABSTRACT: To permit exploration of the development of attitudes in a group decision support system environment, eight groups of four and five persons each met in a computer-supported conference room over a period of two months. Each group addressed two strategic planning tasks, meeting for a total of eight two-hour sessions. The computer support provided was Software-Aided Meeting Management (SAMM), a system designed to support common group needs such as problem identification, alternatives generation, and alternatives evaluation. Groups were permitted to use or not use SAMM, according to their own perceived needs. Members' attitudes toward the group decision process and their perceptions of meeting quality were assessed after each meeting. As part of an academic course in which they were enrolled, the groups were required to submit a detailed report of their plans for each task; the plans were evaluated by the course instructor. Results suggested two patterns of adoption of SAMM: (1) groups that accepted the technology and used it throughout their meetings, and (2) groups that discarded the technology and ceased to use it. This paper discusses attitudinal development in these two types of groups and explores the relationship between attitudes and the quality of group planning in the SAMM environment.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/415">electronic meeting systems</a>,    <a href="/keywords/39">decision support systems</a>,    <a href="/keywords/453">group attitudes</a>,    <a href="/keywords/454">group interaction process</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

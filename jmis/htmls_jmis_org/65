@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/49">    Volume 18 Number 4 2002
+</a> pp. 117-145</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Asynchronous Collaboration Around Multimedia Applied to On-Demand Education</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/137">Bargeron, David,</a>    <a href="/contributors/138">Grudin, Jonathan,</a>    <a href="/contributors/139">Gupta, Anoop,</a>    <a href="/contributors/140">Sanocki, Elizabeth,</a>    <a href="/contributors/141">Li, Francis,</a> and     <a href="/contributors/142">Leetiernan, Scott</a>    </div>
+
+<p>ABSTRACT: Multimedia content is a central component of on-demand training and education delivered over the World Wide Web. Supporting asynchronous collaboration around educational multimedia is potentially a significant tool for delivering online educational content effectively. A multimedia annotation system rightly integrated with e-mail provides a powerful platform on which to base such functionality. In this paper we describe a series of studies of such as system. First, we built a prototype annotation system and refined it based on results of laboratory tests. We then extended the system to support asynchronous collaboration for on-demand training and studied its effectiveness in two corporate training courses, assessing student experience, instructor experience, and user interface appropriateness. Having identified possibilities for enhancing engagement and collaboration with the tool, we conducted another set of laboratory studies. Through this iterative process we are creating a platform and identifying processes for its use, which enable students and instructors to exploit the advantages of asynchronous education while compensating for the reduction in face-to-face interaction.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1540">annotation</a>,    <a href="/keywords/1541">asynchronous collaboration</a>,    <a href="/keywords/1542">distance education</a>,    <a href="/keywords/1368">group interaction</a>,    <a href="/keywords/797">multimedia</a>,    <a href="/keywords/1543">workplace training</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

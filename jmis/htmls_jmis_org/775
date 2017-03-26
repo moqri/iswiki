@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/102">    Volume 21 Number 1 2004
+</a> pp. 203-226</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Stopping Behavior of Systems Analysts During Information Requirements Elicitation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1257">Pitts, Mitzi G</a> and     <a href="/contributors/262">Browne, Glenn J</a>    </div>
+
+<p>ABSTRACT: Understanding the cognitive activities of analysts during information requirements determination (IRD) has been recognized as a key indicator of IRD success. The research presented here examines one such cognitive activity: analysts' determination of the sufficiency of information gathered during the elicitation of requirements. Research in behavioral decision-making has identified various heuristics, or stopping rules, that are used to gauge the sufficiency of the information obtained and to terminate information acquisition. Despite the fact that analysts undoubtedly employ such stopping rules in requirements elicitation, no research has studied this phenomenon. In the present research, we present a classification of stopping rules appropriate for information gathering problems. Stopping-rule use was identified for 54 practicing systems analysts participating in a requirements determination problem in a laboratory setting. Results indicated that analyst experience influences the application of specific cognitive stopping rules, and that the use of these stopping rules has an impact on requirements determination outcomes. In addition, the use of certain stopping rules resulted in greater quantity and completeness of requirements elicited from users. Theoretical implications for the elicitation of information and practical implications for the training of systems analysts are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1782">cognitive stopping rules</a>,    <a href="/keywords/1783">information gathering</a>,    <a href="/keywords/1784">knowledge elicitation</a>,    <a href="/keywords/1785">requirements determination</a>,    <a href="/keywords/273">systems analysis</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

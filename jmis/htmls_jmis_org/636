@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/10">    Volume 9 Number 1 1992
+</a> pp. 7-24</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Determinants of Information Technology Outsourcing: A Cross-Sectional Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1064">Loh, Lawrence</a> and     <a href="/contributors/1065">Venkatraman, N</a>    </div>
+
+<p>ABSTRACT: This paper develops and tests a model of the determinants of information technology (IT) outsourcing by integrating both business and IT perspectives. Specifically, we attempt to explain the degree of IT outsourcing using business and IT competences as represented by their cost structures and economic performances. In addition, we posit that outsourcing is dependent on business governance, particularly financial leverage. Based on factor analyses and multiple regressions using data from fifty-five major U.S. corporations, we observed that the degree of IT outsourcing is positively related to both business and IT cost structures. We also established that the degree of IT outsourcing is negatively related to IT performance. Finally, we conclude with implications and future research directions.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/543">information technology outsourcing</a>,    <a href="/keywords/544">information technology strategy</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/50">    Volume 17 Number 4 2001
+</a> pp. 203-222</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Empirical Analysis of Data Requirements for Financial Forecasting with Neural Networks</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1547">Walczak, Steven</a>    </div>
+
+<p>ABSTRACT: Neural networks have been shown to be a promising tool for forecasting financial time series. Several design factors significantly impact the accuracy of neural network forecasts. These factors include selection of input variables, architecture of the network, and quantity of training data. The questions of input variable selection and system architecture design have been widely researched, but the corresponding question of how much information to use in producing high-quality neural network models has not been adequately addressed. In this paper, the effects of different sizes of training sample sets on forecasting currency exchange rates are examined. It is shown that those neural networks--given an appropriate amount of historical knowledge--can forecast future currency exchange rates with 60 percent accuracy, while those neural networks trained on a larger training set have a worse forecasting performance. In addition to higher-quality forecasts, the reduced training set sizes reduce development cost and time.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/639">forecasting</a>,    <a href="/keywords/1415">foreign exchange</a>,    <a href="/keywords/386">neural networks</a>,    <a href="/keywords/1416">prediction accuracy</a>,    <a href="/keywords/1417">time series</a>,    <a href="/keywords/1418">training set size</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

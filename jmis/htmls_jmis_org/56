@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/19">    Volume 7 Number 2 1990
+</a> pp. 29-54</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Measuring Gains in Operational Efficiency from Information Technology: A Study of the Positran Deployment at Hardee&#039;s Inc</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/118">Banker, Rajiv D,</a>    <a href="/contributors/79">Kauffman, Robert J,</a> and     <a href="/contributors/120">Morey, Richard C</a>    </div>
+
+<p>ABSTRACT: This paper presents a new approach to measuring the input productivity gains from information technology (IT) in complex managerial environments. The approach is illustrated in the context of a study of a pilot deployment at Hardee's Inc. of a new cash register point-of-sale and order-coordination technology called "Positran." The method employs data envelopment analysis (DEA) and nonparametric production frontier hypothesis testing to determine whether the performance of restaurants that have deployed Positran is better, on average, than for those that have not. The design of the study is of special interest, because it approximates a controlled experiment. Our results show that Positran helped to reduce input materials costs, since restaurants that deployed the technology were less likely to be inefficient. It is further possible to characterize the class of restaurants for which the relationship holds. Operational efficiency measures such as the ones we have developed provide managers with the opportunity to implement deployment strategies for new ITS in order to maximize value.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/422">measuring value of information systems</a>,    <a href="/keywords/423">operational efficiency</a>,    <a href="/keywords/424">productivity gains due to information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

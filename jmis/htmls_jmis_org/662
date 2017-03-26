@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/24">    Volume 29 Number 2 2012
+</a> pp. 109-140</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Co-opetition Between Differentiated Platforms in Two-Sided Markets</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1101">Mantena, Ravi</a> and     <a href="/contributors/1102">Saha, Rajib L</a>    </div>
+
+<p>ABSTRACT: Technology is an important factor underlying the value propositions of intermediary platforms in two-sided markets. Here, we address two key questions related to the effect of technology in platform markets. First, how does technology asymmetry affect competition between platforms? Second, how does it affect the incentives for platforms to collaborate? Using a game-theoretic model of a two-sided market where technology strongly influences network value, we show that small asymmetries in platform technologies can translate into large differences in their profitability. We find that technology improvements by the inferior platform do not significantly increase its profits, but can reduce opportunities for fruitful cooperation, since collaboration is less likely in markets with closely matched competitors. We also show that collaboration is most profitable when it takes the form of direct network interconnection. Interestingly, collaboration may provide incentives for a dominant platform to accommodate entry, where it would not otherwise do so.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/115">competitive strategy</a>,    <a href="/keywords/2986">co-opetition</a>,    <a href="/keywords/874">game theory</a>,    <a href="/keywords/2987">network sharing</a>,    <a href="/keywords/2988">platform interconnections</a>,    <a href="/keywords/2989">technology platforms</a>,    <a href="/keywords/2449">two-sided markets</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

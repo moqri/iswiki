@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/67">    Volume 5 Number 4 1989
+</a> pp. 55-71</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Social Determinants of Information Systems Use</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1328">Robertson, David C</a>    </div>
+
+<p>ABSTRACT: The social group of which an individual is a part will affect how that individual uses information systems (IS). The social group will affect how an information system is interpreted and used. The social group will also place pressures and demands on IS usage. A field study of this idea was conducted. The concept of structural equivalence, operationalized by blockmodeling, was used to measure the effect of the social group on individual information systems usage. The results of the field study show that structural equivalence is related to IS usage, but this relationship is different for different information systems. These results are believed to have implications for many important areas of is research such as the strategic use of IS, user involvement in the IS design process, and research on the impacts of IS.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/324">information system use</a>,    <a href="/keywords/325">organizational role of information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

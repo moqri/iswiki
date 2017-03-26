@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/74">    Volume 9 Number 3 1992
+</a> pp. 157-181</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Structure and Perceived Effectiveness of Software Development Subunits: A Task Contingency Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/971">Kyu Kim, K</a> and     <a href="/contributors/972">Umanath, Narayan S</a>    </div>
+
+<p>ABSTRACT: The nature of the task to be performed by the information systems (IS) unit as a contextual factor has received little attention in the IS research literature. In addition, prior empirical work examining IS structure lacks theoretical foundation. In this paper we first clarify the multidimensional nature of an organization's subunit structure. Then, we examine the impact of the structure variables on the perceived effectiveness of a subunit of lS--software development--using "task" as the contextual contingency influencing this relationship. Organizational information processing theory provides the theoretical foundation for this study. Analysis of data from thirty hospital reveals that a contingency relationship exists between task context and structural dimensions of software development subunits in determining their effectiveness. Task complexity and decision-making structure in interaction exhibit a nonmonotonic effect on the software development subunit's effectiveness. While the interaction of subunit work flow interdependence with both decision-making structure and control structure was significant, the direction of effect was unexpected. Implications of these findings for practicing managers, and IS planners and researchers are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/603">decentralization</a>,    <a href="/keywords/604">IS effectiveness</a>,    <a href="/keywords/605">IS task characteristics</a>,    <a href="/keywords/606">IS unit structure</a>,    <a href="/keywords/607">structural contingency model</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

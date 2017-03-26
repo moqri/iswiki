@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/39">    Volume 20 Number 3 2003
+</a> pp. 71-91</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Time-Related Factors of Data Quality in Multichannel Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/289">Cappiello, Cinzia,</a>    <a href="/contributors/290">Francalanci, Chiara,</a> and     <a href="/contributors/291">Pernici, Barbara</a>    </div>
+
+<p>ABSTRACT: Modern organizations offer services through multiple channels, such as branches, ATMs, telephones, and Internet sites, and are supported by multifunctional software architectures. Different functional modules share data, which are typically stored in multiple local databases. Functional modules are usually not integrated across channels, as channels are implemented at different times within independent software projects and are subject to varying requirements of availability and performance. This lack of channel and functional integration raises data quality problems that can impact the quality of the products and services of an organization. In particular, in complex systems in which data are managed in multiple databases, timeliness is critical. This paper focuses on time-related factors of data quality and provides a model that can help companies to evaluate data currency, accuracy, and completeness in software architectures with different degrees of integration across channels and functionalities. The model is validated through simulation based on empirical data on financial information systems. Results indicate how architectural choices on the degree of data integration have a varying impact on currency, accuracy, and completeness depending on the type of financial institution and on customer profiles.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1722">data accuracy</a>,    <a href="/keywords/1723">data completeness</a>,    <a href="/keywords/1724">data currency</a>,    <a href="/keywords/638">data quality</a>,    <a href="/keywords/1725">financial information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

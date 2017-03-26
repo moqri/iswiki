@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/79">    Volume 6 Number 2 1989
+</a> pp. 33-50</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Building Large, Dynamic Hypertexts: How Do We Link Intelligently?</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/293">Carmel, Erran,</a>    <a href="/contributors/296">McHenry, William K,</a> and     <a href="/contributors/297">Cohen, Yeshayahu</a>    </div>
+
+<p>ABSTRACT: </p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/366">hypertext</a>,    <a href="/keywords/367">hyperbase</a>,    <a href="/keywords/368">information retrieval systems</a>,    <a href="/keywords/369">links in hypertexts</a>,    <a href="/keywords/370">indexing of hypertexts</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

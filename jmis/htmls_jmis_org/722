@@ -1,0 +1,117 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/113">    Volume 13 Number 3 1996
+</a> pp. 3-6</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Issue: Information Technology and Its Organizational Impact</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/3">Nunamaker Jr, Jay F</a> and     <a href="/contributors/230">Briggs, Robert O</a>    </div>
+
+<p><p>
+ THREE DECADES AGO, LEAVITT AND WHISTLER PREDICTED that the computer would cause fundamental  changes in the organization and society. We live in a time when many of their expectations have been realized.  As they predicted, many organizations have flattened, eliminating many middle-management positions.  Developments in computer applications have also led the world in directions not foreseen three decades ago. The  Internet and the World Wide Web have connected people in ways that challenge the very concept of the  traditional organization. Indeed, there is now some discussion of organizations with no physical place except in  cyberspace. With the advent of standard cross-platform Web browsers, we may be advancing from the  horse-and-buggy days to the Model-T days of the information agemass-produced standard information interfaces  are now inexpensive enough to find a place in all offices and in most homes.
+</p>
+<p>
+ The next thirty years are likely to bring ever more dramatic changes as more of our interactions move on-line.  We are far from a technological plateau. It is becoming increasingly difficult for organizations to keep pace with  software advances. Product release cycles have dropped from the standard two to three years of the 1970s.  "Internet years" are now six weeks long. Throughout this change, it is important to understand the organizational  and interorganizational issues that arise from new and existing technologies. Toward that end, this special issue  presents eight of the best papers from the Information Systems track at the 1996 Hawaii International Conference  on Systems Science. The papers in this issue address both emerging and mature technologies. The papers break  into groups as follows:
+</p>
+<p>
+ <b>
+  Individuals in the organization:
+ </b>
+</p>
+<p>
+ Lim and Benbasat, National University of Singapore and University of British Columbia
+</p>
+<p>
+ Shibata, Fukuda, and Katsumoto, Toyo University, Communication Research Laboratory of Ministry of Posts  and Telecommunication
+</p>
+<p>
+ <b>
+  Organizational issues:
+ </b>
+</p>
+<p>
+ Galletta, Hartzel, Johnson, Joseph, and Rustagi, University of Pittsburgh
+</p>
+<p>
+ Vandenbosch and Ginzberg, Case Western University
+</p>
+<p>
+ <b>
+  Interorganizational issues:
+ </b>
+</p>
+<p>
+ Oliver, Wharton School, University of Pennsylvania
+</p>
+<p>
+ Lee and Clark, Hong Kong University of Science and Technology
+</p>
+<p>
+ Mejias, Shepherd, Vogel, and Lazaneo, Universities of Oklahoma, Colorado, and Arizona, InstitLto Technclgico  Y de EstLdias Superiores de Monterry
+</p>
+<p>
+ <b>
+  Organizational and interorganizational issues
+ </b>
+</p>
+<p>
+ Nunamaker, Briggs, Mittleman, Vogel, and Balthazard, University of Arizona and University of North Carolina,  Greensboro
+</p>
+<p>
+ The two papers addressing the individual in the organization treat very different topics: the use of technology  to overcome judgment biases, and technological support for creativity in the form of aesthetics-oriented retrieval  of images in databases. Lim and Benbasat present a persuasive theoretical argument for using GSS to overcome  biases in their paper, "A Framework for Addressing Group Judgment Biases with Group Technology." This paper  explains the cognitive basis for the representativeness bias and the availability bias and argues that these biases  may be overcome by using GSS to improve the efficiency of information searches and to reduce the cognitive  costs of communication. The paper offers propositions about debiasing with respect to cognitive support and task  characteristics.
+</p>
+<p>
+ Shibata, Fukuda, and Katsumoto present an unusual approach to the storage and retrieval of aesthetic data in  their paper, "A Hypermedia-Based Design Image Database System Using a Perceptional Link Method." The paper  reports on the development and testing of a system to support clothing designers using a distributed design image  database system. The system includes a repository of fabric design images, a computer-aided design (CAD)  mechanism for shaping garment designs, and a human-centric retrieval mechanism that retrieves fabric designs  based on aesthetic abstractions (called, kensai) such as elegant, chic, and daring. Over time, the retrieval  mechanism learns each designer's tastes and tailors its responses to meet the designer's particular sensibilities.  The authors present the architecture of their prototype and report on its performance under field conditions.
+</p>
+<p>
+ Both papers dealing with the organizational level address issues critical to successful appropriation of  commercially available software. In "Spreadsheet Presentation and Error Detection: An Experimental Study,"  Galletta, Hartzel, Johnson, Joseph, and Rustagi examine the serious proem of undetected errors in spreadsheets.  More that half the errors in spreadsheets go undetected by creators and auditors. This paper reports on an  experiment that tests whether error detection can be improved by changing the way data and formulas are  presented. Analysis revealed that new presentation formats did not improve error detection, but the new formats  did reduce the number of false-positive errors found. The paper discusses the implications of the results for  practitioners and suggests new directions for research.
+</p>
+<p>
+ In "Lotus Notes and Collaboration: Plus ca change . . . ," Vandenbosch and Ginzberg revisit Lotus Notes  implementation for an update five years after Orlikowski's landmark paper on the subject. Lotus Notes continues  to be the world's leading commercial groupware product and is a key component in a widespread effort to foster  collaboration in organizations. This paper provides additional perspective about Notes in organizations. The  authors report on a two-part survey of a new Notes installation within a particular organization. They report user  perceptions of the impact of the team database on work practices, focusing particularly on whether collaboration  among users increased after the implementation. They also discuss key factors that may have affected the  trajectory of implementation. The paper reports that patterns of collaboration did not shift after implementation of  Notes. Participants who already worked in collaboration with others reported that the groupware tool improved  their effectiveness and efficiency. Participants who generally did not collaborate reported no increase in  collaboration and little benefit from the technology. The authors find little support for a groupware technological  imperative.
+</p>
+<p>
+ Two of the papers that address interorganizational issues deal with electronic markets. Oliver, in "A Machine  Learning Approach to Automated Negotiation Prospects for Electronic Commerce," presents a method for using  artificial agents based on genetic-algorithm learning techniques to improve the joint outcomes of multi-issue  business negotiations. The paper describes the architecture of the agents and compares their performance with  that of human subjects. The author discusses how the new technology might be applied to support or even to  entirely automate certain kinds of business negotiations.
+</p>
+<p>
+ In "Market Process Reengineering through Electronic Market Systems: Opportunities and Challenges," Lee and  Clark present four case studies of attempts to implement electronic marketplaces. Two of the systems were  successful; two were failures. The paper details the economic benefits that may be derived by the implementation  of electronic markets and explores the factors that led to success or failure in each case. It suggests issues that  are relevant to the analysis, design, and implementation of such systems by market-making firms.
+</p>
+<p>
+ The third interorganizational paper addresses important questions about cross-cultural groups. In "Perceived  Satisfaction and Consensus Levels: A Cross-Cultural Comparison of GSS and Non-GSS Outcomes within and  between the U.S. and Mexico," Mejias, Shepherd, Vogel, and Lazaneo report on an experiment testing the effects  of cultural differences on participants in electronically supported meetings. Working from Hofstede's cultural  dimensions, the researchers compared forty-four teams and found several differences in consensus change,  satisfaction, and perceived participation. The paper suggests a need for careful consideration about how group  technologies are used when crossing cultural boundaries.
+</p>
+<p>
+ In the final paper, "Lessons from a Dozen Years of Group Support Systems Research: A Discussion of Lab  and Field Findings," Nunamaker, Briggs, Mittleman, Vogel, and Balthazard examine and summarize a broad range  of individual, organizational, and interorganizational issues surrounding the design, implementation, and use of  group support systems. This paper combines knowledge from empirical experimentation with knowledge derived  from thousands of cases in the field, examining issues ranging from software architecture to facilitation  techniques to the design of the physical environment. It examines group processes such as divergent idea  generation and convergent issue identification and examines group activities such as strategic planning and  collaborative requirements definition. The paper examines future directions for GSS research and concludes that  many unanswered questions remain in this research domain.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

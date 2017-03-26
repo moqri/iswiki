@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/127">    Volume 32 Number 2 2015
+</a> pp. 162-203</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Understanding Members’ Active Participation in Online Question-and-Answer Communities: A Theory and Empirical Analysis</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1080">Khansa, Lara,</a>    <a href="/contributors/1079">Ma, Xiao,</a>    <a href="/contributors/1778">Liginlal, Divakaran,</a> and     <a href="/contributors/1082">Kim, Sung S</a>    </div>
+
+<p>ABSTRACT: 
+<p>Community-based question-and-answer (Q&amp;A) websites have become increasingly popular in recent years as an alternative to general-purpose Web search engines for open-ended complex questions. Despite their unique contextual characteristics, only a handful of Q&amp;A websites have been successful in sustaining members’ active participation that, unlike lurking, consists of not only posting questions but also answering others’ inquiries. Because the specific design of the information technology artifacts on Q&amp;A websites can influence their level of success, studying leading Q&amp;A communities such as Yahoo! Answers (YA) provides insights into more effective design mechanisms. We tested a goal-oriented action framework using data from 2,920 YA users, and found that active online participation is largely driven by artifacts (e.g., incentives), membership (e.g., levels of membership and tenure), and habit (e.g., past behavior). This study contributes to the information systems literature by showing that active participation can be understood as the setting, pursuit, and automatic activation of goals.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3520">active participation</a>,    <a href="/keywords/3521">dynamic panel data analysis</a>,    <a href="/keywords/3522">goal-oriented action</a>,    <a href="/keywords/2808">habit</a>,    <a href="/keywords/993">incentives</a>,    <a href="/keywords/1882">online community</a>,    <a href="/keywords/3523">online question-and-answer community</a>,    <a href="/keywords/3524">system-generated data</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

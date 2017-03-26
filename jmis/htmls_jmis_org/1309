@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/132">    Volume 33 Number 3 2016
+</a> pp. 874-903</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Early Predictions of Movie Success: The Who, What, and When of Profitability</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1869">Lash, Michael T</a> and     <a href="/contributors/1870">Zhao, Kang</a>    </div>
+
+<p>ABSTRACT: 
+<p>We focus on predicting the profitability of a movie to support movie-investment decisions at early stages of film production. By leveraging data from various sources, and using social network analysis and text mining techniques, the proposed system extracts several types of features, including “who” is in the cast, “what” a movie is about, “when” a movie will be released, as well as “hybrid” features. Experiment results showed that the system outperforms benchmark methods by a large margin. Novel features we proposed made weighty contributions to the prediction. In addition to designing a decision support system with practical utility, we also analyzed key factors of movie profitability. Furthermore, we demonstrated the prescriptive value of our system by illustrating how it can be used to recommend a set of profit-maximizing cast members. This research highlights the power of predictive and prescriptive data analytics in information systems to aid business decisions.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/7">decision support</a>,    <a href="/keywords/3744">movie investments</a>,    <a href="/keywords/3745">movie profitability</a>,    <a href="/keywords/3746">predictive analytics</a>,    <a href="/keywords/3747">prescriptive analytics</a>,    <a href="/keywords/2817">social network analysis</a>,    <a href="/keywords/1533">text mining</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

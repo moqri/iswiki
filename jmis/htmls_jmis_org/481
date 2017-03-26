@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/40">    Volume 26 Number 3 2009
+</a> pp. 207-239</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Speed Matters: The Role of Free Software Offer in Software Diffusion</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/861">Jiang, Zhengrui</a> and     <a href="/contributors/862">Sarkar, Sumit</a>    </div>
+
+<p>ABSTRACT: Many software products are available free of charge. While the benefits resulting from network externality have been examined in the related literature, the effect of free offer on the diffusion of new software has not been formally analyzed. We show in this study that even if other benefits do not exist, a software firm can still benefit from giving away fully functioning software. This is due to the accelerated diffusion process and subsequently the increased net present value of future sales. By adapting the Bass diffusion model to capture the impact of free software offer, we provide a methodology to determine the optimal number of free adopters. We show that the optimal free offer solution depends on the discount rate, the length of the demand window, and the ratio of low-valuation to high-valuation free adopters. Our methodology is shown to be applicable for both fixed and dynamic pricing strategies.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2588">Bass model</a>,    <a href="/keywords/774">diffusion of innovations</a>,    <a href="/keywords/1478">dynamic pricing</a>,    <a href="/keywords/2589">free software</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

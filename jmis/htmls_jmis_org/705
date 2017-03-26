@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/48">    Volume 26 Number 4 2010
+</a> pp. 145-180</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Understanding the Economic Potential of Service-Oriented Architecture</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1161">Mueller, Benjamin,</a>    <a href="/contributors/1162">Viering, Goetz,</a>    <a href="/contributors/1163">Legner, Christine,</a> and     <a href="/contributors/1164">Riempp, Gerold</a>    </div>
+
+<p>ABSTRACT: Service-oriented architecture (SOA) is one of the most discussed topics in the information systems (IS) discipline. While most computer scientists agree that the service-oriented paradigm has clear benefits in terms of technical quality attributes, it has been difficult to justify SOA economically. The few studies that have investigated the strategic and economic aspects of SOA are mostly exploratory and lack a more comprehensive framework for understanding the sources of its economic potential. Based on IS and SOA literature, our work goes further in suggesting the SOA economic potential model, which describes the causal relationships between the SOA's style characteristics and value it can provide on the business side. Using this model, we investigate 164 SOA cases published between 2003 and 2008 to explore the economic rationale for adopting SOA. Our findings suggest that SOA's business benefits are currently mainly driven by operational and information technology infrastructural improvements. However, enterprises also realize strategic benefits from SOA; for example, by electronically integrating with their business partners by means of SOA. We use the results of our study to derive propositions and suggest a research model for future studies on SOA's economic potential.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/2618">business benefits</a>,    <a href="/keywords/2619">economic potential</a>,    <a href="/keywords/2620">IS value</a>,    <a href="/keywords/2621">service-oriented architecture</a>,    <a href="/keywords/2290">services science</a>,    <a href="/keywords/2284">services</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

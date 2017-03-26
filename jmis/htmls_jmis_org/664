@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/5">    Volume 4 Number 2 1987
+</a> pp. 45-73</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>On the Interdependencies between Record Structure and Access Path Design</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/642">March, Salvatore T</a> and     <a href="/contributors/1105">Carlis, John V</a>    </div>
+
+<p>ABSTRACT: The physical organization of data within a database has two major components: record structures and access paths. Record structures specify the grouping of data items into data records that are physically stored and accessed together. Access paths specify the algorithms and system data used to determine the physical location of data records and to efficiently support content-dependent searching. Choosing efficient record structures and access paths is complicated by the fact that they are interdependent. This paper formalizes these interdependencies and proposes an approach to solving the combined record structure-access path design problem. This work extends an existing database design system in four ways: (1) record segmentation is extended to include redundantly stored data in any number of independently processed segments; (2) dependent access paths are added allowing us to design multiple, interrelated file organizations at the same time; (3) new methods are proposed to assist in the generation of potentially useful record structures; and (4) inter-file organization performance constraints can be specified.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/230">record segmentation</a>,    <a href="/keywords/231">access paths</a>,    <a href="/keywords/232">physical database design</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

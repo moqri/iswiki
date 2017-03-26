@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/81">    Volume 3 Number 1 1986
+</a> pp. 96-104</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Adaptation of Information Systems Building Blocks to Design Forces</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/267">Burch, John G</a>    </div>
+
+<p>ABSTRACT: The paper establishes a generic definition of all information systems. The basis of this definition includes six building blocks. The focus of this paper is how these building blocks must adapt to ten design forces for the development of successful information systems.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/159">MIS components</a>,    <a href="/keywords/158">organizational factors of MIS</a>,    <a href="/keywords/160">MIS design factors</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

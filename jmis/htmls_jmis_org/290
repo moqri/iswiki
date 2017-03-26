@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/83">    Volume 19 Number 3 2002
+</a> pp. 87-98</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Management and Valuation of Advertisement-Supported Web Sites</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/394">Dewan, Rajiv M,</a>    <a href="/contributors/510">Freimer, Marshall L,</a> and     <a href="/contributors/511">Jie, Zhang</a>    </div>
+
+<p>ABSTRACT: A key decision by the manager of an advertisement-supported Web site is the balance between content and advertising. Content is costly but attracts viewers, whereas advertisement generates revenues but repels viewers. The period-by-period balancing decision is further complicated by the growth and diffusion nature of Web site viewership. This decision problem is modeled as a control problem that captures the essence of the business model of such Web sites. Using this model we show that it may be optimal for the Web site to initially have negative cash flows from having fewer advertisements and more content. This is more than compensated for by future profits from the Web site. We use the solution to the control problem to also develop a forward-looking measure of Web traffic called the 'discounted total traffic.' We empirically examine this new measure and find that it better predicts market capitalization than backward-looking measures like page views.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1614">advertising policy</a>,    <a href="/keywords/1615">content management</a>,    <a href="/keywords/1616">market capitalization</a>,    <a href="/keywords/1617">Web traffic</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/8">    Volume 13 Number 2 1996
+</a> pp. 163-183</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Dynamic Price Elasticity and the Diffusion of Mainframe Computing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/792">Kar Yan, Tam</a>    </div>
+
+<p>ABSTRACT: The organizational adoption of information technology (IT) innovations has been an area of increasing research activity in the last two decades. While much attention has focused on the relationship between attributes of the innovation and the adoption decision, little has been done to study the adopters' reactions to changes in these attributes over time. An important innovation attribute is price, which is commonly used as a proxy for adoption cost. In this paper, we investigate how organizations in the United States react to mainframe price changes over a period of thirty years, from 1955 to 1984. A parsimonious diffusion model that integrates both diffusion and pricing effects is developed. The model is empirically tested using annual adoption and pricing data of mainframes. Quality-adjusted price index is used to account for any changes in quality improvement overtime. Our findings indicate that (1) price is an important factor in the diffusion process, (2) organizations' reactions to price changes (i.e., price elasticity) are not constant, and (3) elasticity dynamics can serve as an innovation attribute that provides a continuous characterization of adoption behavior over the life cycle of an innovation. Implications to IS research and opportunities for future work are also discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/964">innovation diffusion</a>,    <a href="/keywords/965">information technology adoption</a>,    <a href="/keywords/966">price elasticity</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

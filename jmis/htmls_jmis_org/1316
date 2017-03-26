@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/133">    Volume 33 Number 4 2016
+</a> pp. 1059-1086</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Identifying and Profiling Key Sellers in Cyber Carding Community: AZSecure Text Mining System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1879">Li, Weifeng,</a>    <a href="/contributors/433">Chen, Hsinchun,</a> and     <a href="/contributors/1729">Nunamaker, Jay F</a>    </div>
+
+<p>ABSTRACT: 
+<p>The past few years have witnessed millions of credit/debit cards flowing through the underground economy and ultimately causing significant financial loss. Examining key underground economy sellers has both practical and academic significance for cybercrime forensics and criminology research. Drawing on social media analytics, we have developed the AZSecure text mining system for identifying and profiling key sellers. The system identifies sellers using sentiment analysis of customer reviews and profiles sellers using topic modeling of advertisements. We evaluated the AZSecure system on eight international underground economy forums. The system significantly outperformed all benchmark machine-learning methods on identifying advertisement threads, classifying customer review sentiments, and profiling seller characteristics, with an average F-measure of about 80 percent to 90 percent. In our case study, we identified the famous carder, Rescator, who was affiliated with the Target breach, and captured important seller characteristics in terms of product type, payment options, and contact channels. Our research leverages social media analytics to probe into the underground economy in order to help law enforcement target key sellers and prevent future fraud. It also contributes to our understanding of the use of information technology in detecting deception in online systems.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3764">carding community</a>,    <a href="/keywords/3703">cybersecurity</a>,    <a href="/keywords/3765">deep learning</a>,    <a href="/keywords/3693">fraud detection</a>,    <a href="/keywords/3766">online deception</a>,    <a href="/keywords/3767">social media analytics</a>,    <a href="/keywords/3759">topic modeling</a>,    <a href="/keywords/3768">underground economy</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

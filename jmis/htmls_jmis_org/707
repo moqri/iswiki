@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/16">    Volume 4 Number 3 1987
+</a> pp. 5-27</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Expansion and Control of End-User Computing</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1166">Munro, Malcolm C,</a>    <a href="/contributors/1167">Huff, Sid L,</a> and     <a href="/contributors/1168">Moore, Gary</a>    </div>
+
+<p>ABSTRACT: End-user computing (EUC) has risen rapidly to prominence in many organizations. As EUC continues to mature, it is becoming clear that there is much more to managing end-user computing than just managing microcomputers. This paper presents a conceptual framework for understanding the overall expansion and control of EUC. The framework is thoroughly illustrated using data drawn from two field studies. Implications that flow from the studies are discussed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/116">human information processing</a>,    <a href="/keywords/242">information center</a>,    <a href="/keywords/224">management of information systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

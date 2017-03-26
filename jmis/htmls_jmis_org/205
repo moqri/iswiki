@@ -1,0 +1,76 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/46">    Volume 21 Number 2 2004
+</a> pp. 5-9</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Issue: Competitive Strategy, Economics, and Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K,</a>    <a href="/contributors/394">Dewan, Rajiv M,</a> and     <a href="/contributors/79">Kauffman, Robert J</a>    </div>
+
+<p>ABSTRACT: <p>
+ Amid the many changes that we have seen in the global economy and the market for information technology (IT) and e-business services in the past five years, certain business issues and research themes have held a continuing interest and timeless appeal to the people in the information systems (IS) and economics research community. The papers that appear in this special issue of the Journal of Management Information Systems represent the theme of &#8220;competitive strategy, economics, and IS.&#8221; They include research that presents new methods to gauge the business value of IS, new theoretical perspectives on intellectual property rights and the ownership of interorganizational systems, and extensions to our knowledge of the market structure for search engines and Web portals in e-commerce and their influence on the concentration of media content. Also in this issue are several papers on relatively new topics in IS research. One explores how to organize the market for utility computing (especially the emerging opportunities with grid computing) to ensure appropriate investment and capacity. Another examines the creation of optimal market segmentation strategies for producers of various kinds of information goods when there is an opportunity to identify a &#8220;digital divide&#8221; in consumer preferences and access to the Internet. These papers represent new thinking in IT strategy from the faculty of leading business schools in the United States and reflect the increasing importance of the ties between IS research and problems in related business disciplines.
+</p>
+<p>
+ The first two papers present new methodologies that are motivated by methods from finance that structure the analysis of financial assets. Ram L. Kumar&#8217;s paper, &#8220;A Framework for Assessing the Business Value of Information Technology Infrastructures,&#8221; offers an innovative approach to the assessment of IT infrastructure flexibility in the firm. The emphasis of the author&#8217;s modeling approach is on the measurement and analysis of multiple sources of managerial uncertainty that affect infrastructure value. He conceptualizes this in terms of stochastic value jumps that arise due to market shocks, which can be traced through in terms of the business value of the IT infrastructure. He illustrates his methodology in the context of the IT infrastructure investment of a large, diversified financial institution.
+</p>
+<p>
+ Indranil Bardhan, Sugato Bagchi, and Ryan Sougstad&#8217;s paper, &#8220;Prioritizing a Portfolio of Information Technology Investment Projects,&#8221; addresses how portfolio evaluation principles work in the context of the IT projects of a single firm and the managerial flexibilities that they create. Their nested real option model identifies several kinds of interdependencies that occur among IT projects, including sequential interdependencies and intertemporal interdependencies, in which the initiation or completion of one project creates constraints and capabilities for effective cost controls or enhanced value flows of another. The authors also discuss a new heuristic for dynamic multiperiod IT project portfolio optimization. They illustrate this new approach for the IT projects of a large electrical utility firm, for which they implement a portfolio management model with budget constraints.
+</p>
+<p>
+ A related paper on the theme of IT value, by Matt E. Thatcher and David E. Pingry, is entitled &#8220;Understanding the Business Value of Information Technology Investments: Theoretical Evidence from Alternative Market and Cost Structures.&#8221; The authors employ game-theoretic monopoly and duopoly models to examine the impact of IT investments on firm profit, firm productivity, and consumer welfare, when the firm makes a choice between product quality and product price. The key insights derived from their models suggest that there should be greater consistency among the predicted outcomes between IT investments and the predicted economic outcomes when there is less competition (i.e., the monopoly case versus the duopoly case) and lower marginal costs for achieving product quality (i.e., zero marginal costs, at one extreme). The authors argue in favor of two universal theorems. The first is that some of the highest-value investments in IT result when the emphasis is on the improvement of product quality. The second is that investments in IT made to lower a firm&#8217;s marginal cost of production are likely to have multiple positive effects on firm productivity, profitability, and consumer welfare.
+</p>
+<p>
+ The next two papers in this special issue explore problems that occur with inter&#173;organizational information sharing. Eric K. Clemons and Lorin M. Hitt&#8217;s paper, entitled &#8220;Poaching and the Misappropriation of Information:  Transaction Risks of Information Exchange,&#8221; offers a new theoretical contribution that emphasizes inappropriate exploitation of information. The authors define poaching risk as occurring in any transactional relationship where information that is transferred between parties for the purposes specified in a contract is deliberately used by the counterparty for its own economic benefit, to the detriment of the information provider. Their theory of poaching argues that weak intellectual property protection, the existence of complementary assets, limited observability of the counterparty&#8217;s actions, and bounded rationality predispose a transactional relationship between two firms to result in the misappropriation of information. They offer a number of suggestions to help firms to avoid information poaching.
+</p>
+<p>
+ In &#8220;Information Exploitation and Interorganizational Systems Ownership,&#8221; Kunsoo Han, Robert J. Kauffman, and Barrie R. Nault investigate how the business value of interorganizational systems can be sustained in the presence of inappropriate sharing of information. They use the theory of incomplete contracts as a means to explain why ownership changes provide a remedy to constraints on IT asset value growth when IT adoption decisions are made in the presence of poaching risk. The authors present a set of theoretical propositions to analyze the market conditions and provide an explanation for why the J.P. Morgan Bank of New York chose to spin off an IT-based financial risk management product asset, RiskMetrics, to Reuters and other financial institutions. The authors show why the possibility of information exploitation depressed the value of Morgan&#8217;s financial risk management IT assets, leading to underinvestment and stalling adoption. Their model shows that higher returns would be achieved through a spin-off of the free service. The authors show the generality of their theoretical perspective through additional illustrative mini-cases in the airlines and Internet advertising sectors.
+</p>
+<p>
+ Search engines and Web portals provide some of the foundational technological capabilities for the conduct of electronic commerce on the Internet. Rahul Telang, Uday Rajan, and Tridas Mukhopadhyay, in &#8220;The Market Structure for Internet Search Engines,&#8221; observe that lower-quality and higher-quality search engines on the Internet typically are offered free of charge, when most other products of differing quality are differentiated by lower and higher prices. They note an especially puzzling situation that exists in e-commerce: free lower-quality search engines continue to occupy a viable niche in the existing market structure in the presence of higher-quality ones. The authors explain this in terms of the stochastic quality of the search results that free search engines yield, leading to residual demand for less-than-the-best search engines. They examine models involving vertical quality differentiation and horizontal product differentiation. The former provides the modeling basis to establish the authors&#8217; basic results, and the latter is used to show the reasons why horizontal differentiation-induced residual demand should lead to higher-quality search engines with more homogeneous features and capabilities.
+</p>
+<p>
+ Frederick J. Riggins&#8217;s paper, &#8220;A Multichannel Model of Separating Equilibrium in the Face of the Digital Divide,&#8221; extends the discussion about product differentiation and price discrimination by examining how consumers who prefer higher- and lower-quality goods make purchase choices for products sold via an Internet storefront and through a traditional bricks-and-mortar store. The author develops an analytical model to show how the digital divide (i.e., access or lack of access to the Internet) permits sellers to more effectively segment consumers by charging different prices and selling different products in each of the channels. He also explains why having the capability to segment the market through the digital divide reduces the likelihood of cannibalizing sales of the higher-priced product. According to the author, bridging the digital divide (i.e., making both channels available to all consumers) will tend to increase the seller&#8217;s impetus to cannibalize its higher-quality product with lower-quality sales to high-type consumers in physical stores. The implications of sequential introduction of products with different quality attributes and intertemporal price discrimination are also discussed in terms of their effects on the firm&#8217;s optimal pricing, quality, and channel choices.
+</p>
+<p>
+ Rajiv M. Dewan, Marshall L. Freimer, Abraham Seidmann, and Jie  Zhang&#8217;s paper, entitled &#8220;Web Portals: Evidence and Analysis of Media Concentration,&#8221; provides an explanation of why a disproportionate degree of market concentration is observed in Web portal sites, in terms of expenditures of advertising dollars and portal user visits. The authors argue that when competition becomes fiercer, Web portal firms respond by competing for users and offering more functionality and additional services. Yet, to be profitable over the long run, it is necessary for the portals to differentiate themselves from one another in terms of their quality and the quantity of their contents. The authors report on the conditions that give rise to an asymmetric equilibrium, in which a few portal players focus on making available a lot of free content bundled with advertising, while others focus on specialty contents, similar to the contrast between a supermarket&#8217;s and a convenience store&#8217;s services.
+</p>
+<p>
+ The final paper, by Hemant K. Bhargava and Shankar Sundaresan, is entitled &#8220;Computing as Utility: Managing Availability, Commitment, and Pricing Through Contingent Bid Auctions.&#8221; This work opens up new directions for research on utility computing, which emphasizes on-demand e-services, including grid computing, network computing and network data storage, and the outsourcing of other related computing services. But without a market mechanism to organize capacity of utility computing in the face of distributed demand for it, there will be no way to effectively guarantee the availability of the needed services at the appropriate levels of capacity. With this business problem in mind, the authors propose a contingent bid auction mechanism involving three pricing schemes for establishing pay-per-use prices with refunds when a buyer of computing services capacity fails to see demand materialize in its business. The authors suggest that this kind of approach will help to encourage further growth of intermediary services in the marketplace for utility computing, and overcome the potential for underinvestment.
+</p>
+<p>
+ This year marks the first time that the Journal of Management Information Systems is publishing a full issue of papers devoted to new research on competitive strategy, economics, and information systems. The Guest Editors wish to thank the Editor-in-Chief, Vladimir Zwass, for the opportunity to put together this special issue. We also appreciated the authors&#8217; willingness to permit us to shape their work through the regular review process of the journal, and the review process for papers that were invited from the Thirty-Seventh Hawaii International Conference on System Sciences, held in January 2004. Finally, we thank our faculty, industry, and doctoral program colleagues, who were kind enough to provide as many as three rounds of reviews to help bring these papers into their current form, and Kunsoo Han and Donna Sarppo at the MIS Research Center at the University of Minnesota for their assistance with the review process and communications with the special-issue authors.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

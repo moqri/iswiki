@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/49">    Volume 18 Number 4 2002
+</a> pp. 147-168</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Training for Crisis Decision-Making: Psychological Issues and Computer-Based Solutions</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1414">Sniezek, Janet A,</a>    <a href="/contributors/1415">Wilkins, David C,</a>    <a href="/contributors/1416">Wadlington, Patrick L,</a> and     <a href="/contributors/1417">Baumann, Michael R</a>    </div>
+
+<p>ABSTRACT: Crises demand swift and effective decision-making; yet there are many problems in training personnel on the skills necessary to achieve the goals of crisis management. This paper has three objectives concerning training for crisis management. First we integrate diverse literatures and present a framework for an understanding of the unique challenges in crisis management training, and the role of training systems with capabilities for simulation, immersion, and critiquing. Second, we describe an example of a trainer for ship damage control, called DC-Train, which addresses these challenges. This system consists of a first-principles simulator that generates large numbers of realistic scenarios, an immersive multimedia interface that helps elicit psychological processes involved in actual crisis management, and a critiquing expert system that provides real-time and post-session feedback on human decision-making performance. Finally, we present an empirical method for evaluating the effectiveness of such a system for crisis management training. Results of evaluation experiments with participants in a ship damage control training program indicate that the described computer-based trainer has psychological realism and improves decision-making performance.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/252">artificial intelligence</a>,    <a href="/keywords/1544">computer-based training</a>,    <a href="/keywords/1216">crisis management</a>,    <a href="/keywords/336">human-computer interaction</a>,    <a href="/keywords/340">human resource management</a>,    <a href="/keywords/1545">ship damage control</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

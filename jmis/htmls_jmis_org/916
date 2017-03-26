@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/69">    Volume 6 Number 3 1989
+</a> pp. 65-84</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Expert Systems and Their Impact on the Firm: The Effects of PlanPower Use on the Information Processing Capacity of the Financial Collaborative</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1450">Sviokla, John J</a>    </div>
+
+<p>ABSTRACT: Expert Systems (ESs) have the potential to make a competitive difference in industry, academia, and government, yet there is little knowledge of how to manage these complex software tools. New activity in the field is booming, as a result of civilian and government programs that are investing more time and money in ES development Early initiatives, aided by improvements in computer hardware and software, have successfully created ESs to rival human experts within some narrow problem domains. The study is guided by the notions of organizational programs as defined by March and Simon [3], and the information-processing capacity of the firm as defined by Galbraith [1,2] to organize, describe, and compare the effects of ES use across the site. It was clearly shown that, within the definition, the information-processing capacity of the PlanPower site did increase from pre-ES to post-ES. The interesting implication of the increased information processing capacity was that the firm (The Financial Collaborative) seemed to gobble up the capacity and create new issues and concerns. Instead of the task becoming more certain and more simple, as one might expect with increased information-processing capacity, the task mutated and the firm began to operate with a higher need for information-processing capacity. The ES seemed to increase the effectiveness and efficiency of the user firm. The price of the benefits was an increased rigidity in the task. In considering ESs, a manager should be concerned not only with the ES itself, but with the process by which the ES is adapted, and the overall process of creating and using the ES. In addition, the manager needs to consider the effects of the ES on the uncertainty associated with the task and should consciously manage that uncertainty to foster the level of adaptation necessary to keep the ES alive and viable in the organization.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/156">expert systems</a>,    <a href="/keywords/382">expert systems in financial planning</a>,    <a href="/keywords/383">organizational impact</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

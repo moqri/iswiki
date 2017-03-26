@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/85">    Volume 1 Number 4 1985
+</a> pp. 76-86</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>An Assessment of Productivity and Operations Control as Motives for Office Automation</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1214">Paddock, Charles E</a>    </div>
+
+<p>ABSTRACT: Gains in productivity and improved internal control of data and operations by data processing and word processing departments are often mentioned as motives for pursuing office automation. A recent survey of data processing and word processing managers indicates that productivity improvement is indeed a motivating factor, but that operations control may not be particularly important. This implies that justification of office automation based on the need to enhance data processing and word processing control may be an insufficient reason for incurring the time and expense necessary to automate. Therefore, if productivity problems do not exist, operations control should be closely examined before citing it as a major reason for implementing office information systems.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/72">office automation</a>,    <a href="/keywords/73">office information systems</a>,    <a href="/keywords/74">productivity</a>,    <a href="/keywords/75">operations control</a>,    <a href="/keywords/76">motivation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

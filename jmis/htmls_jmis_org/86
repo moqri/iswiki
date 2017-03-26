@@ -1,0 +1,193 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/32">    Volume 24 Number 4 2008
+</a> pp. 5-11</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Special Issue: Trust in Online Environments</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/157">Benbasat, Izak,</a>    <a href="/contributors/175">Gefen, David,</a> and     <a href="/contributors/176">Pavlou, Paul A</a>    </div>
+
+<p><p>
+ David Gefen is an Associate Professor of MIS at Drexel University. He received his Ph.D. in CIS from Georgia State University and a Master of Sciences in MIS from Tel-Aviv University. His research focuses on psychological and rational processes involved in enterprise resource planning, computer-mediated communication, and e-commerce implementation management. Dr. Gefen&#8217;s wide interests in IT adoption stem from his 12 years of experience in developing and managing large information systems. His research findings have been published in Information Systems Research, Journal of Management Information Systems, MIS Quarterly, IEEE Transactions on Engineering Management, Journal of Strategic Information Systems, Engineering Management, DATABASE, Omega, Journal of the AIS, and others. He sits on the editorial boards of MIS Quarterly, DATABASE, and International Journal of e-Collaboration.
+</p>
+<p>
+ Paul A. Pavlou is an Assistant Professor of Information Systems at the University of California at Riverside. He received his Ph.D. from the University of Southern California in 2004. His research focuses on trust, online marketplaces, e-commerce, and information systems strategy. His research has appeared in Information Systems Research, MIS Quarterly, Journal of the AIS, Journal of the Academy of Marketing Science, Communications of the ACM, Decision Sciences, and others. His work has been cited over 400 times according to the Institute of Scientific Information and over 1,300 times according to Google Scholar. Dr. Pavlou won many Best Paper awards for his research, including the Information Systems Research Best Paper award in 2007, the 2006 IS Publication of the Year award, the Top 5 Papers award in Decision Sciences in 2006, the Runner-Up to the Best Paper award of the 2005 Academy of Management Conference, the Best Doctoral Dissertation award of the 2004 International Conference on Information Systems (ICIS), the Best Interactive Paper award of the 2002 Academy of Management Conference, and the Best Student Paper award of the 2001 Academy of Management Conference (OCIS Division). He also won several Best Reviewer awards, including the 2003 MIS Quarterly Reviewer of the Year award and the Best Reviewer award of the 2005 Academy of Management Conference. He sits on the editorial boards of MIS Quarterly, Journal of the AIS, International Journal of Economic Commerce, Electronic Commerce Research and Applications, and DATABASE.
+</p>
+<p>
+ Over the past decade, there have been significant advances in understanding the antecedents and consequences of online trust in electronic commerce and online marketplaces. Building on this research stream, this Special Issue of the Journal of Management Information Systems attracted state-of-the-art research that extends the limits of knowledge in understanding the nature, antecedents, and consequences of trust in online environments. A key criterion in the review process was contribution to theory, because, as we explain in more detail in our paper on the research agenda in the domain, the study of trust in online environments requires a strong theoretical basis. Expanding the frontiers of science on this topic at this stage requires more than adding a few new constructs to existing models, considering research has already established the structure of online trust (e.g., [14]) and its relationship to information technology (IT) adoption [9]. The 10 papers in this Special Issue were selected after a three-cycle "review and revise" process from among the 57 papers originally submitted. These papers successfully expanded trust theory in the context of online environments into the realms of culture and gender, justice, desocialization and trust, branding alliances, regulations on privacy, trust building over time, recommendation agents, and system characteristics. These 10 papers apply a wide array of research methods, including surveys, experimental designs, interviews, analytical modeling, and longitudinal experimental scenarios. The papers deal with many topics of importance to current and emerging online environments, including e-commerce, infomediaries, and mobile commerce. In this collection of papers, we also included "A Research Agenda for Trust in Online Environments," which describes our views on the direction that research on trust in online environments should take.
+</p>
+<p>
+ Trust and Culture
+</p>
+<p>
+ The first three papers in this Special Issue deal with culture. Trust and culture are closely related [4], and probably one cannot be properly understood without the other [11]. Expanding trust research, in general, in this direction is important because most trust research has been conducted in the United States, and the United States is, to some extent, a stand-alone culture with its exceptionally high degree of individualism and low degrees of uncertainty avoidance. Indeed, research in other realms has questioned whether findings from the United States can be readily generalized to other cultures [2]. This is particularly important in the context of trust, which is at the heart of culture. Empirically highlighting this need, the little research that did previously examine culture and online trust across cultures came up with mixed results: showing consistent relationships among the United States, Israel, and Australia [12], all quite similar culturally, or suggesting the need to include culture in the model because trust, and its antecedents, changed across cultures [6, 10, 13, 16, 23]. None of this research has made its way into the top journals, and so we are happy to introduce this crucial aspect of trust in this Special Issue. All papers on trust and culture highlight the need to include culture in the study of e-commerce based on aspects of the cultural dimensions introduced by Hofstede [11].
+</p>
+<p>
+ The culture papers start with a paper by Dan J. Kim. In a paper titled "Self-Perception-Based Versus Transference-Based Trust Determinants in Computer-Mediated Transactions: A Cross-Cultural Comparison Study," he compares the Korean and U.S. consumers, as exemplars of collective, strong uncertainty avoidance, long-term orientation, and high-context culture in Korea, on one hand, and individualistic, low uncertainty avoidance, short-term orientation, and low-context culture in the United States, on the other. The comparison of these two samples is supportive of the need to include culture in the study of trust in e-commerce, especially as transference-based antecedents of trust were significant in the Korean sample but not in the U.S. sample, and privacy concerns of more importance in the United States.
+</p>
+<p>
+ The second culture paper is by Dianne Cyr. In a paper titled "Modeling Web Site Design Across Cultures: Relationships to Trust, Satisfaction, and E-Loyalty," she compares samples from Canada, Germany, and China. The trust antecedents here deal with information design, navigation design, and visual design. The comparison of these samples is also supportive of the need to include culture in the study of trust in e-commerce. Again, consistently across cultures, trust had approximately the same effect on the outcome variable, but the relative importance of the Web site design characteristics&#8212;that is, the trust antecedents in this study&#8212;differed across cultures.
+</p>
+<p>
+ Expanding the study of culture beyond e-commerce, Anthony Vance, Christophe Elie-dit-cosaque, and Detmar W. Straub study online trust in the context of mobile commerce in their paper titled "Examining Trust in Information Technology Artifacts: The Effects of System Quality and Culture." They investigate if two system quality constructs&#8212;navigational structure and visual appeal&#8212;would influence trust in mobile commerce technologies. They also consider the effect of culture, individually and in conjunction with the two system quality constructs, by comparing the trust placed by French and American potential users in m-commerce technologies. Both of the system quality variables, culture, as well as the interaction of trust and navigational structure, influenced users&#8217; trust in IT artifacts. This study is novel in that it contributes to the "trust in IT" literature by extending it beyond the commonly studied context of recommendation agents in e-commerce [25, 26] into mobile commerce technologies.
+</p>
+<p>
+ In sum, these three papers conclude that although the importance of trust may not vary significantly across cultures, its antecedents do. Among the cultural dimensions, collectivism and uncertainty avoidance are the key elements of culture that affect trust antecedents in all of these studies, and support the theoretical propositions by Doney et al. [4] and the empirical conclusion by Gefen and Heart [6].
+</p>
+<p>
+ Trust and Gender
+</p>
+<p>
+ Related to this sequence on culture, Neveen F. Awad and Arik Ragowsky examine whether gender affects trust and e-commerce based on an expansion of sociolinguistic theory in a paper titled "Establishing Trust in Electronic Commerce Through Online Word of Mouth: An Examination Across Genders." Sociolinguistics holds that communicating across genders is sometimes reminiscent of communicating across cultures, because men and women communicate and understand communication differently, each sex applying and seeking different social messages through communication. Men seek to establish social hierarchy, women to create inclusion [24]. With a unique sample of over 1,500 survey respondents drawn from the population at large, Awad and Ragowsky expand these previous sociolinguistic gender studies about IT adoption [5, 8] and virtual communities [7] to show that gender also affects the trust and technology acceptance model [9] as well as some specific trust antecedents in word-of-mouth systems on retailer Web sites. The authors show that women are more affected by trust than men, and, in accordance with sociolinguistic-predicted behavior in other settings, that while men value their ability to post more than women, women value the responsiveness of others more.
+</p>
+<p>
+ Trust and Justice
+</p>
+<p>
+ Expanding the theory of trust in a new direction, Ofir Turel, Yufei Yuan, and Catherine E. Connelly, in their paper titled "In Justice We Trust: Predicting User Acceptance of E-Customer Services," develop a model that incorporates trust and perceived justice. Using an experimental design, this study makes a unique contribution by showing the validity of integrating justice theory into trust theory. Justice theory discusses four types of justice&#8212;procedural, distributive, interpersonal, and informational&#8212;as antecedents of behavioral intentions [3]. As the authors show, trust fully mediated the effects of all these justice beliefs except for informational justice. Considering procedural justice and distributive justice are the main types discussed in the literature, this study confirms the central role of trust as conceived in previous research as an enabler in e-commerce by casting it as the reason why the fairness of the interaction affects behavioral intentions. Combined with other studies where trust mediated such antecedents [18], these conclusions support the conclusion that trust is the main driver in e-commerce [21]. Considering the importance of culture&#8217;s influence on trust, and considering the differences in the perception of fairness across cultures and probably between the sexes, adding a culture and gender dimension to further studies of justice and trust sounds a promising avenue.
+</p>
+<p>
+ Trust and Privacy
+</p>
+<p>
+ The topic of trust, privacy, and institutional governmental guarantees also receives attention in a paper titled "Gaining Trust Through Online Privacy Protection: Self-Regulation, Mandatory Standards, or Caveat Emptor," by Zhulei Tang, Yu (Jeffrey) Hu, and Michael D. Smith. This paper focuses on whether, how, and to what degree of effectiveness online privacy protection can be enhanced by consumers&#8217; trust in firms and by governmental regulation. Using analytical modeling, this paper shows that credible and unambiguous signals can build consumers&#8217; trust in firms, and thus enhance social welfare. Because consumers often find it difficult to precontractually identify and select firms that have the ability and willingness to protect consumer privacy [20], trust helps overcome online privacy concerns. Interestingly, even though governmental regulation also builds consumers&#8217; trust and facilitates online privacy protection, it is not optimal in most online environments due to lower profit margins and higher prices for consumers compared to trust building. This paper adds to the trust literature (e.g., [15, 18]) that has argued that trust acts as a lubricant for consumer&#8211;firm relationships, and that institutional guarantees may not be as cost-effective as relationship trust building.
+</p>
+<p>
+ Trust and Auctions
+</p>
+<p>
+ Related to the study of trust and online auctions, Mohamed H&#233;di Charki and Emmanuel Josserand examine the role of online reverse auctions on interorganizational trust among buyers and suppliers in the retail industry in their paper titled "Online Reverse Auctions and the Dynamics of Trust." Building on the notion of the spirit of the technology and the organizing vision, and using qualitative methodology with 70 field interviews from buyers and suppliers in the French retail industry, the authors show that desocialization associated with the introduction of online reverse auctions leads to distrust. The authors also show the destructive role of technical problems and rumors on the formation of both trust and distrust, which is posited as a distinct construct. This paper relates to the extensive literature that relates to trust and online auctions (e.g., [1]), but it extends the literature by going beyond trust to examine the formation of distrust. It also relates to the literature on psychological contract violation in online auctions (e.g., [19]) in the sense that negative incidents and unethical perceptions&#8212;similar to psychological contract violations&#8212;lead to the reduction of trust and the formation of distrust.
+</p>
+<p>
+ Trust and Web Site Quality
+</p>
+<p>
+ Paul Benjamin Lowry, Anthony Vance, Greg Moody, Bryan Beckman, and Aaron Read examine how unfamiliar Web sites use branding alliances and Web site features to improve their brand image and increase consumers&#8217; trust in their paper titled "Explaining and Predicting the Impact of Branding Alliances and Web Site Quality on Initial Consumer Trust of E-Commerce Web Sites." Building on the literature on third-party trust transference (e.g., [18, 22]) and using an experimental study, the authors show that branding alliances help transfer positive impressions to unknown Web sites and increase initial trust formation. The paper&#8217;s interesting finding is that Web site quality and branding alliances are important constructs in building trust in unknown Web sites, while Web site quality affects brand image. Therefore, while trust transference from third parties is important, Web site characteristics also affect brand image, thus contributing to the information systems (IS) and marketing literature in terms of how brand image is enhanced. It also contributes to the e-commerce literature (e.g., [17]) that examines how Web site characteristics lead to the success of commercial Web sites.
+</p>
+<p>
+ Trust and Infomediaries
+</p>
+<p>
+ Fatemeh "Mariam" Zahedi and Jaeki Song examine trust building over time in their paper titled "Dynamics of Trust Revision: Using Health Infomediaries." Using a longitudinal laboratory experimental scenario, this study shows that the structure of trust changes over time. Information quality becomes the most important predictor of trust in infomediaries and satisfaction plays an important role in building trust. The interesting insight of this paper is that it goes beyond initial trust formation to longitudinally examine the dynamics of trust evolution and show that the structure of trust changes over time. Specifically, the results show that information quality is the single most influential predictor of trust building in infomediaries over time, while satisfaction substantially changes customers&#8217; trust beliefs.
+</p>
+<p>
+ Trust and Recommendation Agents
+</p>
+<p>
+ Weiquan Wang and Izak Benbasat examine trust in decision support technologies for e-commerce (recommendation agents) in their paper titled "Attributions of Trust in Decision Support Technologies: A Study of Recommendation Agents for E-Commerce." The authors investigate the reasons why consumers trust or do not trust decision support technologies in their early stages of trust formation. Using an experimental study that includes a multimethod approach for collecting quantitative and qualitative data (content analysis), the study respondents were asked to explain the reasons for trusting (or not) recommendation agents. Most interestingly, the study identifies the positive and negative reasons for increasing or decreasing trust, respectively, resulting in a comprehensive list of factors that positively and negatively influence trust in decision support technologies for e-commerce.
+</p>
+<p>
+ References
+</p>
+<p>
+ 1. Ba, S., and Pavlou, P.A. Evidence of the effect of trust building technology in electronic markets: Price premium and buyer behavior. MIS Quarterly, 26, 3 (2002), 243&#8211;268.
+</p>
+<p>
+ 2. Bagozzi, R.P.; Wong, N.; Abe, S.; and Bergami, M. Cultural and situational contingencies and the theory of reasoned action: Application to fast food restaurant consumption. Journal of Consumer Psychology, 9, 2 (2000), 97&#8211;106.
+</p>
+<p>
+ 3. Colquitt, J.A.; Conlon, D.E.; Wesson, M.J.; Porter, C.; and Ng, K.Y. Justice at the millennium: A meta-analytic review of 25 years of organizational justice research. Journal of Applied Psychology, 86, 3 (2001), 425&#8211;445.
+</p>
+<p>
+ 4. Doney, P.M.; Cannon, J.P.; and Mullen, M.R. Understanding the influence of national culture on the development of trust. Academy of Management Review, 23, 3 (1998), 601&#8211;620.
+</p>
+<p>
+ 5. Gefen, D. Tutorial assessing unidimensionality through LISREL: An explanation and example. Communications of the AIS, 12, 2 (2003), 1&#8211;26.
+</p>
+<p>
+ 6. Gefen, D., and Heart, T. On the need to include national culture as a central issue in e-commerce trust beliefs. Journal of Global Information Systems, 14, 4 (2006), 1&#8211;30.
+</p>
+<p>
+ 7. Gefen, D., and Ridings, C. If you spoke as she does, sir, instead of the way you do: A sociolinguistics perspective of gender differences in virtual communities. DATABASE for Advances in Information Systems, 36, 2 (2005), 78&#8211;92.
+</p>
+<p>
+ 8. Gefen, D., and Straub, D.W. Gender differences in perception and adoption of e-mail: An extension to the technology acceptance model. MIS Quarterly, 21, 4 (1997), 389&#8211;400.
+</p>
+<p>
+ 9. Gefen, D.; Karahanna, E.; and Straub, D.W. Trust and TAM in online shopping: An integrated model. MIS Quarterly, 27, 1 (2003), 51&#8211;90.
+</p>
+<p>
+ 10. Gefen, D.; Rose, G.M.; Warkentin, M.; and Pavlou, P.A. Cultural diversity and trust in IT adoption: A comparison of USA and South African e-voters. Journal of Global Information Systems, 13, 1 (2004), 54&#8211;78.
+</p>
+<p>
+ 11. Hofstede, G. Culture&#8217;s Consequences: International Differences in Work-Related Values. London: Sage, 1980.
+</p>
+<p>
+ 12. Jarvenpaa, S.L., and Tractinsky, N. Consumer trust in an Internet store: A cross-cultural validation. Journal of Computer-Mediated Communication, 5, 2 (1999), 1&#8211;35.
+</p>
+<p>
+ 13. Lim, K.H.; Leung, K.; Sia, C.L.; and Lee, M.K. Is e-commerce boundary-less? Effects of individualism-collectivism and uncertainty avoidance on Internet shopping. Journal of International Business Studies, 35, 6 (2004), 545&#8211;559.
+</p>
+<p>
+ 14. McKnight, D.H.; Choudhury, V.; and Kacmar, C. Developing and validating trust measures for e-commerce: An integrative typology. Information Systems Research, 13, 3 (2002), 334&#8211;359.
+</p>
+<p>
+ 15. Pavlou, P.A. Institution-based trust in interorganizational exchange relationships: The role of online B2B marketplaces on trust formation. Journal of Strategic Information Systems, 11, 5&#8211;6 (2002), 215&#8211;243.
+</p>
+<p>
+ 16. Pavlou, P.A., and Chai, L. What drives electronic commerce across cultures? A cross-cultural empirical investigation of the theory of planned behavior. Journal of Electronic Commerce Research, 3, 4 (2002), 240&#8211;253.
+</p>
+<p>
+ 17. Pavlou, P.A., and Fygenson, M. Understanding and predicting electronic commerce adoption: An extension of the theory of planned behavior. MIS Quarterly, 30, 1 (2006), 115&#8211;143.
+</p>
+<p>
+ 18. Pavlou, P., and Gefen, D. Building effective online marketplaces with institution-based trust. Information Systems Research, 15, 1 (2004), 37&#8211;59.
+</p>
+<p>
+ 19. Pavlou, P.A., and Gefen, D. Psychological contract violation in online marketplaces: Antecedents, consequences, and moderating role. Information Systems Research, 16, 4 (2005), 273&#8211;299.
+</p>
+<p>
+ 20. Pavlou, P.A.; Liang, H.; and Xue, Y. Understanding and mitigating uncertainty in online environments: An agency theory perspective. MIS Quarterly, 31, 1 (2007), 105&#8211;136.
+</p>
+<p>
+ 21. Reichheld, F.F., and Schefter, P. E-loyalty: Your secret weapon on the Web. Harvard Business Review, 78, 4 (2000), 105&#8211;113.
+</p>
+<p>
+ 22. Stewart, K.J. Trust transfer on the World Wide Web. Organization Science, 14, 1 (2003), 5&#8211;17.
+</p>
+<p>
+ 23. Strong, K., and Weber, J. The myth of the trusting culture. Business &amp; Society, 37, 2 (1998), 157&#8211;183.
+</p>
+<p>
+ 24. Tannen, D. You Just Don&#8217;t Understand: Women and Men in Conversation. New York: Ballantine Books, 1994.
+</p>
+<p>
+ 25. Wang, W., and Benbasat, I. Integrating TAM with trust to explain online recommendation agent adoption. Journal of the AIS, 6, 3 (2005), 72&#8211;101.
+</p>
+<p>
+ 26. Wang, W., and Benbasat, I. Impact of explanations on trust in and adoption of online recommendation agents. Journal of Management Information Systems, 23, 4 (Spring 2007), 219&#8211;249.
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

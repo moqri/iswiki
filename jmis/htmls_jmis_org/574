@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/6">    Volume 11 Number 2 1994
+</a> pp. 137-155</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Understanding Qualitative Data: A Framework of Text Analysis Methods</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/975">Lacity, Mary C</a> and     <a href="/contributors/844">Janson, Marius A</a>    </div>
+
+<p>ABSTRACT: Information systems (IS) researchers have argued the need for using qualitative approaches, such as action research, ethnomethodology, phenomenology, and futures research, to supplement widely used quantitative approaches. Despite the interest in qualitative approaches, almost all IS articles published in leading IS journals during the previous decade continue to report the results of quantitative studies. The disparity between the interest in and adoption of qualitative approaches may be attributed to unfamiliarity with qualitative approaches for analyzing text data and the mistaken belief that all qualitative approaches are antipositivist. This paper makes qualitative methods more accessible to both researchers and practitioners by providing a framework that categorizes various text analysis approaches. The framework classifies methods as positivist, linguistic, and interpretivist, based on assumptions about the nature of text data, the researcher's influence on text interpretation, and the validity checks used to justify text interpretations. Thus, all researchers can consider qualitative text analysis methods regardless of their paradigmatic position.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/770">information systems research</a>,    <a href="/keywords/771">interpretivist research methods</a>,    <a href="/keywords/772">linguistic research</a>,    <a href="/keywords/773">positivist research</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

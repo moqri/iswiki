@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/28">    Volume 18 Number 2 2001
+</a> pp. 17-45</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Impact of Technology Investments on a Firm&#039;s Production Efficiency, Product Quality, and Productivity</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/315">Thatcher, Matt E</a> and     <a href="/contributors/1203">Oliver, Jim R</a>    </div>
+
+<p>ABSTRACT: For over a decade, empirical studies in the information technology (IT) value literature have examined the impact of technology investments on various measures of performance. However, the results of these studies, especially those examining the contribution of IT to productivity, have been mixed. One reason for these mixed empirical findings may be that these studies have not effectively accounted for the impact of technology investments that increase production efficiency and improve product quality on firm productivity. In particular, it is commonly assumed that such investments should lead to gains in both profits and productivity. However, using a closed-form analytical model we challenge this underlying assumption and demonstrate that investments in certain efficiency-enhancing technologies may be expected to decrease the productivity of profit-maximizing firms. More specifically, we demonstrate that investments in technologies that reduce the firm's fixed overhead costs do not affect the firm's product quality and pricing decisions but do increase profits and improve productivity. In addition, we demonstrate that investments in technologies that reduce the variable costs of designing, developing, and manufacturing a product encourage the firm to improve product quality and to charge a higher price. Although this adjustment helps the firm to capture higher profits, we show that it will also increase total production costs and will, under a range of conditions, decrease firm productivity. Finally, we show that the direction of firm productivity following such investments depends upon the relationship between the fixed costs of the firm and the size of the market.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1450">analytical modeling</a>,    <a href="/keywords/1311">information technology value</a>,    <a href="/keywords/1451">product quality</a>,    <a href="/keywords/1452">production efficiency</a>,    <a href="/keywords/1453">productivity paradox</a>,    <a href="/keywords/1454">technology investment</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/62">    Volume 21 Number 4 2005
+</a> pp. 11-35</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Assessing the Digital Rosetta Stone Model for Long-Term Access to Digital Documents</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/751">Heminger, Alan R</a> and     <a href="/contributors/752">Kelley, Don M</a>    </div>
+
+<p>ABSTRACT: Information that is stored digitally is at risk for being irretrievably lost if either the methods used to retrieve the bitstream or the methods used to interpret the bitstream are lost. The Digital Rosetta Stone (DRS) model was developed as a conceptual framework for capturing and maintaining the methods necessary to retrieve digital information stored on obsolete media and to properly interpret it, though the software used to create it may also be obsolete. However, the community of those professionals concerned with this issue had not yet assessed this conceptual model. This study used the Delphi method to explore these issues with those responsible for maintaining access to digital data. Overall, the Delphi group expressed concerns about the practicality of developing the DRS, but agreed that it is an important concept that should be explored further. If found to be technologically feasible and economically desirable, the DRS could well lead to a long-term solution for recovering information that would otherwise be impossible to recover.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1865">access to digital documents</a>,    <a href="/keywords/1866">digital storage</a>,    <a href="/keywords/1867">permanence of stored information</a>,    <a href="/keywords/1868">technological obsolescence</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

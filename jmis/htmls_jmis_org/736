@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/67">    Volume 5 Number 4 1989
+</a> pp. 7-32</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Organizational Crisis Management Systems: Planning for Intelligent Action</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/3">Nunamaker Jr, Jay F,</a>    <a href="/contributors/1199">Weber, E Sue,</a> and     <a href="/contributors/346">Chen, Minder</a>    </div>
+
+<p>ABSTRACT: Intelligent behavior requires being able to acquire information and to use it to make and implement effective decisions. In exploring ways to help organizations function intelligently in crisis situations, a group decision support environment has been developed and a set of crisis planning tools designed. Intended to complement strategic planning systems, these tools are expected to help planners develop and communicate an understanding of high-priority issues so that intelligent decisions can be made and implemented during crises. The paper characterizes intelligent organizations, defines organizational crises, discusses the consequences of crises, and presents a crisis-management framework. Finally, the use of the tools is illustrated with a crisis planning case.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/313">organizational learning</a>,    <a href="/keywords/314">collaborative knowledge work</a>,    <a href="/keywords/315">organizational crises</a>,    <a href="/keywords/316">crisis management systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

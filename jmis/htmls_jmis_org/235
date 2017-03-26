@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/11">    Volume 15 Number 2 1998
+</a> pp. 41-60</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Restructuring Institutional Block Trading: An Overview of the OptiMark System</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/69">Clemons, Eric K</a> and     <a href="/contributors/393">Weber, Bruce W</a>    </div>
+
+<p>ABSTRACT: Financial markets perform many functions, but principal among them is to bring together buyers and sellers and to provide a mechanism for price discovery. Information technology has had a number of significant impacts on financial markets, enabling enormous increases in volumes and more sophisticated trading techniques, such as program trading and index arbitrage. Despite improvements, some large institutional investors identify shortcomings in today's markets that make the process of buying or selling large, block orders time-consuming and costly. To address these concerns, a new trading system, OptiMark, has been built around several innovations, including (1) a graphical user front end for depicting trading preferences, and (2) a back end built on high-performance computers that process expressions of trading interest according to a price-setting algorithm intended to achieve superior outcomes for traders. OptiMark provides a means for more cost-effective block trading and is expected to contribute to regulatory objectives. This paper details the operations of OptiMark, examines its adoption potential, and assesses the impact it may have on block trading, broker-dealer intermediaries, and the equities markets.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1160">electronic block trading</a>,    <a href="/keywords/1054">financial markets</a>,    <a href="/keywords/1156">market structure</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

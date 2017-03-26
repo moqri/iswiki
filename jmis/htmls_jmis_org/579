@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/55">    Volume 13 Number 4 1997
+</a> pp. 193-215</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Effects of Group Decision Support Systems and Task Structures on Group Communication and Decision Quality</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/981">Lam, Simon S K</a>    </div>
+
+<p>ABSTRACT: This research examines whether structures of decision tasks moderate the effects of group decision support systems (GDSS) on patterns of group communication and decision quality of decision-making groups. It seeks to show that the effects of GDSS on decision-making processes and outcomes are task-structure-dependent, and the effects of GDSS cannot be evaluated on the basis of outcomes alone; decision processes must also be evaluated in order to understand how decisions are made and why GDSS can improve group outcomes in some situations but provide negative effects in others. A controlled laboratory experiment was conducted with a 2 x 3 factorial between-subjects design, manipulating two independent variables: levels of support (GDSS support and no support) and task structures (additive, disjunctive, and conjunctive). Practicing managers were chosen as subjects. The discussion records of the decision-making process were coded using a coding scheme. These communication patterns formed the first dependent variables. Another dependent variable was decision quality. The results support the hypothesis that the structures of a decision task moderate the effects of GDSS on both the patterns of group communication and the decision quality of a decision-making group. GDSS significantly improve decision quality in disjunctive and conjunctive tasks. GDSS also significantly alter patterns of group communication in disjunctive and conjunctive tasks. However, no significant differences in decision quality and patterns of group communication exist between groups using GDSS and face-to-face groups in additive tasks.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1021">decision tasks and processes</a>,    <a href="/keywords/1022">group decision quality</a>,    <a href="/keywords/135">group decision support systems</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

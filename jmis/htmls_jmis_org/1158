@@ -1,0 +1,1591 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/22">    Volume 28 Number 1 2011
+</a> pp. 5-12</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Editorial Introduction</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a>    </div>
+
+<p>ABSTRACT: <p>
+ The Special Section on Applied Science Research in Information Systems that opens this issue of the Journal reminds us, very usefully, that our field is expected to inform the decision makers who solve problems and run teams, organizations, and, indeed, countries. The knowledge we produce and elaborate is the ever-higher foundation for the never-ending quest---and it also needs to be the source of practical insights. Each of the papers in the Special Section tackles a real problem and demonstrates how our field contributes to its solution, while also accumulating models, techniques, and insights to solve future problems and generate new theories. The Guest Editors of the Special Section, Robert O. Briggs, Jay F. Nunamaker Jr., and Ralph Sprague, will introduce these papers to you, helping you see them through their &#160;lens of &#8216;the last&#8217; mile in information systems (IS) research.
+</p>
+<p>
+ Having dispensed with the productivity paradox, if there ever was one, we now see more profound effects of information technology (IT), and we see them in a more textured way. Kunsoo Han, Young Bong Chang, and Jungpil Hahn empirically demonstrate here significant spillovers from IT investments by supplier industries to those downstream in the supply chains. The more competitive and IT-intense downstream industries benefit more, and as seen before in other IT productivity studies, there is a learning period. This study is important in demonstrating another, and weighty, category of value rendered by the proper deployment of IT.
+</p>
+<p>
+ In a study that ranges over wide swaths of our cultural heritage, Fatemeh &#8216;Mariam&#8217; Zahedi and Gaurav Bansal investigate the cultural content of Web site images. Using the research methodology of grounded theory, the authors develop a theory of Web-image signifiers classified into five categories, which they proceed to test in a quantitative study, rooted in the Hofstede cultural attributes. Echoing the theme of the Special Section, the results of the study are immediately useful in Web site design, particularly as cross-cultural audiences are addressed, we hope, with increased frequency. Beyond that, the extensive study forms a foundation for further research into cultural signification on the Web and elsewhere.
+</p>
+<p>
+ IS move into the ever-expanding domains of our lives. Automated decision aids are used to assess the credibility of statements made in a variety of contexts that include negotiation and auditing. The credibility of the automated credibility assessments is, of course, in question. Here, Matthew L. Jensen, Paul Benjamin Lowry, and Jeffrey&#160;L. Jenkins present a theory-based design of a decision aid based on both automated linguistic analysis and on the elicitation and analysis of perceptual cues. Fine-grained conclusions are reached with respect to the contribution of each of the analyses to the accuracy of the assessment and to the acceptance of the aid&#8217;s recommendations, adding to our knowledge in the detection of deception.
+</p>
+<p>
+ The contemporary IS environment is frequently characterized by constant software modifications, as agile IS are aimed at new business opportunities. Agile systems development methods include a broad range of methodologies and techniques that result in frequent system releases and a user environment of permanent change. These methods have been extensively studied from the developers&#8217; point of view. It behooves our discipline to study their effects from the users&#8217; vantage point. This is what the authors of the next paper in the issue, Weiyin Hong, James Y.L. Thong, Lewis&#160;C. Chasalow, and Gurpreet Dhillon, have done. Utilizing several theories of acceptance, use, and continuance, they investigate the users&#8217; intentions to continue using the new systems, as well as to use the newly released features as a proxy for the systems&#8217; success. The authors develop and validate a model of agile systems&#8217; acceptance that takes into account the cognitive, behavioral, and affective dimensions of users&#8217; attitudes. Based on this, the researchers also offer specific advice to the developers and organizational implementers of agile systems, which have become the not-so-new normal in many environments.
+</p>
+<p>
+ The issue concludes on a strong note by an emergent special section on virtual teams (VTs). VTs have become integral to the functioning of many organizations, and we have seen a flowering of research aiming to learn about  them. In the first of three papers, Saonee Sarker, Manju Ahuja, Suprateek Sarker, and Sarah Kirkeby investigate how communication and trust influence the outcomes in the operation of a VT. Notably, the authors use social network analysis to compare competing models that can explain the interrelationships among the constructs conditioning the performance of individuals in such teams. The result that emerges to inform both theory and practice is trust as the sine qua non of the VTs&#8217; performance outcomes.
+</p>
+<p>
+ Ananth Chiravuri, Derek Nazareth, and K. (Ram) Ramamurthy study the process of knowledge capture in the context of global VTs of experts. The authors focus on the management of conflict and the generation of consensus. Cognitive, task-based conflict is unavoidable if a team is to generate creative solutions. This conflict is also more difficult to manage in the absence of continuing face-to-face communications. In an extensive field experiment, the authors compare two well-known cognitive consensus-generation techniques, Delphi and repertory grid. Although the better-known Delphi is found to perform better in the short run, the use of repertory grid produced more and higher-quality knowledge in the long run. The result is of obvious importance to practice.
+</p>
+<p>
+ The compass of the last paper transcends the VT focus, as it ranges over the influence of different levels of IT mediation on social networks in organizations. VTs emerge here as one of the possible configurations in virtual work design. Ayoung Suh, Kyung&#8209;shik Shin, Manju Ahuja, and Min Soo Kim unpack the group-level virtuality attributes into geographic dispersion, temporal dispersion, and technological support and empirically study them in conjunction with the use of personal and communal IT in individual-level virtuality. The prism of social network formation helps the authors to arrive at conclusions and recommendations that can lead to higher effectiveness of VTs, and of technology-mediated work in general.
+</p>
+<p>
+ As we start the new JMIS volume, it is my duty and it brings me great pleasure to acknowledge the contribution of our referees, the primary guarantors of the Journal&#8217;s quality. On behalf of our Editorial Board, thanks go to:
+</p>
+<p>
+ Niv Ahituv
+</p>
+<p>
+ Hyung Jun Ahn
+</p>
+<p>
+ Pervaiz Alam
+</p>
+<p>
+ Muhammad Aljukhadar
+</p>
+<p>
+ Gove Allen
+</p>
+<p>
+ Omar Alnuaimi
+</p>
+<p>
+ Paul Alpar
+</p>
+<p>
+ Kemal Altinkemer
+</p>
+<p>
+ Naveen Amblee
+</p>
+<p>
+ Hayward P. Andres
+</p>
+<p>
+ Corey Angst
+</p>
+<p>
+ Ofer Arazy
+</p>
+<p>
+ Kursad Asdemir
+</p>
+<p>
+ Norman Au
+</p>
+<p>
+ Yoris Au
+</p>
+<p>
+ Benoit A. Aubert
+</p>
+<p>
+ Peter van Baalen
+</p>
+<p>
+ Barbro Back
+</p>
+<p>
+ Akhilesh Bajaj
+</p>
+<p>
+ Dirk Baldwin
+</p>
+<p>
+ Subhajyoti Bandyopadhyay
+</p>
+<p>
+ Gaurav Bansal
+</p>
+<p>
+ Ravi Bapna
+</p>
+<p>
+ Indranil R. Bardhan
+</p>
+<p>
+ Reza Barkhi
+</p>
+<p>
+ Henri Barki
+</p>
+<p>
+ Stuart J. Barnes
+</p>
+<p>
+ Anitesh Barua
+</p>
+<p>
+ Richard Baskerville
+</p>
+<p>
+ Dinesh Batra
+</p>
+<p>
+ Skip Benamati
+</p>
+<p>
+ Michel Benaroch
+</p>
+<p>
+ Raquel Benbunan-Fich
+</p>
+<p>
+ Fran&#231;ois Bergeron
+</p>
+<p>
+ Ganesh Bhatt
+</p>
+<p>
+ Anol Bhattacherjee
+</p>
+<p>
+ Jesse Bockstedt
+</p>
+<p>
+ Wai Fong Boh
+</p>
+<p>
+ Indranil Bose
+</p>
+<p>
+ Nicola Breugst
+</p>
+<p>
+ Glenn J. Browne
+</p>
+<p>
+ Sebastian Bruque
+</p>
+<p>
+ Scott Buffett
+</p>
+<p>
+ Judee Burgoon
+</p>
+<p>
+ Andrew Burton-Jones
+</p>
+<p>
+ Ashley Bush
+</p>
+<p>
+ Terry A. Byrd
+</p>
+<p>
+ Jinwei Cao
+</p>
+<p>
+ Sven Carlsson
+</p>
+<p>
+ Erran Carmel
+</p>
+<p>
+ Susy Chan
+</p>
+<p>
+ Yolande E. Chan
+</p>
+<p>
+ Hsin-Lu Chang
+</p>
+<p>
+ Jerry Cha-Jan Chang
+</p>
+<p>
+ Mohamed H&#233;di Charki
+</p>
+<p>
+ Patrick Chau
+</p>
+<p>
+ Daniel Chen
+</p>
+<p>
+ Hong-Mei Chen
+</p>
+<p>
+ Hsinchun Chen
+</p>
+<p>
+ Jianqing Chen
+</p>
+<p>
+ Jin Chen
+</p>
+<p>
+ Kay-Yut Chen
+</p>
+<p>
+ Kuan Chen
+</p>
+<p>
+ Li Chen
+</p>
+<p>
+ Yuanyuan Chen
+</p>
+<p>
+ Hsing Kenneth Cheng
+</p>
+<p>
+ Lei Chi
+</p>
+<p>
+ Robert T.H. Chi
+</p>
+<p>
+ Roger Chiang
+</p>
+<p>
+ Benjamin Chiao
+</p>
+<p>
+ Ananth Chiravuri
+</p>
+<p>
+ Alina M. Chircu
+</p>
+<p>
+ Jong-min Choe
+</p>
+<p>
+ H. Michael Chung
+</p>
+<p>
+ Wingyan Chung
+</p>
+<p>
+ Theodore H. Clark
+</p>
+<p>
+ Randolph Cooper
+</p>
+<p>
+ Kevin Crowston
+</p>
+<p>
+ Dianne Cyr
+</p>
+<p>
+ Qizhi Dai
+</p>
+<p>
+ Ronald Dattero
+</p>
+<p>
+ Gregory Dawson
+</p>
+<p>
+ Sergio De Cesare
+</p>
+<p>
+ Jason Dedrick
+</p>
+<p>
+ Chrysanthos Dellarocas
+</p>
+<p>
+ Didem Demirhan
+</p>
+<p>
+ Sarv Devaraj
+</p>
+<p>
+ Rajiv M. Dewan
+</p>
+<p>
+ Debabrata Dey
+</p>
+<p>
+ Soussan Djamasbi
+</p>
+<p>
+ Wenjing Duan
+</p>
+<p>
+ Peter Duchessi
+</p>
+<p>
+ Deborah E. Dunkle
+</p>
+<p>
+ Alexandra Durcikova
+</p>
+<p>
+ Kaushik Dutta
+</p>
+<p>
+ Robert Easley
+</p>
+<p>
+ Christophe Elie-Dit-Cosaque
+</p>
+<p>
+ Omar A. El Sawy
+</p>
+<p>
+ Mike Eom
+</p>
+<p>
+ Sean B. Eom
+</p>
+<p>
+ Tae-In Eom
+</p>
+<p>
+ J. Alberto Espinosa
+</p>
+<p>
+ Ming Fan
+</p>
+<p>
+ Patrick Fan
+</p>
+<p>
+ Xiaofen Fang
+</p>
+<p>
+ Yulin Fang
+</p>
+<p>
+ Steven Feiner
+</p>
+<p>
+ Jane Feng
+</p>
+<p>
+ Daniel R. Fesenmaier
+</p>
+<p>
+ Eliezer M. Fich
+</p>
+<p>
+ Edmond P. Fitzgerald
+</p>
+<p>
+ Jerry Fjermestad
+</p>
+<p>
+ Chris Forman
+</p>
+<p>
+ Chiara Francalanci
+</p>
+<p>
+ Mark Fuller
+</p>
+<p>
+ Brent Furneaux
+</p>
+<p>
+ John Gallaugher
+</p>
+<p>
+ Dale Ganley
+</p>
+<p>
+ Gordon Gao
+</p>
+<p>
+ Edward J. Garrity
+</p>
+<p>
+ Judith Gebauer
+</p>
+<p>
+ Michiel van Genuchten
+</p>
+<p>
+ Joey George
+</p>
+<p>
+ Anindya Ghose
+</p>
+<p>
+ Janis L. Gogan
+</p>
+<p>
+ Kim Huat Goh
+</p>
+<p>
+ Thomas Goh
+</p>
+<p>
+ Jahyun Goo
+</p>
+<p>
+ Dale Goodhue
+</p>
+<p>
+ Anand Gopal
+</p>
+<p>
+ Ram D. Gopal
+</p>
+<p>
+ Nelson Granados
+</p>
+<p>
+ Dawn G. Gregg
+</p>
+<p>
+ Ulrike Gretzel
+</p>
+<p>
+ Robert K. Griffin
+</p>
+<p>
+ Michael D. Grigoriades
+</p>
+<p>
+ Bin Gu
+</p>
+<p>
+ Kemal Guler
+</p>
+<p>
+ Zhiling Guo
+</p>
+<p>
+ Saurabh Gupta
+</p>
+<p>
+ Nicole Haggerty
+</p>
+<p>
+ Jungpil Hahn
+</p>
+<p>
+ Ingoo Han
+</p>
+<p>
+ Kunsoo Han
+</p>
+<p>
+ Paul Hart
+</p>
+<p>
+ Matthias H&#228;sel
+</p>
+<p>
+ Khaled Hassenein
+</p>
+<p>
+ Jun He
+</p>
+<p>
+ Raymond Henry
+</p>
+<p>
+ Traci Hess
+</p>
+<p>
+ Alan R. Hevner
+</p>
+<p>
+ Starr Roxanne Hiltz
+</p>
+<p>
+ Richard Hoffman
+</p>
+<p>
+ Weiyin Hong
+</p>
+<p>
+ John A. Hoxmeier
+</p>
+<p>
+ Pei-fang Hsu
+</p>
+<p>
+ Jeffrey Hu
+</p>
+<p>
+ Nan Hu
+</p>
+<p>
+ Paul Hu
+</p>
+<p>
+ Qing Hu
+</p>
+<p>
+ Ming-Hui Huang
+</p>
+<p>
+ Wayne Huang
+</p>
+<p>
+ Kai Lung Hui
+</p>
+<p>
+ Wendy Hui
+</p>
+<p>
+ Ard Huizing
+</p>
+<p>
+ Yujong Hwang
+</p>
+<p>
+ Ghiyong Im
+</p>
+<p>
+ Gretchen I. Irwin
+</p>
+<p>
+ Varghese Jacob
+</p>
+<p>
+ Bharat A. Jain
+</p>
+<p>
+ Radhika Jain
+</p>
+<p>
+ Jeevan Jaisingh
+</p>
+<p>
+ Matthew Jensen
+</p>
+<p>
+ Bao-Jun Jiang
+</p>
+<p>
+ James J. Jiang
+</p>
+<p>
+ Zhengrui Jiang
+</p>
+<p>
+ Alice Johnson
+</p>
+<p>
+ Eric Johnson
+</p>
+<p>
+ Emmanuel Josserand
+</p>
+<p>
+ Surinder Kahai
+</p>
+<p>
+ Ajit Kambil
+</p>
+<p>
+ Arnold Kamis
+</p>
+<p>
+ Gerald Kane
+</p>
+<p>
+ Keumseok Kang
+</p>
+<p>
+ Atreyi Kankanhalli
+</p>
+<p>
+ Karthik Kannan
+</p>
+<p>
+ P.K. Kannan
+</p>
+<p>
+ Jahangir Karimi
+</p>
+<p>
+ Evangelos Katsamakas
+</p>
+<p>
+ Michael Kattan
+</p>
+<p>
+ Timothy Kayworth
+</p>
+<p>
+ Weiling Ke
+</p>
+<p>
+ William J. Kettinger
+</p>
+<p>
+ Moutaz Khouja
+</p>
+<p>
+ Melody Y. Kiang
+</p>
+<p>
+ Sia Siew Kien
+</p>
+<p>
+ Byung Cho Kim
+</p>
+<p>
+ Dan J. Kim
+</p>
+<p>
+ Dongmin Kim
+</p>
+<p>
+ Young-Gul Kim
+</p>
+<p>
+ Ruth King
+</p>
+<p>
+ Rajiv Kishore
+</p>
+<p>
+ Gary Klein
+</p>
+<p>
+ Richard Klein
+</p>
+<p>
+ Cenk Kocas
+</p>
+<p>
+ Chang Koh
+</p>
+<p>
+ Rajiv Kohli
+</p>
+<p>
+ Tobias Kollman
+</p>
+<p>
+ Sherrie Komiak
+</p>
+<p>
+ Praveen K. Kopalle
+</p>
+<p>
+ Marios Koufaris
+</p>
+<p>
+ Kenneth A. Kozar
+</p>
+<p>
+ Ramayya Krishnan
+</p>
+<p>
+ Gillian Ku
+</p>
+<p>
+ Uday Kulkarni
+</p>
+<p>
+ Akhil Kumar
+</p>
+<p>
+ Ram Kumar
+</p>
+<p>
+ Jason Kuruzovich
+</p>
+<p>
+ Atanu Lahiri
+</p>
+<p>
+ Karim Lakhani
+</p>
+<p>
+ Simon S.K. Lam
+</p>
+<p>
+ Guido Lang
+</p>
+<p>
+ Karl R. Lang
+</p>
+<p>
+ Nancy Lankton
+</p>
+<p>
+ Kai R. Larsen
+</p>
+<p>
+ Tor J. Larsen
+</p>
+<p>
+ Gwanhoo Lee
+</p>
+<p>
+ Heeseok Lee
+</p>
+<p>
+ Ho Geun Lee
+</p>
+<p>
+ Jungwoo Lee
+</p>
+<p>
+ Matthew Lee
+</p>
+<p>
+ Thomas Lee
+</p>
+<p>
+ Yang Lee
+</p>
+<p>
+ Yen-Hsien Lee
+</p>
+<p>
+ Christine Legner
+</p>
+<p>
+ Jan Marco Leimeister
+</p>
+<p>
+ Natalia Levina
+</p>
+<p>
+ Chen Li
+</p>
+<p>
+ Dahui Li
+</p>
+<p>
+ Jiexun Li
+</p>
+<p>
+ Na Li
+</p>
+<p>
+ Ting Li
+</p>
+<p>
+ Xiaotong Li
+</p>
+<p>
+ Xin Li
+</p>
+<p>
+ XinXin Li
+</p>
+<p>
+ Ting-Peng Liang
+</p>
+<p>
+ Paul Licker
+</p>
+<p>
+ John Lim
+</p>
+<p>
+ Fu-ren Lin
+</p>
+<p>
+ Lihui Lin
+</p>
+<p>
+ Ming Lin Yihwa
+</p>
+<p>
+ Irene Liou
+</p>
+<p>
+ Jacqueline Lipton
+</p>
+<p>
+ Ying Liu
+</p>
+<p>
+ Yipeng Liu
+</p>
+<p>
+ Alexandre Lopes
+</p>
+<p>
+ Paul B. Lowry
+</p>
+<p>
+ Henry C. Lucas Jr.
+</p>
+<p>
+ Mark Lycett
+</p>
+<p>
+ Jane M. Mackay
+</p>
+<p>
+ Simha R. Magal
+</p>
+<p>
+ Pruthikrai Mahatanankoon
+</p>
+<p>
+ M. Adam Mahmood
+</p>
+<p>
+ Bin Mai
+</p>
+<p>
+ Yogesh Malhotra
+</p>
+<p>
+ Arti Mann
+</p>
+<p>
+ Michael V. Mannino
+</p>
+<p>
+ Ji-Ye Mao
+</p>
+<p>
+ Salvatore T. March
+</p>
+<p>
+ Kent Marett
+</p>
+<p>
+ Likoebe M. Maruping
+</p>
+<p>
+ Jerrold H. May
+</p>
+<p>
+ William McCarthy
+</p>
+<p>
+ Roy McKelvey
+</p>
+<p>
+ Harrison McKnight
+</p>
+<p>
+ Ephraim R. McLean
+</p>
+<p>
+ Nirup Menon
+</p>
+<p>
+ Shaila Miranda
+</p>
+<p>
+ Dinesh Mirchandani
+</p>
+<p>
+ Abhay Nath Mishra
+</p>
+<p>
+ Sunil Mithas
+</p>
+<p>
+ Prasenjit Mitra
+</p>
+<p>
+ William Money
+</p>
+<p>
+ Ali R. Montazemi
+</p>
+<p>
+ Ramiro Montealegre
+</p>
+<p>
+ Jolene Morrison
+</p>
+<p>
+ Benjamin Mueller
+</p>
+<p>
+ Michael D. Myers
+</p>
+<p>
+ Peter P. Mykytyn Jr.
+</p>
+<p>
+ Barin N. Nag
+</p>
+<p>
+ Fiona Nah
+</p>
+<p>
+ Derek Nazareth
+</p>
+<p>
+ Matthew Nelson
+</p>
+<p>
+ R. Ryan Nelson
+</p>
+<p>
+ Boon Siong Neo
+</p>
+<p>
+ Derrick Neufeld
+</p>
+<p>
+ Michael Newman
+</p>
+<p>
+ Ralitza Nikolaeva
+</p>
+<p>
+ Mark Nissen
+</p>
+<p>
+ Dmitri Nizovtsev
+</p>
+<p>
+ Oded Nov
+</p>
+<p>
+ Lih-Bin Oh
+</p>
+<p>
+ Wonseok Oh
+</p>
+<p>
+ Bob O&#8217;Keefe
+</p>
+<p>
+ Lorne Olfman
+</p>
+<p>
+ James Oliver
+</p>
+<p>
+ Benoit Otjacques
+</p>
+<p>
+ Peter Otto
+</p>
+<p>
+ Yasin Ozcelik
+</p>
+<p>
+ Zafer D. Ozdemir
+</p>
+<p>
+ Carl Pacini
+</p>
+<p>
+ Raymond R. Panko
+</p>
+<p>
+ Gautam Pant
+</p>
+<p>
+ Manoj Parameswaran
+</p>
+<p>
+ Michael Parent
+</p>
+<p>
+ Insu Park
+</p>
+<p>
+ Sungjune Park
+</p>
+<p>
+ Craig Parker
+</p>
+<p>
+ Bhavik K. Pathak
+</p>
+<p>
+ Ravi Patnayakuni
+</p>
+<p>
+ Souren Paul
+</p>
+<p>
+ David J. Pauleen
+</p>
+<p>
+ Paul A. Pavlou
+</p>
+<p>
+ Kenneth Peffers
+</p>
+<p>
+ Robin Pennington
+</p>
+<p>
+ Roger A. Pick
+</p>
+<p>
+ Selwyn Piramuthu
+</p>
+<p>
+ Huseyin Polat
+</p>
+<p>
+ Jean-Charles Pomerol
+</p>
+<p>
+ Jaana Porra
+</p>
+<p>
+ Gerald Post
+</p>
+<p>
+ John H. Prager
+</p>
+<p>
+ David Preston
+</p>
+<p>
+ Sandeep Purao
+</p>
+<p>
+ Wen Guang Qu
+</p>
+<p>
+ Arik Ragowsky
+</p>
+<p>
+ T.S. Ragu-Nathan
+</p>
+<p>
+ Arun Rai
+</p>
+<p>
+ Rex Kelly Rainer Jr.
+</p>
+<p>
+ Vandana Ramachandran
+</p>
+<p>
+ K. Ramamurthy
+</p>
+<p>
+ Arkalgud Ramaprasad
+</p>
+<p>
+ B. Ramesh
+</p>
+<p>
+ Richard G. Ramirez
+</p>
+<p>
+ H.R. Rao
+</p>
+<p>
+ R. Ravichandran
+</p>
+<p>
+ Gautam Ray
+</p>
+<p>
+ Louis Raymond
+</p>
+<p>
+ Blaize Horner Reich
+</p>
+<p>
+ Bruce Reinig
+</p>
+<p>
+ Yuqing Ren
+</p>
+<p>
+ Paul Resnick
+</p>
+<p>
+ Hyuen-Suk Rhee
+</p>
+<p>
+ William B. Richmond
+</p>
+<p>
+ Christoph Riedl
+</p>
+<p>
+ Lionel Robert
+</p>
+<p>
+ Daniel Robey
+</p>
+<p>
+ Michael Rogich
+</p>
+<p>
+ Nicholas C. Romano Jr.
+</p>
+<p>
+ Sherry D. Ryan
+</p>
+<p>
+ Young U. Ryu
+</p>
+<p>
+ Khawaja Saeed
+</p>
+<p>
+ Otavio Sanchez
+</p>
+<p>
+ G. Lawrence Sanders
+</p>
+<p>
+ Radhika Santhanam
+</p>
+<p>
+ Pallab Sanyal
+</p>
+<p>
+ Suprateek Sarker
+</p>
+<p>
+ Surendra Sarnikar
+</p>
+<p>
+ Carol Saunders
+</p>
+<p>
+ Gregory Schechtman
+</p>
+<p>
+ George Schell
+</p>
+<p>
+ Petra Schubert
+</p>
+<p>
+ Judy Scott
+</p>
+<p>
+ Ravi Sen
+</p>
+<p>
+ Sylvain S&#233;n&#233;cal
+</p>
+<p>
+ Nainika Seth
+</p>
+<p>
+ Vikram Sethi
+</p>
+<p>
+ Theresa M. Shaft
+</p>
+<p>
+ Michael Shaw
+</p>
+<p>
+ Jim Sheffield
+</p>
+<p>
+ Hong Sheng
+</p>
+<p>
+ Morgan M. Shepherd
+</p>
+<p>
+ Michael Shields
+</p>
+<p>
+ Choon Ling Sia
+</p>
+<p>
+ Siew Kien Sia
+</p>
+<p>
+ Keng Siau
+</p>
+<p>
+ Mark Silver
+</p>
+<p>
+ Param Vir Singh
+</p>
+<p>
+ Atish P. Sinha
+</p>
+<p>
+ Sumit Sircar
+</p>
+<p>
+ H. Jeff Smith
+</p>
+<p>
+ Toni M. Somers
+</p>
+<p>
+ Jai-Yeol Son
+</p>
+<p>
+ Jaeki Song
+</p>
+<p>
+ Ryan Sougstad
+</p>
+<p>
+ Scott Spangler
+</p>
+<p>
+ William E. Spangler
+</p>
+<p>
+ Rajendra P. Srivastava
+</p>
+<p>
+ Thomas F. Stafford
+</p>
+<p>
+ Stephen Standifird
+</p>
+<p>
+ Sandy Staples
+</p>
+<p>
+ Eric W. Stein
+</p>
+<p>
+ Dick Stenmark
+</p>
+<p>
+ Diane M. Strong
+</p>
+<p>
+ Besiki Stvilia
+</p>
+<p>
+ Mani Subramani
+</p>
+<p>
+ Arun Sundararajan
+</p>
+<p>
+ Shankar Sundaresan
+</p>
+<p>
+ Tae Kyung Sung
+</p>
+<p>
+ Ali Tafti
+</p>
+<p>
+ Paul P. Tallon
+</p>
+<p>
+ Vaughn Tan
+</p>
+<p>
+ Yao-Hua Tan
+</p>
+<p>
+ Xinlin Tang
+</p>
+<p>
+ Mohan R. Tanniru
+</p>
+<p>
+ Monideepa Tarafdar
+</p>
+<p>
+ Nolan Taylor
+</p>
+<p>
+ Gary F. Templeton
+</p>
+<p>
+ Hock Hai Teo
+</p>
+<p>
+ Thompson Teo
+</p>
+<p>
+ Jason B. Thatcher
+</p>
+<p>
+ Matthew Thatcher
+</p>
+<p>
+ Dominic Thomas
+</p>
+<p>
+ Ron Thompson
+</p>
+<p>
+ James Y.L. Thong
+</p>
+<p>
+ Amrit Tiwana
+</p>
+<p>
+ Leon van der Torre
+</p>
+<p>
+ Gregory E. Truman
+</p>
+<p>
+ Yanbin Tu
+</p>
+<p>
+ Ilkka Tuomi
+</p>
+<p>
+ Ofir Turel
+</p>
+<p>
+ Tuure Tuunanen
+</p>
+<p>
+ N.S. Umanath
+</p>
+<p>
+ Andrew Urbaczewski
+</p>
+<p>
+ Rustam Vahidov
+</p>
+<p>
+ Anthony Vance
+</p>
+<p>
+ Viswanath Venkatesh
+</p>
+<p>
+ Goetz Viering
+</p>
+<p>
+ Padmal Vitharana
+</p>
+<p>
+ Douglas Vogel
+</p>
+<p>
+ Roumen Vragov
+</p>
+<p>
+ Steven Walczak
+</p>
+<p>
+ Zhiping Walter
+</p>
+<p>
+ Bin Wang
+</p>
+<p>
+ Eric T.G. Wang
+</p>
+<p>
+ Jingguo Wang
+</p>
+<p>
+ Michael S. Wang
+</p>
+<p>
+ Qiu-Hong Wang
+</p>
+<p>
+ Shouhong Wang
+</p>
+<p>
+ Sophia Wang
+</p>
+<p>
+ Weiquan Wang
+</p>
+<p>
+ Yinglei Wang
+</p>
+<p>
+ Y. Richard Wang
+</p>
+<p>
+ Molly Wasko
+</p>
+<p>
+ Mary Beth Watson-Manheim
+</p>
+<p>
+ Sunil Wattal
+</p>
+<p>
+ Thomas Weber
+</p>
+<p>
+ Chih-Ping Wei
+</p>
+<p>
+ Charles E. Wells
+</p>
+<p>
+ John Wells
+</p>
+<p>
+ Larry West
+</p>
+<p>
+ J. Christopher Westland
+</p>
+<p>
+ Jonathan Whitaker
+</p>
+<p>
+ Michael E. Whitman
+</p>
+<p>
+ Jeffrey L. Whitten
+</p>
+<p>
+ George Widmeyer
+</p>
+<p>
+ Rolf Wigand
+</p>
+<p>
+ Fons Wijnhoven
+</p>
+<p>
+ Christopher Wolfe
+</p>
+<p>
+ Charles A. Wood
+</p>
+<p>
+ Hans Wortmann
+</p>
+<p>
+ Ryan Wright
+</p>
+<p>
+ Dazhong Wu
+</p>
+<p>
+ Mu Xia
+</p>
+<p>
+ Weidong Xia
+</p>
+<p>
+ Mingdi Xin
+</p>
+<p>
+ Heng Xu
+</p>
+<p>
+ Hongjiang Xu
+</p>
+<p>
+ Lizhen Xu
+</p>
+<p>
+ Peng Xu
+</p>
+<p>
+ Christopher Yang
+</p>
+<p>
+ Oliver Yao
+</p>
+<p>
+ Ulku Yaylacicegi
+</p>
+<p>
+ Byungjoon Yoo
+</p>
+<p>
+ Yufei Yuan
+</p>
+<p>
+ Fatemeh Zahedi
+</p>
+<p>
+ Dongsong Zhang
+</p>
+<p>
+ Han Zhang
+</p>
+<p>
+ Jennifer Zhang
+</p>
+<p>
+ John Zhang
+</p>
+<p>
+ Michael Zhang
+</p>
+<p>
+ Ping Zhang
+</p>
+<p>
+ Zuopeng Zhang
+</p>
+<p>
+ Huimin Zhao
+</p>
+<p>
+ Kexin Zhao
+</p>
+<p>
+ J. Leon Zhao
+</p>
+<p>
+ Dmitry Zhdanov
+</p>
+<p>
+ Lina Zhou
+</p>
+<p>
+ Yilu Zhou
+</p>
+<p>
+ Zhongyun Zhou
+</p>
+<p>
+ Hongwei Zhu
+</p>
+<p>
+ Youlong Zhuang
+</p>
+<p>
+ J. Christopher Zimmer
+</p>
+<p>
+ Moshe Zviran
+</p>
+<p>
+ Let us now turn our attention to the papers.
+</p>
+<p>
+ Vladimir Zwass
+</p>
+<p>
+ Editor-in-Chief
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

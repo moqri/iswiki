@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/98">    Volume 5 Number 2 1988
+</a> pp. 57-70</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Capacity Expansion for Information Flow Distribution in Multi-Path Computer Communication Networks</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1526">Zwass, Vladimir</a> and     <a href="/contributors/1525">Veroy, Boris</a>    </div>
+
+<p>ABSTRACT: In the distributed processing environment characteristic of the management information systems of today, a need to superimpose an additional information flow onto an existing computer communication network arises frequently. The situation may result from a company's expanding needs for communication over its private or a shared network, or because a new user company is joining an existing shared network. In order to accommodate the new information flow without negatively affecting the waiting times for the previously contracted communications, network capacity may have to be expanded. We present an algorithmic method for least-cost capacity expansion of a set of network paths preselected to carry the incremental information flows. Owing to the insights gained as a result of extensive computational experiments, we then provide a simplified technique applicable to a broad class of cases. Polynomial time complexity of the algorithms included in the presented methodology points to its practicality.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/291">distributed information systems</a>,    <a href="/keywords/292">computer communication networks</a>,    <a href="/keywords/293">network capacity expansion</a>,    <a href="/keywords/294">multi-path networks</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

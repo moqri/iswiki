@@ -1,0 +1,47 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/131">    Volume 33 Number 2 2016
+</a> pp. 597-620</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Perverse Effects in Defense of Computer Systems: When More Is Less</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1854">Wolff, Josephine</a>    </div>
+
+<p>ABSTRACT: 
+<p>With computer security spending on the rise, organizations seem to have accepted the notion that buying more—and more expensive—defenses allows them to better protect their computer systems. In the context of complex computer systems, however, defenses can also have the opposite effect, creating new, unforeseen vulnerabilities in the systems they are intended to protect. Advocacy for defense-in-depth and diverse security measures has contributed to this “more is better” mentality for defending computer systems, which fails to consider the complex interaction of different components in these systems, especially with regard to what impact new security controls may have on the operation and functionality of other, preexisting defenses. We give examples of several categories of perverse effects in defending computer systems and draw on the theory of unintended consequences and the duality of technology to analyze the origins of these perverse effects, and to develop a classification scheme for the different types and some methods for avoiding them.</p>
+</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/3700">complex systems</a>,    <a href="/keywords/3701">computer systems</a>,    <a href="/keywords/3702">cyber defense</a>,    <a href="/keywords/3703">cybersecurity</a>,    <a href="/keywords/3704">defense-in-depth</a>,    <a href="/keywords/2271">information security</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

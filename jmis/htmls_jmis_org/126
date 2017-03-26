@@ -1,0 +1,487 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/78">    Volume 14 Number 3 1997
+</a> pp. 3-21</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>1001 Unanswered Research Questions in GSS</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/230">Briggs, Robert O,</a>    <a href="/contributors/3">Nunamaker Jr, Jay F,</a> and     <a href="/contributors/236">Sprague Jr, Ralph H</a>    </div>
+
+<p><p>
+ Introduction to the Special Issue
+</p>
+<p>
+ SINCE  1988  WE HAVE HEARD FROM COLLEAGUES AND FRIENDS  at almost every MIS conference that group support systems (GSS) research is dead. We are taking the opportunity afforded by this special issue to argue that GSS research is much more like a fresh sapling than a tough and tired forest giant; GSS research is much closer to its beginning than to its end. In this introduction we commend ten fine papers to your attention, then we offer you a challenge: more than 250 unanswered GSS research questions. We know that with just a nudge, you, the readers, will think of many more GSS research questions than we suggest here. We are confident that a proverbial 1001 GSS research streams remain to be explored. We hope you will find the GSS research papers presented in this special issue engaging, and the research questions provocative.
+</p>
+<p>
+ We are pleased to present the best GSS research papers from the Thirtieth Annual Hawaii International Conference on Systems Science. Four of the papers were finalists in the Best Paper competition, and one was selected as the Best Paper. Research methods range from rigorous empiricism to action research to meta-analysis. As with so much of MIS research, the papers in this issue range from very behavioral to very technical, but they all contain elements of both.
+</p>
+<p>
+ The focus of the first four papers is strongly behavioral. Kelly and Bostrom, in "A Facilitator's General Model for Managing Socio-Emotional Issues in Group Support Systems Meeting Environments," delve into the affective components of facilitating teamwork with GSS. They present a model for perceiving and managing these issues based on structured interviews with twenty-six experienced facilitators.
+</p>
+<p>
+ Whether in the electronic boardroom or the electronic classroom, flaming is flaming. In "Flaming in the Electronic Classroom,"Reinig, Briggs, and Nunamaker develop a causal model for flaming in GSS sessions. They test the model with a laboratory experiment and then report on five case studies where teachers in the field used the model to create interventions that eliminated flaming from anonymous electronic interactions among students.
+</p>
+<p>
+ In "Information Exchange and Use in GSS and Verbal Group Decision Making: Effects of Minority Influence,"Dennis, Hilmer, and Taylor delve into the difficult terrain of decision making. This paper represents an important trend in GSS research toward studying ideation within the broader context of group processes. The authors found that, when there was a majority/minority split, groups using a particular combination of GSS technology and techniques exchanged more information and made better decisions than did groups with no technology. When there was no opinion split, the same technology/technique combination led to more information exchange, but poorer decisions, which, as is so often the case, opens a whole new set of research questions.
+</p>
+<p>
+ Pinsonneault and Heppel offer an interesting theoretical argument about the effects of anonymity on GSS interactions in "Anonymity in Group Support Systems Research: A New Conceptualization, Measure, and Contingency Framework."They argue that social evaluation is an important causal construct in the effects produced by anonymity. They also offer a preliminary instrument for measuring variables related to social evaluation. As this issue went to press, one of the reviewers for this paper collected data using the scales presented here. As the authors caution in their paper, the reviewer's statistical analysis suggested that the scales might require further refinement to improve their reliability, so one cannot take it as given that the instrument has been thoroughly validated. Nonetheless, the theoretical development is innovative and the results of the study are thought provoking. The paper will serve as a launching pad for more sophisticated research on anonymity in GSS.
+</p>
+<p>
+ The next two papers address both behavioral and technical issues. Manzoni and Angehrn's "Understanding Organizational Dynamics of IT-Enabled Change: A Multimedia Simulation Approach"addresses the use of an animated simulation for training IT managers to overcome resistance to change. The simulation embodies virtual people with distinct personalities and hidden agendas. This work points the way toward broader use of organizational games as pedagogical tools to provide managers with realistic experiential learning environments.
+</p>
+<p>
+ In "Collaborative Business Engineering with Animated Electronic Meetings,"de Vreede breaks new ground in an action research study with the Amsterdam Municipal Police. He combines static and dynamic process models with GSS to support teams evaluating current and future work practices. He develops new concepts of operation for GSS and for simulation in support of organizational change.
+</p>
+<p>
+ The three papers that follow have a strong technical flavor, but, as always in MIS, the work has behavioral and organizational implications as well. Software is becoming more and more integrated into our lives. It is embedded in everything from airplane parts to dishwashers. Van Genuchten, in his award-winning paper, "Supporting Inspections with an Electronic Meeting System,"addresses the use of GSS to support Fagan inspections for structured reviews of systems development documents intended to identify and log defects as early in a project as possible. He reports on fourteen field cases and concludes that the use of GSS can substantially improve the inspection process, revealing more defects more quickly than would otherwise be possible. For the past thirty years MIS has faced the same set of problems: poor estimates, cost overruns, and systems that do not meet the needs of the users. The holy grail of MIS research has long been finding a way to allow the users to define their requirements for a new information system, and then to have tools automatically generate first logical and physical designs, and then the code. Getting the users involved has been an elusive goal. In "The Involvement of Multiple Users: Methods and Tools or Software Engineering,"Dean, Lee, Pendergast, Hickey, and Nunamaker report on a research stream that has made a substantial step toward that goal. They report on the development of GSS tools specifically for capturing system requirements from users, and they report on the results of several field studies where these tools were used.
+</p>
+<p>
+ In the most technical of the papers in this special issue, Bui, Bodart, and Ma propose a formal language to support and document argumentation, claims, decision and negotiation, and coordination in network-based organizations. The paper, "ARBAS: A Formal Language to Support Argumentation in Network-Based Organizations,"proposes that the language be used over the Internet to create a corporate memory of otherwise ephemeral interactions. The work in this paper harks back to and builds upon the foundation of the work of Bodart and others on Problem Statement Language/Problem Statement Analyzer (PSL/PSA). Despite its highly technical orientation, the paper also has social, legal, and behavioral implications.
+</p>
+<p>
+ Finally, in an unprecedented move, we are holding what would have been the tenth paper in this issue over to become the anchor of next year's special issue. Fjermestad and Hiltz have spent several years preparing an exhaustive analysis of all GSS laboratory research that has ever been published. This paper offers a categorical framework for organizing GSS research and examines the studies in terms of methods, independent variables, dependent variables, and results. Because of the completeness of its coverage, this paper will serve as an important foundation and as a launching pad for much GSS research for many years to come. The paper is necessarily quite long, and given the choice of losing some of its value by shortening it or holding it over to present it in its entirety, we opted for the latter. We are pleased the authors have chosen this forum for their work, and we look forward to its debut next year.
+</p>
+<p>
+ GSS Research
+</p>
+<p>
+ A T THE CLOSE OF THE NINETEENTH CENTURY, A LEARNED PHYSICIST  asserted that his discipline was nearly complete. Other than a few loose ends, nothing else remained to be learned. Of course, the loose ends turned out to be the theory of relativity, quantum mechanics, and nuclear physics, among others. In 1943, Thomas J. Watson, Sr., chairman of IBM, said, "I think there is a world market for maybe five computers ."As the twenty-first century approaches, the assertion has begun to circulate among IS academics that group support systems (GSS) research is dead, that other than a few loose ends, nothing remains to be learned.
+</p>
+<p>
+ For more than a decade researchers have been developing and testing group support systems [14, 17, 20, 32, 33, 58]. GSS are suites of tools designed to focus the deliberation and enhance the communication of teams working under high cognitive loads. Research from both the field and the laboratory has shown that teams using GSS can become far more productive than would otherwise be possible [11, 14, 17, 22, 30, 32, 33, 36, 38, 39, 40, 43, 44, 53, 55]. Independent case studies across several organizations around the world have demonstrated that teams using GSS have reduced their labor costs by as much as 50 percent and have reduced the number of calendar days in their projects up to 90 percent [12, 16, 22, 38, 43].
+</p>
+<p>
+ Although GSS is not yet widely deployed, it has already been used by several million people. It has developed beyond the academic sandbox to become a key resource in more than 1,500 organizations, many of which report millions of dollars of cost savings and cost avoidance from its use [43, 54]. More than 140 GSS experiments have already been reported in the GSS literature [17], as have dozens of field studies [11].
+</p>
+<p>
+ With what has been done, is there really anything else important to study about GSS? Most emphatically, yes. There are still many more questions than answers in GSS research. Existing studies have touched only the edges of the vast technology-for-teams territory. We hope herein to illuminate some of the rich GSS research opportunities that must yet be taken.
+</p>
+<p>
+ What Is a GSS?
+</p>
+<p>
+ A  GROUP SUPPORT SYSTEM EASES THE COGNITIVE LOAD OF TEAMS  working in concert toward a mutual goal. Sometimes team members "all talk at once"by typing their ideas simultaneously into a network of computer workstations. The system immediately makes all these contributions available to other members of the team who can read them on their individual screens. This allows the entire team to hear from every member in about the same time it would normally take to hear from only one [32, 37]. At other times, teams use a GSS to cooperate while separated by space and time. Sometimes teams use GSS anonymously to raise and explore new and perhaps unpopular or politically risky ideas that a member might otherwise be reluctant to voice for fear of reprisal from peers or superiors. The anonymity allows participants to evaluate an idea based on its merits rather than on its source. Other teams find it useful to make fully identified contributions, so team members can assess the expertise of the contributor, or so they can hold one another accountable for action items.
+</p>
+<p>
+ A group support system is a suite of software tools, each of which focuses team efforts in some unique way [37]. A brainstorming tool, for example, encourages a team to diverge from its customary thinking patterns, to go farther afield to find as many new ideas as possible in a brief time. In contrast, other tools encourage a group to converge quickly on a set of key issues, or to explore a defined set of issues in great depth and detail. A GSS tool kit may also include tools to support team writing, polling for consensus, evaluation of alternatives, and other activities for working together toward a goal, whether a team is working at the same time in the same place or is separated across many time zones and working asynchronously [37].
+</p>
+<p>
+ GSS Research Questions
+</p>
+<p>
+ T HIS PAPER PRESENTS A SERIES OF RESEARCH QUESTIONS ORGANIZED  under major headings. The list of questions in each heading is by no means exhaustive; indeed, even the set of headings is not exhaustive. However, this set of questions may be sufficient to persuade the reader that GSS will remain a rich field for academic endeavor for some time to come.
+</p>
+<p>
+ Ideation Issues
+</p>
+<p>
+ Much of the early GSS research focused on improving ideation processes. Every aspect of problem solving requires ideation. People produce more ideas with GSS than without GSS [19, 24, 26, 53]. People working with a critical evaluative tone produced more ideas than people with an affirmative evaluative tone [10]. People who broke the problem down to subproblems generated more ideas than people who worked with a problem as a whole. People with a basis for social comparison produced more than people with no such basis [49]. These interesting and useful findings have been the basis for many successful GSS interactions. However, many questions about GSS ideation remain unanswered. For example, it might be useful to know the distribution of good ideas over time so the team can make informed choices about how long to spend on ideation. When do the best ideas come? Early? Late? Evenly spaced throughout? Why? What might it cost a group in terms of good ideas if they cut ideation short? What if they stress the participants, insisting on rapid ideation without reflection?
+</p>
+<p>
+ Field and lab experience suggests that the facilitation method used with the GSS has a strong effect on ideation [1, 9, 15, 18, 29, 52, 58], but to date only three or four ideation techniques have been rigorously examined. What other facilitation techniques might improve ideation? Do differences in leadership approach result in differing distributions of good ideas over time? Are those differences important to group productivity?
+</p>
+<p>
+ There are a variety of electronic tools to support ideation [37]. Some start each participant on a different electronic page, while others start participants on the same electronic page. What interfaces are best for supporting electronic ideation processes under what conditions? When is a group outline more effective for ideation than a shared flat list?
+</p>
+<p>
+ How does the tradeoff between quality and quantity play out during ideation with a GSS? Do silly ideas inspire good ideas? At what point does the volume of bad ideas overwhelm the cognitive resources of the participants?
+</p>
+<p>
+ Convergence Issues
+</p>
+<p>
+ People produce many ideas with electronic brainstorming tools, some good, some bad. A great deal of research has been published about ideation, but almost nothing has been written about helping a group converge on the best ideas among all those generated. Convergence can be a slow, painful process [8]. Is there an optimal process for converging on the best ideas? How does a group decide what constitutes a good idea? What processes might help a group converge on the best ideas more effectively? What leadership techniques might ease the pain of convergence? When is chauffeured list building more effective than simultaneous team list building? How might artificial intelligence aid the ideation process?
+</p>
+<p>
+ In recent years researchers have begun to investigate supporting geographically separated and asynchronous team work [23, 34, 35, 46, 47, 51, 52]. They report that convergence is much more difficult with distributed teams than with face-to-face teams. Why is this so? What can be done to improve matters?
+</p>
+<p>
+ Questions about Deliberation
+</p>
+<p>
+ Idea generation and convergence are critical in all aspects of teamwork. However, there is much more to teamwork than just idea generation [4, 37, 44]. Consider the problem-solving process: sense making, alternative generation, alternative evaluation, choice making, implementation planning, results monitoring. Each of these steps is critically important, and yet very little is yet known about the use of GSS to support each of these phases. Do people who use electronic brainstorming tools explore the problem space more completely? Under what conditions do they converge on an optimal understanding of the problem? Under what conditions do they select poor explanations of their problem? What leadership or facilitation techniques lead to optimal exploration of problem space? Is there a single optimal approach to such exploration, or does it vary by task? Group? Technology? Which alternative evaluation techniques are effective? Does that vary with the task at hand? Under what circumstances do people using GSS make better choices than people working without GSS? Which GSS tools and techniques improve choice making and which hurt it? Does it depend on the technology at hand? The team? If so, how? Why? What combination of technology and technique will produce the most effective plans? How can GSS be used to break an impasse? How can GSS be used to move teams toward consensus? What can be done with GSS to move plans forward? To track progress? To hold team members responsible for one another? This deliberation process has emerged out of millennia of human experience, but that experience was unsupported by electronic technology. Is that process still optimal? Are there ways of short-circuiting the process with technology?
+</p>
+<p>
+ Questions of GSS and Information Access
+</p>
+<p>
+ One important function of a GSS is to give the group ready access to information--information stored on-line and information stored in the minds of the group members--but only a few groundbreaking pieces of research have examined information access in the GSS environment. Information has value to the degree that it is timely, accurate, and complete. However, its value is offset by the cognitive costs of searching for, assimilating, and remembering the information. Does GSS give a team access to more information more quickly? More accurately? More completely? At what cognitive cost? Can GSS be used to reduce the cost of finding information? Assimilating it? Retrieving it?
+</p>
+<p>
+ One function of information is to increase the probability that an actor will expect the outcome the actor actually obtains when choosing one course of action over another. Do teams using GSS expect their outcomes more frequently than teams who do not use GSS? Does that depend on the task? The team? The technology? Another function of information is to increase the actor's awareness that possibilities exist. Do people using GSS consider more alternatives than others? Are they more effective at selecting among them? Why or why not?
+</p>
+<p>
+ Helmut Krcmar of Hohenheim University in Germany defines information as "A model of something, for some purpose."The same information can be modeled in many different ways. Can GSS be used to present models that are more easily assimilated? Can it be used to produce such models? Do people using GSS seek different kinds of information than people who do not? What is the effect of that difference? Do people who use GSS purpose different things than people who do not? Is that good? Always? Why?
+</p>
+<p>
+ GSS and Communication Issues
+</p>
+<p>
+ One of the benefits GSS brings to a group is the ability to communicate in parallel, which may allow people to share information and expertise more quickly [37]. Is that sharing as complete with GSS as it with other media? Under what circumstances do people choose to attend to the contributions of others? Under what circumstances do they ignore one another's work? Does this change over time? Does it change over tasks? Are there processes for increasing the degree to which people attend to one another's ideas? When is this a desirable outcome? Are there advantages to serial communication that are lost during parallel communication? What are the political implications of a channel where nobody can shout down an opponent? Do people express the same ideas on a keyboard that they would express orally? Are there new and better means of expression than those that now exist? Does a message carry more weight if it appears on a screen than when it enters the ears? If so, under what circumstances might that difference be desirable? Undesirable?
+</p>
+<p>
+ Questions about GSS and Goal Congruence
+</p>
+<p>
+ In order to be productive, a team may use a GSS to reduce the cognitive loads associated with communication, deliberation, and information access. However, no technology can improve the productivity of people who choose to be unproductive [4]. People hold many, sometimes mutually exclusive, personal goals: To survive and thrive, to be accepted and loved, to look good, to hold a job, to get ahead--the list is endless. Teams accept many tasks. People will only make an effort to achieve the team goal to the extent that the team goal is compatible with whatever private goals are salient to the individuals on the team. How can a GSS be used to establish and maintain goal congruence? Can it be used to reveal hidden agendas? Is that desirable? Always? Can it be used to change the salience of personal goals?
+</p>
+<p>
+ Anonymity is a goal-congruence issue that has received some attention in the GSS literature. A great deal of work has been done to examine the effects of anonymity on idea generation [10, 24, 25, 26, 27, 48, 56]. Teams produce more ideas when working anonymously than when identified. There is some thinking that this is the combined result of two goal-congruence effects. Researchers have posited that people may be reluctant to propose ideas that might garner negative reactions from peers or superiors. Allowing them to work anonymously may overcome this reluctance. While many papers have offered this explanation, no study has yet tested it. Will the evaluation-apprehension model stand up to rigorous scrutiny?
+</p>
+<p>
+ Social loafing research suggests that people generating ideas anonymously do not expend as much effort when working anonymously as they do when working identified [41, 48]. This may also be a goal-congruence issue. Do people make more effort when identified to avoid social sanctions? Do they value credit for their work more than they value the output of their effort? Why? How can GSS be built or used differently to overcome social loafing without sacrificing the other benefits of anonymity? Other than increased ideation, what benefits are there to anonymity? What are the costs? Which team processes are helped by anonymity? Which are not?
+</p>
+<p>
+ Organizational Implications of GSS
+</p>
+<p>
+ New technologies often change the way entire industries do business. The business processes were often not even imaginable before the advent of the technology. For instance, American Hospital Supply placed computer terminals at their customers' sites and revolutionized their industry. Before the advent of computerized transactions, a bank could only be open to the public a few hours of the day. With ATM cards, we now do much of our banking in the parking lot, and some if it at the grocery store. What new organizational forms are now possible with GSS? What new organizational forms might be desirable? What impact will those new forms have on organizational structure and power distributions?
+</p>
+<p>
+ One of the key changes we have observed in the field is that many managers and knowledge workers use GSS to support meetings where they actually do work rather than just planning to do work [32, 35]. What effect might this change have on the productivity of a team? An organization? Are organizations doing more work with fewer people because of GSS?
+</p>
+<p>
+ Unanswered Questions about Process Gains and Losses
+</p>
+<p>
+ In 1991, we noted that GSS might offer certain process gains to a team, and that these gains were, to some extent, offset by process losses. Table 1 lists some of those gains and losses. To date, few of these gains and losses have been explored in detail. Most have been subjected to no rigorous academic investigation. To what extent are these factors important to the outcomes of a GSS meeting? To what extent do they interact? To what extent are they cumulative, or mutually exclusive?
+</p>
+<p>
+ Questions of Ethics
+</p>
+<p>
+ Teams may use GSS to make choices about the use of scarce resources, and these choices may have permanent consequences for the participants and for non-participants. What ethical issues must be considered in the use of GSS? When important decisions are made by groups of unidentifiable individuals, who is accountable? Who should be rewarded? Who should be blamed? Are these issues different because the GSS is being used, or are they the same issues that already arise in standard human interactions? The transcripts of electronic meetings are more permanent than spoken words. Who owns these transcripts? The participants? All the participants? The organizations for whom they work? Who has the right to destroy the transcripts? Under what conditions may the transcripts be made public? Under what circumstances should an organization be held liable for an anonymous contribution to a GSS session?
+</p>
+<p>
+ Team Telework Issues
+</p>
+<p>
+ The emergence of the global marketplace may drive the development of GSS over the next decade. More and more geographically distributed teams are using GSS and other collaborative technology to facilitate team telework [46, 47]. While the demand for team telework grows, little is known about how to actually conduct team telework. How can leaders move a group through a process? How can technology replace the rich nonverbal cues of face-to-face work? What cues should be replaced? Should they be directly replaced, or are there technological surrogates that differ substantially from the original cues? What must be done to create a sense of presence among people who are geographically separated? Is a sense of presence necessary? Is it desirable? Are there tasks that are best done face to face? Are there tasks that are best done distributed? Which are they? Why? What can be done to motivate the efforts of geographically distributed team members? What can be done to monitor their motivation? Do the same features and functions that support face-to-face groups support geographically separated groups just as well? What new features and functions might be required? Why? How must GSS be designed or used differently to support synchronous distributed work than for asynchronous work? What changes in GSS technology and group process will be required to support collaboration for teams distributed along the dimensions of time, space, and computing resources? What are the requirements for a distributed group support system that extend beyond those used in face-to-face systems, in terms of data content, interface presentation, and tool and resource features? How do the roles of facilitators, team leaders, and participants in distributed settings change from those in face-to-face settings?
+</p>
+<p>
+ Cultural and Cross-Cultural Issues
+</p>
+<p>
+ The vast majority of GSS research has focused on GSS usage in American and European corporate culture. What would GSS look like if designed specifically for use in Europe, Asia, or Australia? Will Japanese teams require different GSS support than German teams? How about teams with members from both Japan and Germany? Much of the work on cross-cultural teams is bilateral, dealing with how members of one culture can adapt to better interact with members of another culture. Can GSS provide a new common ground for interaction among several cultures? What if group members do not share a common language? What if group members do not share a common set of culturally based group norms? When does an international video conference make more sense than a trip around the world? When doesn't it? How does the role of the facilitator change from one culture to the next? What affect does culture have on the adoption of GSS? What affect does culture have on satisfaction with GSS technologies? Can GSS be used to maintain a sense of togetherness among distributed multicultural employees of a multination corporation? Given that over 140 GSS experimental studies have been published, how many of these findings can be generalized to Asian, South American, Australian, African, or European cultures? What is the role of GSS in the global village?
+</p>
+<p>
+ Group Negotiation Questions
+</p>
+<p>
+ Recently, a probation officer suggested that GSS could be used to facilitate communication between members of opposing gangs. He suggested that the anonymity would allow the rival members to speak to each other not as a gang representative but as an individual that may allow them to find a common ground from which to resolve their differences. Do GSS have a role in this type of meeting environment? What is the potential for this type of application? What would a GSS look like if it were designed for gang leaders instead of corporate leaders? What other types of group therapy might have members who are reluctant to express themselves and could potentially benefit from GSS?
+</p>
+<p>
+ GSS and Business Process Reengineering
+</p>
+<p>
+ Recently, advances have been made in the development of specific GSS tools to support the process of business reengineering such as the Enterprise Analyzer. How effective are these tools? What is the role of GSS in reengineering? To what extent can GSS be integrated with other reengineering software such as CASE tools?
+</p>
+<p>
+ Leadership and Process Structure Issues
+</p>
+<p>
+ Research has shown that even with a single GSS tool, a single, subtle difference in leadership method can lead to massive differences in group dynamics and productivity [48]. What other leadership methods might lead to similar differences? Under what conditions do teams perform better under a leader who uses GSS to structure and focus group processes? Under what conditions do groups perform better when they use the GSS with no leader and no structure? How can leaders use GSS to uncover hidden agendas among group members? Is uncovering hidden agendas necessarily a good thing? Why or why not? What effect does it have on group process for the group to surface hidden agendas?
+</p>
+<p>
+ Adoption and Diffusion of GSS
+</p>
+<p>
+ What causes an organization to adopt GSS? Research shows that teams using GSS save 50 percent to 70 percent of their labor costs and reduce their project cycle times by 90 percent. However, technology cannot benefit those who choose not to use it. Despite the massive successes of GSS in many organizations, the technology is diffusing slowly. Given the payoffs, why isn't GSS technology spreading like wildfire? Are the organizational changes surrounding the introduction of GSS too painful? Are the GSS tools too awkward or technically complex for most people to use? Are there affective issues that hinder diffusion? Social issues? Is it simply a lack of information or understanding that keeps people from using the technology?
+</p>
+<p>
+ For GSS to be an organizational success, one must plan for and overcome resistance to change. In The Prince  (written around 1500), Machiavelli made an insightful observation about change that may be relevant to GSS research:
+</p>
+<p>
+ "There is nothing more difficult to handle, more doubtful of success, and more dangerous to carry through than initiating changes to the state's constitution. The innovator makes enemies of all those who have prospered under the old order, and only lukewarm support is forthcoming from those who would prosper under the new."
+</p>
+<p>
+ Thomas Edison saw the difficulty of change as well:
+</p>
+<p>
+ "The Inventor can't do it all. You've got to change people. We have an enormous capacity to invent super-machinery. But our desire to install the device is weak. Human inertia is the problem, not invention. Something in man makes him resist change." [February 1923]
+</p>
+<p>
+ Does the technology violate powerful political interests within organizations? Or is it simply that, all things being equal, people resist change? In either case, what change management processes will work? What incentive and social structures could be created to ease the transition? What payoffs would be sufficient to offset the cost of change? How can we measure the benefits and costs of GSS?
+</p>
+<p>
+ Some speculate that the champions of GSS within an organization gain high visibility and receive rapid promotions away from the GSS-related job. This strands the technology without a champion, making the diffusion process self-extinguishing. Is the process really self-extinguishing? If so, what can be done?
+</p>
+<p>
+ GSS and Electronic Commerce
+</p>
+<p>
+ GSS tools are now available on the World Wide Web, allowing people from different organizations to join a collaborative problem-solving session with minimal effort. What role might GSS take in supporting interorganizational cooperation? What role might it play in fostering electronic commerce? For example, a major management trend is the development of "virtual corporations"--sets of separate organizational entities tightly linked by strategic alliances. Can GSS be instrumental in defining, nurturing, and monitoring the relationships on which these alliances are based? How are GSS best structured and used for these purposes? Intranets promise to redefine traditional corporate computing. GSS may become part of an integrated I/S architecture, with one common interface, instead of a separate application. How would that architecture be structured? What relative roles would be played by GSS?
+</p>
+<p>
+ Collaborative Modeling and Simulation
+</p>
+<p>
+ Often people use GSS to collect and collate information about the parameters of their problem space or their solution space. Recent pilot efforts have demonstrated the technical feasibility of rolling team-generated parameters into models and simulations to support design and decision-making activities. What processes are suitable to optimize team parameterization of models? How do teams perceive the information in the models? Are team-generated simulations more accurate or more complete than individually generated simulations? Can teams build simulations more quickly than individuals? Do teams make better choices when supported by team simulations? Under what circumstances?
+</p>
+<p>
+ GSS Software and Network Architectures
+</p>
+<p>
+ GSS software has evolved through four architectures: Mainframe, DOS/flat-file/LAN, Windows/Database/LAN, and now WEB-based client-server [46, 47]. To date, no rigorous academic investigations of GSS software architecture have been conducted. How can one optimize the software architecture to assure rapid interface response for users, while accommodating low-speed and intermittent data communication channels? Is client-server the optimal software architecture for collaborative technology? Why or why not? Should a client be thick, with most of the processing done at the client end, or thin, with most of the processing done at the server? What are the tradeoffs for making this choice? Where should the data reside? Locally? Remotely? Both? Should the system push data or poll for it? How should the architecture of the GSS accommodate other applications? How could the architecture be designed to support rapid prototyping of new tools?
+</p>
+<p>
+ GSS for Crisis Response
+</p>
+<p>
+ When responding to a crisis, a leader must quickly bring the right people together--those with the right information, expertise, and leadership ability. These people must continuously develop and evaluate possible courses of action in response to the unfolding situation. Cognitive processes for people working under time pressure are substantially different than for people working at a more deliberate pace. Do current GSS tools provide adequate support for crisis response? What new tools might be required? What new processes might be required for teams in crisis? People under time pressure are far better at comparative decision making than at judgment. Do current GSS tools and techniques take best advantage of this situation? Individuals working under time pressure are better at naturalistic decision making than at rational decision making. In naturalistic decision making, an expert perceives key cues, matches them with internal patterns, performs an immediate diagnosis, and recommends a single solution. With rationalistic decision making, the decision maker generates and evaluates alternatives, then selects a course of action. However, some problems are large enough that no single decision maker has all the expertise or information or resources to solve the problem alone, and so decisions must be made by groups. Can GSS be used to move groups closer to the naturalistic model of decision making? Is that desirable? Will that effort require new GSS tools? Techniques?
+</p>
+<p>
+ Virtual Workspace Issues
+</p>
+<p>
+ A great deal of research has been published about teams using GSS in the same place at the same time. Recent field investigations suggest that people using GSS to support distributed collaboration have difficulty maintaining a sense of the group and its processes [46, 47]. It may be that the use of Virtual Reality (VR) interfaces [49, 50, 57] for GSS could alleviate many of these difficulties. The VR could provide an avatar that represented each member of the group and provided clues to what the group members were doing. What information should a group VR environment provide? What features and functions should it supply? Should the space be represented realistically--with gravity, walls, floors, desks, light switches, wall-sized screens? Should the virtual space be represented in ways that have nothing to do with physical space--no gravity, floating objects, embedded data? Why or why not? How should the team navigate through the space? Should avatars be able to pass through one another? Should they be able to establish private communication channels for their principals?
+</p>
+<p>
+ Team Interface Design
+</p>
+<p>
+ While it is clear that subtle differences in interface can cause major differences in group dynamics [48], little systematic research into GSS interface design has been done [21]. Shepherd, Briggs, Reinig, Yen, and Nunamaker [48] showed that a single horizontal line on one GSS interface led to an increase of 23 percent in ideation productivity. When combined with a new facilitation technique, productivity increased 63 percent. What other subtle differences in interface design might lead to similar or even larger improvements? How are team interfaces different than individual interfaces? What hidden costs might be associated with these increases in productivity? How much more productivity might be possible?
+</p>
+<p>
+ Shared Drawing Questions
+</p>
+<p>
+ With a few notable exceptions, most GSS technology is text-based, yet we observe that people often sketch and draw when they are working face to face. Developers have begun implementing shared whiteboards and shared graphics tools. Under what conditions are these tools more useful than text-based tools? There is little descriptive or prescriptive information available specifically about sketching. Will computer-based tools encourage more drawing? Will this make a difference for a group? What theoretical basis could best govern the development and use of shared drawing tools? Communication theory? Esthetics theory? Productivity theory? All three? Something else? For what kinds of tasks will shared drawing be useful? Useless? Why? Must shared drawing tools be different for representational drawing and conceptual drawing? How important is response time for clear communication? Should drawing capability be included in text tools? Should one be able to mark up text with drawings? Why? Are people more efficient at creating drawn artifacts with electronic tools or manual tools? Under what conditions would that matter? How might a group take advantage of the ability of an electronic tool to time-scroll, which is to undraw and redraw an image? Under what conditions do shared drawing tools make a team more effective? Cohesive? Satisfied? When might a team prefer a symbol-and-arrow tool to shared whiteboard, and vice versa? Should there be a single shared cursor? A cursor for each participant? No cursor? Should WYSIWIS be enforced? Optional? Ignored? Why? What new team processes might become possible that were not even contemplated before the advent of shared drawing tools?
+</p>
+<p>
+ GSS in the Classroom
+</p>
+<p>
+ A growing community of researchers is beginning to explore the use of GSS to support learning [2, 3, 5, 6, 7, 28, 45, 55, 56].
+</p>
+<p>
+ In the past three years, the Hawaii International Conference on Systems Science has published dozens of papers on the topic. Experience suggests that cooperative learning can be substantially enhanced through the judicious use of GSS. They are also finding that successful use of GSS requires a fundamental shift in the thinking paradigm of the instructor. Experience shows that standard classroom instruction and standard in-service training have been ineffective for conveying that paradigm shift. The presence of a researcher in the room for a year has been an effective but very inefficient method of inducing the change. Is there a shorter, less expensive way to achieve the change? What can be done to cause a paradigm shift among teachers? Will GSS have to become more simple to use? Will instruction have to become more rigorous? The military uses boot camp to instill new values in recruits. Will a boot camp approach work with teachers? What other innovative approaches might apply? What course materials might enhance the use of GSS in the classroom? Who should create those materials? Teachers? Vendors? The learners themselves? Research on GSS-for-learning has focused on engaging the learners in solving real problems. Are there other approaches that might be effective? How do we measure whether the GSS interventions are actually increasing learning?
+</p>
+<p>
+ Conclusion
+</p>
+<p>
+ A T THIS POINT WE MUST LEAVE OUR RECITATION OF  GSS research questions, not for lack of issues but for lack of space. We hope we have broadened your perspective on GSS. Since 1988 it has been a yearly event at ICIS, and more recently at AIS, to pronounce the demise of GSS research. Yet in this one paper we have identified the potential for at least 250 more doctoral dissertations. Each dissertation would make a substantial contribution to our understanding of GSS, and each would be likely to uncover deeper and more interesting questions than those posed here. Rhetorically speaking, there are 1001 questions yet to be answered. GSS research is like a cathedral whose foundations have been laid and whose supporting pillars are under construction. Still to come are the high stone walls, the vaulted ceilings, and the tracery stained glass windows. No single craftsperson can build a cathedral. Many craftspeople over several generations complete the wonder. So it is with GSS research. No single person or university will answer all these questions, though all will contribute in important ways, adding their own bricks to the wall.
+</p>
+<p>
+ Acknowledgment : The authors appreciate the invaluable contributions made by Nicholas C. Romano, Jr., and Bruce A. Reinig.
+</p>
+<p>
+ R EFERENCES
+</p>
+<p>
+ 1. Bostrom, R.P.; Anson, R.; and Clawson V.K. Group facilitation and group support systems. In L.M. Jessup and J.S. Valacich (eds.), Group Support Systems: New Perspectives . New York: Macmillan, 1993, pp. 146-168.
+</p>
+<p>
+ 2. Brandt, S.A., and Briggs, R.O. Exploring the use of EMS in the classroom: two field studies. Proceedings of the Twenty-Eighth Hawaii International Conference on Systems Sciences , vol. 4, January 1995, pp. 533-542.
+</p>
+<p>
+ 3. Brandt, S.A., and Lonsdale, M. Technology supported cooperative learning in secondary education. Proceedings of the Twenty-Ninth Annual Hawaii International Conference on System Sciences , vol. 3, January 1996, pp. 313-322.
+</p>
+<p>
+ 4. Briggs, R.O. The focus theory of group productivity and its application to development and testing of electronic group support systems. Ph.D. dissertation, University of Arizona, 1994.
+</p>
+<p>
+ 5. Briggs, R.O.; Ramesh, V.; Basu, K.; and Carlisle, J. Exemplar: improving the college classroom with group support technology. Proceedings of the 13th International Conference on Information Systems , December 1992, pp. 276-277.
+</p>
+<p>
+ 6. Briggs, R.O.; Ramesh, V.; Romano, N.C., Jr.; and Latimer, J. The Exemplar project: using group support systems to improve the learning environment. Journal of Educational Technology Systems , 23 , 3 (September 1994-95), 277-287.
+</p>
+<p>
+ 7. Briggs, R.O.; Romano, N.C., Jr.; and Brown, H. Learning to think/thinking to learn: electronic support for the problem solving educational paradigm. Proceedings of Association of Management Tenth Anniversary Conference , 10 , 2 (August 1992), 115-119.
+</p>
+<p>
+ 8. Chen, H.; Hsu, P.; Orwig, R.; Hoopes, L.; and Nunamaker, J.F., Jr. Automatic concept classification of text from electronic meetings. Communications of the ACM , 37 , 10 (October 1994), 56-72.
+</p>
+<p>
+ 9. Clawson V.K., and Bostrom, R.P. Facilitation: the human side of groupware. Proceedings of GroupWare '93  (August 1993), 204-224.
+</p>
+<p>
+ 10. Connolly, T.; Jessup, L.M.; and Valacich, J.S. Effects of anonymity and evaluative tone on idea generation in computer-mediated groups. Management Science , 36 , 6 (June 1990), 689-703.
+</p>
+<p>
+ 11. Dennis, A.R.; Nunamaker, J.F., Jr.; and Vogel, D.R. A comparison of laboratory and field research in the study of electronic meeting systems. Journal of Management Information Systems , 7 , 3 (Winter 1990-91), 107-135.
+</p>
+<p>
+ 12. Dennis, A.R.; Tuchi, J.J.; Vogel, D.R.; and Nunamaker, J.F., Jr. A case study of electronic meeting system use. Working Paper, Center for the Management of Information, University of Arizona, April 1990.
+</p>
+<p>
+ 13. Dennis, A.R.; Valacich, J.S.; Connolly, T.; and Wynne, B.E. Process structuring in electronic brainstorming. Information Systems Research , 7 , 2 (June 1996), 268-277.
+</p>
+<p>
+ 14. Dennis, A.R.; Valacich, J.S.; and Nunamaker, J.F., Jr. An experimental investigation of group size in an electronic meeting system environment. IEEE Transaction Systems, Man Cybernetics , 20 , 5 (September-October 1990), 1049-1057.
+</p>
+<p>
+ 15. Dickson, G.W.; Partridge, J.L.; and Robinson, L.H. Exploring modes of facilitative support for GDSS technology. MIS Quarterly , 17 , 2 (June 1993), 173-194.
+</p>
+<p>
+ 16. Dyson, E. What IBM needs is a little TeamFocus. Computerworld , 27 , 14 (April 5, 1993), 33.
+</p>
+<p>
+ 17. Fjermestad, J.H., and Hiltz, S.R. Experimental studies of group decision support systems: an assessment of variables studied and methodology. Proceedings of the Thirtieth Hawaii International Conference on System Sciences , vol. 2, January 1997, pp. 45-53.
+</p>
+<p>
+ 18. Fuller, M.A., and Trower, J. Facilitation, systems, and users: the complete socio-technical system. Proceedings of the Twenty-Seventh Annual Hawaii International Conference On System Sciences , vol. 4, January 1994, pp. 82-91.
+</p>
+<p>
+ 19. Gallupe, R.B.; Dennis, A.R.; Cooper, W.H.; Valacich, J.S.; Bastianutti, L.M.; and Nunamaker, J.F., Jr. Electronic brainstorming and group size. Academy of Management Journal , 35 , 2 (June 1992), 350-369.
+</p>
+<p>
+ 20. Gallupe, R. B.; DeSanctis, G.; and Dickson, G.W. The impact of computer support on group problem finding: an experimental approach. MIS Quarterly , 12 , 2 (June 1988), 276-296.
+</p>
+<p>
+ 21. Gray, P.; Mandviwalla, M.; Olfman, L.; and Stazinger, J. The user interface in group support systems. In L.M. Jessup and J.S. Valacich (eds.), Group Support Systems: New Perspectives . New York: Macmillan, 1993, pp. 192-213.
+</p>
+<p>
+ 22. Grohowski, R.; McGoff, C.; Vogel, D.; Martz, W.B., Jr.; and Nunamaker, J.F., Jr. Implementing electronic meeting systems at IBM: lessons learned and success factors. Management Information Systems Quarterly , 14 , 4 (December 1990), 368-383.
+</p>
+<p>
+ 23. Hiltz, S.R., and Turoff, M. Virtual meetings: computer conferencing and distributed group support. In R.T. Watson, R. Bostrom, and S.T. Kinney (eds.), Computer Augmented Teamwork . New York: Van Nostrand Reinhold, 1992.
+</p>
+<p>
+ 24. Jessup, L.M., and Connolly, T. The deindividuating effects of anonymity on automated group idea generation. Unpublished manuscript, 1989.
+</p>
+<p>
+ 25. Jessup, L.M., and Tansik, D.A. Decision-making in an automated environment: the effects of anonymity and proximity with a group decision support system. Working paper, Center for the Management of Information, University of Arizona, 1990.
+</p>
+<p>
+ 26. Jessup, L.M.; Tansik, D.A.; and Laase, T.L. Group problem solving in an automated environment: the effects of anonymity and proximity on group process and outcome with a group decision support system. Proceedings of the 9th Academy of Management Conference , Organizational Communication Division, 9, August 1988, pp. 1-20.
+</p>
+<p>
+ 27. Kraul, C. Anonymity makes electronic boardroom work. Los Angeles Times  (1990), D2.
+</p>
+<p>
+ 28. Leidner, D., and Fuller, M. Improving student processing and assimilation of conceptual information: GSS-supported collaborative learning vs. individual constructive learning. Proceedings of the Twenty-Ninth Annual Hawaii International Conference on System Sciences , vol. 3, January 1996, pp. 293-302.
+</p>
+<p>
+ 29. Limayen, M.; Lee-Partridge, J.E.; Dickson, G.W.; and DeSanctis, G. Enhancing GDSS effectiveness: automated versus human facilitation. Proceedings of the Twenty-Sixth Annual Hawaii International Conference on Systems Science , vol. 4, January 1993, pp. 95-101.
+</p>
+<p>
+ 30. Martz, W.B., Jr.; Vogel, D.R.; and Nunamaker, J.F., Jr. Electronic meetings systems: results from field. Decision Support Systems , 8 , 1 (January 1992), 141-158.
+</p>
+<p>
+ 31. Nunamaker, J.F., Jr.; Applegate, L.M.; Konsynski, B.R. Facilitating group creativity: experience with a group decision support system. Journal of Management Information Systems , 3 , 4 (Spring 1987), 5-19.
+</p>
+<p>
+ 32. Nunamaker, J.F., Jr.; Briggs, R.O.; and Mittleman, D.D. Electronic meeting systems: ten years of lessons learned. In D. Coleman and R. Khanna (eds.), Groupware: Technology and Applications . Englewood Cliffs, NJ: Prentice-Hall, 1995, pp. 149-193.
+</p>
+<p>
+ 33. Nunamaker, J.F., Jr.; Briggs, R.O.; Mittleman, D.D.; and Balthazard, P.B. Lessons from a dozen years of group support systems research: a discussion of lab and field findings. Journal of Management Information Systems , 13 , 3 (Winter 1996-97), 163-207.
+</p>
+<p>
+ 34. Nunamaker, J.F., Jr.; Briggs, R.O.; and Romano, N.C., Jr. Meeting environments of the future: meeting to plan work or meeting to do work?. Proceedings of GroupWare '94 Europe  (June 1994), 521-545.
+</p>
+<p>
+ 35. Nunamaker, J.F., Jr.; Briggs, R.O.; Romano, N.C., Jr.; and Mittleman, D.D. The virtual office work-space: GroupSystems Web and case studies. In D. Coleman (ed.), Groupware: Collaborative Strategies for Corporate LANs and Intranets . New York: Prentice-Hall, 1997.
+</p>
+<p>
+ 36. Nunamaker, J.F., Jr.; Dennis, A.R.; George, J.F.; and Vogel, D.R. Systems to support group work activities: the past, present, and future. In R.L. Flood, M.C. Jackson, and P. Keys (eds.), Systems Prospects: The Next Ten Years of Systems Research . New York: Plenum Press, 1989, pp. 103-108.
+</p>
+<p>
+ 37. Nunamaker, J.F., Jr.; Dennis, A.R.; Valacich, J.S.; Vogel, D.R.; and George, J.F. Electronic meeting systems to support group work. Communications of the ACM , 34 , 7 (July 1991), 40-61.
+</p>
+<p>
+ 38. Nunamaker, J.F., Jr.; Vogel, D.R.; Heminger, A.; Martz, W.B., Jr.; Grohowski, R.; and McGoff, C. Group support systems in practice: experience at IBM. Proceedings of the Twenty-Second Hawaii International Conference on Systems Sciences , vol. 2, January 1989, pp. 378-386.
+</p>
+<p>
+ 39. Nunamaker, J.F., Jr.; Vogel, D.R.; Heminger, A.B.; Martz, W.B., Jr.; Grohowski, R.; and McGoff, C. Experiences at IBM with group support systems: a field study. Decision Support Systems: The International Journal , 5 , 2 (June 1989), 183-196.
+</p>
+<p>
+ 40. Nunamaker, J.F., Jr.; Vogel, D.R.; and Konsynski, B.R. Interaction of task and technology to support large groups. Decision Support Systems: The International Journal , 5 , 2 (June 1989), 139-152.
+</p>
+<p>
+ 41. Paulus, P.D., and Dzindolet, M.T. Social influence processes in group brainstorming. Journal of Personality and Social Psychology , 64 , 4 (December 1993), 575-586.
+</p>
+<p>
+ 42. Poole, M.S., and DeSanctis, G. Understanding the use of group decision support systems: the theory of adaptive structuration. In J. Fulk and C. Steinfield (eds.), Organizations and Communication Technology . Newbury Park, CA: Sage, 1990, pp. 173-193.
+</p>
+<p>
+ 43. Post, B.Q. Building the business case for group support technology. Proceedings of the Twenty-Fifth Annual Hawaii International Conference on Systems Science , vol. 4, January 1992, pp. 34-45.
+</p>
+<p>
+ 44. Romano, N.C., Jr. Are collaborative tools really collaborative? AS/400 Systems Management  (August 1996), 61.
+</p>
+<p>
+ 45. Romano, N.C., Jr., and Balthazard, P.A. Computer literacy instruction using nonlinear environments. Journal of Education for Management Information Systems , 1 , 1 (1993), 11-18.
+</p>
+<p>
+ 46. Romano, N.C., Jr.; Nunamaker J.F., Jr.; and Briggs, R.O. User driven design of a Web-based group support system. Proceedings of the Thirtieth Annual Hawaii International Conference on System Sciences , vol. 2, January 1997, pp. 366-375.
+</p>
+<p>
+ 47. Romano, N.C., Jr.; Nunamaker, J.F., Jr.; Briggs, R.O.; and Vogel, D.R. Architecture, design, and development of an HTML/Javascript Web-based group support system. In H. Chen (ed.), Special Topic issue of JASIS on Artificial Intelligence Techniques for Emerging Information Systems Applications . In press.
+</p>
+<p>
+ 48. Shepherd, M.M.; Briggs, R.O.; Reinig, B.A.; Yen, J.; and Nunamaker, J.F., Jr. Invoking social comparison to improve electronic brainstorming: beyond anonymity. Journal of Management Information Systems , 12 , 3 (Winter 1995-96), 155-170.
+</p>
+<p>
+ 49. Steuer, J. Defining virtual reality: dimensions determining telepresence. In F. Biocca and M.R. Levy (eds.), Communication in the Age of Virtual Reality . Hillsdale, NJ: Lawrence Erlbaum, 1995, pp. 33-56.
+</p>
+<p>
+ 50. Stuart, R. The Design of Virtual Environments . New York: McGraw-Hill, 1996.
+</p>
+<p>
+ 51. Turoff, M. Computer-mediated communication requirements for group support. Journal of Organizational Computing , 1 , 1 (January 1991), 85-113.
+</p>
+<p>
+ 52. Turoff, M., and Hiltz, R. Computer support for groups versus individual decisions. IEEE Transactions on Communications . Special Issue on Office Automation , Com-30 , 1 (January 1982), 82-90.
+</p>
+<p>
+ 53. Valacich, J.S.; Jessup, L.M.; Dennis, A.R.; and Nunamaker, J.F., Jr. A conceptual framework of anonymity in group support systems. Proceedings of the Twenty-Fifth International Conference on Systems Sciences , vol. 4, December 1992, pp. 101-112.
+</p>
+<p>
+ 54. Vogel, D.R.; Nunamaker, J.F., Jr.; Martz, W.B., Jr.; Grohowski, R.; and McGoff, C. Electronic meeting system experience at IBM. Journal of Management Information Systems , 6 , 3 (Winter 1989), 25-43.
+</p>
+<p>
+ 55. Walsh, K.R.; Briggs, R.O.; Ayoub, J.; and Vanderboom, C. Teaching with GSS: techniques for enabling student participation. Proceedings of the First Americas Conference on Information Systems , August 1995, pp. 621-623.
+</p>
+<p>
+ 56. Walsh K.R.; Briggs, R.O.; Ayoub, J.; Vanderboom, C.; and Glynn, M. Learning with GSS: a case study. Proceedings of the Twenty-Ninth Annual Hawaii International Conference on System Sciences , vol. 3, January 1996, pp. 283-292.
+</p>
+<p>
+ 57. Watson, M. AI agents in virtual reality worlds: programming intelligent VR in C++ . New York: John Wiley and Sons, 1996.
+</p>
+<p>
+ 58. Watson, R.T.; DeSanctis, G.; and Poole, M. S. Using a GDSS to facilitate group consensus: some intended and unintended consequences. MIS Quarterly , 12 , 3 (September 1988), 463-480.
+</p>
+<p>
+ <b>
+  Key words and  phrases
+ </b>
+ :  ,
+</p></p>
+
+
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

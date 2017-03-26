@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/111">    Volume 17 Number 3 2000
+</a> pp. 9-24</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Leveraging Tacit Organization Knowledge</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1430">Stenmark, Dick</a>    </div>
+
+<p>ABSTRACT: Although tacit knowledge constitutes the major part of what we know, it is difficult for organizations to fully benefit from this valuable asset. This is because tacit knowledge is inherently elusive, and in order to capture, store, and disseminate it, it is argued that it first has to be made explicit. However, such a process is difficult, and often fails due to three reasons: (1) we are not necessarily aware of our tacit knowledge, (2) on a personal level, we do not need to make it explicit in order to use it, and (3) we may not want to give up a valuable competitive advantage. During an empirical study of recommender system usage, it was noticed how such technology could be used to circumvent these problems, and make tacit knowledge, in the form of our professional interests, available to the organization as a whole. Using Polanyi's theories, it will be shown how intranet documents can be used to make tacit knowledge tangible without becoming explicit, suggesting that tacitly expressed entities are not necessarily beyond the reach of information technology.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/202">knowledge management</a>,    <a href="/keywords/878">organizational knowledge</a>,    <a href="/keywords/1361">tacit knowledge</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

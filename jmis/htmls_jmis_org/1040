@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/93">    Volume 21 Number 3 2004
+</a> pp. 83-110</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Health of Electronic Communities: An Evolutionary Game Approach</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1606">Xianjun, Geng,</a>    <a href="/contributors/154">Whinston, Andrew B,</a> and     <a href="/contributors/1446">Han, Zhang</a>    </div>
+
+<p>ABSTRACT: Creating electronic communities is a critical venture in the digital economy. However, fraud and misrepresentation have led to widespread skepticism and distrust of electronic communities. We develop an evolutionary model to explore the issue of trust within an electronic community from a dynamic process perspective. This model emphasizes large populations, continuous change in community memberships, and imperfect information and memory. As the term trust is often used in the context of individual interaction, at a group level we propose using the term health to measure the sustained competitive advantages of honest members over cheaters throughout the evolution of a community. We find conditions under which an electronic community is healthy and attracts outside population. We find that many factors, such as information dissemination speed, honest players' payoffs and possible losses, new community members' initial trust status, and the replacement rate of community members, all affect the health of an electronic community, and that some of them also affect a community's size. We then discuss the implications of our research for e-community practices.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1832">dynamic process</a>,    <a href="/keywords/507">electronic communities</a>,    <a href="/keywords/1833">evolutionary game theory</a>,    <a href="/keywords/1834">trust in e-commerce</a>,    <a href="/keywords/1835">trust status</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

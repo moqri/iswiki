@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/11">    Volume 15 Number 2 1998
+</a> pp. 153-172</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>The Effects of Time Pressure and Completeness of Information on Decision Making</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/20">Ahituv, Niv,</a>    <a href="/contributors/21">Igbaria, Magid,</a> and     <a href="/contributors/22">Sella, Aviem</a>    </div>
+
+<p>ABSTRACT: The Israeli Air Force (IAF) has developed a simulation system to train its top commanders in how to use defensive resources in the face of an aerial attack by enemy combat aircraft. During the simulation session, the commander in charge allocates airborne and standby resources and dispatches or diverts aircraft to intercept intruders. Seventy-four simulation sessions were conducted in order to examine the effects of time pressure and completeness of information on the performance of twenty-nine top IAF commanders. Variables examined were: (1) display of complete versus incomplete information, (2) time-constrained decision making versus unlimited decision time, and (3) the difference in performance between top strategic commanders and mid-level field commanders. The authors' results show that complete information usually improved performance. However, field commanders (as opposed to top strategic commanders) did not improve their performance when presented with complete information under pressure of time. Time pressure usually, but not always, impaired performance. Top commanders tended to make fewer changes in previous decisions than did field commanders.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/195">decision making</a>,    <a href="/keywords/1165">effectiveness of incomplete information</a>,    <a href="/keywords/1166">information effectiveness</a>,    <a href="/keywords/1167">time-constrained decision making</a>,    <a href="/keywords/757">value of information</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

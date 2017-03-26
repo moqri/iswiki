@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/99">    Volume 7 Number 4 1991
+</a> pp. 107-130</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Stress Dynamics of Information Systems Managers: A Contingency Model</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1033">Li, Eldon Y</a> and     <a href="/contributors/1035">Sham, Abraham B</a>    </div>
+
+<p>ABSTRACT: A field study of 109 information systems (IS) managers explores the relationship among organizational characteristics, job satisfaction, and work stress. The results indicate that work overload is the major source of perceived IS work stress, followed by role conflict, job-induced anxiety, and then role ambiguity. Four organizational contextual factorsâ€”IS climate, clarity and sharing of organizational mission, quality of work life, and flexibility of organizational processesâ€”were found to influence significantly work stress and job satisfaction as perceived by IS managers. As expected, job satisfaction was significantly related to Is work stress while IS technological sophistication was not related to IS stress or job satisfaction factors. Contrary to predictions, neither the clarity and awareness of organizational policies nor the quality of IS resources were found to have impact on any IS stressor.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/463">information systems managers</a>,    <a href="/keywords/464">organizational characteristics</a>,    <a href="/keywords/345">job satisfaction</a>,    <a href="/keywords/465">work stress</a>,    <a href="/keywords/466">information systems characteristics</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

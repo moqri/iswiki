@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/104">    Volume 14 Number 4 1998
+</a> pp. 167-193</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>User Interface Consistency Across End-User Applications: The Effects on Mental Models</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1356">Satzinger, John W</a> and     <a href="/contributors/1202">Olfman, Lorne</a>    </div>
+
+<p>ABSTRACT: Consistent user interfaces across applications are thought to facilitate transfer of learning because a user can draw on existing knowledge when using a new application. But despite the interface consistency guidelines and standards that are based on transfer of learning assumptions, few studies have investigated the effects of interface consistency, especially when a user interacts with multiple applications. The user's knowledge of a computer application is often described as a mental model. This study tested whether the consistency of the user interface across applications affects mental-model development when a user learns and uses multiple applications. One hundred and fourteen participants learned two prototype cooperative work applications in a controlled laboratory setting. Interface consistency across applications was manipulated for two attributes commonly referred to in interface design guidelines: the visual appearance of the display screen and the action language syntax. As hypothesized, inconsistent action language syntax across applications resulted in more user actions to complete tasks. Inconsistent visual appearance, however, resulted in greater accuracy, which was surprising. This study provides support for the consistency guideline for action language syntax, but a distinctive visual appearance rather than a consistent one might help the user form more accurate mental models when initially learning multiple applications. Schema theory is used to explain both the expected and the unexpected results. Implications and promising research directions are proposed.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1118">interface consistency</a>,    <a href="/keywords/809">mental model</a>,    <a href="/keywords/390">user interface</a>,    <a href="/keywords/1119">user learning</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

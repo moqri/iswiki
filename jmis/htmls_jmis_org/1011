@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/94">    Volume 16 Number 2 1999
+</a> pp. 29-45</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Next-Generation Trading in Futures Markets: A Comparison of Open Outcry and Order Matching Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/393">Weber, Bruce W</a>    </div>
+
+<p>ABSTRACT: The introduction of new screen-based systems for trading securities and futures contracts has led to the emergence of a "market for markets," and exchanges, broker-dealer firms, and market data vendors are competing to offer trade execution services that will attract customers and trading volumes. This competition is favored in the United States by regulatory bodies such as the SEC and the CFTC, which have taken steps such as encouraging the listing of equity options on multiple exchanges and approving the applications of screen-based systems for designation as contract markets. This paper examines the design of one screen-based futures market, the Cantor Financial Futures Exchange (CX), and describes its capabilities relative to the rival, floor-based market in Chicago. In comparison to traditional open-outcry mechanisms, the CX order-matching system maintains strict first in--first out time priority among submitted orders. Using a simple simulation model, we see that order matching leads to faster completion of desired trades and about a one-third reduction in transactions costs.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1248">electronic futures trading</a>,    <a href="/keywords/1249">screen-based trading</a>,    <a href="/keywords/1250">trading automation</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

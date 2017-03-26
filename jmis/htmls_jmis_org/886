@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/19">    Volume 7 Number 2 1990
+</a> pp. 71-92</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Dispersed Group Decision Making Using Nonsimultaneous Computer Conferencing: A Report of Research</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1407">Smith, Jill Y</a> and     <a href="/contributors/1408">Vanecek, Michael T</a>    </div>
+
+<p>ABSTRACT: A quasi-experiment was conducted in the field to compare the decision-making process for groups using a nonsimultaneous computer conferencing (NCC) system with similar groups using face-to-face (FTF) communication. Groups of five participants performed group decision making using a general knowledge task. Group members searched for the solution by sharing information and generating alternatives. The participants were professional workers from several different organizations. The results of the study suggest that groups using the NCC system were significantly less effective than FTF groups in solving the problem. NCCs shared less information, were less comprehensive in considering all aspects of the decision-making task, and made less progress toward the perceived decision goal.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/135">group decision support systems</a>,    <a href="/keywords/283">computer conferencing</a>,    <a href="/keywords/429">nonsimultaneous computer conferencing</a>,    <a href="/keywords/282">teleconferencing</a>,    <a href="/keywords/430">task-oriented decision making</a>,    <a href="/keywords/431">interpersonal communication</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/82">    Volume 17 Number 1 2000
+</a> pp. 31-57</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Trading Volumes with and Without Private Information: A Study Using Computerized Market Experiments</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1508">Tung, Y Alex</a> and     <a href="/contributors/199">Marsden, James R</a>    </div>
+
+<p>ABSTRACT: Insider trading and asymmetric information have been the subject of a significant body of research since the 1960s. Yet little work has been directed at analyzing the impact of different market regulations. Along with difficulties in correctly identifying trades made on inside information, empirical field study methods have not been capable of analyzing the impact of different market regulations. The authors develop a controllable networked market trading environment that incorporates accurate identification of information possessed by each trader studied and that provides the flexibility necessary to analyze market impacts of different regulatory schemes to limit trading on inside information. The authors illustrate their methods through a series of controlled induced-value laboratory experiments using human subjects. Subject rewards are performance-based, with cash incentives tied to the outcomes of each market transaction. Experimental results indicate that markets with inside, privately informed traders led to greater trading volumes than markets with traders having access to private information only. In addition to reporting the results of initial sets of the experiments, the authors use these outcomes to frame future research issues involving the use of IT systems in surveillance and links between trading patterns and insider activity.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1325">insider trading</a>,    <a href="/keywords/1326">asymmetric information</a>,    <a href="/keywords/1327">security market</a>,    <a href="/keywords/1328">market regulations</a>,    <a href="/keywords/1329">laboratory experiments</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+

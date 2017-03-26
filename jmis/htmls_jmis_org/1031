@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+		<head>
+			    		
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                    		<title>JMIS - Journal of Management Information Systems</title>
+                                <!--link rel='stylesheet' type='text/css' href='/assets/bower_components/bootswatch/journal/bootstrap.min.css'/-->
+<link rel='stylesheet' type='text/css' href='/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'/>
+<link rel='stylesheet' type='text/css' href='/assets/css/styles.css'/>				<script src='/assets/bower_components/jquery/dist/jquery.js'></script>
+				<script src='/assets/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+			
+    <style>
+        h4 + h4 {
+            margin-top:0;
+        }
+    </style>
+		</head>
+		<body>
+                    <div class="container">
+                                
+                                                                    <h4><em><a href="/">Journal of Management Information Systems</a></em></h4>
+                                                                
+        
+    <div><a href="/issues/38">    Volume 16 Number 1 1999
+</a> pp. 121-146</div>
+                                
+                                    <div class="margin-bottom-5">
+        <h3>Development Scenarios for Organizational Memory Information Systems</h3>
+    </div>
+    <div class="margin-bottom-10">
+            <a href="/contributors/1589">Wijnhoven, Fons</a>    </div>
+
+<p>ABSTRACT: Well-managed organizational memories have been emphasized in the recent management literature as important sources for business success. Organizational memory information systems (OMIS) have been conceptualized as a framework for information technologies to support these organizational memories. OMIS development may include several projects and may take many years. This paper classifies and analyzes OMIS development scenarios to provide guidance and support for OMIS development. This includes the definition of the roles of participants, a work schedule, and a definition of deliverables and deadlines. The mostly evolutionary nature of OMIS development requires that the results of these steps be monitored and adjusted when needed. Furthermore, a contingency framework and eight rules have been hypothesized, partially based on ex-post analysis of three cases (Veronica Broadcasting, Andersen Consulting, and Nationale-Nederlanden General Insurances). The paper provides concepts and a framework that may be an aid to research on refining the rules for analysis and design of OMIS.</p>
+
+    <strong>Key words and phrases: </strong>
+        <a href="/keywords/1190">information system development</a>,    <a href="/keywords/691">information systems project management</a>,    <a href="/keywords/534">measurement</a>,    <a href="/keywords/1224">memory codification</a>,    <a href="/keywords/1225">OMIS superstructure</a>,    <a href="/keywords/1226">OMIS infrastructure</a>,    <a href="/keywords/1227">organizational memory information systems</a>,    <a href="/keywords/1228">process scenarios</a>,    <a href="/keywords/1229">situated systems development</a>
+                                
+                        
+                            </div>
+                        </div>
+                    </div>
+		</body>
+	</html>
+
+
